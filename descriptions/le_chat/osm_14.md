@@ -78,3 +78,19 @@ These labels help to identify different sections of the map.
 
 These elements are designed to catch the viewer's attention and provide
 key information about the geography and infrastructure of the area.
+
+# Anchors summary
+
+- V-1.4 (major road)
+- AC-552 (major road)
+- Os Montalbos 144 m (elevation marker)
+- O Castelo 137 m (elevation marker)
+- Refinaría Repsol A Coruña (landmark / point of interest)
+- Parque de Oza (park)
+- Monte de San Pedro (park)
+- A Agra do Orzán (neighborhood label)
+- O Ventorrillo (neighborhood label)
+- Coastline / sea (non-named)
+- Major roads highlighted in red (non-named)
+- Green areas representing parks/natural spaces (non-named)
+- Landmarks/points of interest shown with larger text (non-named)

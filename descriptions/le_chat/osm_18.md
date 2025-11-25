@@ -77,3 +77,20 @@ distinguishing between different types of locations and services.
 These elements collectively make the map visually engaging and
 functional for navigating the area and identifying key points of
 interest.
+
+# Anchors summary
+
+- Placa Reial
+- La Rambla
+- Gran Teatre del Liceu
+- Carrer d'En Rauric
+- Carrer dels Escudellers Blancs
+- Hotel Oriente
+- Hotel Gaudi
+- large light-blue shaded central square (central square)
+- broad green-highlighted main street (visually highlighted street)
+- colorful icons representing restaurants/bars (orange/purple)
+- blue "H" hotel icons
+- icons for souvenir shops and pharmacies
+- major streets labeled with bold text
+- color coding for types of locations

@@ -79,3 +79,10 @@ draw the eye, are:
      dotted lines for footpaths and solid lines for roads creates a
      clear visual hierarchy. The solid shapes immediately draw the eye,
      while the lines provide context and detail.
+
+# Anchors summary
+
+- Château des Ducs de Bretagne — (named landmark)
+- Light blue moat surrounding the castle — (non-named landmark)
+- Castle buildings shown as solid gray fills — (non-named landmark)
+- Contrast between solid shapes (castle) and lines (roads/footpaths) — (non-named visual features)

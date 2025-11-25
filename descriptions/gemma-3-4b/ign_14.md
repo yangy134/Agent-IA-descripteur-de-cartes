@@ -78,3 +78,15 @@ central feature.
 
 Would you like me to focus on any particular aspect, such as the street
 patterns or the elevation representation?
+
+# Anchors summary
+
+- The Seine River
+- la Mahaudière
+- la Pont de l'Ile
+- la Tournelle
+- Dense urban area (non-named)
+- Street network (non-named)
+- Buildings (non-named)
+- Color gradient / elevation shading (non-named)
+- Road/highway / major transportation route (non-named)

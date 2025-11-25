@@ -87,3 +87,16 @@ These elements, by virtue of their color, size, or unique form, are the
 first things a viewer is likely to notice when looking at the map. They
 provide immediate information about the location\'s character and key
 features.
+
+# Anchors summary
+
+- Large blue expanse of water (non-named: ocean/harbor)
+- Oak Bluffs Fishing Pier
+- Bright orange restaurant icons (non-named: restaurant icons indicating dining locations)
+- Lookout Tavern
+- Martha's Vineyard Chowder Company
+- Ferry icon / The Steamship Authority Oak Bluffs Terminal
+- Street grid (non-named visual element)
+- Seaview Avenue
+- N Bluff Ln
+- Oak Bluffs Avenue

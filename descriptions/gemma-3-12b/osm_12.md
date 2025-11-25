@@ -99,3 +99,19 @@ provided map:
 
 Overall, the map provides a clear overview of the geography and human
 settlement patterns within this coastal region.
+
+# Anchors summary
+
+- Santander (named town)
+- Santa Cruz de Bezana (named town)
+- Camargo (named town)
+- Liño (named town)
+- Villanueva de Villapuredo (named town)
+- Ria de San Vicente (likely named bay/estuary)
+- CA-14 (named major highway)
+- Coastline — sandy beaches and rocky cliffs (non-named)
+- Bay/estuary (non-named)
+- Hills/mountains — Sierra de Cuenca (named range) / generic hills and mountains (non-named)
+- Rivers and streams flowing into the bay (non-named)
+- Bridges crossing the river (non-named)
+- Rural/forested areas (non-named)

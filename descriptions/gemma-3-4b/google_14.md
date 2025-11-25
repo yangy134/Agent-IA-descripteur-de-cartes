@@ -82,3 +82,20 @@ map:
 
 Would you like me to describe anything in more detail, such as a
 specific area or point of interest?
+
+# Anchors summary
+
+- Atlantic Ocean
+- Coastline (Atlantic shore) (unnamed)
+- Fort Pond
+- Smaller ponds/creeks (unnamed waterways)
+- Montauk (town / town center)
+- Highway 27 (Route 27)
+- Old Montauk Hwy
+- Edgebrook St
+- Harvest on Fort Pond (hotel)
+- Montauk Blue Hotel
+- Restaurant, Montauk
+- Rushmeyer's
+- Breezes Beach Resort
+- Water-dominated area / blue color gradient (visual feature, unnamed)

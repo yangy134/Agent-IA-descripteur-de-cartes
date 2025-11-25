@@ -62,3 +62,14 @@ prominent, highlighting the beach areas and the proximity to the ocean.
 
 These elements are visually salient due to their size, color, and
 centrality on the map, making them stand out to the viewer.
+
+# Anchors summary
+
+- Montauk
+- Fort Pond
+- Highways (e.g., NY-27)
+- Navy Beach Restaurant
+- Harvest on Fort Pond
+- Montauk Blue Hotel
+- Icons and markers (hotels, restaurants, points of interest) (non-named)
+- Coastline (non-named)

@@ -95,3 +95,14 @@ several features stand out:
 In essence, the map\'s design prioritizes clarity and functionality. The
 street grid and labels provide essential navigational information, while
 the icons highlight key points of interest.
+
+# Anchors summary
+
+- La Rambla
+- Barri Gòtic (Gothic Quarter)
+- Plaça de Catalunya
+- Dense street grid / network of streets
+- Icons representing landmarks (building icons)
+- Cross icons marking religious sites (unnamed churches)
+- Text labels (street names, neighborhood and plaza names)
+- Labeled metro stations (e.g., Catalunya, Liceu, Urquinaona)

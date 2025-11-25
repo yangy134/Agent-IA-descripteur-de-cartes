@@ -87,3 +87,10 @@ Essentially, the strong color contrast between the blue of the water,
 the yellow of the roads, and the green of the land makes these features
 the most visually salient. They immediately convey the basic geography
 and infrastructure of the area.
+
+# Anchors summary
+
+- Santander Bay — named landmark (large blue expanse of water)
+- Santander city (urban area) — named landmark (white urban area)
+- Yellow network of roads — non-named landmark (major highways/local roads shown in bright yellow)
+- Green landmass surrounding the bay — non-named landmark (vegetation/hills framing the bay)

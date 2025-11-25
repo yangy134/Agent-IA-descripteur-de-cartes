@@ -114,3 +114,12 @@ the distinct building shapes, the dynamic angle of Boulevard Copernic,
 the clear parking symbol, and the effective use of font variations.
 These elements work together to create a clear and easily navigable
 representation of the area.
+
+# Anchors summary
+
+- Dominant green spaces (light green areas representing parks / sports fields / courtyards) — non‑named
+- Boulevard Copernic (diagonal street/axis) — named
+- Bold blue street names (prominent street‑label typography) — non‑named
+- Distinctive building shapes (gray building footprints of varying outlines) — non‑named
+- Blue "P" parking symbol (parking area/icon) — non‑named
+- Variety of font sizes and styles (label hierarchy) — non‑named

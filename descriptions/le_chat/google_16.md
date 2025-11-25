@@ -90,3 +90,21 @@ are scattered throughout the map.
 These elements are designed to draw the viewer's attention to important
 locations and provide a clear understanding of the area's layout and
 key points of interest.
+
+# Anchors summary
+
+- Yale Old Campus
+- Sterling Memorial Library
+- New Haven Green
+- The Mead Visitor Center
+- College Street Music Hall
+- The Yale Bookstore
+- Mecha Noodle Bar
+- BAR
+- Chapel Street
+- College Street
+- Elm Street
+- Green spaces
+- Intersections
+- Building outlines
+- Bus stops

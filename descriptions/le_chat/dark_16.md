@@ -55,3 +55,12 @@ park.
 These elements are visually salient because they are either large,
 centrally located, or distinctly labeled, making them focal points on
 the map.
+
+# Anchors summary
+
+- The Lake
+- Cherry Hill Fountain
+- Bethesda Fountain
+- Azalea Pond
+- Street grid / surrounding streets (Central Park West; 5th Avenue; West 72nd Street; West 79th Street; West 66th Street; East 79th Street Transverse; East 72nd Street)
+- Labeled points of interest / textual map labels

@@ -195,3 +195,29 @@ and **layered geographic information**, in a style reminiscent of IGN
 
 Would you like me to compare this with one of the earlier maps to
 explore how abstraction or detail shifts across scales?
+
+# Anchors summary
+
+- la Loire
+- la Loire Neuve
+- la Pointe de l'île
+- Île de Nantes
+- La Haute Île
+- La Basse Île
+- Île Forget
+- Pont Anne-de-Bretagne
+- Pont Haudaudine
+- Primary roads (bright yellow)
+- Bridges (general)
+- Densely packed building footprints (light beige/gray)
+- Large white blocks (industrial/institutional zones)
+- Railway network / curved black tracks
+- la Mahautière (rail stop)
+- Rail yards / multiple train lines
+- Purple/gray blocks (public buildings, industrial facilities, cultural complexes)
+- Waterfront districts
+- Beaulieu
+- Portchais
+- Malakoff
+- la Fonderie
+- Saint-Jacques

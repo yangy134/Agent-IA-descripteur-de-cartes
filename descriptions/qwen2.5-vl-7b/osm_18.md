@@ -65,3 +65,16 @@ Here's an analysis of its most visually salient elements:
 
 These elements combined make it a useful tool for tourists or residents
 looking to explore an urban area with ease.
+
+# Anchors summary
+
+- Plaça Reial
+- Hotel Oriente
+- Gran Teatre del Liceu
+- Parks / green spaces
+- Museums / theaters / other cultural or historical sites
+- Restaurants
+- Cafes
+- Bars
+- Music venues
+- Streets and squares (grid-like street layout)

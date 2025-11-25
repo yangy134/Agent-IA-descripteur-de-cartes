@@ -87,3 +87,22 @@ include:
 
 Would you like help interpreting this as a legend for a specific map
 style (e.g., trail, city, or topographic)?
+
+# Anchors summary
+
+- Governor Nelson State Park
+- LERDAHL PARK
+- Maple Bluff
+- NORTH LAKE MENDOTA
+- Nine Springs
+- E-Way Natural Resource Area
+- Lake Mendota
+- Lake Monona
+- Warner Park
+- Shorewood Hills
+- Water bodies (e.g., lakes) — non-named geographic feature
+- Parks / green spaces — non-named geographic feature
+- Neighborhoods — non-named geographic feature
+- Divider line / section separator — non-named visual element
+- Hierarchical headings / bold text — non-named visual element
+- Bulleted lists / hyphenated sub-items — non-named visual element

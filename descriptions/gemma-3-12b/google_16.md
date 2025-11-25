@@ -78,3 +78,17 @@ eastern edge of the map, labeled "Canal St."
 with a central green space surrounded by streets, buildings, and various
 points of interest. The Yale University campus is a significant visual
 anchor within the area.
+
+# Anchors summary
+
+- New Haven Green
+- Dense street grid (street network) — non-named element
+- Yale University / Yale Old Campus
+- St. Mary’s Church
+- Sterling Memorial Library
+- Bar — non-named
+- Mecha Noodle Bar
+- Toad’s Place
+- Yale Bookstore
+- Canal / waterway (Canal St.) 
+- Other POI icons representing various businesses/locations — non-named

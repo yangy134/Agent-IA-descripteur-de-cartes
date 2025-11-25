@@ -60,3 +60,15 @@ more precise analysis!
 
 *Note: \"Rue Premion\" might be a typo---correct French would be \"Rue
 Prémion\" or \"Rue Premion\" (if a proper noun).*
+
+# Anchors summary
+
+- RUE PREMION
+- Place de la Duchesse Anne
+- Château des Ducs de Bretagne
+- Arrows or directional markers
+- Architectural outlines (e.g., a castle icon)
+- Minimalist urban signage design (dark text on light background)
+- Bold highlights for tourist attractions
+- Walking paths
+- Historic district boundaries

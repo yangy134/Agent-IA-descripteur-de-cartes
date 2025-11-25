@@ -77,3 +77,16 @@ to the gray buildings and streets.
 These elements collectively provide a clear and organized visual
 representation of the area, making it easy to identify key locations and
 navigate the space.
+
+# Anchors summary
+
+- Boulevard Descartes
+- Avenue Blaise Pascal
+- Avenue André‑Marie Ampère
+- Boulevard Copernic
+- Boulevard Newton
+- Orange icons with white text (points of interest: educational institutions, cafés, shops)
+- Bold labels (map text styling)
+- Outlines of buildings and structures (light gray)
+- Blue "P" parking symbol (parking area)
+- Green areas representing parks / open spaces

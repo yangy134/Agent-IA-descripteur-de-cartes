@@ -62,3 +62,18 @@ several distinct features:
 
 These features collectively give the map its distinctive appearance and
 make it useful for navigation within this specific area.
+
+# Anchors summary
+
+- la Seine (the Seine River)
+- la Haute Île (Upper Island)
+- la Basse Île (Lower Island)
+- Saint-Jacques (street)
+- Beaubourg (street/area)
+- Railway line / railway tracks (non-named)
+- Bridges over the Seine (non-named)
+- Road network / major thoroughfares (non-named)
+- Parks / green areas (non-named)
+- River banks (non-named)
+- Buildings and large structures / transportation hubs (non-named)
+- Water bodies (blue-shaded areas, non-named)

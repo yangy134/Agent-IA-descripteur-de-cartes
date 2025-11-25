@@ -80,3 +80,21 @@ activity.
 
 Would you like me to focus on any specific aspect of the map, such as
 identifying a particular building or street?
+
+# Anchors summary
+
+- Université Gustave Eiffel (stylized Eiffel Tower, bright yellow circle)
+- Boulevard Pascal
+- Boulevard Copernic
+- Avenue André-Marie Ampère
+- École Des Ponts Paris
+- École d'Urbanisme de Paris
+- Addictive Café
+- Tabac Smilou
+- Résidence Meunier
+- Unnamed small-circle businesses (several)
+- Unnamed "Résidence" residential buildings (several)
+- Yellow-circle landmarks (color-coded landmarks, e.g., universities/schools)
+- Blue-circle businesses (color-coded)
+- Green-circle residential buildings (color-coded)
+- Dense street network / intersecting avenues (unnamed street-layout element)

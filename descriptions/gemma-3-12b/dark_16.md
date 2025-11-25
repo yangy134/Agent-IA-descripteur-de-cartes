@@ -56,3 +56,12 @@ provided map:
 
 Overall, the map is dominated by the large body of water within Central
 Park and the grid-like street pattern surrounding it.
+
+# Anchors summary
+
+- The Pond (The Lake) — named landmark
+- Cherry Hill Fountain — named landmark
+- Bethesda Fountain — named landmark
+- Central Park grid (street grid / park layout) — non-named feature
+- Street names (visible text labels) — non-named feature
+- Transverse streets (park transverses) — non-named feature

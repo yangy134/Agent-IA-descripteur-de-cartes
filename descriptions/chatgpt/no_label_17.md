@@ -140,3 +140,16 @@ layout over semantic detail.
 
 Would you like help identifying what city this could represent, or do
 you want to analyze how the design might guide user navigation?
+
+# Anchors summary
+
+- The river (large central watercourse running top-to-bottom)
+- Smaller canals or tributaries branching off the main river
+- Multiple bridges spanning the river (road and pedestrian bridges)
+- Large roundabout in the lower-right corner
+- Wide avenues / major roads (hierarchical road network versus fine street mesh)
+- Building footprints forming dense urban blocks
+- Larger buildings or complexes (noted near the river and in park areas)
+- Large green zones / parks (bottom-left and bottom-right)
+- Small stream or landscaped channel within the park in the lower-right quadrant
+- Visible path networks and contour lines within parks

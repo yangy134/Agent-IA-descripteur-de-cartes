@@ -29,3 +29,10 @@ layout, with streets and roads intersecting at regular intervals.
 
 Overall, the map appears to be a useful tool for navigating the city and
 finding specific locations or amenities.
+
+# Anchors summary
+
+- Colorful icons and symbols scattered throughout the city (representing businesses, services, attractions)  
+- Streets and roads  
+- Grid pattern of streets  
+- Straight lines and right angles (street intersections/urban layout)

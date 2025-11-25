@@ -46,3 +46,12 @@ of the map.
 
 Overall, these elements combine to make the Château des Ducs de Bretagne
 and its surrounding area visually prominent in the image.
+
+# Anchors summary
+
+- Château des Ducs de Bretagne
+- Rue Premon
+- Place des Ducs de Bretagne
+- Water body surrounding the castle (moat or canal)
+- Dotted-line fortifications (moats or defensive walls)
+- Purple dashed path/route (bottom-right corner)

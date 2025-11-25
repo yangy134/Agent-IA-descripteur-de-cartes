@@ -94,3 +94,12 @@ Montauk, several features stand out:
 In essence, the combination of large, contrasting color areas (the
 water) and distinct linear features (the roads), along with the icons,
 are what make those elements most visually salient.
+
+# Anchors summary
+
+- Fort Pond — named landmark
+- Atlantic Ocean — named landmark
+- Montauk Highway (Route 27) — named landmark
+- Cluster of location icons (restaurants/hotels) — non-named landmark
+- Roads in general (linear features) — non-named landmark
+- Large contrasting color areas (blue water color/visual water areas) — non-named landmark

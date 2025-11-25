@@ -19,3 +19,25 @@ la visite, on n\'a pas les points d\'intérêt pour la restauration ou
 pour le couchage, c\'est que pour la visite. Avec un sens de circulation
 représenté par des flèches. Vue d\'ensemble pour ce qui est à visiter
 autour des Ramblas.
+
+# Anchors summary
+
+- Monuments à voir
+- Cimetières
+- Petits bâtiments à visiter
+- Centres d'intérêt / points d'intérêt
+- Églises
+- Synagogue (complètement au nord)
+- Théâtres (représentés par des masques)
+- Rues (bien indiquées)
+- Quartiers de chaque côté des Ramblas
+- Zones de shopping (représentées par des caddies)
+- Place de Catalogne (au nord-ouest)
+- Gendarmerie / commissariat (à côté de la place)
+- Bibliothèques (au sud, représentées par des livres)
+- Petits monuments / petits châteaux / zones à visiter
+- Carré de Jérusalem
+- Lieux de culte (petits sigles en noir)
+- Zones en marron indiquant les points à visiter
+- Sens de circulation (flèches)
+- Vue d'ensemble des sites autour des Ramblas

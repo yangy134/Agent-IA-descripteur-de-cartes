@@ -77,3 +77,11 @@ a similar service, it might be a textual sidebar accompanying a map.
 
 Would you like help interpreting this as part of a larger map or finding
 these locations geographically?
+
+# Anchors summary
+
+- Roughriders Landing Condos
+- Navy Beach
+- Montauk Bike Hotel
+- "Montauk I..." (truncated name)
+- Restaurant (unnamed)

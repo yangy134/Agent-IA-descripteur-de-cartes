@@ -41,3 +41,13 @@ used to highlight important locations or provide additional information.
 Overall, the map provides a comprehensive view of the city's layout and
 infrastructure, allowing viewers to navigate and explore its various
 neighborhoods and districts.
+
+# Anchors summary
+
+- Streets (depicted in white, gray, and black — different road types)
+- Buildings (some grid-like, others irregular)
+- Light-brown background (terrain or natural feature)
+- Symbols and icons (bright-colored markers for businesses/services/amenities)
+- City/town layout and infrastructure
+- Neighborhoods and districts (distinct areas visible)
+- Roads of varying types/conditions

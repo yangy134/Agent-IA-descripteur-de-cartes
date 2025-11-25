@@ -65,3 +65,13 @@ water bodies and green spaces.
 
 These elements are visually dominant due to their color contrast, size,
 and the intricate patterns they form on the map.
+
+# Anchors summary
+
+- Water bodies — two prominent vertical water bodies (left: narrower; right: broader)
+- Green spaces — parks/open natural areas (not named; notable on the left and bottom-right)
+- Road network — intricate, densely packed streets and pathways (central and upper areas)
+- Central land mass — main urban area surrounded by water and green spaces
+- Parks/recreational spaces (non-named)
+- Rivers/canals (non-named)
+- Unnamed streets/pathways (non-named)

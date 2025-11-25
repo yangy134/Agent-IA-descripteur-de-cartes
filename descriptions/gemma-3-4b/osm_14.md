@@ -89,3 +89,14 @@ view of an urban environment, likely Lisbon, Portugal. It emphasizes the
 density of the city and its intricate road system.
 
 If you'd like, give me another image to describe!
+
+# Anchors summary
+
+- Rio Tejo (Tagus River)
+- V-52 (small distinct symbol / point of interest)
+- A Corunha
+- Casariva de
+- Dense urban core (non-named)
+- Complex road network (non-named)
+- Green spaces / parks (non-named)
+- Color gradient and contour shading showing elevation (non-named)

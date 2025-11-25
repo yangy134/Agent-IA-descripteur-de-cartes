@@ -55,3 +55,19 @@ The most visually salient elements on this map include:
 These elements help in understanding the geographical layout of the area
 and the distribution of key features like water bodies, transportation
 routes, and recreational spaces.
+
+# Anchors summary
+
+- Lake Mendota
+- Lake Monona
+- I-90/I-94 (Interstate highways)
+- State routes (unspecified)
+- Madison (city)
+- Monona (city)
+- Olbrich Botanical Gardens
+- Warner Park
+- Governor's Island
+- "avid hotel Madison Monona" (pink proximity marker)
+- Road networks / highways (extensive road network, general)
+- Cities and towns (major vs. smaller neighborhoods, general)
+- Landmarks and parks marked with icons (unnamed)

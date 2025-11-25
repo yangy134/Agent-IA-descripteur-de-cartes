@@ -144,3 +144,16 @@ estuary area):
 
 Would you like an analysis of how this salience shifts across scales, or
 how symbolization here supports readability and orientation?
+
+# Anchors summary
+
+- Loire estuary (Loire River estuary)
+- Atlantic Ocean
+- Saint-Nazaire (ST-NAZAIRE)
+- Trignac
+- Saint-Brevin-les-Pins (ST-BREVIN-LES-PINS / St-Brevin-l'Océan)
+- Bridge connecting Saint-Nazaire to Saint-Brevin-les-Pins (non-named)
+- Major highway / expressway (thick orange line) (non-named)
+- Tidal flats / shallow zones (blue dotted textures) (non-named)
+- Port / industrial areas near Saint-Nazaire and Donges (non-named)
+- Urban fabric / built-up area of Saint-Nazaire (non-named)

@@ -39,3 +39,15 @@ The most visually salient elements of the map include:
 
 These elements stand out due to their colors, positioning, and the way
 they define the character of this waterfront area on Martha\'s Vineyard.
+
+# Anchors summary
+
+- Bright blue water surrounding the land (non-named: harbor/ocean)
+- Steamship Authority Oak Bluffs Terminal
+- Colorful business icons (non-named: map markers, especially orange restaurant markers)
+- Lookout Tavern (orange restaurant marker)
+- Martha's Vineyard Chowder Company (orange restaurant marker)
+- Seaview Avenue
+- Oak Bluffs Fishing Pier (green icon extending into the water)
+- Martha's Vineyard Bike Rental Electric (blue bicycle icon)
+- Light beige/yellow shading distinguishing commercial areas from white residential blocks (non-named)

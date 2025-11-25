@@ -80,3 +80,18 @@ Plaça Reial) are the strongest visual anchors on this map.
 
 Would you also like a quick ranked list of the top 3 most eye-catching
 features based on visual impact? 📍
+
+# Anchors summary
+
+- Black crosses (churches / religious buildings)
+- Brown classical building icons (museums / cultural sites)
+- Barri Gòtic
+- Ciutat Vella
+- el Raval
+- La Rambla (wide green pedestrian boulevard)
+- Plaça de Catalunya
+- Plaça Reial
+- Narrow, labyrinth-like medieval street network (Gothic Quarter streets)
+- Purple shopping bag icons (commercial zones / stores)
+- Blue "P" icons (parking areas)
+- Repetitive clustering of heritage/tourism icons (visual pattern)

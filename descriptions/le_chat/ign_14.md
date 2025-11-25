@@ -72,3 +72,17 @@ city's urban landscape.
 
 These elements together create a detailed and informative visual
 representation of this section of Nantes.
+
+# Anchors summary
+
+- Loire River (named landmark)
+- Île de Nantes (named landmark)
+- Beaulieu (named district label)
+- Malakoff (named district label)
+- la Haute Ile (named district label)
+- Bridges across the Loire (non-named landmark)
+- Major roads highlighted in yellow (non-named landmark)
+- Railway lines (non-named landmark)
+- District labels (non-named element)
+- Industrial zones (non-named landmark)
+- Residential zones / varying building density (non-named landmark)

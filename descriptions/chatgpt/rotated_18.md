@@ -134,3 +134,22 @@ contrast and typographic prominence.
 
 Would you like a visual hierarchy diagram or comparison to another
 map\'s salience strategy?
+
+# Anchors summary
+
+- École des Ponts ParisTech
+- Université Gustave Eiffel
+- ibis
+- d.school Paris
+- Tabac Smilou Vapoterie Eliquide Cbd
+- Avenue Blaise Pascal
+- Boulevard Descartes
+- Boulevard Copernic
+- Green background (open space / parkland / campus greenery)
+- Building footprints (light grey / beige buildings)
+- White roads with light yellow borders (major roads)
+- Restaurant icons (🍴)
+- Hotel icon (🛏️)
+- Shop icon (🛒)
+- Parking icon (🅿️)
+- Bold, color-coded place-name labels

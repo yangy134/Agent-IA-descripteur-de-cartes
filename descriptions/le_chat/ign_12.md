@@ -90,3 +90,19 @@ map.
 These elements collectively provide a clear and detailed visual
 representation of the region, highlighting its geographical features,
 transportation routes, and key locations.
+
+# Anchors summary
+
+- Saint-Nazaire
+- Saint-Brevin-les-Pins
+- Bridge connecting Saint-Nazaire and Saint-Brevin-les-Pins (non-named)
+- Major roads (non-named)
+- Loire River estuary
+- Atlantic Ocean
+- Le Point du Juge
+- La Grand-Ville
+- Paimboeuf
+- Corsept
+- Saint-Père-en-Retz
+- Shaded terrain distinctions (urban areas / natural landscapes / bodies of water) (non-named)
+- Various labeled points of interest (non-named)

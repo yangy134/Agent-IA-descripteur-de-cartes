@@ -56,3 +56,16 @@ potentially nighttime feel.
 
 Would you like me to focus on any specific aspect of the map, such as
 identifying landmarks or analyzing the street layout?
+
+# Anchors summary
+
+- Cherry Hill Lake (named)
+- Upper East St (named street)
+- St. Avenue (named street)
+- 7th Street (named street)
+- Park Park West (named)
+- Central Park West (named)
+- Dense network of streets (non-named)
+- Large park / wooded area surrounding the lake (non-named)
+- Rows of small gray buildings / residential or commercial development (non-named)
+- Labels and text (street names and park labels) (non-named)

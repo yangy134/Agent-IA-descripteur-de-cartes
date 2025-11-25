@@ -67,3 +67,18 @@ dining, transportation, rentals). The lack of images suggests a
 minimalist, text-based design focused on quick readability.
 
 Would you like a reconstructed visual interpretation?
+
+# Anchors summary
+
+- Ghentia Avenue Extension
+- Mārtha's Vineyard
+- Oak Bluffs Fishing Pier
+- Bike Rental Electric
+- Lookout Tavern
+- The Cruises
+- Marthas Vineyard Chowder Company
+- "Fruits de mer" (seafood / dining)
+- Transportation (ferry / cruise services)
+- Rentals (bike rental)
+- Key attractions (dining, transportation, rentals)
+- "Fermé temporairement" (temporary closure note)

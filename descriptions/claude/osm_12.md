@@ -56,3 +56,15 @@ These elements create a clear visual hierarchy that immediately
 communicates the region\'s geography, with the urban centers,
 transportation infrastructure, and natural features being most
 immediately noticeable.
+
+# Anchors summary
+
+- Bay of Santander (bright blue water)
+- Santander (urban area on the northern peninsula)
+- Camargo (reference point for major highways)
+- Red road network / major highways radiating from Santander and Camargo
+- Yellow/orange secondary roads (regional routes)
+- Urban developed areas (light beige/white)
+- Green natural spaces / parks
+- Coastline (irregular shape with bays, inlets, and peninsulas)
+- Dotted blue lines in the water (maritime routes or boundaries)

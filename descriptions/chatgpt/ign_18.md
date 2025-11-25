@@ -121,3 +121,13 @@ features on this map.
 
 Would you like a side-by-side comparison of this map with one of the OSM
 maps you showed earlier?
+
+# Anchors summary
+
+- Château des Ducs de Bretagne (named)
+- Moat / water feature surrounding the château (non-named)
+- Place de la Duchesse Anne (named)
+- Roads and roundabout (yellow road system) (non-named)
+- Pont de la Rotonde (roundabout name) (named)
+- Dotted paths and boundaries (red-brown dashed lines) (non-named)
+- Contrast of built vs. open space (urban blocks vs. castle/gardens) (non-named)

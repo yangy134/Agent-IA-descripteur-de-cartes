@@ -32,3 +32,11 @@ America. The most visually salient elements of the map are:
 
 Overall, the map provides a detailed view of the region's physical
 features, infrastructure, and human settlement.
+
+# Anchors summary
+
+- Large body of water (non-named)
+- Network of roads and highways (non-named)
+- Series of rivers and streams (non-named)
+- Towns and cities (non-named)
+- Mountains, hills, and valleys (non-named)

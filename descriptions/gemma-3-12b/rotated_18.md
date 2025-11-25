@@ -80,3 +80,21 @@ This creates a clear visual distinction between urban areas and parks.
 
 Overall, the map is designed to clearly display the layout of streets,
 buildings, and points of interest within a specific urban area.
+
+# Anchors summary
+
+- Boulevard Copérnic
+- Avenue Andre-Marie Ampere
+- Boulevard descartes
+- Addictea Café
+- Tabac Smiliou Vapotage
+- Ibis
+- Résidence Montesquieu
+- École Des Ponts Paristech
+- d.school Paris
+- École d'Urbanisme de Paris
+- Assistra Interim
+- Dense street network (streets and avenues)
+- Green spaces / parks / open spaces
+- Building footprints (grey building shapes)
+- Points of Interest icons (POIs)

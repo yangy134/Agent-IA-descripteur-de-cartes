@@ -33,3 +33,11 @@ most visually salient elements of the map are:
 
 Overall, the map appears to be a detailed representation of a city's
 infrastructure and amenities.
+
+# Anchors summary
+
+- Large river running through the center — non-named landmark
+- Network of roads and highways (major transportation routes) — non-named landmark
+- Large stadium or arena (appears to be) — non-named landmark
+- Parks and green spaces — non-named landmarks
+- Numerous buildings and structures / dense urban areas — non-named landmarks

@@ -72,3 +72,14 @@ many online map services like OpenStreetMap.
 
 **Overall Impression:** The map depicts a dense, historic urban area
 situated along a major river system.
+
+# Anchors summary
+
+- River system (appears to be the Loire)
+- Smaller canals and waterways branching off the river
+- Bridges crossing the river
+- Dense urban grid / road network
+- Buildings (many residential/commercial blocks)
+- Larger structures / industrial areas (unnamed)
+- Map labels / text — "La Toulaye", "North House"
+- Muted color scheme (light grey/white buildings, dark grey/black roads and labels, blue waterways)

@@ -46,3 +46,16 @@ elements on this map include:
 The combination of these elements helps in understanding the
 geographical layout, transportation routes, and key locations within
 this region.
+
+# Anchors summary
+
+- Ourense
+- A Coruña
+- Santiago de Compostela
+- V-14 (road)
+- AC-52 (road)
+- Sagrada Familia
+- Roads and highways (red for highways, yellow for major roads)
+- Large body of water (right side of the map)
+- Green areas (parks, forests, natural areas)
+- Urban city center (dense roads and buildings)

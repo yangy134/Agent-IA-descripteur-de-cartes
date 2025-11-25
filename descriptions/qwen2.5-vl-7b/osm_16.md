@@ -60,3 +60,18 @@ several distinct features:
 
 These elements collectively make this map visually informative and
 useful for navigation within an urban environment.
+
+# Anchors summary
+
+- Plaça de Catalunya
+- Road network / major thoroughfares and highways (grid-like streets)
+- Parks (green areas)
+- Squares
+- Churches / religious sites (brown buildings with crosses)
+- Museums
+- Cultural institutions / historical landmarks (purple icons)
+- Historical buildings / other points of interest
+- Street names and labels
+- Color-coding for streets and features (e.g., blue lines for major roads)
+- Map legends / keys
+- Absence of geographical features (no rivers or mountains)

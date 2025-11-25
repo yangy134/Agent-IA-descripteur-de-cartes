@@ -158,3 +158,20 @@ clearly delineated public infrastructure and natural elements.
 
 Would you like a side-by-side comparison with another map in your series
 (e.g. the Château des Ducs de Bretagne or the OSM map of Santander)?
+
+# Anchors summary
+
+- Parc (large central park) — named
+- Stadium / sports field (within the park) — non-named
+- le Chézine (river) — named
+- Éc. (école / school) — labeled (non-named)
+- Coll. (collège) — labeled (non-named)
+- C. sportif (centre sportif / sports complex) — labeled (non-named)
+- Bd des Anglais (Boulevard des Anglais) — named
+- Bd Clovis Constant — named
+- Bd Albert Thomas — named
+- Roundabouts / major intersections — non-named
+- Curving paths and footbridges — non-named
+- Small water bodies (ponds, streams) — non-named
+- Dense residential blocks / brown-outlined buildings — non-named
+- Green corridor along le Chézine — non-named

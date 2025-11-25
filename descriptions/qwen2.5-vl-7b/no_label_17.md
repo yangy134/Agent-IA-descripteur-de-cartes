@@ -39,3 +39,11 @@ with several distinct features:
 The combination of these elements---river, grid layout, green spaces,
 road networks, and building clusters---provides a clear visual
 representation of an urban area with distinct geographical features.
+
+# Anchors summary
+
+- River — non-named landmark  
+- Urban grid — non-named landmark  
+- Green spaces — non-named landmark  
+- Road networks — non-named landmark  
+- Buildings and structures — non-named landmark

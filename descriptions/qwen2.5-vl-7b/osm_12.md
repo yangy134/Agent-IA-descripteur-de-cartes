@@ -42,3 +42,16 @@ The most visually salient elements on this map include:
 
 These elements collectively make it easy to identify key geographical
 features and urban areas on this map.
+
+# Anchors summary
+
+- Santander (city)
+- Camargo (town)
+- Santa Cruz de Bezana (town)
+- El Astillero
+- Boo de Guzmán
+- CA-233 (highway)
+- Road networks and highways (major and minor roads; highlighted routes)
+- Water bodies — the bay surrounding Santander (Bay of Santander)
+- Color-coded land use (green = rural/forested areas; lighter shades = urbanized zones)
+- Labels for major locations

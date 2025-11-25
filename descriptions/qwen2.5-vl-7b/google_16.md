@@ -43,3 +43,13 @@ The most visually salient elements on this map include:
 
 These elements collectively make it easier to understand the
 geographical context and locate specific places within this area.
+
+# Anchors summary
+
+- New Haven Green
+- Street names and roads (street network)
+- The Yale Bookstore
+- Toad's Place
+- College Street Music Hall
+- Color coding for different areas (e.g., green for parks/open spaces)
+- Icons for points of interest (e.g., book icon, musical note)

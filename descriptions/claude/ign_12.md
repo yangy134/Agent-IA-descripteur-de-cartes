@@ -45,3 +45,12 @@ These elements immediately draw the eye when looking at the map,
 creating a clear visual hierarchy that emphasizes the relationship
 between the major urban center, the water, and the transportation
 infrastructure.
+
+# Anchors summary
+
+- ST-NAZAIRE — clearly labeled urban area (named)
+- Loire estuary / Atlantic Ocean — large light blue water body (named)
+- Prominent orange/yellow major road running along the northern shore (non-named)
+- White dotted patterns in the water representing sandbanks/shallow areas (non-named)
+- Gray shaded areas indicating urban development along both shores (non-named)
+- Network of thinner white roads connecting the various settlements (non-named)

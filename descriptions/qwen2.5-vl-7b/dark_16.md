@@ -51,3 +51,11 @@ visually salient elements include:
 
 These elements collectively highlight the urban layout and geographical
 features of the region depicted in the image.
+
+# Anchors summary
+
+- Body of water (central, unnamed)
+- Land divisions / urban grid (streets forming a grid)
+- Street names (labeled in white text; e.g., 59th Street Transverse)
+- Cherry Hill Fountain (named point of interest)
+- Upper East Side (named neighborhood)

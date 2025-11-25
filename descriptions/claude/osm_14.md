@@ -43,3 +43,14 @@ The most visually salient elements of this map include:
     map, which draws attention as an important reference point.
 8.  The highway designations (V-1.4, AC-552) that highlight major
     transit corridors through the city.
+
+# Anchors summary
+
+- Bright red and orange roadways (major transportation routes) — non-named
+- Blue harbor / water area (eastern edge) — non-named
+- Green patches representing parks or undeveloped areas — non-named
+- Labeled neighborhoods/districts: Sagrada Familia; Agrela; Ventorrillo — named
+- Clearly marked elevation points (e.g., 105m, 74m, 56m) — non-named
+- Contrasting urban density (dense central street patterns vs more open peripheral layouts) — non-named
+- "A Coruña Provisional" — named
+- Highway designations: V-1.4; AC-552 — named

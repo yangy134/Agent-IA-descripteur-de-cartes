@@ -77,3 +77,13 @@ density.
 
 Would you like me to focus on any specific aspect, such as the street
 names or a particular area of interest?
+
+# Anchors summary
+
+- Parc (Park) — named landmark
+- Ecole Sportive (Sports School) — named landmark
+- Collège (Middle School) — named landmark
+- Dense street network / street layout — non‑named salient element
+- Residential and commercial buildings (low‑rise) — non‑named structures
+- Prominent street name labels (French street names) — non‑named feature
+- Color gradient indicating density — non‑named visual element

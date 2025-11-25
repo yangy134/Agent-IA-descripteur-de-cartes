@@ -56,3 +56,12 @@ Here's a description of the most visually salient elements in the map:
 
 Based on the layout and appearance, this map likely depicts Belgrade,
 Serbia.
+
+# Anchors summary
+
+- River/Waterway — likely the Danube (tentative, named)
+- Bridge (non-named)
+- City grid / street pattern (non-named)
+- Green spaces / parks (non-named)
+- Roads / major highway or thoroughfare (non-named)
+- Overall city layout (city on either bank of the river) (non-named)

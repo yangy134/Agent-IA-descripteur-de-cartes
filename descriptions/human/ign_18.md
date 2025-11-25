@@ -8,3 +8,15 @@ avec des chemins en pointillé qui sont, je suppose, des chemins piétons,
 et de grands axes au sud-est en jaune qui sont probablement des voies
 rapides ou des grandes avenues. Un plan touristique pour se rendre dans
 ce château qui est bordé d\'eau.
+
+# Anchors summary
+
+- Château des Ducs de Bretagne
+- Rue Premion
+- Rue des États
+- Rue Rodier
+- Place de la Duchesse
+- Chemins en pointillé (chemins piétons) 
+- Grands axes au sud‑est en jaune (voies rapides / grandes avenues)
+- Plan bordé d'eau (ruisseau/ rivière / douves — corps d'eau non nommé)
+- Plusieurs accès / axes d'accès

@@ -45,3 +45,14 @@ possibly highlighting areas in France given the names "St-Nazaire" and
 
 The combination of these elements helps to visually distinguish
 different geographical features on the map.
+
+# Anchors summary
+
+- St-Nazaire
+- St-Brevin-les-Pins
+- Water bodies (rivers or coastal areas)
+- Road networks (orange lines indicating roads/highways)
+- Urban area around St-Nazaire (darker gray urbanized region)
+- Coastline (sea–land boundary)
+- Shaded/dotted areas indicating forests, parks, or other natural terrain
+- Other smaller place names (mentioned generically)

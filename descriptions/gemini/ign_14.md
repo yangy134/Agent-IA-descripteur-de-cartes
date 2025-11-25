@@ -89,3 +89,11 @@ draw the eye, are:
 These elements combine to create a map that effectively conveys the
 city\'s layout and key geographical features in a clear and visually
 impactful way.
+
+# Anchors summary
+
+- la Loire (named)
+- Dark gray railway lines (non-named)
+- Grid-like pattern of streets (non-named)
+- Clusters of tan buildings (non-named)
+- White background (non-named)

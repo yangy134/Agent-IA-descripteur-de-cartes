@@ -68,3 +68,13 @@ roads (like Route 27), and points of interest.
 Montauk, New York, with a focus on recreational areas and tourist
 destinations. The water body is the central visual element, surrounded
 by roads, residential areas, and various amenities.
+
+# Anchors summary
+
+- Large light-blue water body (inlet/bay, likely part of the Atlantic Ocean)
+- Winding, light-gray coastline
+- Route 27 (major road / Montauk Highway)
+- Smaller / lighter-gray roads (residential streets)
+- Red icons marking points of interest: restaurants, hotels, beaches, resorts
+- Green areas / parks (e.g., Montauk Downs State Park)
+- Text labels identifying locations and road names

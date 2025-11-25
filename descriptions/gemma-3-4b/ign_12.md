@@ -90,3 +90,15 @@ agriculture.
 
 Would you like me to focus on a specific aspect of the map, such as
 identifying particular landmarks or analyzing the road network?
+
+# Anchors summary
+
+- La Rance (the river)
+- St-Nazaire (town)
+- St-Brevin-les-Pins (town)
+- St-Pierre-en-Retz (town)
+- D721 (road)
+- D100 (road)
+- Riverbanks — marshland/wetlands (non-named)
+- Green zones — marshland and agricultural land (non-named)
+- Scale bar (map element, non-named)

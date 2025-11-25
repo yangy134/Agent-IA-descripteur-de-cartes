@@ -100,3 +100,12 @@ particular map, several features stand out:
 In essence, the map\'s visual hierarchy prioritizes the central square
 and the major thoroughfare, while also conveying the area\'s bustling
 atmosphere through the dense distribution of icons.
+
+# Anchors summary
+
+- Plaça Reial
+- La Rambla
+- Dense cluster of icons for restaurants, bars, hotels, and shops (commercial/tourist area)
+- Network of narrow, winding streets surrounding Plaça Reial (street grid)
+- Open light-colored central square / pedestrian plaza (visual contrast to streets)
+- Prominent labels of businesses and street names (textual landmarks)

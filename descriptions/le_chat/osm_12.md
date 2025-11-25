@@ -77,3 +77,23 @@ clearly marked, enhancing the visual clarity of the map.
 These elements are designed to draw attention to key aspects of the
 region, such as major transportation routes, urban centers, and
 significant natural features.
+
+# Anchors summary
+
+- A-8 highway (marked in red)
+- N-623
+- N-621
+- Santander (city)
+- Torrelavega (city)
+- Castro Urdiales (town)
+- Laredo (town)
+- Santoña (town)
+- Bay of Biscay
+- Picos de Europa (mountain range)
+- Highways and major roads (generic)
+- Road network (overall)
+- Coastal boundary / coast (generic)
+- Mountainous areas (generic)
+- Color-coded roads (e.g., red for highways)
+- Symbols for towns, cities, and natural features (map symbols)
+- Rivers and other water bodies (generic)

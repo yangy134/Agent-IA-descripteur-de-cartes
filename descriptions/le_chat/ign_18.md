@@ -73,3 +73,15 @@ between various elements on the map, making it visually engaging.
 
 These elements collectively highlight the castle and its surroundings,
 providing a clear and detailed representation of the area.
+
+# Anchors summary
+
+- Château des Ducs de Bretagne
+- Moat / water feature (non-named)
+- Rue Premion
+- Rue des Fossés
+- Rue Général Lamoricière
+- Pathways within the castle grounds (non-named)
+- Place Marechal Foch
+- Place de la Duchesse Anne
+- Contrasting color areas (blue water, gray buildings, light open spaces) (non-named)

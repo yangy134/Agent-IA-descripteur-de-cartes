@@ -55,3 +55,14 @@ salient:
 
 These elements collectively give the viewer an overview of the area's
 layout, including its recreational spaces and urban infrastructure.
+
+# Anchors summary
+
+- Parc (green area)
+- Stade (stadium)
+- Road network (major streets/highways highlighted in yellow)
+- Water body / Rivière (river or canal)
+- Buildings labeled "C. sportif Coll." (sports complex / college)
+- Buildings labeled "Ec" (likely École / school)
+- Various unnamed buildings and urban facilities
+- Color-coded areas (green = parks, yellow = roads, purple = buildings)

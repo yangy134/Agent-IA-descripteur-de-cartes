@@ -49,3 +49,13 @@ The most visually salient elements of the map include:
 These elements work together to make the castle the clear focal point of
 the map, with its distinctive shape and surrounding moat immediately
 drawing the eye.
+
+# Anchors summary
+
+- Château des Ducs de Bretagne (castle structure) — named landmark
+- Light blue moat surrounding the castle — non-named landmark
+- Round towers / circular corner structures — non-named landmark
+- Yellow roundabout in the bottom right corner — non-named landmark
+- Dotted pathways through and around the castle grounds — non-named landmark
+- Labeled "Château des Ducs de Bretagne" text — named element (label)
+- Contrasting color scheme distinguishing buildings, water, and public spaces — non-named visual element

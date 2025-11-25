@@ -51,3 +51,23 @@ salient elements of the map are:
 
 These locations are marked on the map with their names and icons,
 indicating that they are important points of interest in the area.
+
+# Anchors summary
+
+- Martha's Vineyard
+- Oak Bluff's Fishing Pier
+- The Steamship Authority
+- The Lookout Tavern
+- The Chatham Bars Inn
+- marina / waterfront area
+- park / green space
+- shopping center / mall
+- hotel / inn (non-named)
+- restaurant / bar (non-named)
+- bike rental shop
+- public restroom(s)
+- gas station
+- convenience store
+- "No" / restricted area symbol
+- "Restrooms" sign
+- "Bike Rental" sign

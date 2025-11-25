@@ -101,3 +101,15 @@ Coruña, several features stand out:
 Essentially, the map\'s design prioritizes clarity and ease of
 navigation, with roads and urban areas being the most visually dominant
 elements.
+
+# Anchors summary
+
+- V-1.4
+- AC-552
+- Major roads / road network (non-named)
+- Urban built-up areas / dense city blocks (non-named)
+- Coastal edge / coastline (non-named)
+- Harbor / coastal waters (non-named)
+- Green spaces / parks (non-named)
+- Text labels for neighborhoods, streets, and points of interest (non-named)
+- Strong linear road patterns (visual feature, non-named)

@@ -77,3 +77,13 @@ Would you like me to focus on any specific aspect of the map, such as:
 
 - The distribution of churches?
 - The street patterns and their complexity?
+
+# Anchors summary
+
+- Churches (marked by crosses "+") — non-named landmark
+- Residential buildings (green color coding) — non-named landmark
+- Commercial/mixed-use buildings (yellow color coding) — non-named landmark
+- Public buildings (pink/magenta color coding; likely churches and civic structures) — non-named landmark
+- Dense, narrow, winding street network (street layout) — non-named landmark
+- Street names in Catalan and Spanish — non-named landmark
+- Buildings rendered as geometric icons (squares/rectangles) — non-named landmark

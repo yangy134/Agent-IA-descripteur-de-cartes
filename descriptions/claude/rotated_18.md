@@ -38,3 +38,13 @@ The most visually salient elements of the map include:
 
 These elements immediately draw the eye and help orient viewers to the
 university district layout.
+
+# Anchors summary
+
+- Prominent light green areas representing parks or campus grounds (non-named)
+- Clearly labeled major streets: Boulevard Descartes; Avenue Blaise Pascal; Boulevard Copernic (named)
+- Orange-colored labels and icons for restaurants and cafés (non-named category)
+- Université Gustave Eiffel label in the upper left corner (named)
+- Diagonal arrangement of the main streets creating a distinctive geometric pattern (non-named feature)
+- Blue parking "P" symbol in the central area (non-named)
+- Contrast between built structures (light gray) and open green spaces throughout the campus (non-named)

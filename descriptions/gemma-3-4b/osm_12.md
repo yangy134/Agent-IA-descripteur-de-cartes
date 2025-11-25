@@ -113,3 +113,20 @@ Would you like me to focus on a specific aspect of the map, such as:
 - The road network?
 - The river system in more detail?
 - The relationship between the settlements and the terrain?
+
+# Anchors summary
+
+- Santander (city)
+- Monte (mountain name cited)
+- Sanctander (mountain name cited)
+- Large valley (non-named)
+- River system (non-named)
+- Río del Muelle (main river, cited as likely)
+- Tributaries (non-named)
+- Coastline / sea (non-named)
+- Isla de la Lancia (small island, cited as likely)
+- Penacastillo
+- Mocedo
+- Road network (non-named)
+- Road numbers CA-146 and CA-147
+- Forested areas / green vegetation (non-named)

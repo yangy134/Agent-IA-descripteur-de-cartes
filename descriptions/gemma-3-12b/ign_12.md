@@ -78,3 +78,14 @@ area.
 
 Overall, the map is dominated by water and coastal features, with roads
 providing a sense of connectivity between settlements.
+
+# Anchors summary
+
+- St-Nazaire (named settlement)
+- Large body of water / estuary (likely the Atlantic Ocean)
+- Smaller waterways / rivers / channels feeding into the estuary
+- Coastline with extensive wetlands / tidal flats
+- Major highway (highlighted in orange; likely a national road)
+- Smaller local roads
+- Multiple towns and villages (scattered smaller settlements)
+- Slight rise in land / gentle inland hills (topographic elevation change)

@@ -82,3 +82,14 @@ a text-based list of place names organized hierarchically under headings
 
 For a full analysis, the accompanying visual map (if it exists) would be
 essential. Let me know if you have additional context!
+
+# Anchors summary
+
+- B
+- Malašoff
+- Beaulieu
+- la Pointe de l'île
+- la Tulaye
+- la Basselle
+- île (island)
+- Pointe (point)

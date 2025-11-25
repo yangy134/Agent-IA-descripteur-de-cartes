@@ -16,6 +16,12 @@ Map general description.
 # Can you describe the most visually salient elements of the map?
 
 Map most visually salient elements description.
+
+# Anchors summary
+
+Map anchors summary description. 
 ```
+
+The anchors summary is a simple markdown list of anchors extracted from the second part of the description. It was generated with GPT-5 Mini using `generate_anchors_summary.py`.
 
 The file will only contain the text `Erreur` in case the model was not able to generate a description.

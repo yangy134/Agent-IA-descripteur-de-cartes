@@ -42,3 +42,15 @@ The most visually salient elements of this map are:
 These elements create a clear visual hierarchy that immediately
 communicates the relationship between Central Park\'s natural landscape
 and Manhattan\'s urban planning.
+
+# Anchors summary
+
+- The Lake (named landmark)
+- Cherry Hill Fountain (named landmark)
+- Bethesda Fountain (named landmark)
+- Azalea Pond (named landmark)
+- Manhattan street grid / grid pattern of streets (non-named landmark)
+- Boundary / transition zone between Central Park and the city grid (non-named landmark)
+- "UPPER EAST S..." partial label (partial text indicating Upper East Side) (non-named)
+- 79th Street Transverse (partial street label) (named/partial)
+- Prominent text labels (visual elements, non-named)

@@ -74,3 +74,18 @@ notable or historic building.
 These elements are visually salient due to their distinct colors and
 icons, which help users quickly identify key locations and services in
 the area.
+
+# Anchors summary
+
+- Lookout Tavern — seafood restaurant ("Fruits de mer"; orange icon)
+- Martha's Vineyard Chowder Company — seafood restaurant ("Fruits de mer"; orange icon)
+- Martha's Vineyard Bike Rental Electric — bike rental (blue bicycle icon)
+- Oak Bluffs Fishing Pier — pier (green icon)
+- Steamship Authority Oak Bluffs Terminal — ferry terminal (blue "P" icon)
+- Flying Horses Carousel — historic carousel ("A Vineyard Tradition"; distinctive icon)
+- Attleboro House — building labeled in pink
+- Public restroom (seasonal) — public restroom (blue icon)
+- Restaurants (category; orange icons) — non-named landmark/category
+- Streets: Circuit Avenue Extension, N Bluff Lane, Seaview Avenue — non-named/local orientation landmarks
+- Waterfront/coastal area — non-named landmark
+- Parking (blue "P" icons) — non-named service landmark

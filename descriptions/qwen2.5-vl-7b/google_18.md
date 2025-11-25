@@ -49,3 +49,14 @@ The most visually salient elements on this map include:
 
 These elements collectively make it easier to understand the layout and
 features of this area.
+
+# Anchors summary
+
+- Lockout Tavern
+- Martha's Vineyard Chowder Company
+- The Steamship Authority Oak Bluffs Terminal
+- Landmarks and points of interest
+- Water bodies
+- Roads and streets
+- Color coding
+- Labels and text

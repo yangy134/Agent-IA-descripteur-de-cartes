@@ -127,3 +127,28 @@ Without the actual image, we can't confirm:
 
 If you can share the image itself (not just the extracted text), I could
 provide a precise visual analysis!
+
+# Anchors summary
+
+- Os Montalhos (144 m)
+- O Castelo (137 m)
+- Elvina (neighborhood)
+- Sagrada Família (neighborhood)
+- Barrio das Flores (neighborhood)
+- A Coruña (major district/city)
+- Bens (neighborhood/area)
+- AC-552 (highway)
+- Eixo Atlántico (transport axis)
+- Elvina Universidade (university)
+- Refinaria Repsol (oil refinery)
+- Elevation markers / large bold elevation numbers
+- Mountain/hill symbols or contour lines
+- Contrasting elevation color shading (e.g., red/brown for heights)
+- Urban zones highlighted as colored blocks
+- Font size variations for major districts
+- Thick/colored lines for major roads/highways
+- Landmark icons (e.g., factory symbol, university building)
+- Green areas or hatched patterns for parks/forests
+- Shading to show elevation gradients
+- Scale bar / distance indicators
+- Depth markers (coastal/height-related markers)

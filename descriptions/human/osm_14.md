@@ -11,3 +11,19 @@ autoroutes, un chemin de fer matérialisé en noir avec des petits traits
 blancs. Une université et complètement au nord-est un port avec un
 cimetière peut-être matérialisé par les petites croix. Un stade au
 sud-ouest.
+
+# Anchors summary
+
+- Wooded area, northwest — non-named
+- Small hills (altitude marker 140 m) — non-named
+- Small castle (possible) — non-named (possible)
+- Urban areas — non-named
+- Wooded area, southwest — non-named
+- Small stream — non-named
+- Dam, southwest (possible) — non-named (possible)
+- Major roads/highways (orange and red) — non-named
+- Railway (black with small white dashes) — non-named
+- University — non-named
+- Port, northeast — non-named
+- Cemetery (indicated by small crosses, possible) — non-named (possible)
+- Stadium, southwest — non-named

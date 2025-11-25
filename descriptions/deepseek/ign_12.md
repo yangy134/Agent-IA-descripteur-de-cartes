@@ -141,3 +141,23 @@ If you can share the actual image, I could analyze the visual design
 Note: Montoir de Bretagne is near the port of St-Nazaire, so the map
 might highlight industrial zones (like DJ100) or coastal areas
 (e.g., Océan).
+
+# Anchors summary
+
+- Bert
+- Taignac
+- ST-NAZAIRE
+- St-Brevin-les-Pins
+- St-Marc sur Mer
+- le Brevin
+- Océan
+- DJ100
+- Vents
+- Borders/shading (communal/administrative boundaries) (non-named)
+- Connecting lines/arrows (non-named)
+- Font hierarchy / prominent typography (non-named)
+- Spatial proximity/grouping of labels (non-named)
+- Icons (dots for villages, waves for coastal areas) (non-named)
+- Abbreviations/codes (e.g., road or industrial zone) (non-named)
+- Split labels / dual symbols (non-named)
+- Beach icon (non-named)

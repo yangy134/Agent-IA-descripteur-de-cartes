@@ -47,3 +47,12 @@ The most visually salient elements of the map are:
 These elements create a clear visual hierarchy showing the relationship
 between natural spaces and urban development in what appears to be a
 French neighborhood.
+
+# Anchors summary
+
+- Large green park area (unnamed park)
+- Le Chézine (blue waterway)
+- Network of light-yellow roads and boulevards (prominent example: Bd Louis Constant)
+- Purple-highlighted institutional buildings (schools/colleges; unnamed)
+- Small roundabouts / traffic circles (unnamed)
+- Beige/brown rectangular blocks representing residential and commercial buildings (unnamed)

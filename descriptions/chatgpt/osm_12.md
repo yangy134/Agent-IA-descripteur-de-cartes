@@ -106,3 +106,20 @@ urban core, and green zones dominate the viewer's attention.
 
 Would you like a comparison of visual salience across the different map
 scales you\'ve provided?
+
+# Anchors summary
+
+- A-67 (major highway)
+- S-10 (major highway)
+- Bold red/pink roadways — major roads/highways (non-named)
+- Bay of Santander (coastal bay)
+- Dashed blue lines indicating ferry routes / maritime boundaries (non-named)
+- Santander (city; dense urban street network)
+- Dense urban texture / street network (non-named)
+- Airplane icon near Maliaño — Santander Airport (SDR) (symbol / named location)
+- Macizo de Peña Cabarga (natural area)
+- Large green-shaded areas / natural parks / rural zones (non-named)
+- Camargo (town/suburb)
+- Santa Cruz de Bezana (town)
+- El Astillero (town)
+- Labeled suburbs and towns (non-named)

@@ -49,3 +49,19 @@ The most visually salient elements of the map are:
 6.  The contrasting colors between the blue water bodies, light green
     natural areas, and the more muted urban areas creating a clear
     visual distinction between different types of land use.
+
+# Anchors summary
+
+- Lake Mendota (named)
+- Lake Monona (named)
+- Narrow isthmus between the lakes (distinctive geographic feature; non-named)
+- Downtown Madison (named area located on the isthmus)
+- Parks and natural spaces (light green areas; non-named)
+- Major highways and roads (thin white/yellow lines; non-named)
+- Interstate 90/94 (named)
+- avid hotel Madison‑Monona (named hotel; pink/magenta hotel icon)
+- Prominent pink/magenta hotel icon (non-named marker)
+- Green park markers scattered throughout (non-named markers)
+- Blue water bodies/contrasting blue color (non-named visual element)
+- Light green natural areas/contrasting green color (non-named visual element)
+- Muted urban areas/contrasting muted color (non-named visual element)

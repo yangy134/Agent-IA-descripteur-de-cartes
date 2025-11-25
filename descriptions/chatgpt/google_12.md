@@ -137,3 +137,27 @@ salient elements** of this map:
 
 Would you also like a **quick ranked list** of which *single* elements
 are the absolute strongest at grabbing the viewer\'s attention first? 🌟
+
+# Anchors summary
+
+- Lake Mendota
+- Lake Monona
+- Interstate 90 (I-90)
+- Interstate 94 (I-94)
+- Highway 151
+- Governor Nelson State Park
+- Olbrich Botanical Gardens
+- avid hotel Madison
+- Truax (airport area / airport symbol)
+- Madison (city label)
+- Monona (label)
+- Middleton (label)
+- Maple Bluff (label)
+- large blue lakes (general)
+- large irregular-shaped lake (description)
+- smaller but prominent lake (description)
+- cloverleaf-style highway interchanges
+- patches of green spaces / state parks (light green areas)
+- bright icons (airport plane icon, hotel pink icons, park/garden green flower icons)
+- major roads depicted as thick gray lines
+- bold city/sub-area text labels

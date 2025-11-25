@@ -101,3 +101,10 @@ In essence, the contrast between the linear blue of the river and
 bridges, and the textured pattern of the urban grid, along with the
 color contrast of the green spaces, are the most visually arresting
 features of this map.
+
+# Anchors summary
+
+- River (non-named landmark)
+- Bridges (non-named landmarks)
+- Urban grid / city blocks (non-named landmarks)
+- Green patches / parks (non-named landmarks)

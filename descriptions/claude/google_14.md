@@ -42,3 +42,19 @@ The most visually salient elements of the map include:
 
 These elements draw the eye first due to their size, color contrast, or
 central positioning on the map.
+
+# Anchors summary
+
+- Fort Pond
+- Atlantic Ocean
+- Montauk Blue Hotel
+- Ruschmeyer’s
+- Navy Beach Restaurant
+- Harvest on Fort Pond
+- Highway 27
+- Montauk label
+- bright pink hotel markers (non-named)
+- orange restaurant icons (non-named)
+- beige/tan beach area along the southern shore (non-named)
+- developed areas (roads and buildings) (non-named)
+- water features (non-named)

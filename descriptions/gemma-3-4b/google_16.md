@@ -89,3 +89,22 @@ of interest.
 around Yale University in New Haven, Connecticut. It's clearly designed
 to show a complex urban environment with many intersecting streets and
 significant institutional presence (Yale).
+
+# Anchors summary
+
+- Dense street grid (non-named)
+- Tower Parkway
+- Broadway
+- Central Street
+- Yale Old Campus
+- Temple Street Music Hall
+- College Street Library
+- The Mead Visitor Center
+- Toad's Place
+- Sterling Memorial Library
+- Mecha Noodle Bar
+- St. Mary's Church
+- Grove Cemetery
+- Green areas / large campus greens (non-named)
+- Points of interest icons / POI markers (non-named)
+- Muted color scheme (visual element, non-named)

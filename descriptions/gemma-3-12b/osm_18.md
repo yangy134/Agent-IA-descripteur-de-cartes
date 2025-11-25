@@ -95,3 +95,18 @@ icons suggests a vibrant, tourist-heavy area.
 
 Do you want me to focus on any specific aspect of the map or provide a
 more detailed description?
+
+# Anchors summary
+
+- Plaça Reial
+- La Rambla
+- Gran Teatre del Liceu
+- Hotel Oriente
+- Hotel Fornos
+- Large, rectangular open space (central plaza area)
+- Trees dotting the plaza
+- Long, wide pedestrian boulevard (main thoroughfare)
+- Grid / regular intersecting street pattern
+- High density of points-of-interest icons along streets
+- Color-coded icons indicating categories (restaurants, shops, hotels, parks)
+- Small park/garden area near Plaça Reial

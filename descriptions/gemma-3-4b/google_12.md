@@ -97,3 +97,20 @@ Lake Monona and surrounding natural resources. The road network is
 clearly displayed, making it useful for navigation.
 
 Would you like me to describe any specific element in more detail?
+
+# Anchors summary
+
+- Lake Monona
+- Madison
+- Wisconsin State Capitol
+- University of Wisconsin–Madison
+- Olbrich Botanical Gardens
+- Monona Bay Hotel & Resort
+- Lewis and Clark State Park
+- Interstate 94
+- Interstate 15
+- Road network / major highways
+- Green spaces (parks, forests, natural reserves)
+- Parks (generic)
+- Color palette (greens for natural areas, blues for roads)
+- Clear urban vs. rural landscape distinction

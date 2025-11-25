@@ -88,3 +88,11 @@ Would you like me to focus on a specific aspect, such as:
 
 - The style of the map?
 - Possible location based on visual clues?
+
+# Anchors summary
+
+- The River — named landmark (dominant visual feature)
+- Dense Urban Grid — non-named landmark (urban layout)
+- Color Gradient and Texture — visual element (stylistic/texture, not a place)
+- Green Spaces — non-named landmarks (parks/open areas)
+- Roads/Streets — non-named landmarks (road network)

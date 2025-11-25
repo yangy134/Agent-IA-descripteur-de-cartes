@@ -93,3 +93,15 @@ background.
 situated near a large estuary/river, with varied terrain (hills and
 slopes) in some areas. The dense road network and the contrast between
 built-up areas and green spaces are key visual elements.
+
+# Anchors summary
+
+- Large estuary/river system (likely the Ria de Vigo)
+- A Coruña
+- Elviña
+- Castroniro
+- Dense urban grid / dense buildings
+- Road network (major highways and smaller local streets)
+- Patches of green: parks, gardens, and forested areas
+- Contour lines and elevation markers (topographic information)
+- Winding, irregular river/estuary shape

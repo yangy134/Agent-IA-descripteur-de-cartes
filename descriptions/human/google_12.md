@@ -9,3 +9,17 @@ routiers, de grands axes. Il y a un jardin botanique au-dessus du lac.
 On dirait une carte issue d\'un moteur de recherche pour un touriste
 pour aller se loger, puisque l\'on voit un hôtel bien noté. Un aéroport
 au nord et peut-être un hôpital au nord-est.
+
+# Anchors summary
+
+- Lake Mendota
+- Lake Monona
+- fishing area (north)
+- university (west)
+- hiking trail (south)
+- wooded/forested area (abundant green)
+- urban area east of Lake Monona with major roads
+- botanical garden (above the lake)
+- well-rated hotel (tourist lodging)
+- airport (north)
+- hospital (possible, northeast)

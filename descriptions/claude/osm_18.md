@@ -49,3 +49,13 @@ The most visually salient elements of the map include:
 The overall density of icons across the map immediately communicates
 that this is a highly active, tourist-oriented district with numerous
 dining, accommodation, and entertainment options.
+
+# Anchors summary
+
+- Plaça Reial (Plaza Real)
+- La Rambla
+- Restaurant/dining icons (abundant fork-and-knife symbols) — non-named landmark
+- Hotel indicators (blue bed symbols) — non-named landmark
+- Carrer dels Escudellers / street network (white lines representing streets) — includes named street and general street pattern
+- Contrast between the open plaza space and surrounding dense urban blocks — non-named landmark
+- Colorful legend/icon system (purple, orange, blue icons indicating business types) — non-named landmark

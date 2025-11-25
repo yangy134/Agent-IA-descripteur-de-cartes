@@ -47,3 +47,17 @@ The most visually salient elements of the map include:
 7.  The branching waterways - smaller tributaries and river channels
     that branch off from the main Loire River, creating distinctive blue
     patterns.
+
+# Anchors summary
+
+- Loire River (named)
+- la Haute Île (named)
+- la Basse Île (named)
+- Islands within the Loire (other/unnamed islands) (non-named)
+- Major yellow road network / major roads (non-named)
+- Railway lines (non-named)
+- Branching waterways / smaller tributaries (non-named)
+- Malakoff (named district)
+- Beaulieu (named district)
+- Saint-Jacques (named district)
+- Urban density contrast / varying urban density (non-named)

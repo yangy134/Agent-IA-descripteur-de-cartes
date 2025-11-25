@@ -63,3 +63,13 @@ Here's a description of the most visually salient elements in the map:
 
 Overall, the map is dominated by the castle and its surrounding water
 feature, with a clear representation of the local road network.
+
+# Anchors summary
+
+- Château des Ducs de Bretagne (Castle of the Dukes of Brittany)
+- Place Morvan
+- Rue Premion (street)
+- Rue des États (street)
+- Water feature (moat or body of water) — non-named
+- Parking area / parking lot — non-named
+- Roads and streets (network of light tan lines) — non-named

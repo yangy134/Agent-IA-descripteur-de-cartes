@@ -68,3 +68,13 @@ activities.
 
 Would you like me to describe anything in more detail, such as the
 location of a specific business or landmark?
+
+# Anchors summary
+
+- Martha's Vineyard Chowder Company
+- Flying Horses Carousel
+- Oak Bluffs Fishing Pier
+- Steamship Authority Oak Bluffs Terminal
+- Public Restroom (Seasonal)
+- Parks / green spaces (non-named)
+- Street network / roads (dense grid-like layout) (non-named)

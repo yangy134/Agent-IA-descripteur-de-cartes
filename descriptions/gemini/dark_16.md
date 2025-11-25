@@ -75,3 +75,12 @@ several features stand out:
 In essence, the map\'s strong contrast between the dark park area and
 the slightly lighter lake, combined with the presence of text labels and
 the straight lines of the street grid, creates a clear visual hierarchy.
+
+# Anchors summary
+
+- The Lake
+- Cherry Hill Fountain
+- Bethesda Fountain
+- Surrounding park area (dark wooded areas and paths) — non-named
+- Street grid (linear street lines; labeled streets such as Central Park West, 5th Avenue, 79th Street Transverse)
+- Text labels (map labels breaking background uniformity) — non-named

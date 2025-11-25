@@ -53,3 +53,12 @@ map:
 
 Let me know if you'd like a more detailed description of any specific
 aspect!
+
+# Anchors summary
+
+- Château des Ducs de Bretagne (named landmark)
+- Outline/highlight around the castle (light blue boundary) (non‑named)
+- Streets (thin colored lines, red and yellow) (non‑named)
+- Street names printed in black along the streets (non‑named)
+- Building shapes (simple gray geometric shapes) (non‑named)
+- Overall color scheme (muted: gray buildings, light blue outline) (non‑named)

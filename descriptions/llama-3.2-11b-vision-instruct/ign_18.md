@@ -32,3 +32,10 @@ map are:
 These elements are likely to be important features of the area being
 mapped, and they may be used for a variety of purposes such as
 navigation, recreation, or urban planning.
+
+# Anchors summary
+
+- Large body of water (likely a lake or reservoir) — non-named landmark
+- Road network (several major roads and highways) — non-named landmark
+- Park / green space (located in the center of the map) — non-named landmark
+- Buildings and structures (scattered small rectangles) — non-named landmarks

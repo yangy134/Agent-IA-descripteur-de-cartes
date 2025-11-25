@@ -27,3 +27,10 @@ are:
 Overall, the map presents a detailed and informative view of a region,
 with its various elements working together to create a comprehensive
 picture.
+
+# Anchors summary
+
+- Large body of water (likely a sea/ocean) — non-named landmark
+- Network of roads and highways — non-named landmark
+- Series of islands/landmasses — non-named landmark
+- Grid of latitude and longitude lines — non-named landmark

@@ -95,3 +95,18 @@ part of the map feel the busiest and most attention-grabbing.
 
 Would you like me to sketch a quick visual hierarchy of how these
 elements rank by visual salience? 🎨
+
+# Anchors summary
+
+- Bright blue water area — ocean / Atlantic (non-named)
+- Thick gray roads / major roads (non-named)
+- Oak Bluffs Ave (named)
+- Access road to Steamship Authority / ferry terminal (non-named)
+- Colored POI icons (restaurants, services, transportation, bike rental) (non-named)
+- Lookout Tavern (named)
+- Martha's Vineyard Chowder Company (named)
+- Public Restroom (Seasonal) (named)
+- Martha's Vineyard Bike Rental (Electric...) (named)
+- Steamship Authority — Oak Bluffs Terminal (named)
+- Oak Bluffs Fishing Pier (named)
+- Light green coastal buffer — beach or park area (non-named)

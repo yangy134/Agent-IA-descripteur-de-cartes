@@ -32,3 +32,13 @@ salient elements of the map are:
 
 These are the most visually salient elements of the map, and they appear
 to be some of the most important landmarks in New York City.
+
+# Anchors summary
+
+- New York Public Library (4765 Broadway)
+- The Metropolitan Museum of Art (1000 Fifth Avenue)
+- Central Park
+- The American Museum of Natural History (1000 Fifth Avenue)
+- The Guggenheim Museum (1000 Fifth Avenue)
+- Large green space (non-named landmark cited)
+- Prominent buildings (non-named landmarks cited)

@@ -84,3 +84,15 @@ layout and many religious buildings.
 
 **Based on the street names visible (Catalunya, Urquinaona, etc.), this
 map appears to depict a portion of Barcelona's Gothic Quarter.**
+
+# Anchors summary
+
+- Churches / religious sites (cross symbol ✝)
+- Significant buildings / landmarks (star symbol ☆)
+- Other symbol-marked buildings/institutions (squares, circles, etc.)
+- Dense network of narrow, winding streets (maze-like old urban layout)
+- Roads (light beige)
+- Background (light tan, aged/historical map feel)
+- Icon colors (yellow, purple, blue)
+- Text labels (street names and points of interest)
+- Overall historic urban area impression (old town / Gothic Quarter character)

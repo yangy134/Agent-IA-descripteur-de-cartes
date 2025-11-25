@@ -11,3 +11,17 @@ est-ce que tout ce blanc et ce gris sont des petites routes ? Je dirais
 qu\'il y a une zone urbaine en jaune autour de S Edgemere St, pas loin
 du restaurant Harvest, et le reste, je dirais que c\'est un peu plus
 sauvage, mais sans grande certitude.
+
+# Anchors summary
+
+- S Edgemere St (street)
+- Restaurant “Harvest”
+- Blue major axis labeled "27" (possible highway/route 27)
+- Zones for lodging/hotels and restaurants (pink and orange areas)
+- Yellow urban zone around S Edgemere St
+- Urban area on a landmass surrounded by water (peninsula/island)
+- Large body of water (lake)
+- Park / wooded area at the north
+- Railway line on the east
+- Various roads and access points (white/grey lines, possible small roads)
+- Predominantly undeveloped / sparsely inhabited white and grey areas

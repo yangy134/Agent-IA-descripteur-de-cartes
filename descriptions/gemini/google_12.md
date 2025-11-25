@@ -102,3 +102,12 @@ most prominent features:
 In essence, the map\'s visual hierarchy prioritizes the natural water
 features and green spaces, followed by the urban center and its
 transportation infrastructure.
+
+# Anchors summary
+
+- Lake Mendota (named)
+- Lake Monona (named)
+- Parks and natural areas (non-named; includes Governor Nelson State Park, Olbrich Botanical Gardens)
+- City of Madison / urban center (named)
+- Major roads and highways (non-named; examples: US-151, I-90/I-94)
+- Urban / built-up areas (non-named)

@@ -132,3 +132,16 @@ of the dark-themed map you uploaded:
 
 Would you like this same analysis applied to one of your earlier map
 styles for comparison?
+
+# Anchors summary
+
+- The Lake (Central Park)
+- Cherry Hill Fountain
+- Bethesda Fountain
+- Azalea Pond
+- Central Park West
+- 5th Avenue
+- 79th Street Transverse
+- "UPPER EAST SIDE" (neighborhood label)
+- Dotted/dashed paths / trail network (non-named)
+- Urban grid: surrounding streets and building outlines (non-named)

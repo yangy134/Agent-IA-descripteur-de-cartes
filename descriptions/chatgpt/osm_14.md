@@ -93,3 +93,27 @@ In short, **highways**, **green zones**, and **industrial areas** are
 the most attention-grabbing features at this scale due to their color,
 shape, and spatial dominance. Would you like a visual hierarchy diagram
 of these elements?
+
+# Anchors summary
+
+- AC-552
+- V-1.4
+- Avenida García Sabell
+- Matogrande
+- Elviña
+- Parque de Bens (Bens Park)
+- Monte Patelo
+- Eko Atlántico
+- Refinería Repsol A Coruña
+- Alcoa A Coruña
+- Catro Camiños
+- Santa Margarida
+- A Gramela
+- A Coruña Provisional (station)
+- Elviña–Universidade (station)
+- (non-named) large interchanges and roundabouts (especially around Matogrande and Elviña)
+- (non-named) large parks and forested/wooded areas
+- (non-named) dense urban grid / tight city blocks
+- (non-named) black railway lines / rail network
+- (non-named) industrial complexes / large greyish block outlines
+- (non-named) bold red/orange highways as a visual category

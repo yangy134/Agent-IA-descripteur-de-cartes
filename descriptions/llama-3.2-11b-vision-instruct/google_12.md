@@ -44,3 +44,15 @@ visually salient elements:
 
 Overall, the map appears to show a variety of geographical features and
 landmarks in the area, including cities, lakes, and neighborhoods.
+
+# Anchors summary
+
+- Madison (city)
+- Lake Monona (large lake)
+- Monona (city)
+- Governor's Island (small island)
+- Lake Mendota (large lake)
+- University Hills (neighborhood)
+- Monona Hills (neighborhood)
+- a large lake (non-named/generic mention)
+- a small island (non-named/generic mention)

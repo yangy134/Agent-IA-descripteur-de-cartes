@@ -87,3 +87,18 @@ provided map image:
 
 Let me know if you'd like a more detailed description of any specific
 area or element!
+
+# Anchors summary
+
+- Water body (large ocean/sea)
+- Roads / streets network
+- Clusters of buildings
+- Prominent pier / dock extending into the water (non-named)
+- Martha's Vineyard Bike Rental Electric
+- Oak Bluffs Fishing Pier
+- Lookout Tavern (restaurant)
+- Public restroom (seasonal)
+- The Steamship Authority Oak Bluffs Terminal (ferry terminal)
+- Flying Horses Carousel
+- Patches of vegetation / green areas
+- Icons indicating businesses and parking areas (non-named)

@@ -27,3 +27,9 @@ residential in nature. There is a large park or green space in the
 center of the map, which may be a popular recreational area for
 residents. Overall, the map suggests that this is a well-planned and
 organized urban environment with many amenities for residents.
+
+# Anchors summary
+
+- Roads (various colors) — non-named landmark
+- Buildings (many appearing residential) — non-named landmark
+- Large park / green space (central) — non-named landmark

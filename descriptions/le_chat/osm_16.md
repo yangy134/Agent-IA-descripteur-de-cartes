@@ -91,3 +91,20 @@ city.
 
 These elements are designed to catch the viewer's attention and provide
 quick reference points for navigating the city.
+
+# Anchors summary
+
+- Via Laietana
+- La Rambla
+- Plaça de Catalunya
+- Plaça Reial
+- Barri Gòtic (Gothic Quarter)
+- Ciutat Vella
+- El Raval
+- Catedral de Barcelona (Barcelona Cathedral)
+- Metro stations (non-named)
+- Churches and cathedrals (non-named)
+- Parking areas (non-named)
+- Hotels / accommodations (non-named)
+- Major streets / thoroughfares (highlighted in yellow; non-named)
+- Green areas / parks / green spaces (non-named)

@@ -109,3 +109,17 @@ If we were to rank the salience from most to least eye-catching:
 
 Would you like me to quickly compare the visual feel of this map versus
 the Oak Bluffs one you shared earlier? 📍
+
+# Anchors summary
+
+- Yale Old Campus
+- New Haven Green
+- Grove Street Cemetery
+- The Mead Visitor Center
+- College Street Music Hall
+- Toad's Place
+- Yale Bookstore (blue shopping bag icon)
+- Bright green parks (non-named)
+- Purple POI/venue icons (non-named)
+- Bold/major street names and grid (non-named)
+- Beige building blocks / denser building zones (non-named)

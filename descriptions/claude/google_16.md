@@ -46,3 +46,19 @@ The most visually salient elements of this map include:
 
 The overall visual hierarchy emphasizes the relationship between Yale\'s
 campus facilities and the surrounding downtown New Haven area.
+
+# Anchors summary
+
+- New Haven Green
+- Yale University buildings / campus zones (beige/yellow shaded areas)
+- Toad's Place
+- College Street Music Hall
+- The Mead Visitor Center
+- The Yale Bookstore (blue shopping bag icon)
+- Mecha Noodle Bar
+- Yale Old Campus
+- Major streets: Broadway, College Street, Chapel Street
+- Purple icon markers (non-named)
+- Orange food/dining icons (non-named)
+- Clear street grid pattern organizing the area (non-named)
+- Light green shading indicating smaller parks/green spaces (non-named)

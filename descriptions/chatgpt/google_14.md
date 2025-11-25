@@ -120,3 +120,20 @@ In terms of what your eyes catch first:
 Would you like me to create a quick visual comparison summary between
 the three maps you showed? 🌎✨\
 (Each one has a really different \"vibe\"!)
+
+# Anchors summary
+
+- Atlantic Ocean
+- Fort Pond
+- Ruschmeyer's
+- Montauk Manor
+- Montauk Blue Hotel
+- Hartman's Briney Breezes
+- Navy Beach
+- Harvest on Fort Pond
+- Route 27 (thick dark gray line)
+- Beach strip (pale yellow-beige sandy beach)
+- Montauk Downs State Park
+- Bright pink hotel POI icons
+- Orange restaurant POI icons
+- Large blue water areas (visual element)

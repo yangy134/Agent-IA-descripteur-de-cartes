@@ -38,3 +38,12 @@ The most visually salient elements of the map include:
 
 The minimalist color palette and clean design make these elements
 particularly prominent against the otherwise subdued background.
+
+# Anchors summary
+
+- Light blue waterway/river running through the center (divides urban areas)
+- Three distinct bridges crossing the waterway
+- Larger body of water in the upper-right (harbor/bay area)
+- Concentrated green spaces/parks (notably lower-left and right side)
+- Network of streets in a grid-like pattern with some wider major arterial roads
+- Curved yellow roadway at the bottom (major highway/thoroughfare)

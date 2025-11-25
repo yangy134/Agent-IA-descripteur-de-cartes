@@ -103,3 +103,13 @@ elements of the map:
 
 Would you like a quick sketch or diagram to illustrate how these
 elements \"pop\" visually in the layout? 🎨🗺️
+
+# Anchors summary
+
+- La Rambla
+- Plaça Reial
+- Dense icon clusters — restaurants (orange fork & knife icons)
+- Dense icon clusters — hotels (blue bed icons)
+- Dense icon clusters — shops / souvenir areas (purple shopping bag icons)
+- Music and nightlife areas/icons (brown musical notes)
+- Side streets (e.g., Carrer d'Escudellers)

@@ -72,3 +72,14 @@ for the location and layout of the area.
 
 **Overall Impression:** The map depicts a densely populated urban area
 with a significant park and river running through it.
+
+# Anchors summary
+
+- Large, irregular green space / park (central)
+- Winding blue river (likely the Rhône)
+- Major, wider road / boulevard running along the top of the image
+- Several smaller streets intersecting within and around the park
+- Dense arrangement of buildings / urban fabric
+- Large rectangular building within the park (possibly a sports facility or event space)
+- Smaller rectangular building near the bottom-right (possibly a school or community center)
+- Visible French street name labels

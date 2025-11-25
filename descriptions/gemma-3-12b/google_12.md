@@ -98,3 +98,26 @@ the Madison, Wisconsin area.
 
 Do you want me to focus on a specific aspect of the map or analyze it in
 more detail?
+
+# Anchors summary
+
+- Lake Mendota (large water feature)
+- Large, irregularly shaped body of water (non-named descriptor)
+- Road network / major highways (non-named)
+- Interstate 51
+- Interstate 90/94
+- Governor's Island
+- Cherokee Park
+- Nelson State Park
+- Warner Park
+- Smaller patches of green (unnamed parks/forests/natural areas)
+- Madison
+- McFarland
+- Monona
+- Middleton
+- Shorewood Hills
+- Tenney-Lapham
+- Holy Wisdom Monastery
+- Olbright Botanical Gardens
+- Airport icon (unnamed airport)
+- Hotel icon (unnamed hotel in Madison)

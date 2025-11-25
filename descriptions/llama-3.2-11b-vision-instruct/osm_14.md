@@ -32,3 +32,13 @@ and other structures visible.
 Overall, the map provides a clear view of the city's layout and
 infrastructure. It is likely used for navigation or to provide
 information about the city's amenities and services.
+
+# Anchors summary
+
+- No named landmarks identified
+- Major highway (main thoroughfare running through the center)
+- Smaller roads and streets branching off the highway
+- Roads and highways depicted in various colors
+- Parks and green spaces (shaded green)
+- Body of water (lake or river visible in the background)
+- Urban landscape (buildings and other structures)

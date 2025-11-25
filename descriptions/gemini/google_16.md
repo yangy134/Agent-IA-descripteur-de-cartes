@@ -57,3 +57,14 @@ color contrast (green of the Green, blue markers), size (the Green,
 campus area), and clear labeling. This makes it easy to quickly
 understand the key features and spatial relationships within the mapped
 area.
+
+# Anchors summary
+
+- New Haven Green (named landmark)
+- Yale University buildings / Yale Old Campus (named landmark)
+- Broadway (named street)
+- Elm Street (named street)
+- College Street (named street)
+- Street grid (non-named landmark / feature)
+- Bright blue markers (non-named visual feature)
+- Text labels (non-named visual feature)

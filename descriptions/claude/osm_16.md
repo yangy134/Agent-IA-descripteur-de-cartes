@@ -51,3 +51,14 @@ The most visually salient elements of the map include:
     background
 8.  The blue squares that appear to mark transit stops or points of
     interest along certain routes
+
+# Anchors summary
+
+- Bright yellow highlighted paths/streets (main pedestrian routes/major thoroughfares)
+- "Catalunya" label (Plaça de Catalunya)
+- Dense cluster of brown building icons (museums / historic / cultural sites in the Barri Gòtic)
+- Purple shopping bag icons (shopping areas / markets)
+- Light beige built-up urban areas (background coloration for urban fabric)
+- Neighborhood labels: Barri Gòtic, Ciutat Vella, el Raval
+- Cross symbols (churches / religious sites)
+- Blue squares (transit stops / points of interest)

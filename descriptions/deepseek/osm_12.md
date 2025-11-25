@@ -101,3 +101,13 @@ features:
 If you expected a cartographic map, this might be a legend or index for
 a separate visual map file. Let me know if you'd like help interpreting
 it differently!
+
+# Anchors summary
+
+- Montera de Bezana
+- Boo de Pielagos
+- Sanctoriana
+- Polícia
+- 197
+- 195
+- Horizontal divider line

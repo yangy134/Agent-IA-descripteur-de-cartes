@@ -88,3 +88,21 @@ La Rambla.
 
 Do you want me to focus on any specific aspect of the map, such as
 identifying a particular building or street?
+
+# Anchors summary
+
+- La Rambla
+- Carrera de la Rambla
+- Carrera de la Urgell
+- Plaza Real
+- Plaza de la Lonja
+- Parc de la Ciutadella
+- Dominant street network (non-named)
+- Main arteries / wider lanes (non-named)
+- Pedestrian promenade (non-named)
+- Buildings / hotels (non-named)
+- Restaurants / bars (non-named)
+- Squares / plazas (non-named)
+- Parks / green area (non-named)
+- Grid system (street layout) (non-named)
+- High density of intersections / intersecting streets (non-named)

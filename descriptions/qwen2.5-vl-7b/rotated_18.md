@@ -54,3 +54,19 @@ The image is a map, and it contains several visually salient elements:
 The combination of these elements---labeled roads and streets, building
 icons, points of interest markers, institution labels, and service
 icons---makes the map informative and visually engaging.
+
+# Anchors summary
+
+- Avenue Blaise Pascal
+- Boulevard Descartes
+- École d'Urbanisme de Paris
+- Les Lumières
+- O'Poké
+- Addictas Café
+- Université Gustave Eiffel
+- d.school Paris
+- Major roads and streets (generic)
+- Building icon (marks buildings/locations)
+- Points-of-interest icons (coffee-cup style for cafés/restaurants)
+- Service icons (bus stop / "Bus")
+- Tobacco shop icon ("Tabac")

@@ -35,3 +35,9 @@ Overall, the map appears to be a useful tool for navigating and
 understanding the area around the river. It provides important
 information about the layout of the land, the location of roads and
 buildings, and the relationship between these features.
+
+# Anchors summary
+
+- River (major waterway)
+- Roads and highways
+- Buildings and structures (mix of residential and commercial properties)

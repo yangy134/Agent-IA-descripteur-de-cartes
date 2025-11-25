@@ -82,3 +82,27 @@ stand out among other features.
 
 These elements are designed to draw attention and provide quick visual
 reference points for users viewing the map.
+
+# Anchors summary
+
+- Lake Mendota
+- Lake Monona
+- Governor Nelson State Park
+- Lewis Nine Springs E-Way Natural Resource Area
+- Olbrich Botanical Gardens
+- Holy Wisdom Monastery
+- avid hotel Madison Monona (an IHG Hotel)
+- Madison (city label)
+- Middleton (city label)
+- Monona (city label)
+- I-90 (major highway)
+- I-94 (major highway)
+- I-39 (major highway)
+- Dane County Regional Airport
+- Large bodies of water / lakes (non-named)
+- Parks and natural areas marked in green (non-named)
+- Major highways and roads depicted with bold lines (non-named)
+- Points of interest icons/symbols (non-named)
+- Hotel marker (distinct pink icon) (non-named)
+- City name labels (non-named)
+- Airport icon (non-named)

@@ -93,3 +93,11 @@ draw the eye, are:
 These elements combine to create a clear and impactful visual
 representation of the Saint-Nazaire region, emphasizing its geography,
 infrastructure, and urban center.
+
+# Anchors summary
+
+- Loire River Estuary (large blue expanse) — named landmark
+- Bright orange road network (major roads/highways) — non-named landmark
+- Saint-Nazaire (distinctive shape / built-up area) — named landmark
+- Contrasting color scheme (blue water, orange roads, light grey urban areas) — non-named visual element
+- Prominent text label "ST-NAZAIRE" (bold black map label) — non-named feature

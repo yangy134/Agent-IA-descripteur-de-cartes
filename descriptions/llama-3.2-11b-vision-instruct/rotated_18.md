@@ -28,3 +28,13 @@ River. Additionally, there are several notable buildings and landmarks,
 such as the Louvre Museum and the Arc de Triomphe. Overall, the map
 provides a clear and detailed view of the city's layout and notable
 features.
+
+# Anchors summary
+
+- Eiffel Tower
+- Champs-Élysées
+- Seine River
+- Louvre Museum
+- Arc de Triomphe
+- Various buildings and landmarks (non-named)
+- Several streets and roads (non-named)

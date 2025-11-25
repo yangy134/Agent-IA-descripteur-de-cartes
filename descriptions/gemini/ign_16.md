@@ -102,3 +102,13 @@ In essence, the map\'s visual hierarchy is structured to prioritize the
 park and its internal features, followed by the surrounding road network
 and the river. This ensures that a viewer can quickly grasp the overall
 layout and key points of interest.
+
+# Anchors summary
+
+- Park (large irregular green space)
+- Elevation shading / slopes within the park (non-named)
+- Network of roads and paths (dark thin lines) (non-named)
+- Winding walking paths inside the park (non-named)
+- "Le Chesne" river (named)
+- Rectangular sports field within the park (non-named)
+- Density/clusters of text labels on the map (non-named)

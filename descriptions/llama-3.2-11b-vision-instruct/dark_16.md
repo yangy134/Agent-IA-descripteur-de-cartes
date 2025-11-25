@@ -31,3 +31,11 @@ a geographic area, with many different elements and features. The use of
 a dark background and the emphasis on the grid pattern create a sense of
 depth and complexity, while the smaller details such as the symbols and
 text add additional layers of meaning to the image.
+
+# Anchors summary
+
+- Large, central grid (non-named landmark)
+- Smaller grid in the top-left corner (non-named landmark)
+- Large, irregular shape in the center (non-named landmark)
+- A few lines of (illegible) text (non-named landmark)
+- A few symbols, including a star-like/celestial symbol (non-named landmarks)

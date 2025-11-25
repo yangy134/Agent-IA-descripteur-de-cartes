@@ -86,3 +86,19 @@ structures and areas.
 
 These elements are visually salient due to their color, size, and the
 level of detail provided, making them the focal points of the map.
+
+# Anchors summary
+
+- Parc (large green area)
+- Le Chezine (river/stream)
+- Smaller blue water areas / ponds (unnamed)
+- Boulevard des Anglais
+- Boulevard Clovis Constant
+- Boulevard Louis David
+- Boulevard Albert Thomas
+- Major boulevards / wide roads (unnamed)
+- Schools / educational institutions (purple-shaded areas; "Éc." / "Coll." markers)
+- Équ. sportif (sports field / complex)
+- Sports facilities / sports field (unnamed)
+- Dense residential / urban layout (clusters of buildings and streets)
+- Pathways and park paths (unnamed)

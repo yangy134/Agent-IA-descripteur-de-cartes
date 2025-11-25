@@ -38,3 +38,14 @@ Highway and Old Montauk Highway. Additionally, there are several hotels
 and restaurants marked on the map, including the Montauk Hotel and the
 Navy Beach Restaurant. Overall, the map provides a clear view of the
 area's geography and amenities.
+
+# Anchors summary
+
+- Ocean (body of water)
+- Bay (body of water)
+- Montauk Highway (road)
+- Old Montauk Highway (road)
+- Montauk Hotel (hotel)
+- Navy Beach Restaurant (restaurant)
+- Several hotels and restaurants (non-named)
+- Roads (general, non-named)

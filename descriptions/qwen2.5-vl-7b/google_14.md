@@ -49,3 +49,18 @@ The map prominently features several key elements:
 
 These elements collectively make the map visually salient by providing a
 clear layout of geographical and human-made structures within the area.
+
+# Anchors summary
+
+- Fort Pond
+- Navy Beach
+- Old Montauk Highway (Route 27)
+- Sagamore St.
+- Montauk Manor
+- Harvest on Fort Pond
+- Breezes Beach Resort
+- Ruschmeyer's Restaurant Montauk L.
+- Bodies of water (ponds / small bays)
+- Roads (unnamed roads)
+- Color-coded map elements: roads in blue, water bodies in light blue, land areas in white
+- Labels for locations
