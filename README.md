@@ -17,3 +17,5 @@ Map general description.
 
 Map most visually salient elements description.
 ```
+
+The file will only contain the text `Erreur` in case the model was not able to generate a description.
