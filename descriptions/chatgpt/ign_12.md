@@ -3,7 +3,7 @@
 Certainly! Here\'s a description of the **content and most visually
 salient elements** of this map:
 
-# **🗺️ Map Overview**
+## **🗺️ Map Overview**
 
 This is a **small-scale map** showing the **estuary of the Loire River**
 where it meets the Atlantic Ocean. The map centers on the
@@ -12,9 +12,9 @@ where it meets the Atlantic Ocean. The map centers on the
 routes. It\'s a generalized representation meant to support **regional
 orientation**.
 
-# **🔝 Most Visually Salient Elements**
+## **🔝 Most Visually Salient Elements**
 
-## **🌊 1. The Loire Estuary and Atlantic Coast**
+### **🌊 1. The Loire Estuary and Atlantic Coast**
 
 - The **estuary of the Loire** is the **dominant visual feature**, shown
   in **light blue**, with **dotted textures** representing **tidal flats
@@ -24,7 +24,7 @@ orientation**.
 - The **river mouth** and **maritime features** (islands, estuarine
   vegetation) stand out because of the contrast and pattern density.
 
-## **🟠 2. Major Roads and Infrastructure**
+### **🟠 2. Major Roads and Infrastructure**
 
 - The **main transport arteries** are highlighted:
 
@@ -35,7 +35,7 @@ orientation**.
   - **Bridges and causeways** connecting both riverbanks are prominent
     and critical to understanding regional connectivity.
 
-## **🏙️ 3. Urban Areas and Settlements**
+### **🏙️ 3. Urban Areas and Settlements**
 
 - The **city of Saint-Nazaire** is highly visible:
 
@@ -49,14 +49,14 @@ orientation**.
   - Labeled in **black text**, they are easy to spot due to sparse
     background density.
 
-## **🧭 4. Labels and Place Names**
+### **🧭 4. Labels and Place Names**
 
 - City names like **"ST-NAZAIRE"** and **"ST-BREVIN-LES-PINS"** are in
   **bold black capitals**, giving them strong visual weight.
 - Smaller hamlets and features are labeled in a lighter, smaller type,
   ensuring visual hierarchy.
 
-## **🧱 5. Industrial or Port Areas**
+### **🧱 5. Industrial or Port Areas**
 
 - **Gray polygons** with angular geometry near **Saint-Nazaire** and
   **Donges** likely represent:
@@ -65,7 +65,7 @@ orientation**.
   - These are prominent due to their contrasting color and rigid layout
     compared to organic landforms.
 
-## **🌾 6. Rural Background and Roads**
+### **🌾 6. Rural Background and Roads**
 
 - The **background is mostly white**, indicating **non-urban land**,
   with occasional:
@@ -74,7 +74,7 @@ orientation**.
   - **Thin gray lines** for minor roads
   - This high level of generalization gives priority to major features.
 
-# **🔁 Visual Hierarchy Summary**
+## **🔁 Visual Hierarchy Summary**
 
 - **Blue water areas** and **orange/yellow roads** dominate the map,
   defining structure.

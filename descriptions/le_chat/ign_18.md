@@ -41,7 +41,7 @@ This map provides a clear visual representation of the Château des Ducs
 de Bretagne and its immediate surroundings, highlighting key streets and
 landmarks in the vicinity.
 
-## Can you describe the most visually salient elements of the map?
+# Can you describe the most visually salient elements of the map?
 
 The most visually salient elements of the map are:
 

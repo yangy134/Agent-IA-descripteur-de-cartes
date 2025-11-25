@@ -9,8 +9,6 @@ petite impasse.
 
 # Anchors summary
 
-# Can you describe the most visually salient elements of the map?
-
 - College / campus (non-named)  
 - University area shown in green (non-named)  
 - Clusters of bars and restaurants in the south (non-named)  

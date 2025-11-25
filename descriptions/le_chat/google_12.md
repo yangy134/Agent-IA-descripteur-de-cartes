@@ -45,7 +45,7 @@ The map provides a comprehensive view of the Madison area, highlighting
 key geographical features, cities, transportation routes, and notable
 points of interest.
 
-## Can you describe the most visually salient elements of the map?
+# Can you describe the most visually salient elements of the map?
 
 The most visually salient elements of the map are those that stand out
 due to their size, color, or distinct markings. Here are the key

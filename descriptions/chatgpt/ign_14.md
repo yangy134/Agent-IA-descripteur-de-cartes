@@ -3,16 +3,16 @@
 Absolutely! Here\'s a description of the content and visually salient
 elements of the map you just shared:
 
-# 🗺️ Map Overview
+## 🗺️ Map Overview
 
 This is a detailed topographic map of central Nantes, France, covering
 the islands on the Loire River, including Île de Nantes and parts of
 Trentemoult, Beaulieu, and Malakoff. The map is drawn in a modern
 IGN-inspired style, blending clarity with rich urban detail.
 
-# 🔝 Most Visually Salient Elements
+## 🔝 Most Visually Salient Elements
 
-## 🌊 1. The Loire River and Its Branches
+### 🌊 1. The Loire River and Its Branches
 
 - The dominant feature of the map is the Loire River, shown in light
   blue, cutting across the map from west to east.
@@ -25,7 +25,7 @@ IGN-inspired style, blending clarity with rich urban detail.
 - The labeling of \"la Loire\", \"la Loire Neuve\", and other branches
   increases their salience.
 
-## 🏙️ 2. Île de Nantes
+### 🏙️ 2. Île de Nantes
 
 - Central on the map, this large island is shaded with white and light
   grey blocks, denoting mixed-use urban areas.
@@ -38,7 +38,7 @@ IGN-inspired style, blending clarity with rich urban detail.
 - Distinct grid patterns and building outlines make it stand out from
   the more organic surrounding neighborhoods.
 
-## 🌉 3. Bridges and Road Network
+### 🌉 3. Bridges and Road Network
 
 - Numerous yellow roads and bridges crisscross the river, especially:
 
@@ -49,14 +49,14 @@ IGN-inspired style, blending clarity with rich urban detail.
 - These routes create visual anchors and connectivity across water
   bodies.
 
-## 🟨 4. Main Roads and Urban Structure
+### 🟨 4. Main Roads and Urban Structure
 
 - Yellow lines denote primary roads, weaving through the map and
   organizing urban space.
 - Key neighborhoods like Malakoff, Beaulieu, Saint-Jacques, and
   Trentemoult are structured around this network.
 
-## 🚉 5. Rail Infrastructure
+### 🚉 5. Rail Infrastructure
 
 - At the top of the map, a rail yard and station complex is visible
   with:
@@ -65,7 +65,7 @@ IGN-inspired style, blending clarity with rich urban detail.
   - Curved tracks
   - Clearly marked transport hub near la Mahautière
 
-## 🟪 6. Public and Industrial Facilities
+### 🟪 6. Public and Industrial Facilities
 
 - Scattered across the map are colored blocks (purple, grey, etc.)
   representing:
@@ -74,7 +74,7 @@ IGN-inspired style, blending clarity with rich urban detail.
   - Industrial or port buildings
   - Cultural or educational institutions
 
-## 🏘️ 7. Named Neighborhoods
+### 🏘️ 7. Named Neighborhoods
 
 - Residential zones are clearly labeled:
 
@@ -83,7 +83,7 @@ IGN-inspired style, blending clarity with rich urban detail.
 
 - Their labels give strong geographic anchoring and semantic structure.
 
-# 🔁 Visual Hierarchy
+## 🔁 Visual Hierarchy
 
 - Water (blue) dominates the structure and flow of the map.
 - Bridges and roads (yellow) highlight infrastructure and movement.
@@ -100,7 +100,7 @@ Bretagne)?
 Certainly! Here's a detailed description of the **most visually salient
 elements** of the map you\'ve just shared:
 
-# **🗺️ Map Overview**
+## **🗺️ Map Overview**
 
 This is a **mid-scale topographic map** of **central Nantes**, France,
 with an emphasis on the **Loire River** and the surrounding urban
@@ -108,9 +108,9 @@ landscape. The map combines **colorful vector symbols**, **labeling**,
 and **layered geographic information**, in a style reminiscent of IGN
 (Institut Géographique National).
 
-# **🔝 Most Visually Salient Elements**
+## **🔝 Most Visually Salient Elements**
 
-## **🌊 1. The Loire River**
+### **🌊 1. The Loire River**
 
 - **Most dominant visual element**: a broad, light-blue waterway labeled
   **"la Loire"**.
@@ -119,7 +119,7 @@ and **layered geographic information**, in a style reminiscent of IGN
 - Water is rendered in a **uniform blue tone**, creating high contrast
   with surrounding land and infrastructure.
 
-## **🏝️ 2. Islands and Waterfront Districts**
+### **🏝️ 2. Islands and Waterfront Districts**
 
 - Several **islands** stand out, notably:
 
@@ -130,7 +130,7 @@ and **layered geographic information**, in a style reminiscent of IGN
   networks**, with **large white blocks** suggesting industrial or
   institutional zones.
 
-## **🟡 3. Road Network and Bridges**
+### **🟡 3. Road Network and Bridges**
 
 - **Primary roads** are shown in **bright yellow**, making them
   immediately noticeable.
@@ -141,7 +141,7 @@ and **layered geographic information**, in a style reminiscent of IGN
 - **Bridges** (e.g. *Pont Anne-de-Bretagne*, *Pont Haudaudine*) visually
   connect the north and south banks across the Loire.
 
-## **🏙️ 4. Urban Density and Building Structure**
+### **🏙️ 4. Urban Density and Building Structure**
 
 - Densely packed **building footprints** in a **light beige or gray
   tone** dominate the northern and southern urban fabric.
@@ -152,7 +152,7 @@ and **layered geographic information**, in a style reminiscent of IGN
   - **White** for more specialized or institutional buildings (e.g., in
     Beaulieu or la Fonderie)
 
-## **🚆 5. Railway Infrastructure**
+### **🚆 5. Railway Infrastructure**
 
 - At the top of the map, a prominent **railway network** cuts across the
   scene:
@@ -161,7 +161,7 @@ and **layered geographic information**, in a style reminiscent of IGN
   - Multiple train lines and rail yards are depicted, creating a
     distinctive visual texture
 
-## **🟪 6. Landmark Zones (Facilities & Institutions)**
+### **🟪 6. Landmark Zones (Facilities & Institutions)**
 
 - Distinct blocks in **purple or gray** denote:
 
@@ -172,7 +172,7 @@ and **layered geographic information**, in a style reminiscent of IGN
 - Found on both banks of the Loire, especially concentrated in **Île de
   Nantes** and **Beaulieu**.
 
-## **🏘️ 7. Neighborhood Names and Labels**
+### **🏘️ 7. Neighborhood Names and Labels**
 
 - Numerous **neighborhoods are labeled** in a soft, unobtrusive black
   text:
@@ -183,7 +183,7 @@ and **layered geographic information**, in a style reminiscent of IGN
 - These textual elements structure the map semantically and visually
   without cluttering.
 
-# **🔁 Overall Visual Hierarchy**
+## **🔁 Overall Visual Hierarchy**
 
 - **Blue (water) + Yellow (roads)** dominate the map\'s visual rhythm.
 - **Large white blocks** interrupt the flow to indicate high-importance

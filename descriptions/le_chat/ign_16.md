@@ -46,7 +46,7 @@ Overall, the map depicts a well-developed urban area with a mix of
 residential, educational, and recreational facilities, along with
 notable green spaces and water bodies.
 
-## Can you describe the most visually salient elements of the map?
+# Can you describe the most visually salient elements of the map?
 
 Certainly! The most visually salient elements of the map are those that
 stand out due to their size, color, or distinctiveness. Here are the key
