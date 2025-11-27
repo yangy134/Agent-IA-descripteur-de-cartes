@@ -1,9 +1,7 @@
 # Can you describe the content of this map?
 
-C\'est un pays hispanique, on voit une pointe de terre qui se découpe.
-Il y a la mer, l\'océan autour. Il y a un aéroport, des zones de
-marécages. Il y a de grands axes, sûrement des autoroutes, et il y a des
-bois.
+It is a Hispanic country, you can see a point of land jutting out.
+There is the sea, the ocean all around. There is an airport, areas of swamp land. There are major roads, probably highways, and there are woods.
 
 # Anchors summary
 

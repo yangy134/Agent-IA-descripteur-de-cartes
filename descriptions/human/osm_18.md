@@ -1,17 +1,6 @@
 # Can you describe the content of this map?
 
-C\'est un plan plus qu\'une carte, un plan d\'un centre-ville qui
-localise tous les restaurants, les bars, les hôtels, sûrement un guide
-touristique pour trouver de quoi se loger, de quoi manger, de quoi se
-garer. Il y a l\'axe principal, la Rambla, donc je pense que c\'est à
-Barcelone avec la grande place à côté avec une fontaine. Il y a des axes
-quadrillés de la ville avec des numéros à chaque petit point de
-restaurant, donc on peut imaginer qu\'il manque une légende. À part les
-zones de restauration et de parking, on a aussi quelques magasins de
-souvenirs. C\'est vraiment à destination des touristes. Il y a un
-théâtre à l\'ouest, quelques points touristiques, un parc pour les
-enfants au nord-est et au nord-ouest une zone boisée à côté de l\'hôtel
-Flore Park.
+It is more of a map than a guidebook, a map of the city center that shows the location of all the restaurants, bars, and hotels. It is definitely a tourist guide to help you find places to stay, eat, and park. There is the main street, La Rambla, so I think it is in Barcelona with the big square next to it with a fountain. There are grid lines across the city with numbers at each small restaurant, so we can imagine that a legend is missing. Apart from the restaurant and parking areas, there are also a few souvenir shops. It is really aimed at tourists. There is a theater to the west, a few tourist attractions, a park for children to the northeast, and to the northwest a wooded area next to the Flore Park Hotel.
 
 # Anchors summary
 

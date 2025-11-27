@@ -1,24 +1,6 @@
 # Can you describe the content of this map?
 
-De nouveau un guide touristique de Barcelone, plus détaillé que le
-précédent, avec les monuments à voir, les cimetières, les petits
-bâtiments doivent être tout ce qu\'il y a à visiter. Avec les centres
-d\'intérêt, on voit même les églises, je dirais une synagogue
-complètement au nord. Des théâtres. Les rues sont bien indiquées, on
-voit les quartiers de chaque côté des Ramblas. Avec les zones de
-shopping représentées avec des caddies. La place de Catalogne
-complètement au nord-ouest. À côté, je pense, la gendarmerie ou un
-commissariat. Des théâtres au nord, représentés par des petits masques.
-Des bibliothèques au sud, représentées par des livres, et les petits
-monuments qui doivent représenter des petits châteaux ou des zones à
-visiter. Le carré de Jérusalem. Les lieux de culte sont bien représentés
-sur cette carte. Les petits sigles en noir me font penser à des lieux de
-culte, mais je ne saurais pas dire si c\'est vraiment ça. En marron, le
-côté à visiter avec les points d\'intérêt. Donc là, c\'est vraiment pour
-la visite, on n\'a pas les points d\'intérêt pour la restauration ou
-pour le couchage, c\'est que pour la visite. Avec un sens de circulation
-représenté par des flèches. Vue d\'ensemble pour ce qui est à visiter
-autour des Ramblas.
+Once again, a tourist guide to Barcelona, more detailed than the previous one, with monuments to see, cemeteries, and small buildings that must be everything there is to visit. With points of interest, you can even see churches, and I would say a synagogue completely to the north. Theaters. The streets are well marked, and you can see the neighborhoods on either side of Las Ramblas. With shopping areas represented by shopping carts. The Plaza de Cataluña in the far northwest. Next to it, I think, is the police station or a police station. Theaters in the north, represented by small masks. Libraries in the south, represented by books, and small monuments that must represent small castles or areas to visit. The Jerusalem Square. Places of worship are well represented on this map. The small black symbols make me think of places of worship, but I can\'t say for sure if that is what they are. In brown, the side to visit with points of interest. So here, it is really for visiting, we don't have points of interest for restaurants or accommodation, it is just for visiting. With the direction of traffic represented by arrows. Overview of what to visit around Las Ramblas.
 
 # Anchors summary
 

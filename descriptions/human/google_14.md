@@ -1,16 +1,7 @@
 # Can you describe the content of this map?
-Plan pour touriste, puisqu\'on y voit les zones pour se loger, les
-hôtels et les restaurants en rose et en orange. Un grand axe en bleu
-avec un numéro 27, dont on ne sait pas à quoi il correspond. La légende
-manque. Une zone urbaine au milieu d\'une étendue d\'eau, un lac
-sûrement. Avec un parc ou un bois complètement au nord. Pas assez précis
-pour voir le nom des rues. Vue d\'ensemble d\'un bout de terre. On voit
-aussi une voie ferrée complètement à l\'est. Quelques accès, quelques
-routes. Une impression que ce n\'est pas trop habité. On ne sait pas :
-est-ce que tout ce blanc et ce gris sont des petites routes ? Je dirais
-qu\'il y a une zone urbaine en jaune autour de S Edgemere St, pas loin
-du restaurant Harvest, et le reste, je dirais que c\'est un peu plus
-sauvage, mais sans grande certitude.
+A map for tourists, as it shows accommodation areas, hotels, and restaurants in pink and orange. A major road in blue with the number 27, which we don't know what it corresponds to. The legend is missing. An urban area in the middle of a body of water, probably a lake.
+With a park or woods in the far north. Not detailed enough to see the names of the streets. Overview of a piece of land. We can also see a railroad track in the far east. A few access points, a few roads. It gives the impression that it is not very populated. It is unclear: are all those white and gray areas small roads? I would say there is an urban area in yellow around S Edgemere St, not far from the Harvest restaurant, and the rest, I would say, is a little more wild, but I\'m not entirely sure.
+
 
 # Anchors summary
 

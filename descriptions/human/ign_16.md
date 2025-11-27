@@ -1,9 +1,6 @@
 # Can you describe the content of this map?
-Ce que l\'on voit en premier, c\'est le stade, on voit aussi un parc, un
-parcours sportif à côté et à l\'extérieur d\'autres équipements
-sportifs. Le stade est au milieu d\'une ville avec de grands axes, un
-cours d\'eau et encore un complexe sportif au nord-est de la carte. Le
-parc est bien desservi et facilement accessible.
+The first thing you see is the stadium, but you can also see a park, a fitness trail next to it, and other sports facilities outside.
+The stadium is in the middle of a city with major roads, a waterway, and another sports complex to the northeast of the map. The park is well connected and easily accessible.
 
 # Anchors summary
 

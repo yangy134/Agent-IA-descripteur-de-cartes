@@ -1,11 +1,8 @@
 # Can you describe the content of this map?
 
-Une carte bien zoomée, puisque l\'on voit jusqu\'aux toutes petites rues
-et impasses. Elle représente une ville américaine ou anglaise. On voit
-un collège ou un campus, une zone universitaire en vert et quelques
-zones de bars et de restauration au sud. Les rues sont bien indiquées.
-On distingue bien les zones, on imagine bien la maison au bout de la
-petite impasse.
+A well-zoomed map, since you can see even the smallest streets and dead ends. It shows an American or English city. You can see a college or campus, a university area in green, and a few areas with bars and restaurants to the south. The streets are clearly marked.
+The areas are easy to distinguish, and you can easily imagine the house at the end of the
+small dead end.
 
 # Anchors summary
 

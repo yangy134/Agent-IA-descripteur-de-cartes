@@ -1,13 +1,8 @@
 # Can you describe the content of this map?
 
-C\'est un plan d\'accès pour aller visiter le château des Ducs de
-Bretagne avec les axes pour y accéder, soit par la rue Premion, soit par
-la rue des États, soit par la rue Rodier. Il y a plusieurs accès. Il est
-sûrement aussi accessible par la place de la Duchesse. C\'est un château
-avec des chemins en pointillé qui sont, je suppose, des chemins piétons,
-et de grands axes au sud-est en jaune qui sont probablement des voies
-rapides ou des grandes avenues. Un plan touristique pour se rendre dans
-ce château qui est bordé d\'eau.
+This is a map showing how to get to the Château des Ducs de Bretagne, with the main routes to get there, either via Rue Premion, Rue des États, or Rue Rodier.
+There are several ways to get there. It is There are several access points. It is surely also accessible via Place de la Duchesse. It is a castle with dotted lines, which I assume are footpaths, and large roads in the southeast marked in yellow, which are probably
+expressways or major avenues. A tourist map for getting to this castle, which is surrounded by water.
 
 # Anchors summary
 

@@ -1,10 +1,6 @@
 # Can you describe the content of this map?
 
-C\'est une carte de nuit, peut-être issue d\'un mode GPS de nuit. Elle
-représente Central Park. On voit le lac au milieu avec, à l\'ouest,
-toutes les routes bien quadrillées de Central Park. Une transversale, un
-accès des rues à l\'est et à l\'ouest, et au milieu, ce lac et tous ces
-petits pointillés qui sont probablement des chemins.
+It is a night map, possibly from a night GPS mode. It shows Central Park. You can see the lake in the middle with, to the west, all the neatly laid out roads of Central Park. A crossroad, access to the streets to the east and west, and in the middle, the lake and all those little dots, which are probably paths.
 
 # Anchors summary
 

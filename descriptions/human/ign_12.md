@@ -1,12 +1,7 @@
 # Can you describe the content of this map?
 
-Une zone de Bretagne, près de Saint-Nazaire. Il y a de grands axes, une
-ligne en pointillé vert qui représente sûrement une voie verte, une
-piste cyclable. Il y a un aéroport à côté et pas très loin des marais.
-Représenté par la zone en pointillé sur l\'estuaire, il y a peut-être du
-sable. Il y a aussi de petits cours d\'eau. Les routes sont sûrement des
-départementales ou des communales, il n\'y a pas de grands axes. Cette
-carte représente probablement la banlieue de Saint-Nazaire.
+An area of Brittany, near Saint-Nazaire. There are major roads, a green dotted line that probably represents a greenway, a bike path. There is an airport nearby and not far from the marshes.
+Represented by the dotted area on the estuary, there may be sand. There are also small streams. The roads are probably departmental or municipal roads; there are no major roads. This map probably shows the suburbs of Saint-Nazaire.
 
 # Anchors summary
 

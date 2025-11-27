@@ -1,13 +1,6 @@
 # Can you describe the content of this map?
 
-On voit une carte pas très détaillée d\'une île au milieu de la Loire
-avec des axes routiers en jaune. Au sud, des noms de routes ou d\'axes,
-alors qu\'au nord il n\'y a pas grand-chose d\'annoté. Il y a des ponts
-qui traversent pour aller sur l\'île. Les axes noirs sont peut-être des
-pistes cyclables. Cela manque de précision et de légende. On ne sait pas
-trop à quoi correspondent les bâtiments et peut-être un stade au milieu
-de l\'île. Cela manque de précision. En pointillé bleu sur la Loire,
-c\'est peut-être des axes pour les bateaux.
+We see a not very detailed map of an island in the middle of the Loire with roads marked in yellow. In the south, there are names of roads or routes, while in the north there is not much annotation. There are bridges crossing over to the island. The black lines may be bike paths. The map lacks precision and a legend. It is unclear what the buildings are, and there may be a stadium in the middle of the island. The map lacks precision. The blue dotted lines on the Loire River may be boat routes.
 
 # Anchors summary
 

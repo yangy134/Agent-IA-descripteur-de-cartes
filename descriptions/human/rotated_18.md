@@ -1,12 +1,7 @@
 # Can you describe the content of this map?
 
-Un plan détaillé d\'un quartier de Paris avec l\'université Gustave
-Eiffel au nord-ouest. Des avenues avec, sous l\'avenue Blaise Pascal,
-l\'école des ponts. Il y a de grandes écoles, l\'école d\'urbanisme au
-sud-est, des restos (Les Lumières, Au Poké, Addict Café). Il y a un
-parking qui part du boulevard Copernic, un hôtel, des bureaux. Voila,
-c\'est un petit plan d\'un quartier universitaire. Avec en vert
-peut-être de la verdure.
+A detailed map of a neighborhood in Paris with Gustave Eiffel University in the northwest. Avenues with, under Blaise Pascal Avenue,
+the École des Ponts. There are prestigious universities, the urban planning school in the southeast, restaurants (Les Lumières, Au Poké, Addict Café). There is a parking lot starting at Boulevard Copernic, a hotel, offices. There you go, it is a small map of a university neighborhood. With green perhaps representing greenery.
 
 # Anchors summary
 
