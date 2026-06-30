@@ -1,0 +1,287 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=A small piece of land in the middle of the water with a bridge crossing the water, but which must necessarily connect to another land area.
+2-1	42-43	A	p[2]	*[2]	_	
+2-2	44-49	small	p[2]	*[2]	_	
+2-3	50-55	piece	p[2]	*[2]	_	
+2-4	56-58	of	p[2]	*[2]	_	
+2-5	59-63	land	p[2]	*[2]	_	
+2-6	64-66	in	p[2]	*[2]	_	
+2-7	67-70	the	p[2]	*[2]	_	
+2-8	71-77	middle	p[2]	*[2]	_	
+2-9	78-80	of	p[2]	*[2]	_	
+2-10	81-84	the	p[2]	*[2]	_	
+2-11	85-90	water	p[2]	*[2]	_	
+2-12	91-95	with	p[2]	*[2]	_	
+2-13	96-97	a	p[2]	*[2]	_	
+2-14	98-104	bridge	p[2]	*[2]	_	
+2-15	105-113	crossing	p[2]	*[2]	spatial relation	
+2-16	114-117	the	p[2]	*[2]	_	
+2-17	118-123	water	p[2]	*[2]	_	
+2-18	123-124	,	p[2]	*[2]	_	
+2-19	125-128	but	p[2]	*[2]	_	
+2-20	129-134	which	p[2]	*[2]	_	
+2-21	135-139	must	p[2]	*[2]	_	
+2-22	140-151	necessarily	p[2]	*[2]	_	
+2-23	152-159	connect	p[2]	*[2]	spatial relation	
+2-24	160-162	to	p[2]	*[2]	_	
+2-25	163-170	another	p[2]	*[2]	_	
+2-26	171-175	land	p[2]	*[2]	_	
+2-27	176-180	area	p[2]	*[2]	_	
+2-28	180-181	.	p[2]	*[2]	_	
+
+#Text=It is a rough map with very few details, so it is probably a tourist guide to help locate points of interest.
+3-1	182-184	It	p[2]	*[2]	_	
+3-2	185-187	is	p[2]	*[2]	_	
+3-3	188-189	a	p[2]	*[2]	_	
+3-4	190-195	rough	p[2]	*[2]	_	
+3-5	196-199	map	p[2]	*[2]	_	
+3-6	200-204	with	p[2]	*[2]	_	
+3-7	205-209	very	p[2]	*[2]	_	
+3-8	210-213	few	p[2]	*[2]	_	
+3-9	214-221	details	p[2]	*[2]	_	
+3-10	221-222	,	p[2]	*[2]	_	
+3-11	223-225	so	p[2]	*[2]	_	
+3-12	226-228	it	p[2]	*[2]	_	
+3-13	229-231	is	p[2]	*[2]	_	
+3-14	232-240	probably	p[2]	*[2]	_	
+3-15	241-242	a	p[2]	*[2]	_	
+3-16	243-250	tourist	p[2]	*[2]	_	
+3-17	251-256	guide	p[2]	*[2]	_	
+3-18	257-259	to	p[2]	*[2]	_	
+3-19	260-264	help	p[2]	*[2]	_	
+3-20	265-271	locate	p[2]	*[2]	_	
+3-21	272-278	points	p[2]	*[2]	_	
+3-22	279-281	of	p[2]	*[2]	_	
+3-23	282-290	interest	p[2]	*[2]	_	
+3-24	290-291	.	p[2]	*[2]	_	
+
+#Text=We can see that there is a fishing area, an area where you can ride a bike in the north, an area to visit, a carousel, two restaurants, a hotel, and restrooms.
+4-1	292-294	We	p[2]	*[2]	_	
+4-2	295-298	can	p[2]	*[2]	_	
+4-3	299-302	see	p[2]	*[2]	_	
+4-4	303-307	that	p[2]	*[2]	_	
+4-5	308-313	there	p[2]	*[2]	_	
+4-6	314-316	is	p[2]	*[2]	_	
+4-7	317-318	a	p[2]	*[2]	_	
+4-8	319-326	fishing	p[2]	*[2]	_	
+4-9	327-331	area	p[2]	*[2]	_	
+4-10	331-332	,	p[2]	*[2]	_	
+4-11	333-335	an	p[2]	*[2]	_	
+4-12	336-340	area	p[2]	*[2]	_	
+4-13	341-346	where	p[2]	*[2]	_	
+4-14	347-350	you	p[2]	*[2]	_	
+4-15	351-354	can	p[2]	*[2]	_	
+4-16	355-359	ride	p[2]	*[2]	_	
+4-17	360-361	a	p[2]	*[2]	_	
+4-18	362-366	bike	p[2]	*[2]	_	
+4-19	367-369	in	p[2]	*[2]	spatial relation[4]	
+4-20	370-373	the	p[2]	*[2]	spatial relation[4]	
+4-21	374-379	north	p[2]	*[2]	spatial relation[4]	
+4-22	379-380	,	p[2]	*[2]	_	
+4-23	381-383	an	p[2]	*[2]	_	
+4-24	384-388	area	p[2]	*[2]	_	
+4-25	389-391	to	p[2]	*[2]	_	
+4-26	392-397	visit	p[2]	*[2]	_	
+4-27	397-398	,	p[2]	*[2]	_	
+4-28	399-400	a	p[2]	*[2]	_	
+4-29	401-409	carousel	p[2]	*[2]	_	
+4-30	409-410	,	p[2]	*[2]	_	
+4-31	411-414	two	p[2]	*[2]	_	
+4-32	415-426	restaurants	p[2]	*[2]	_	
+4-33	426-427	,	p[2]	*[2]	_	
+4-34	428-429	a	p[2]	*[2]	_	
+4-35	430-435	hotel	p[2]	*[2]	_	
+4-36	435-436	,	p[2]	*[2]	_	
+4-37	437-440	and	p[2]	*[2]	_	
+4-38	441-450	restrooms	p[2]	*[2]	_	
+4-39	450-451	.	p[2]	*[2]	_	
+
+#Text=There are a few main roads with street names, and in the middle, commercial areas and residential areas.
+5-1	452-457	There	p[2]	*[2]	_	
+5-2	458-461	are	p[2]	*[2]	_	
+5-3	462-463	a	p[2]	*[2]	_	
+5-4	464-467	few	p[2]	*[2]	_	
+5-5	468-472	main	p[2]	*[2]	_	
+5-6	473-478	roads	p[2]	*[2]	_	
+5-7	479-483	with	p[2]	*[2]	_	
+5-8	484-490	street	p[2]	*[2]	_	
+5-9	491-496	names	p[2]	*[2]	_	
+5-10	496-497	,	p[2]	*[2]	_	
+5-11	498-501	and	p[2]	*[2]	_	
+5-12	502-504	in	p[2]	*[2]	spatial relation[5]	
+5-13	505-508	the	p[2]	*[2]	spatial relation[5]	
+5-14	509-515	middle	p[2]	*[2]	spatial relation[5]	
+5-15	515-516	,	p[2]	*[2]	_	
+5-16	517-527	commercial	p[2]	*[2]	_	
+5-17	528-533	areas	p[2]	*[2]	_	
+5-18	534-537	and	p[2]	*[2]	_	
+5-19	538-549	residential	p[2]	*[2]	_	
+5-20	550-555	areas	p[2]	*[2]	_	
+5-21	555-556	.	p[2]	*[2]	_	
+
+#Text=There is some greenery around the edges, probably wooded or grassy areas.
+6-1	557-562	There	p[2]	*[2]	_	
+6-2	563-565	is	p[2]	*[2]	_	
+6-3	566-570	some	p[2]	*[2]	_	
+6-4	571-579	greenery	p[2]	*[2]	_	
+6-5	580-586	around	p[2]	*[2]	spatial relation[6]	
+6-6	587-590	the	p[2]	*[2]	spatial relation[6]	
+6-7	591-596	edges	p[2]	*[2]	spatial relation[6]	
+6-8	596-597	,	p[2]	*[2]	_	
+6-9	598-606	probably	p[2]	*[2]	_	
+6-10	607-613	wooded	p[2]	*[2]	_	
+6-11	614-616	or	p[2]	*[2]	_	
+6-12	617-623	grassy	p[2]	*[2]	_	
+6-13	624-629	areas	p[2]	*[2]	_	
+6-14	629-630	.	p[2]	*[2]	_	
+
+#Text=Anchors summary  Îlot / petit bout de terre au milieu de l’eau (non nommé) Pont traversant l’eau et reliant à une autre zone terrestre (non nommé) Zone de pêche (non nommée) Zone de vélo au nord (piste/zone cyclable) (non nommée) Zone à visiter / point d’intérêt touristique (non nommé) Carrousel (non nommé) Deux restaurants (non nommés) Hôtel (non nommé) Toilettes / sanitaires (non nommés) Grands axes / rues avec noms affichés (non nommés) Zones commerciales (non nommées) Zones d’habitations / résidentielles (non nommées) Espaces verts à la pointe (zones boisées ou herbeuses) (non nommés)
+7-1	631-638	Anchors	h1[3]	*[3]	_	
+7-2	639-646	summary	h1[3]	*[3]	_	
+7-3	648-652	Îlot	_	_	_	
+7-4	653-654	/	_	_	_	
+7-5	655-660	petit	_	_	_	
+7-6	661-665	bout	_	_	_	
+7-7	666-668	de	_	_	_	
+7-8	669-674	terre	_	_	_	
+7-9	675-677	au	_	_	_	
+7-10	678-684	milieu	_	_	_	
+7-11	685-687	de	_	_	_	
+7-12	688-689	l	_	_	_	
+7-13	689-690	’	_	_	_	
+7-14	690-693	eau	_	_	_	
+7-15	694-695	(	_	_	_	
+7-16	695-698	non	_	_	_	
+7-17	699-704	nommé	_	_	_	
+7-18	704-705	)	_	_	_	
+7-19	706-710	Pont	_	_	_	
+7-20	711-721	traversant	_	_	_	
+7-21	722-723	l	_	_	_	
+7-22	723-724	’	_	_	_	
+7-23	724-727	eau	_	_	_	
+7-24	728-730	et	_	_	_	
+7-25	731-738	reliant	_	_	_	
+7-26	739-740	à	_	_	_	
+7-27	741-744	une	_	_	_	
+7-28	745-750	autre	_	_	_	
+7-29	751-755	zone	_	_	_	
+7-30	756-765	terrestre	_	_	_	
+7-31	766-767	(	_	_	_	
+7-32	767-770	non	_	_	_	
+7-33	771-776	nommé	_	_	_	
+7-34	776-777	)	_	_	_	
+7-35	778-782	Zone	_	_	_	
+7-36	783-785	de	_	_	_	
+7-37	786-791	pêche	_	_	_	
+7-38	792-793	(	_	_	_	
+7-39	793-796	non	_	_	_	
+7-40	797-803	nommée	_	_	_	
+7-41	803-804	)	_	_	_	
+7-42	805-809	Zone	_	_	_	
+7-43	810-812	de	_	_	_	
+7-44	813-817	vélo	_	_	_	
+7-45	818-820	au	_	_	_	
+7-46	821-825	nord	_	_	_	
+7-47	826-827	(	_	_	_	
+7-48	827-832	piste	_	_	_	
+7-49	832-833	/	_	_	_	
+7-50	833-837	zone	_	_	_	
+7-51	838-846	cyclable	_	_	_	
+7-52	846-847	)	_	_	_	
+7-53	848-849	(	_	_	_	
+7-54	849-852	non	_	_	_	
+7-55	853-859	nommée	_	_	_	
+7-56	859-860	)	_	_	_	
+7-57	861-865	Zone	_	_	_	
+7-58	866-867	à	_	_	_	
+7-59	868-875	visiter	_	_	_	
+7-60	876-877	/	_	_	_	
+7-61	878-883	point	_	_	_	
+7-62	884-885	d	_	_	_	
+7-63	885-886	’	_	_	_	
+7-64	886-893	intérêt	_	_	_	
+7-65	894-905	touristique	_	_	_	
+7-66	906-907	(	_	_	_	
+7-67	907-910	non	_	_	_	
+7-68	911-916	nommé	_	_	_	
+7-69	916-917	)	_	_	_	
+7-70	918-927	Carrousel	_	_	_	
+7-71	928-929	(	_	_	_	
+7-72	929-932	non	_	_	_	
+7-73	933-938	nommé	_	_	_	
+7-74	938-939	)	_	_	_	
+7-75	940-944	Deux	_	_	_	
+7-76	945-956	restaurants	_	_	_	
+7-77	957-958	(	_	_	_	
+7-78	958-961	non	_	_	_	
+7-79	962-968	nommés	_	_	_	
+7-80	968-969	)	_	_	_	
+7-81	970-975	Hôtel	_	_	_	
+7-82	976-977	(	_	_	_	
+7-83	977-980	non	_	_	_	
+7-84	981-986	nommé	_	_	_	
+7-85	986-987	)	_	_	_	
+7-86	988-997	Toilettes	_	_	_	
+7-87	998-999	/	_	_	_	
+7-88	1000-1010	sanitaires	_	_	_	
+7-89	1011-1012	(	_	_	_	
+7-90	1012-1015	non	_	_	_	
+7-91	1016-1022	nommés	_	_	_	
+7-92	1022-1023	)	_	_	_	
+7-93	1024-1030	Grands	_	_	_	
+7-94	1031-1035	axes	_	_	_	
+7-95	1036-1037	/	_	_	_	
+7-96	1038-1042	rues	_	_	_	
+7-97	1043-1047	avec	_	_	_	
+7-98	1048-1052	noms	_	_	_	
+7-99	1053-1061	affichés	_	_	_	
+7-100	1062-1063	(	_	_	_	
+7-101	1063-1066	non	_	_	_	
+7-102	1067-1073	nommés	_	_	_	
+7-103	1073-1074	)	_	_	_	
+7-104	1075-1080	Zones	_	_	_	
+7-105	1081-1093	commerciales	_	_	_	
+7-106	1094-1095	(	_	_	_	
+7-107	1095-1098	non	_	_	_	
+7-108	1099-1106	nommées	_	_	_	
+7-109	1106-1107	)	_	_	_	
+7-110	1108-1113	Zones	_	_	_	
+7-111	1114-1115	d	_	_	_	
+7-112	1115-1116	’	_	_	_	
+7-113	1116-1127	habitations	_	_	_	
+7-114	1128-1129	/	_	_	_	
+7-115	1130-1144	résidentielles	_	_	_	
+7-116	1145-1146	(	_	_	_	
+7-117	1146-1149	non	_	_	_	
+7-118	1150-1157	nommées	_	_	_	
+7-119	1157-1158	)	_	_	_	
+7-120	1159-1166	Espaces	_	_	_	
+7-121	1167-1172	verts	_	_	_	
+7-122	1173-1174	à	_	_	_	
+7-123	1175-1177	la	_	_	_	
+7-124	1178-1184	pointe	_	_	_	
+7-125	1185-1186	(	_	_	_	
+7-126	1186-1191	zones	_	_	_	
+7-127	1192-1199	boisées	_	_	_	
+7-128	1200-1202	ou	_	_	_	
+7-129	1203-1212	herbeuses	_	_	_	
+7-130	1212-1213	)	_	_	_	
+7-131	1214-1215	(	_	_	_	
+7-132	1215-1218	non	_	_	_	
+7-133	1219-1225	nommés	_	_	_	
+7-134	1225-1226	)	_	_	_	

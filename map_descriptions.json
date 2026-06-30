@@ -2403,6 +2403,7 @@
         "map_name": "ign_18",
         "scale": "18",
         "model": "human",
+        "human_id": 1,
         "map_description": "C\\'est un plan d\\'acc\u00e8s pour aller visiter le ch\u00e2teau des Ducs de\nBretagne avec les axes pour y acc\u00e9der, soit par la rue Premion, soit par\nla rue des \u00c9tats, soit par la rue Rodier. Il y a plusieurs acc\u00e8s. Il est\ns\u00fbrement aussi accessible par la place de la Duchesse. C\\'est un ch\u00e2teau\navec des chemins en pointill\u00e9 qui sont, je suppose, des chemins pi\u00e9tons,\net de grands axes au sud-est en jaune qui sont probablement des voies\nrapides ou des grandes avenues. Un plan touristique pour se rendre dans\nce ch\u00e2teau qui est bord\u00e9 d\\'eau.",
         "anchors_description": "",
         "anchors": [
@@ -2421,6 +2422,7 @@
         "map_name": "google_18",
         "scale": "18",
         "model": "human",
+        "human_id": 1,
         "map_description": "Petit bout de terre au milieu de l\\'eau avec un pont qui traverse\nl\\'eau, mais qui doit forc\u00e9ment rejoindre une autre zone terrestre.\nC\\'est un aper\u00e7u de carte pas tr\u00e8s pr\u00e9cis avec tr\u00e8s peu d\\'indications,\ndonc s\u00fbrement un guide pour touriste pour localiser les points\nd\\'int\u00e9r\u00eat. On voit qu\\'il y a une zone de p\u00eache, une zone o\u00f9 l\\'on peut\nfaire du v\u00e9lo au nord, une zone \u00e0 visiter, un carousel, deux\nrestaurants, un h\u00f4tel, des toilettes. Avec quelques grands axes o\u00f9 il y\na le nom des rues, de grands axes, et au milieu, des zones commerciales\net des habitations. Un peu de vert autour, \u00e0 la pointe, probablement des\nzones bois\u00e9es ou herbeuses.",
         "anchors_description": "",
         "anchors": [
@@ -2443,6 +2445,7 @@
         "map_name": "osm_14",
         "scale": "14",
         "model": "human",
+        "human_id": 1,
         "map_description": "C\\'est une carte moins pr\u00e9cise o\u00f9 l\\'on voit le nom des villes, c\\'est\nplus agrandi, plus g\u00e9n\u00e9ral, c\\'est plus une vue d\\'ensemble. Il y a des\nzones bois\u00e9es au nord-ouest avec de petites collines puisque l\\'on voit\nune altitude \u00e0 140 m avec peut-\u00eatre un petit ch\u00e2teau en dessous. Des\nzones urbaines et des zones plus bois\u00e9es. Avec une autre zone bois\u00e9e au\nsud-ouest avec un petit cours d\\'eau et compl\u00e8tement au sud-ouest un\nbarrage peut-\u00eatre. De grands axes en orange et rouge, s\u00fbrement des\nautoroutes, un chemin de fer mat\u00e9rialis\u00e9 en noir avec des petits traits\nblancs. Une universit\u00e9 et compl\u00e8tement au nord-est un port avec un\ncimeti\u00e8re peut-\u00eatre mat\u00e9rialis\u00e9 par les petites croix. Un stade au\nsud-ouest.",
         "anchors_description": "",
         "anchors": [
@@ -2465,6 +2468,7 @@
         "map_name": "google_16",
         "scale": "16",
         "model": "human",
+        "human_id": 1,
         "map_description": "Une carte bien zoom\u00e9e, puisque l\\'on voit jusqu\\'aux toutes petites rues\net impasses. Elle repr\u00e9sente une ville am\u00e9ricaine ou anglaise. On voit\nun coll\u00e8ge ou un campus, une zone universitaire en vert et quelques\nzones de bars et de restauration au sud. Les rues sont bien indiqu\u00e9es.\nOn distingue bien les zones, on imagine bien la maison au bout de la\npetite impasse.",
         "anchors_description": "",
         "anchors": [
@@ -2481,6 +2485,7 @@
         "map_name": "rotated_18",
         "scale": "18",
         "model": "human",
+        "human_id": 1,
         "map_description": "Un plan d\u00e9taill\u00e9 d\\'un quartier de Paris avec l\\'universit\u00e9 Gustave\nEiffel au nord-ouest. Des avenues avec, sous l\\'avenue Blaise Pascal,\nl\\'\u00e9cole des ponts. Il y a de grandes \u00e9coles, l\\'\u00e9cole d\\'urbanisme au\nsud-est, des restos (Les Lumi\u00e8res, Au Pok\u00e9, Addict Caf\u00e9). Il y a un\nparking qui part du boulevard Copernic, un h\u00f4tel, des bureaux. Voila,\nc\\'est un petit plan d\\'un quartier universitaire. Avec en vert\npeut-\u00eatre de la verdure.",
         "anchors_description": "",
         "anchors": [
@@ -2504,6 +2509,7 @@
         "map_name": "ign_12",
         "scale": "12",
         "model": "human",
+        "human_id": 1,
         "map_description": "Une zone de Bretagne, pr\u00e8s de Saint-Nazaire. Il y a de grands axes, une\nligne en pointill\u00e9 vert qui repr\u00e9sente s\u00fbrement une voie verte, une\npiste cyclable. Il y a un a\u00e9roport \u00e0 c\u00f4t\u00e9 et pas tr\u00e8s loin des marais.\nRepr\u00e9sent\u00e9 par la zone en pointill\u00e9 sur l\\'estuaire, il y a peut-\u00eatre du\nsable. Il y a aussi de petits cours d\\'eau. Les routes sont s\u00fbrement des\nd\u00e9partementales ou des communales, il n\\'y a pas de grands axes. Cette\ncarte repr\u00e9sente probablement la banlieue de Saint-Nazaire.",
         "anchors_description": "",
         "anchors": [
@@ -2521,6 +2527,7 @@
         "map_name": "google_12",
         "scale": "12",
         "model": "human",
+        "human_id": 1,
         "map_description": "On voit un petit bout d\\'un \u00c9tat d\\'Am\u00e9rique. Il y a deux grands lacs au\nmilieu, le Lake Mendota et le Lake Monona. On dirait une zone de p\u00eache\nau nord. Il y a une universit\u00e9 \u00e0 l\\'ouest, au sud un chemin de\nrandonn\u00e9e. On a pas mal de vert, donc c\\'est une zone bois\u00e9e. Plus \u00e0\nl\\'est, une zone un peu plus urbaine \u00e0 c\u00f4t\u00e9 du lac Monona avec des axes\nroutiers, de grands axes. Il y a un jardin botanique au-dessus du lac.\nOn dirait une carte issue d\\'un moteur de recherche pour un touriste\npour aller se loger, puisque l\\'on voit un h\u00f4tel bien not\u00e9. Un a\u00e9roport\nau nord et peut-\u00eatre un h\u00f4pital au nord-est.",
         "anchors_description": "",
         "anchors": [
@@ -2541,6 +2548,7 @@
         "map_name": "ign_16",
         "scale": "16",
         "model": "human",
+        "human_id": 1,
         "map_description": "parcours sportif \u00e0 c\u00f4t\u00e9 et \u00e0 l\\'ext\u00e9rieur d\\'autres \u00e9quipements\nsportifs. Le stade est au milieu d\\'une ville avec de grands axes, un\ncours d\\'eau et encore un complexe sportif au nord-est de la carte. Le\nparc est bien desservi et facilement accessible.",
         "anchors_description": "",
         "anchors": [
@@ -2558,6 +2566,7 @@
         "map_name": "osm_12",
         "scale": "12",
         "model": "human",
+        "human_id": 1,
         "map_description": "C\\'est un pays hispanique, on voit une pointe de terre qui se d\u00e9coupe.\nIl y a la mer, l\\'oc\u00e9an autour. Il y a un a\u00e9roport, des zones de\nmar\u00e9cages. Il y a de grands axes, s\u00fbrement des autoroutes, et il y a des\nbois.",
         "anchors_description": "",
         "anchors": [
@@ -2574,6 +2583,7 @@
         "map_name": "no_label_17",
         "scale": "17",
         "model": "human",
+        "human_id": 1,
         "map_description": "Une carte sans aucune annotation, sans indications, simplement des\nzones. On voit un fleuve avec un pont. Des zones urbaines et des zones\nen vert de parcs ou bois\u00e9es. Un pont de chemin de fer au sud-est, je\npense, qui traverse le fleuve. Les couleurs sont trop p\u00e2les, on ne voit\npas bien, et il manque aussi une l\u00e9gende. En jaune, on suppose de grands\naxes ou une voie rapide, peut-\u00eatre une autoroute.",
         "anchors_description": "",
         "anchors": [
@@ -2588,6 +2598,7 @@
         "map_name": "osm_16",
         "scale": "16",
         "model": "human",
+        "human_id": 1,
         "map_description": "De nouveau un guide touristique de Barcelone, plus d\u00e9taill\u00e9 que le\npr\u00e9c\u00e9dent, avec les monuments \u00e0 voir, les cimeti\u00e8res, les petits\nb\u00e2timents doivent \u00eatre tout ce qu\\'il y a \u00e0 visiter. Avec les centres\nd\\'int\u00e9r\u00eat, on voit m\u00eame les \u00e9glises, je dirais une synagogue\ncompl\u00e8tement au nord. Des th\u00e9\u00e2tres. Les rues sont bien indiqu\u00e9es, on\nvoit les quartiers de chaque c\u00f4t\u00e9 des Ramblas. Avec les zones de\nshopping repr\u00e9sent\u00e9es avec des caddies. La place de Catalogne\ncompl\u00e8tement au nord-ouest. \u00c0 c\u00f4t\u00e9, je pense, la gendarmerie ou un\ncommissariat. Des th\u00e9\u00e2tres au nord, repr\u00e9sent\u00e9s par des petits masques.\nDes biblioth\u00e8ques au sud, repr\u00e9sent\u00e9es par des livres, et les petits\nmonuments qui doivent repr\u00e9senter des petits ch\u00e2teaux ou des zones \u00e0\nvisiter. Le carr\u00e9 de J\u00e9rusalem. Les lieux de culte sont bien repr\u00e9sent\u00e9s\nsur cette carte. Les petits sigles en noir me font penser \u00e0 des lieux de\nculte, mais je ne saurais pas dire si c\\'est vraiment \u00e7a. En marron, le\nc\u00f4t\u00e9 \u00e0 visiter avec les points d\\'int\u00e9r\u00eat. Donc l\u00e0, c\\'est vraiment pour\nla visite, on n\\'a pas les points d\\'int\u00e9r\u00eat pour la restauration ou\npour le couchage, c\\'est que pour la visite. Avec un sens de circulation\nrepr\u00e9sent\u00e9 par des fl\u00e8ches. Vue d\\'ensemble pour ce qui est \u00e0 visiter\nautour des Ramblas.",
         "anchors_description": "",
         "anchors": [
@@ -2616,6 +2627,7 @@
         "map_name": "ign_14",
         "scale": "14",
         "model": "human",
+        "human_id": 1,
         "map_description": "On voit une carte pas tr\u00e8s d\u00e9taill\u00e9e d\\'une \u00eele au milieu de la Loire\navec des axes routiers en jaune. Au sud, des noms de routes ou d\\'axes,\nalors qu\\'au nord il n\\'y a pas grand-chose d\\'annot\u00e9. Il y a des ponts\nqui traversent pour aller sur l\\'\u00eele. Les axes noirs sont peut-\u00eatre des\npistes cyclables. Cela manque de pr\u00e9cision et de l\u00e9gende. On ne sait pas\ntrop \u00e0 quoi correspondent les b\u00e2timents et peut-\u00eatre un stade au milieu\nde l\\'\u00eele. Cela manque de pr\u00e9cision. En pointill\u00e9 bleu sur la Loire,\nc\\'est peut-\u00eatre des axes pour les bateaux.",
         "anchors_description": "",
         "anchors": [
@@ -2634,6 +2646,7 @@
         "map_name": "google_14",
         "scale": "14",
         "model": "human",
+        "human_id": 1,
         "map_description": "h\u00f4tels et les restaurants en rose et en orange. Un grand axe en bleu\navec un num\u00e9ro 27, dont on ne sait pas \u00e0 quoi il correspond. La l\u00e9gende\nmanque. Une zone urbaine au milieu d\\'une \u00e9tendue d\\'eau, un lac\ns\u00fbrement. Avec un parc ou un bois compl\u00e8tement au nord. Pas assez pr\u00e9cis\npour voir le nom des rues. Vue d\\'ensemble d\\'un bout de terre. On voit\naussi une voie ferr\u00e9e compl\u00e8tement \u00e0 l\\'est. Quelques acc\u00e8s, quelques\nroutes. Une impression que ce n\\'est pas trop habit\u00e9. On ne sait pas :\nest-ce que tout ce blanc et ce gris sont des petites routes ? Je dirais\nqu\\'il y a une zone urbaine en jaune autour de S Edgemere St, pas loin\ndu restaurant Harvest, et le reste, je dirais que c\\'est un peu plus\nsauvage, mais sans grande certitude.",
         "anchors_description": "",
         "anchors": [
@@ -2654,6 +2667,7 @@
         "map_name": "osm_18",
         "scale": "18",
         "model": "human",
+        "human_id": 1,
         "map_description": "C\\'est un plan plus qu\\'une carte, un plan d\\'un centre-ville qui\nlocalise tous les restaurants, les bars, les h\u00f4tels, s\u00fbrement un guide\ntouristique pour trouver de quoi se loger, de quoi manger, de quoi se\ngarer. Il y a l\\'axe principal, la Rambla, donc je pense que c\\'est \u00e0\nBarcelone avec la grande place \u00e0 c\u00f4t\u00e9 avec une fontaine. Il y a des axes\nquadrill\u00e9s de la ville avec des num\u00e9ros \u00e0 chaque petit point de\nrestaurant, donc on peut imaginer qu\\'il manque une l\u00e9gende. \u00c0 part les\nzones de restauration et de parking, on a aussi quelques magasins de\nsouvenirs. C\\'est vraiment \u00e0 destination des touristes. Il y a un\nth\u00e9\u00e2tre \u00e0 l\\'ouest, quelques points touristiques, un parc pour les\nenfants au nord-est et au nord-ouest une zone bois\u00e9e \u00e0 c\u00f4t\u00e9 de l\\'h\u00f4tel\nFlore Park.",
         "anchors_description": "",
         "anchors": [
@@ -2676,6 +2690,7 @@
         "map_name": "dark_16",
         "scale": "16",
         "model": "human",
+        "human_id": 1,
         "map_description": "C\\'est une carte de nuit, peut-\u00eatre issue d\\'un mode GPS de nuit. Elle\nrepr\u00e9sente Central Park. On voit le lac au milieu avec, \u00e0 l\\'ouest,\ntoutes les routes bien quadrill\u00e9es de Central Park. Une transversale, un\nacc\u00e8s des rues \u00e0 l\\'est et \u00e0 l\\'ouest, et au milieu, ce lac et tous ces\npetits pointill\u00e9s qui sont probablement des chemins.",
         "anchors_description": "",
         "anchors": [
@@ -2687,5 +2702,141 @@
             "Acc\u00e8s/entr\u00e9es de rues \u00e0 l'est et \u00e0 l'ouest (\u00e9l\u00e9ments non nomm\u00e9s)",
             "Petits pointill\u00e9s repr\u00e9sentant probablement des chemins / sentiers (\u00e9l\u00e9ment non nomm\u00e9)"
         ]
+    },
+    {
+        "map_name": "ign_18",
+        "scale": "18",
+        "model": "human",
+        "human_id": 2,
+        "map_description": "Large-scale map of a monument in Nantes: the Castle of the Dukes of Brittany. It shows the entire castle and the grounds surrounding it, with a southwest/northeast orientation: the various buildings of the castle and the central square surrounded by moats filled with water. Three small bridges or footbridges span the moats, two for pedestrians and one for cars (to the west of the castle). Numerous footpaths, represented by dotted lines, crisscross in, around, and to the south of the castle. To the northeast of the castle grounds is an undeveloped area called Place de la Duchesse Anne. To the west and north of the castle are three major streets: Rue des Etats, Rue Rodier, and Rue Prémion. To the southeast of the map is a larger road network without any buildings, featuring a roundabout and two access points to a bridge called Pont de la Rotonde. Beyond the streets surrounding the grounds of the Château des Ducs de Bretagne, to the west, north, and northeast, lie the built-up areas of Nantes, nestled among small streets.",
+        "anchors_description": "",
+        "anchors": []
+    },
+    {
+        "map_name": "google_18",
+        "scale": "18",
+        "model": "human",
+        "human_id": 2,
+        "map_description": "Large-scale map section of Martha's Vineyard Island with a strip of land extending northward between two bodies of water, to the west and especially to the east, where a breakwater runs perpendicular to the coast, providing access to a boat or ferry terminal. A road follows the coastline around the headland. Five parallel roads connect the two sides. A major road continues along the breakwater on the east side of the map to allow cars to board and disembark from the ferry. Apart from the tip of the headland, where undeveloped areas meet the ocean, the rest of the map is built up with streets and roads connecting the different neighborhoods. A few restaurants and lodging options are indicated, in addition to bicycle and car rentals.",
+        "anchors_description": "",
+        "anchors": []
+    },
+    {
+        "map_name": "osm_14",
+        "scale": "14",
+        "model": "human",
+        "human_id": 2,
+        "map_description": "Map of part of a large city in Spain, Barcelona, recognized by a famous monument named, in the center and slightly north of the map: the Sagrada Familia. In the northeast corner of the map, part of the port basins can be seen. Three major roads run from south to northeast, i.e., toward the center of Barcelona and the port area. Another major road, like a ring road, surrounds the city center. Two railway lines arrive, one from the south and the other from the east, at a station located in the heart of the city. Famous monuments and city districts are named. To the west and south of the map, beyond the main road/ring road, there are a few undeveloped green areas with some indications of relief on the peaks (144 m, 137 m). To the far west is a huge Repsol A Coruña refinery.",
+        "anchors_description": "",
+        "anchors": []
+    },
+    {
+        "map_name": "google_16",
+        "scale": "16",
+        "model": "human",
+        "human_id": 2,
+        "map_description": "Large-scale map section, certainly of the city of New Haven, because it shows Yale University (the old campus in the center of the map, the Sterling Memorial Library), the Yale bookstore a little further north, and certainly the new Yale campus in the northwest corner (drawing of a bed and just two words visible: New and Yale). There are two large green spaces in the center of the map, one to the north (a cemetery) and the other to the south (New Haven Green park). Next to the second one is a building, the Mead Visitor Center, which was probably designed to welcome visitors to the university. All the streets form a fairly regular grid pattern, oriented northwest/southeast. Two theaters are marked, along with a few places to eat or drink and a church.",
+        "anchors_description": "",
+        "anchors": []
+    },
+    {
+        "map_name": "rotated_18",
+        "scale": "18",
+        "model": "human",
+        "human_id": 2,
+        "map_description": "Large-scale map section of a suburb of Paris showing half of a large roundabout in the north of the map, from which three major roads radiate outwards: Boulevard Descartes, Avenue Blaise Pascal, and Avenue André-Marie Ampère. Another major road crosses the map diagonally from north/northwest to southeast: Boulevard Copernic. Green spaces alternate with large university buildings, including Gustave Eiffel University in the northwest corner, École des Ponts ParisTech and the d.school of Paris (further south), and the Grande École d\\'Urbanisme de Paris in the south. Two residences are indicated, probably for students, and a few cafés and restaurants, located mainly in the northeast of the map.",
+        "anchors_description": "",
+        "anchors": [
+        ]
+    },
+    {
+        "map_name": "ign_12",
+        "scale": "12",
+        "model": "human",
+        "human_id": 2,
+        "map_description": "Map of the Loire estuary showing both banks, right and left, running north to south from Montoir-de-Bretagne to Saint Père en Retz, and west to east from the Ust marsh (right bank) to Paimboeuf (left bank). There are four types of representation depending on soil quality: white for undeveloped land, beige for developed land, blue dots for sand or lagoons (at the mouth of the Loire and along the beaches, especially on the left bank and south of the Loire) and finally small blue dashes with clumps of marsh plants for swamps (in the northwest and northeast of the map). The main town is Saint-Nazaire on the right bank, with Donges a little further upstream, then, on the left bank, St Brévin les Pins and, further south, St Brévin l'Océan and Les Rochelets. As for the road network, a main road runs from south to north along the coast, then crosses the Loire estuary via a large bridge that leads to Saint-Nazaire. The road then branches off to the west to continue along the coast. Still on the right bank and to the right of the Saint-Nazaire bridge, is Saint-Nazaire airport.",
+        "anchors_description": "",
+        "anchors": []
+    },
+    {
+        "map_name": "google_12",
+        "scale": "12",
+        "model": "human",
+        "human_id": 2,
+        "map_description": "Map of a region of the United States of America with the city of Madison located between two lakes, Lake Mendota to the north and Lake Monona to the south. Further south, part of a third lake can be seen. Surrounding Lake Mendota are three medium-sized cities: Shorewood Hills, Middleton, and Maple Bluff. On the eastern shore of Lake Monona is the city of Monona. Major highways are numbered, with one running east to west between Lake Monona and the southernmost lake (Route 18). Three major north-south highways, one passing through the city of Madison between Lake Mendota and Lake Monona and the other two east of the lakes (151, 51, and 90). A large airport northeast of Lake Mendota. A hotel marked in pink in Monona. A botanical garden, hiking trails, a nature area to the south (Lewis Nine Springs) next to a farm park, a national park to the north, not far from a monastery. In the northeast corner, along Route 151, you can see the location of a large hospital, Madison Hospital.",
+        "anchors_description": "",
+        "anchors": []
+    },
+    {
+        "map_name": "ign_16",
+        "scale": "16",
+        "model": "human",
+        "human_id": 2,
+        "map_description": "Large-scale map section of Procé Park in Nantes. The park is located in the center of the map, surrounded by Boulevard des Anglais, Boulevard Clovis Constant, Boulevard Albert Thomas, and Rue des Dervallières to the south. A river called the Chézine flows from south to northwest, widening after passing Procé Park. Inside the park, there are streets and paths represented by a single brown line and pedestrian paths represented by dotted lines. There is also a stadium. Surrounding the park is an urban area with streets (some of which are named), roundabouts (on the boulevards), and buildings. Two areas of buildings are colored purple to indicate two school complexes (to the east and northeast of the park).",
+        "anchors_description": "",
+        "anchors": []
+    },
+    {
+        "map_name": "osm_12",
+        "scale": "12",
+        "model": "human",
+        "human_id": 2,
+        "map_description": "Small-scale map showing a section of the Cantabrian coast in Spain, with the city of Santander and its large bay in the center and on the ocean shore. From west to east, it covers the area from the village of Mogro to the city of El Bosque. From north to south, from the Atlantic Ocean to the city of Villanueva de Villaescusa. In addition to Santander, the main cities are Santa Cruz de Bezana, Camargo, El Astillero, and Valdecilla, connected by major roads marked in red, minor roads marked in orange, and even smaller roads marked in yellow. A railway line is also visible from Santander to the south. On the Atlantic Ocean, a blue dotted line shows a ferry route running back and forth from the north to the city of Santander. Another ferry route crosses Santander Bay from west to east and back from the city of Santander to the tip of Pedrena. South of the city of Santander is an airport, symbolized by a large straight runway with a small plane on it. In several places around the bay, in undeveloped areas, what are probably bird sanctuaries on the edge of lagoons are shown. On the west coast of Santander Bay, the coastline has been modified and built up by humans, most likely to accommodate a seaport.",
+        "anchors_description": "",
+        "anchors": []
+    },
+    {
+        "map_name": "no_label_17",
+        "scale": "17",
+        "model": "human",
+        "human_id": 2,
+        "map_description": "Map of an unknown city crossed by a river running southeast/northwest, into which flows a tributary running from south to north on the map. There are three built-up areas with buildings, streets, and green spaces, two on either side of the tributary (one to the west of the map, one to the southeast) and the third to the northeast, on the right bank of the river. From north to south, a large bridge crosses the river and continues along a street that branches off to the west and continues over another bridge that crosses the tributary just before it flows into the river. There are two other smaller bridges crossing the tributary further upstream. The southernmost bridge leads to the city\\'s main streets. On either side of the tributary\\'s two banks are two undeveloped areas of parks and gardens. At the southernmost point of the map, still on either side of the tributary, a road with a large roundabout can be seen. Perhaps this road crosses a fourth bridge (which cannot be seen) over the tributary? There is no written indication on this map.",
+        "anchors_description": "",
+        "anchors": []
+    },
+    {
+        "map_name": "osm_16",
+        "scale": "16",
+        "model": "human",
+        "human_id": 2,
+        "map_description": "Large-scale map of part of a large city, in this case Barcelona, Spain, as we can recognize the Plaça de Catalunya in the northwest of the map and the wide avenue known as La Rambla running southwards. The map is fairly uniform in terms of buildings. Three major streets stand out, colored yellow. Smaller streets are marked in bluish gray or white. Several symbols represent buildings: a cross for about fifteen churches, two masks to symbolize theaters, shopping carts for supermarkets, castle-like symbols for hotels, and columned temples for notable historical monuments.",
+        "anchors_description": "",
+        "anchors": []
+    },
+    {
+        "map_name": "ign_14",
+        "scale": "14",
+        "model": "human",
+        "human_id": 2,
+        "map_description": "Map of the city of Nantes with the Île de Nantes in the center, surrounded by the two arms of the Loire River and the two parts of Nantes (mainly the right bank and the left bank). Extensive road network with several bridges crossing the Loire (seven north of the island and four south of the island). There is also an extensive rail network with the train station located in the city center, to the north. The railway tracks are located in the northeast corner of the map. Trains therefore arrive at the station from the east and depart in the opposite direction. Tram lines connect the different neighborhoods, from north to south and from northeast to southwest. In the southern part of Nantes, the names of the neighborhoods are indicated, from Trentemoult to La Gibraye (from west to east). On the right bank of the Loire, we can clearly see a tributary that should flow into the Loire, coming from the north, but it disappears and reappears further south, after passing under the buildings and the station. On the left bank, another tributary flows into the Loire. A bridge crosses it. Downstream from the Île de Nantes, two maritime routes can be seen, representing the shuttle routes used by residents of the right bank to reach the Île de Nantes.",
+        "anchors_description": "",
+        "anchors": []
+    },
+    {
+        "map_name": "google_14",
+        "scale": "14",
+        "model": "human",
+        "human_id": 2,
+        "map_description": "Fragment of Long Island with the town of Montauk and Fort Pond Lake in the center of the map. In the northwest corner and southeast corner, the Atlantic Ocean. In the northeast corner, part of a state park, Montauk Downs Park. The rest of the peninsula is built up. A main road crosses the peninsula from west to east, passing south of Montauk and Fort Pond Lake. A few hotels and restaurants are marked. The south of the peninsula has a large beach along the entire coastline.",
+        "anchors_description": "",
+        "anchors": []
+    },
+    {
+        "map_name": "osm_18",
+        "scale": "18",
+        "model": "human",
+        "human_id": 2,
+        "map_description": "This map is even larger in scale than osm_16, still showing a neighborhood in the city of Barcelona, as we can clearly see the wide avenue “La Rambla” lined on both sides by green spaces or trees, from the northwest to the south of the map. In the center of the map is a large rectangular square lined with trees called Plaça Real. All around, major streets intersect La Rambla at right angles. Here too, there are multiple symbols to guide tourists: hotels, restaurants, bars, cafes, and souvenir shops. To the northeast is a fairly large triangular square with a playground in the middle.",
+        "anchors_description": "",
+        "anchors": []
+    },
+    {
+        "map_name": "dark_16",
+        "scale": "16",
+        "model": "human",
+        "human_id": 2,
+        "map_description": "Very dark large-scale map of an area of New York: Central Park with its oddly shaped lake in the center of the map, surrounded by 5th Avenue to the southeast, 79th Street to the northeast, Central Park West to the northwest, and an unnamed street to the southwest. To the west of Central Park West, a grid of several perpendicular streets can be made out.",
+        "anchors_description": "",
+        "anchors": []
     }
 ]

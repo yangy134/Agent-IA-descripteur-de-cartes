@@ -1,0 +1,545 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=This is a map showing a portion of the city of A Coruña, located in Galicia, Spain.
+2-1	42-46	This	p[2]	*[2]	_	
+2-2	47-49	is	p[2]	*[2]	_	
+2-3	50-51	a	p[2]	*[2]	_	
+2-4	52-55	map	p[2]	*[2]	_	
+2-5	56-63	showing	p[2]	*[2]	_	
+2-6	64-65	a	p[2]	*[2]	_	
+2-7	66-73	portion	p[2]	*[2]	_	
+2-8	74-76	of	p[2]	*[2]	_	
+2-9	77-80	the	p[2]	*[2]	_	
+2-10	81-85	city	p[2]	*[2]	_	
+2-11	86-88	of	p[2]	*[2]	_	
+2-12	89-90	A	p[2]	*[2]	toponym[9]	
+2-13	91-97	Coruña	p[2]	*[2]	toponym[9]	
+2-14	97-98	,	p[2]	*[2]	_	
+2-15	99-106	located	p[2]	*[2]	_	
+2-16	107-109	in	p[2]	*[2]	spatial relation	
+2-17	110-117	Galicia	p[2]	*[2]	toponym[10]	
+2-18	117-118	,	p[2]	*[2]	toponym[10]	
+2-19	119-124	Spain	p[2]	*[2]	toponym[10]	
+2-20	124-125	.	p[2]	*[2]	_	
+
+#Text=The map displays various neighborhoods and districts including Sagrada Familia, Agra do Orzán, Ventorrillo, A Gaiteira, Agrela, Elviña, and Matogrande among others.
+3-1	126-129	The	p[2]	*[2]	_	
+3-2	130-133	map	p[2]	*[2]	_	
+3-3	134-142	displays	p[2]	*[2]	_	
+3-4	143-150	various	p[2]	*[2]	_	
+3-5	151-164	neighborhoods	p[2]	*[2]	_	
+3-6	165-168	and	p[2]	*[2]	_	
+3-7	169-178	districts	p[2]	*[2]	_	
+3-8	179-188	including	p[2]	*[2]	_	
+3-9	189-196	Sagrada	p[2]	*[2]	toponym[11]	
+3-10	197-204	Familia	p[2]	*[2]	toponym[11]	
+3-11	204-205	,	p[2]	*[2]	_	
+3-12	206-210	Agra	p[2]	*[2]	toponym[12]	
+3-13	211-213	do	p[2]	*[2]	toponym[12]	
+3-14	214-219	Orzán	p[2]	*[2]	toponym[12]	
+3-15	219-220	,	p[2]	*[2]	_	
+3-16	221-232	Ventorrillo	p[2]	*[2]	toponym	
+3-17	232-233	,	p[2]	*[2]	_	
+3-18	234-235	A	p[2]	*[2]	toponym[13]	
+3-19	236-244	Gaiteira	p[2]	*[2]	toponym[13]	
+3-20	244-245	,	p[2]	*[2]	_	
+3-21	246-252	Agrela	p[2]	*[2]	toponym	
+3-22	252-253	,	p[2]	*[2]	_	
+3-23	254-260	Elviña	p[2]	*[2]	toponym	
+3-24	260-261	,	p[2]	*[2]	_	
+3-25	262-265	and	p[2]	*[2]	_	
+3-26	266-276	Matogrande	p[2]	*[2]	toponym	
+3-27	277-282	among	p[2]	*[2]	_	
+3-28	283-289	others	p[2]	*[2]	_	
+3-29	289-290	.	p[2]	*[2]	_	
+
+#Text=The eastern part of the map shows what appears to be a harbor area with water visible.
+4-1	291-294	The	p[3]	*[3]	spatial relation[14]	
+4-2	295-302	eastern	p[3]	*[3]	spatial relation[14]	
+4-3	303-307	part	p[3]	*[3]	spatial relation[14]	
+4-4	308-310	of	p[3]	*[3]	_	
+4-5	311-314	the	p[3]	*[3]	_	
+4-6	315-318	map	p[3]	*[3]	_	
+4-7	319-324	shows	p[3]	*[3]	_	
+4-8	325-329	what	p[3]	*[3]	_	
+4-9	330-337	appears	p[3]	*[3]	_	
+4-10	338-340	to	p[3]	*[3]	_	
+4-11	341-343	be	p[3]	*[3]	_	
+4-12	344-345	a	p[3]	*[3]	_	
+4-13	346-352	harbor	p[3]	*[3]	_	
+4-14	353-357	area	p[3]	*[3]	_	
+4-15	358-362	with	p[3]	*[3]	_	
+4-16	363-368	water	p[3]	*[3]	_	
+4-17	369-376	visible	p[3]	*[3]	_	
+4-18	376-377	.	p[3]	*[3]	_	
+
+#Text=Major roadways are highlighted in red and orange, including what looks like highway V-1.4 and AC-552.
+5-1	378-383	Major	p[3]	*[3]	_	
+5-2	384-392	roadways	p[3]	*[3]	_	
+5-3	393-396	are	p[3]	*[3]	_	
+5-4	397-408	highlighted	p[3]	*[3]	_	
+5-5	409-411	in	p[3]	*[3]	_	
+5-6	412-415	red	p[3]	*[3]	_	
+5-7	416-419	and	p[3]	*[3]	_	
+5-8	420-426	orange	p[3]	*[3]	_	
+5-9	426-427	,	p[3]	*[3]	_	
+5-10	428-437	including	p[3]	*[3]	_	
+5-11	438-442	what	p[3]	*[3]	_	
+5-12	443-448	looks	p[3]	*[3]	_	
+5-13	449-453	like	p[3]	*[3]	_	
+5-14	454-461	highway	p[3]	*[3]	_	
+5-15	462-463	V	p[3]	*[3]	toponym[15]	
+5-16	463-464	-	p[3]	*[3]	toponym[15]	
+5-17	464-467	1.4	p[3]	*[3]	toponym[15]	
+5-18	468-471	and	p[3]	*[3]	_	
+5-19	472-474	AC	p[3]	*[3]	toponym[16]	
+5-20	474-475	-	p[3]	*[3]	toponym[16]	
+5-21	475-478	552	p[3]	*[3]	toponym[16]	
+5-22	478-479	.	p[3]	*[3]	_	
+
+#Text=The western and southern portions of the map show some greener areas, including what might be parks or undeveloped terrain.
+6-1	480-483	The	p[3]	*[3]	spatial relation[17]	
+6-2	484-491	western	p[3]	*[3]	spatial relation[17]	
+6-3	492-495	and	p[3]	*[3]	spatial relation[17]	
+6-4	496-504	southern	p[3]	*[3]	spatial relation[17]	
+6-5	505-513	portions	p[3]	*[3]	spatial relation[17]	
+6-6	514-516	of	p[3]	*[3]	_	
+6-7	517-520	the	p[3]	*[3]	_	
+6-8	521-524	map	p[3]	*[3]	_	
+6-9	525-529	show	p[3]	*[3]	_	
+6-10	530-534	some	p[3]	*[3]	_	
+6-11	535-542	greener	p[3]	*[3]	_	
+6-12	543-548	areas	p[3]	*[3]	_	
+6-13	548-549	,	p[3]	*[3]	_	
+6-14	550-559	including	p[3]	*[3]	_	
+6-15	560-564	what	p[3]	*[3]	_	
+6-16	565-570	might	p[3]	*[3]	_	
+6-17	571-573	be	p[3]	*[3]	_	
+6-18	574-579	parks	p[3]	*[3]	_	
+6-19	580-582	or	p[3]	*[3]	_	
+6-20	583-594	undeveloped	p[3]	*[3]	_	
+6-21	595-602	terrain	p[3]	*[3]	_	
+6-22	602-603	.	p[3]	*[3]	_	
+
+#Text=The map indicates elevation at various points, with markings showing heights such as 105m, 74m, and 56m above sea level.
+7-1	604-607	The	p[4]	*[4]	_	
+7-2	608-611	map	p[4]	*[4]	_	
+7-3	612-621	indicates	p[4]	*[4]	_	
+7-4	622-631	elevation	p[4]	*[4]	_	
+7-5	632-634	at	p[4]	*[4]	_	
+7-6	635-642	various	p[4]	*[4]	_	
+7-7	643-649	points	p[4]	*[4]	_	
+7-8	649-650	,	p[4]	*[4]	_	
+7-9	651-655	with	p[4]	*[4]	_	
+7-10	656-664	markings	p[4]	*[4]	_	
+7-11	665-672	showing	p[4]	*[4]	_	
+7-12	673-680	heights	p[4]	*[4]	_	
+7-13	681-685	such	p[4]	*[4]	_	
+7-14	686-688	as	p[4]	*[4]	_	
+7-15	689-693	105m	p[4]	*[4]	toponym	
+7-16	693-694	,	p[4]	*[4]	_	
+7-17	695-698	74m	p[4]	*[4]	toponym	
+7-18	698-699	,	p[4]	*[4]	_	
+7-19	700-703	and	p[4]	*[4]	_	
+7-20	704-707	56m	p[4]	*[4]	toponym	
+7-21	708-713	above	p[4]	*[4]	_	
+7-22	714-717	sea	p[4]	*[4]	_	
+7-23	718-723	level	p[4]	*[4]	_	
+7-24	723-724	.	p[4]	*[4]	_	
+
+#Text=There's also a university area labeled "Elviña-Universidade" in the southern portion of the map.
+8-1	725-732	There's	p[4]	*[4]	_	
+8-2	733-737	also	p[4]	*[4]	_	
+8-3	738-739	a	p[4]	*[4]	_	
+8-4	740-750	university	p[4]	*[4]	_	
+8-5	751-755	area	p[4]	*[4]	_	
+8-6	756-763	labeled	p[4]	*[4]	_	
+8-7	764-765	"	p[4]	*[4]	_	
+8-8	765-784	Elviña-Universidade	p[4]	*[4]	toponym	
+8-9	784-785	"	p[4]	*[4]	_	
+8-10	786-788	in	p[4]	*[4]	spatial relation[18]	
+8-11	789-792	the	p[4]	*[4]	spatial relation[18]	
+8-12	793-801	southern	p[4]	*[4]	spatial relation[18]	
+8-13	802-809	portion	p[4]	*[4]	spatial relation[18]	
+8-14	810-812	of	p[4]	*[4]	_	
+8-15	813-816	the	p[4]	*[4]	_	
+8-16	817-820	map	p[4]	*[4]	_	
+8-17	820-821	.	p[4]	*[4]	_	
+
+#Text=The layout shows a typical urban environment with a dense city center and road networks connecting different neighborhoods, with some industrial or commercial areas like "Refinaria Repsol A Coruña" visible on the western edge.
+9-1	822-825	The	p[5]	*[5]	_	
+9-2	826-832	layout	p[5]	*[5]	_	
+9-3	833-838	shows	p[5]	*[5]	_	
+9-4	839-840	a	p[5]	*[5]	_	
+9-5	841-848	typical	p[5]	*[5]	_	
+9-6	849-854	urban	p[5]	*[5]	_	
+9-7	855-866	environment	p[5]	*[5]	_	
+9-8	867-871	with	p[5]	*[5]	_	
+9-9	872-873	a	p[5]	*[5]	_	
+9-10	874-879	dense	p[5]	*[5]	_	
+9-11	880-884	city	p[5]	*[5]	_	
+9-12	885-891	center	p[5]	*[5]	_	
+9-13	892-895	and	p[5]	*[5]	_	
+9-14	896-900	road	p[5]	*[5]	_	
+9-15	901-909	networks	p[5]	*[5]	_	
+9-16	910-920	connecting	p[5]	*[5]	spatial relation	
+9-17	921-930	different	p[5]	*[5]	_	
+9-18	931-944	neighborhoods	p[5]	*[5]	_	
+9-19	944-945	,	p[5]	*[5]	_	
+9-20	946-950	with	p[5]	*[5]	_	
+9-21	951-955	some	p[5]	*[5]	_	
+9-22	956-966	industrial	p[5]	*[5]	_	
+9-23	967-969	or	p[5]	*[5]	_	
+9-24	970-980	commercial	p[5]	*[5]	_	
+9-25	981-986	areas	p[5]	*[5]	_	
+9-26	987-991	like	p[5]	*[5]	_	
+9-27	992-993	"	p[5]	*[5]	_	
+9-28	993-1002	Refinaria	p[5]	*[5]	toponym[19]	
+9-29	1003-1009	Repsol	p[5]	*[5]	toponym[19]	
+9-30	1010-1011	A	p[5]	*[5]	toponym[19]	
+9-31	1012-1018	Coruña	p[5]	*[5]	toponym[19]	
+9-32	1018-1019	"	p[5]	*[5]	_	
+9-33	1020-1027	visible	p[5]	*[5]	_	
+9-34	1028-1030	on	p[5]	*[5]	spatial relation[20]	
+9-35	1031-1034	the	p[5]	*[5]	spatial relation[20]	
+9-36	1035-1042	western	p[5]	*[5]	spatial relation[20]	
+9-37	1043-1047	edge	p[5]	*[5]	spatial relation[20]	
+9-38	1047-1048	.	p[5]	*[5]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+10-1	1049-1052	Can	h1[6]	*[6]	_	
+10-2	1053-1056	you	h1[6]	*[6]	_	
+10-3	1057-1065	describe	h1[6]	*[6]	_	
+10-4	1066-1069	the	h1[6]	*[6]	_	
+10-5	1070-1074	most	h1[6]	*[6]	_	
+10-6	1075-1083	visually	h1[6]	*[6]	_	
+10-7	1084-1091	salient	h1[6]	*[6]	_	
+10-8	1092-1100	elements	h1[6]	*[6]	_	
+10-9	1101-1103	of	h1[6]	*[6]	_	
+10-10	1104-1107	the	h1[6]	*[6]	_	
+10-11	1108-1111	map	h1[6]	*[6]	_	
+10-12	1111-1112	?	h1[6]	*[6]	_	
+
+#Text=The most visually salient elements of this map include:  The bright red and orange roadways that form a network throughout the city - these major transportation routes stand out sharply against the more muted background colors.
+11-1	1113-1116	The	p[7]	*[7]	_	
+11-2	1117-1121	most	p[7]	*[7]	_	
+11-3	1122-1130	visually	p[7]	*[7]	_	
+11-4	1131-1138	salient	p[7]	*[7]	_	
+11-5	1139-1147	elements	p[7]	*[7]	_	
+11-6	1148-1150	of	p[7]	*[7]	_	
+11-7	1151-1155	this	p[7]	*[7]	_	
+11-8	1156-1159	map	p[7]	*[7]	_	
+11-9	1160-1167	include	p[7]	*[7]	_	
+11-10	1167-1168	:	p[7]	*[7]	_	
+11-11	1170-1173	The	_	_	_	
+11-12	1174-1180	bright	_	_	_	
+11-13	1181-1184	red	_	_	_	
+11-14	1185-1188	and	_	_	_	
+11-15	1189-1195	orange	_	_	_	
+11-16	1196-1204	roadways	_	_	_	
+11-17	1205-1209	that	_	_	_	
+11-18	1210-1214	form	_	_	_	
+11-19	1215-1216	a	_	_	_	
+11-20	1217-1224	network	_	_	_	
+11-21	1225-1235	throughout	_	_	_	
+11-22	1236-1239	the	_	_	_	
+11-23	1240-1244	city	_	_	_	
+11-24	1245-1246	-	_	_	_	
+11-25	1247-1252	these	_	_	_	
+11-26	1253-1258	major	_	_	_	
+11-27	1259-1273	transportation	_	_	_	
+11-28	1274-1280	routes	_	_	_	
+11-29	1281-1286	stand	_	_	_	
+11-30	1287-1290	out	_	_	_	
+11-31	1291-1298	sharply	_	_	_	
+11-32	1299-1306	against	_	_	_	
+11-33	1307-1310	the	_	_	_	
+11-34	1311-1315	more	_	_	_	
+11-35	1316-1321	muted	_	_	_	
+11-36	1322-1332	background	_	_	_	
+11-37	1333-1339	colors	_	_	_	
+11-38	1339-1340	.	_	_	_	
+
+#Text=The blue harbor/water area visible on the eastern edge of the map, which creates a clear natural boundary.
+12-1	1341-1344	The	_	_	_	
+12-2	1345-1349	blue	_	_	_	
+12-3	1350-1356	harbor	_	_	_	
+12-4	1356-1357	/	_	_	_	
+12-5	1357-1362	water	_	_	_	
+12-6	1363-1367	area	_	_	_	
+12-7	1368-1375	visible	_	_	_	
+12-8	1376-1378	on	_	_	_	
+12-9	1379-1382	the	_	_	_	
+12-10	1383-1390	eastern	_	_	_	
+12-11	1391-1395	edge	_	_	_	
+12-12	1396-1398	of	_	_	_	
+12-13	1399-1402	the	_	_	_	
+12-14	1403-1406	map	_	_	_	
+12-15	1406-1407	,	_	_	_	
+12-16	1408-1413	which	_	_	_	
+12-17	1414-1421	creates	_	_	_	
+12-18	1422-1423	a	_	_	_	
+12-19	1424-1429	clear	_	_	_	
+12-20	1430-1437	natural	_	_	_	
+12-21	1438-1446	boundary	_	_	_	
+12-22	1446-1447	.	_	_	_	
+
+#Text=The green patches representing parks and undeveloped areas, particularly noticeable in the western and southern portions of the map.
+13-1	1448-1451	The	_	_	_	
+13-2	1452-1457	green	_	_	_	
+13-3	1458-1465	patches	_	_	_	
+13-4	1466-1478	representing	_	_	_	
+13-5	1479-1484	parks	_	_	_	
+13-6	1485-1488	and	_	_	_	
+13-7	1489-1500	undeveloped	_	_	_	
+13-8	1501-1506	areas	_	_	_	
+13-9	1506-1507	,	_	_	_	
+13-10	1508-1520	particularly	_	_	_	
+13-11	1521-1531	noticeable	_	_	_	
+13-12	1532-1534	in	_	_	_	
+13-13	1535-1538	the	_	_	_	
+13-14	1539-1546	western	_	_	_	
+13-15	1547-1550	and	_	_	_	
+13-16	1551-1559	southern	_	_	_	
+13-17	1560-1568	portions	_	_	_	
+13-18	1569-1571	of	_	_	_	
+13-19	1572-1575	the	_	_	_	
+13-20	1576-1579	map	_	_	_	
+13-21	1579-1580	.	_	_	_	
+
+#Text=The labeled neighborhoods and districts with names like "Sagrada Familia," "Agrela," and "Ventorrillo" that help orient viewers.
+14-1	1581-1584	The	_	_	_	
+14-2	1585-1592	labeled	_	_	_	
+14-3	1593-1606	neighborhoods	_	_	_	
+14-4	1607-1610	and	_	_	_	
+14-5	1611-1620	districts	_	_	_	
+14-6	1621-1625	with	_	_	_	
+14-7	1626-1631	names	_	_	_	
+14-8	1632-1636	like	_	_	_	
+14-9	1637-1638	"	_	_	_	
+14-10	1638-1645	Sagrada	_	_	_	
+14-11	1646-1653	Familia	_	_	_	
+14-12	1653-1654	,	_	_	_	
+14-13	1654-1655	"	_	_	_	
+14-14	1656-1657	"	_	_	_	
+14-15	1657-1663	Agrela	_	_	_	
+14-16	1663-1664	,	_	_	_	
+14-17	1664-1665	"	_	_	_	
+14-18	1666-1669	and	_	_	_	
+14-19	1670-1671	"	_	_	_	
+14-20	1671-1682	Ventorrillo	_	_	_	
+14-21	1682-1683	"	_	_	_	
+14-22	1684-1688	that	_	_	_	
+14-23	1689-1693	help	_	_	_	
+14-24	1694-1700	orient	_	_	_	
+14-25	1701-1708	viewers	_	_	_	
+14-26	1708-1709	.	_	_	_	
+
+#Text=The clearly marked elevation points (such as 105m, 74m, etc.) that indicate the topography of the area.
+15-1	1710-1713	The	_	_	_	
+15-2	1714-1721	clearly	_	_	_	
+15-3	1722-1728	marked	_	_	_	
+15-4	1729-1738	elevation	_	_	_	
+15-5	1739-1745	points	_	_	_	
+15-6	1746-1747	(	_	_	_	
+15-7	1747-1751	such	_	_	_	
+15-8	1752-1754	as	_	_	_	
+15-9	1755-1759	105m	_	_	_	
+15-10	1759-1760	,	_	_	_	
+15-11	1761-1764	74m	_	_	_	
+15-12	1764-1765	,	_	_	_	
+15-13	1766-1769	etc	_	_	_	
+15-14	1769-1770	.	_	_	_	
+15-15	1770-1771	)	_	_	_	
+15-16	1772-1776	that	_	_	_	
+15-17	1777-1785	indicate	_	_	_	
+15-18	1786-1789	the	_	_	_	
+15-19	1790-1800	topography	_	_	_	
+15-20	1801-1803	of	_	_	_	
+15-21	1804-1807	the	_	_	_	
+15-22	1808-1812	area	_	_	_	
+15-23	1812-1813	.	_	_	_	
+
+#Text=The contrasting urban density - with tighter street patterns in central areas versus more open layouts in peripheral zones.
+16-1	1814-1817	The	_	_	_	
+16-2	1818-1829	contrasting	_	_	_	
+16-3	1830-1835	urban	_	_	_	
+16-4	1836-1843	density	_	_	_	
+16-5	1844-1845	-	_	_	_	
+16-6	1846-1850	with	_	_	_	
+16-7	1851-1858	tighter	_	_	_	
+16-8	1859-1865	street	_	_	_	
+16-9	1866-1874	patterns	_	_	_	
+16-10	1875-1877	in	_	_	_	
+16-11	1878-1885	central	_	_	_	
+16-12	1886-1891	areas	_	_	_	
+16-13	1892-1898	versus	_	_	_	
+16-14	1899-1903	more	_	_	_	
+16-15	1904-1908	open	_	_	_	
+16-16	1909-1916	layouts	_	_	_	
+16-17	1917-1919	in	_	_	_	
+16-18	1920-1930	peripheral	_	_	_	
+16-19	1931-1936	zones	_	_	_	
+16-20	1936-1937	.	_	_	_	
+
+#Text=The "A Coruña Provisional" marking near the center-right of the map, which draws attention as an important reference point.
+17-1	1938-1941	The	_	_	_	
+17-2	1942-1943	"	_	_	_	
+17-3	1943-1944	A	_	_	_	
+17-4	1945-1951	Coruña	_	_	_	
+17-5	1952-1963	Provisional	_	_	_	
+17-6	1963-1964	"	_	_	_	
+17-7	1965-1972	marking	_	_	_	
+17-8	1973-1977	near	_	_	_	
+17-9	1978-1981	the	_	_	_	
+17-10	1982-1994	center-right	_	_	_	
+17-11	1995-1997	of	_	_	_	
+17-12	1998-2001	the	_	_	_	
+17-13	2002-2005	map	_	_	_	
+17-14	2005-2006	,	_	_	_	
+17-15	2007-2012	which	_	_	_	
+17-16	2013-2018	draws	_	_	_	
+17-17	2019-2028	attention	_	_	_	
+17-18	2029-2031	as	_	_	_	
+17-19	2032-2034	an	_	_	_	
+17-20	2035-2044	important	_	_	_	
+17-21	2045-2054	reference	_	_	_	
+17-22	2055-2060	point	_	_	_	
+17-23	2060-2061	.	_	_	_	
+
+#Text=The highway designations (V-1.4, AC-552) that highlight major transit corridors through the city.
+18-1	2062-2065	The	_	_	_	
+18-2	2066-2073	highway	_	_	_	
+18-3	2074-2086	designations	_	_	_	
+18-4	2087-2088	(	_	_	_	
+18-5	2088-2089	V	_	_	_	
+18-6	2089-2090	-	_	_	_	
+18-7	2090-2093	1.4	_	_	_	
+18-8	2093-2094	,	_	_	_	
+18-9	2095-2097	AC	_	_	_	
+18-10	2097-2098	-	_	_	_	
+18-11	2098-2101	552	_	_	_	
+18-12	2101-2102	)	_	_	_	
+18-13	2103-2107	that	_	_	_	
+18-14	2108-2117	highlight	_	_	_	
+18-15	2118-2123	major	_	_	_	
+18-16	2124-2131	transit	_	_	_	
+18-17	2132-2141	corridors	_	_	_	
+18-18	2142-2149	through	_	_	_	
+18-19	2150-2153	the	_	_	_	
+18-20	2154-2158	city	_	_	_	
+18-21	2158-2159	.	_	_	_	
+
+#Text=Anchors summary  Bright red and orange roadways (major transportation routes) — non-named Blue harbor / water area (eastern edge) — non-named Green patches representing parks or undeveloped areas — non-named Labeled neighborhoods/districts: Sagrada Familia; Agrela; Ventorrillo — named Clearly marked elevation points (e.g., 105m, 74m, 56m) — non-named Contrasting urban density (dense central street patterns vs more open peripheral layouts) — non-named “A Coruña Provisional” — named Highway designations: V-1.4; AC-552 — named
+19-1	2161-2168	Anchors	h1[8]	*[8]	_	
+19-2	2169-2176	summary	h1[8]	*[8]	_	
+19-3	2178-2184	Bright	_	_	_	
+19-4	2185-2188	red	_	_	_	
+19-5	2189-2192	and	_	_	_	
+19-6	2193-2199	orange	_	_	_	
+19-7	2200-2208	roadways	_	_	_	
+19-8	2209-2210	(	_	_	_	
+19-9	2210-2215	major	_	_	_	
+19-10	2216-2230	transportation	_	_	_	
+19-11	2231-2237	routes	_	_	_	
+19-12	2237-2238	)	_	_	_	
+19-13	2239-2240	—	_	_	_	
+19-14	2241-2250	non-named	_	_	_	
+19-15	2251-2255	Blue	_	_	_	
+19-16	2256-2262	harbor	_	_	_	
+19-17	2263-2264	/	_	_	_	
+19-18	2265-2270	water	_	_	_	
+19-19	2271-2275	area	_	_	_	
+19-20	2276-2277	(	_	_	_	
+19-21	2277-2284	eastern	_	_	_	
+19-22	2285-2289	edge	_	_	_	
+19-23	2289-2290	)	_	_	_	
+19-24	2291-2292	—	_	_	_	
+19-25	2293-2302	non-named	_	_	_	
+19-26	2303-2308	Green	_	_	_	
+19-27	2309-2316	patches	_	_	_	
+19-28	2317-2329	representing	_	_	_	
+19-29	2330-2335	parks	_	_	_	
+19-30	2336-2338	or	_	_	_	
+19-31	2339-2350	undeveloped	_	_	_	
+19-32	2351-2356	areas	_	_	_	
+19-33	2357-2358	—	_	_	_	
+19-34	2359-2368	non-named	_	_	_	
+19-35	2369-2376	Labeled	_	_	_	
+19-36	2377-2390	neighborhoods	_	_	_	
+19-37	2390-2391	/	_	_	_	
+19-38	2391-2400	districts	_	_	_	
+19-39	2400-2401	:	_	_	_	
+19-40	2402-2409	Sagrada	_	_	_	
+19-41	2410-2417	Familia	_	_	_	
+19-42	2417-2418	;	_	_	_	
+19-43	2419-2425	Agrela	_	_	_	
+19-44	2425-2426	;	_	_	_	
+19-45	2427-2438	Ventorrillo	_	_	_	
+19-46	2439-2440	—	_	_	_	
+19-47	2441-2446	named	_	_	_	
+19-48	2447-2454	Clearly	_	_	_	
+19-49	2455-2461	marked	_	_	_	
+19-50	2462-2471	elevation	_	_	_	
+19-51	2472-2478	points	_	_	_	
+19-52	2479-2480	(	_	_	_	
+19-53	2480-2483	e.g	_	_	_	
+19-54	2483-2484	.	_	_	_	
+19-55	2484-2485	,	_	_	_	
+19-56	2486-2490	105m	_	_	_	
+19-57	2490-2491	,	_	_	_	
+19-58	2492-2495	74m	_	_	_	
+19-59	2495-2496	,	_	_	_	
+19-60	2497-2500	56m	_	_	_	
+19-61	2500-2501	)	_	_	_	
+19-62	2502-2503	—	_	_	_	
+19-63	2504-2513	non-named	_	_	_	
+19-64	2514-2525	Contrasting	_	_	_	
+19-65	2526-2531	urban	_	_	_	
+19-66	2532-2539	density	_	_	_	
+19-67	2540-2541	(	_	_	_	
+19-68	2541-2546	dense	_	_	_	
+19-69	2547-2554	central	_	_	_	
+19-70	2555-2561	street	_	_	_	
+19-71	2562-2570	patterns	_	_	_	
+19-72	2571-2573	vs	_	_	_	
+19-73	2574-2578	more	_	_	_	
+19-74	2579-2583	open	_	_	_	
+19-75	2584-2594	peripheral	_	_	_	
+19-76	2595-2602	layouts	_	_	_	
+19-77	2602-2603	)	_	_	_	
+19-78	2604-2605	—	_	_	_	
+19-79	2606-2615	non-named	_	_	_	
+19-80	2616-2617	“	_	_	_	
+19-81	2617-2618	A	_	_	_	
+19-82	2619-2625	Coruña	_	_	_	
+19-83	2626-2637	Provisional	_	_	_	
+19-84	2637-2638	”	_	_	_	
+19-85	2639-2640	—	_	_	_	
+19-86	2641-2646	named	_	_	_	
+19-87	2647-2654	Highway	_	_	_	
+19-88	2655-2667	designations	_	_	_	
+19-89	2667-2668	:	_	_	_	
+19-90	2669-2670	V	_	_	_	
+19-91	2670-2671	-	_	_	_	
+19-92	2671-2674	1.4	_	_	_	
+19-93	2674-2675	;	_	_	_	
+19-94	2676-2678	AC	_	_	_	
+19-95	2678-2679	-	_	_	_	
+19-96	2679-2682	552	_	_	_	
+19-97	2683-2684	—	_	_	_	
+19-98	2685-2690	named	_	_	_	

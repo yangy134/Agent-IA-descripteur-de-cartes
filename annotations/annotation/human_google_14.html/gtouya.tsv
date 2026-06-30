@@ -1,0 +1,321 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=A map for tourists, as it shows accommodation areas, hotels, and restaurants in pink and orange.
+2-1	42-43	A	p[2]	*[2]	_	
+2-2	44-47	map	p[2]	*[2]	_	
+2-3	48-51	for	p[2]	*[2]	_	
+2-4	52-60	tourists	p[2]	*[2]	_	
+2-5	60-61	,	p[2]	*[2]	_	
+2-6	62-64	as	p[2]	*[2]	_	
+2-7	65-67	it	p[2]	*[2]	_	
+2-8	68-73	shows	p[2]	*[2]	_	
+2-9	74-87	accommodation	p[2]	*[2]	_	
+2-10	88-93	areas	p[2]	*[2]	_	
+2-11	93-94	,	p[2]	*[2]	_	
+2-12	95-101	hotels	p[2]	*[2]	_	
+2-13	101-102	,	p[2]	*[2]	_	
+2-14	103-106	and	p[2]	*[2]	_	
+2-15	107-118	restaurants	p[2]	*[2]	_	
+2-16	119-121	in	p[2]	*[2]	_	
+2-17	122-126	pink	p[2]	*[2]	_	
+2-18	127-130	and	p[2]	*[2]	_	
+2-19	131-137	orange	p[2]	*[2]	_	
+2-20	137-138	.	p[2]	*[2]	_	
+
+#Text=A major road in blue with the number 27, which we don’t know what it corresponds to.
+3-1	139-140	A	p[2]	*[2]	_	
+3-2	141-146	major	p[2]	*[2]	_	
+3-3	147-151	road	p[2]	*[2]	_	
+3-4	152-154	in	p[2]	*[2]	_	
+3-5	155-159	blue	p[2]	*[2]	_	
+3-6	160-164	with	p[2]	*[2]	_	
+3-7	165-168	the	p[2]	*[2]	_	
+3-8	169-175	number	p[2]	*[2]	_	
+3-9	176-178	27	p[2]	*[2]	toponym	
+3-10	178-179	,	p[2]	*[2]	_	
+3-11	180-185	which	p[2]	*[2]	_	
+3-12	186-188	we	p[2]	*[2]	_	
+3-13	189-192	don	p[2]	*[2]	_	
+3-14	192-193	’	p[2]	*[2]	_	
+3-15	193-194	t	p[2]	*[2]	_	
+3-16	195-199	know	p[2]	*[2]	_	
+3-17	200-204	what	p[2]	*[2]	_	
+3-18	205-207	it	p[2]	*[2]	_	
+3-19	208-219	corresponds	p[2]	*[2]	_	
+3-20	220-222	to	p[2]	*[2]	_	
+3-21	222-223	.	p[2]	*[2]	_	
+
+#Text=The legend is missing.
+4-1	224-227	The	p[2]	*[2]	_	
+4-2	228-234	legend	p[2]	*[2]	_	
+4-3	235-237	is	p[2]	*[2]	_	
+4-4	238-245	missing	p[2]	*[2]	_	
+4-5	245-246	.	p[2]	*[2]	_	
+
+#Text=An urban area in the middle of a body of water, probably a lake.
+5-1	247-249	An	p[2]	*[2]	_	
+5-2	250-255	urban	p[2]	*[2]	_	
+5-3	256-260	area	p[2]	*[2]	_	
+5-4	261-263	in	p[2]	*[2]	_	
+5-5	264-267	the	p[2]	*[2]	_	
+5-6	268-274	middle	p[2]	*[2]	_	
+5-7	275-277	of	p[2]	*[2]	_	
+5-8	278-279	a	p[2]	*[2]	_	
+5-9	280-284	body	p[2]	*[2]	_	
+5-10	285-287	of	p[2]	*[2]	_	
+5-11	288-293	water	p[2]	*[2]	_	
+5-12	293-294	,	p[2]	*[2]	_	
+5-13	295-303	probably	p[2]	*[2]	_	
+5-14	304-305	a	p[2]	*[2]	_	
+5-15	306-310	lake	p[2]	*[2]	_	
+5-16	310-311	.	p[2]	*[2]	_	
+
+#Text=With a park or woods in the far north.
+6-1	312-316	With	p[2]	*[2]	_	
+6-2	317-318	a	p[2]	*[2]	_	
+6-3	319-323	park	p[2]	*[2]	_	
+6-4	324-326	or	p[2]	*[2]	_	
+6-5	327-332	woods	p[2]	*[2]	_	
+6-6	333-335	in	p[2]	*[2]	spatial relation[4]	
+6-7	336-339	the	p[2]	*[2]	spatial relation[4]	
+6-8	340-343	far	p[2]	*[2]	spatial relation[4]	
+6-9	344-349	north	p[2]	*[2]	spatial relation[4]	
+6-10	349-350	.	p[2]	*[2]	_	
+
+#Text=Not detailed enough to see the names of the streets.
+7-1	351-354	Not	p[2]	*[2]	_	
+7-2	355-363	detailed	p[2]	*[2]	_	
+7-3	364-370	enough	p[2]	*[2]	_	
+7-4	371-373	to	p[2]	*[2]	_	
+7-5	374-377	see	p[2]	*[2]	_	
+7-6	378-381	the	p[2]	*[2]	_	
+7-7	382-387	names	p[2]	*[2]	_	
+7-8	388-390	of	p[2]	*[2]	_	
+7-9	391-394	the	p[2]	*[2]	_	
+7-10	395-402	streets	p[2]	*[2]	_	
+7-11	402-403	.	p[2]	*[2]	_	
+
+#Text=Overview of a piece of land.
+8-1	404-412	Overview	p[2]	*[2]	_	
+8-2	413-415	of	p[2]	*[2]	_	
+8-3	416-417	a	p[2]	*[2]	_	
+8-4	418-423	piece	p[2]	*[2]	_	
+8-5	424-426	of	p[2]	*[2]	_	
+8-6	427-431	land	p[2]	*[2]	_	
+8-7	431-432	.	p[2]	*[2]	_	
+
+#Text=We can also see a railroad track in the far east.
+9-1	433-435	We	p[2]	*[2]	_	
+9-2	436-439	can	p[2]	*[2]	_	
+9-3	440-444	also	p[2]	*[2]	_	
+9-4	445-448	see	p[2]	*[2]	_	
+9-5	449-450	a	p[2]	*[2]	_	
+9-6	451-459	railroad	p[2]	*[2]	_	
+9-7	460-465	track	p[2]	*[2]	_	
+9-8	466-468	in	p[2]	*[2]	spatial relation[5]	
+9-9	469-472	the	p[2]	*[2]	spatial relation[5]	
+9-10	473-476	far	p[2]	*[2]	spatial relation[5]	
+9-11	477-481	east	p[2]	*[2]	spatial relation[5]	
+9-12	481-482	.	p[2]	*[2]	_	
+
+#Text=A few access points, a few roads.
+10-1	483-484	A	p[2]	*[2]	_	
+10-2	485-488	few	p[2]	*[2]	_	
+10-3	489-495	access	p[2]	*[2]	_	
+10-4	496-502	points	p[2]	*[2]	_	
+10-5	502-503	,	p[2]	*[2]	_	
+10-6	504-505	a	p[2]	*[2]	_	
+10-7	506-509	few	p[2]	*[2]	_	
+10-8	510-515	roads	p[2]	*[2]	_	
+10-9	515-516	.	p[2]	*[2]	_	
+
+#Text=It gives the impression that it is not very populated.
+11-1	517-519	It	p[2]	*[2]	_	
+11-2	520-525	gives	p[2]	*[2]	_	
+11-3	526-529	the	p[2]	*[2]	_	
+11-4	530-540	impression	p[2]	*[2]	_	
+11-5	541-545	that	p[2]	*[2]	_	
+11-6	546-548	it	p[2]	*[2]	_	
+11-7	549-551	is	p[2]	*[2]	_	
+11-8	552-555	not	p[2]	*[2]	_	
+11-9	556-560	very	p[2]	*[2]	_	
+11-10	561-570	populated	p[2]	*[2]	_	
+11-11	570-571	.	p[2]	*[2]	_	
+
+#Text=It is unclear: are all those white and gray areas small roads?
+12-1	572-574	It	p[2]	*[2]	_	
+12-2	575-577	is	p[2]	*[2]	_	
+12-3	578-585	unclear	p[2]	*[2]	_	
+12-4	585-586	:	p[2]	*[2]	_	
+12-5	587-590	are	p[2]	*[2]	_	
+12-6	591-594	all	p[2]	*[2]	_	
+12-7	595-600	those	p[2]	*[2]	_	
+12-8	601-606	white	p[2]	*[2]	_	
+12-9	607-610	and	p[2]	*[2]	_	
+12-10	611-615	gray	p[2]	*[2]	_	
+12-11	616-621	areas	p[2]	*[2]	_	
+12-12	622-627	small	p[2]	*[2]	_	
+12-13	628-633	roads	p[2]	*[2]	_	
+12-14	633-634	?	p[2]	*[2]	_	
+
+#Text=I would say there is an urban area in yellow around S Edgemere St, not far from the Harvest restaurant, and the rest, I would say, is a little more wild, but I'm not entirely sure.
+13-1	635-636	I	p[2]	*[2]	_	
+13-2	637-642	would	p[2]	*[2]	_	
+13-3	643-646	say	p[2]	*[2]	_	
+13-4	647-652	there	p[2]	*[2]	_	
+13-5	653-655	is	p[2]	*[2]	_	
+13-6	656-658	an	p[2]	*[2]	_	
+13-7	659-664	urban	p[2]	*[2]	_	
+13-8	665-669	area	p[2]	*[2]	_	
+13-9	670-672	in	p[2]	*[2]	_	
+13-10	673-679	yellow	p[2]	*[2]	_	
+13-11	680-686	around	p[2]	*[2]	_	
+13-12	687-688	S	p[2]	*[2]	toponym[6]	
+13-13	689-697	Edgemere	p[2]	*[2]	toponym[6]	
+13-14	698-700	St	p[2]	*[2]	toponym[6]	
+13-15	700-701	,	p[2]	*[2]	_	
+13-16	702-705	not	p[2]	*[2]	spatial relation[7]	
+13-17	706-709	far	p[2]	*[2]	spatial relation[7]	
+13-18	710-714	from	p[2]	*[2]	spatial relation[7]	
+13-19	715-718	the	p[2]	*[2]	_	
+13-20	719-726	Harvest	p[2]	*[2]	toponym	
+13-21	727-737	restaurant	p[2]	*[2]	_	
+13-22	737-738	,	p[2]	*[2]	_	
+13-23	739-742	and	p[2]	*[2]	_	
+13-24	743-746	the	p[2]	*[2]	_	
+13-25	747-751	rest	p[2]	*[2]	_	
+13-26	751-752	,	p[2]	*[2]	_	
+13-27	753-754	I	p[2]	*[2]	_	
+13-28	755-760	would	p[2]	*[2]	_	
+13-29	761-764	say	p[2]	*[2]	_	
+13-30	764-765	,	p[2]	*[2]	_	
+13-31	766-768	is	p[2]	*[2]	_	
+13-32	769-770	a	p[2]	*[2]	_	
+13-33	771-777	little	p[2]	*[2]	_	
+13-34	778-782	more	p[2]	*[2]	_	
+13-35	783-787	wild	p[2]	*[2]	_	
+13-36	787-788	,	p[2]	*[2]	_	
+13-37	789-792	but	p[2]	*[2]	_	
+13-38	793-796	I'm	p[2]	*[2]	_	
+13-39	797-800	not	p[2]	*[2]	_	
+13-40	801-809	entirely	p[2]	*[2]	_	
+13-41	810-814	sure	p[2]	*[2]	_	
+13-42	814-815	.	p[2]	*[2]	_	
+
+#Text=Anchors summary  S Edgemere St (street) Restaurant “Harvest” Blue major axis labeled “27” (possible highway/route 27) Zones for lodging/hotels and restaurants (pink and orange areas) Yellow urban zone around S Edgemere St Urban area on a landmass surrounded by water (peninsula/island) Large body of water (lake) Park / wooded area at the north Railway line on the east Various roads and access points (white/grey lines, possible small roads) Predominantly undeveloped / sparsely inhabited white and grey areas
+14-1	816-823	Anchors	h1[3]	*[3]	_	
+14-2	824-831	summary	h1[3]	*[3]	_	
+14-3	833-834	S	_	_	_	
+14-4	835-843	Edgemere	_	_	_	
+14-5	844-846	St	_	_	_	
+14-6	847-848	(	_	_	_	
+14-7	848-854	street	_	_	_	
+14-8	854-855	)	_	_	_	
+14-9	856-866	Restaurant	_	_	_	
+14-10	867-868	“	_	_	_	
+14-11	868-875	Harvest	_	_	_	
+14-12	875-876	”	_	_	_	
+14-13	877-881	Blue	_	_	_	
+14-14	882-887	major	_	_	_	
+14-15	888-892	axis	_	_	_	
+14-16	893-900	labeled	_	_	_	
+14-17	901-902	“	_	_	_	
+14-18	902-904	27	_	_	_	
+14-19	904-905	”	_	_	_	
+14-20	906-907	(	_	_	_	
+14-21	907-915	possible	_	_	_	
+14-22	916-923	highway	_	_	_	
+14-23	923-924	/	_	_	_	
+14-24	924-929	route	_	_	_	
+14-25	930-932	27	_	_	_	
+14-26	932-933	)	_	_	_	
+14-27	934-939	Zones	_	_	_	
+14-28	940-943	for	_	_	_	
+14-29	944-951	lodging	_	_	_	
+14-30	951-952	/	_	_	_	
+14-31	952-958	hotels	_	_	_	
+14-32	959-962	and	_	_	_	
+14-33	963-974	restaurants	_	_	_	
+14-34	975-976	(	_	_	_	
+14-35	976-980	pink	_	_	_	
+14-36	981-984	and	_	_	_	
+14-37	985-991	orange	_	_	_	
+14-38	992-997	areas	_	_	_	
+14-39	997-998	)	_	_	_	
+14-40	999-1005	Yellow	_	_	_	
+14-41	1006-1011	urban	_	_	_	
+14-42	1012-1016	zone	_	_	_	
+14-43	1017-1023	around	_	_	_	
+14-44	1024-1025	S	_	_	_	
+14-45	1026-1034	Edgemere	_	_	_	
+14-46	1035-1037	St	_	_	_	
+14-47	1038-1043	Urban	_	_	_	
+14-48	1044-1048	area	_	_	_	
+14-49	1049-1051	on	_	_	_	
+14-50	1052-1053	a	_	_	_	
+14-51	1054-1062	landmass	_	_	_	
+14-52	1063-1073	surrounded	_	_	_	
+14-53	1074-1076	by	_	_	_	
+14-54	1077-1082	water	_	_	_	
+14-55	1083-1084	(	_	_	_	
+14-56	1084-1093	peninsula	_	_	_	
+14-57	1093-1094	/	_	_	_	
+14-58	1094-1100	island	_	_	_	
+14-59	1100-1101	)	_	_	_	
+14-60	1102-1107	Large	_	_	_	
+14-61	1108-1112	body	_	_	_	
+14-62	1113-1115	of	_	_	_	
+14-63	1116-1121	water	_	_	_	
+14-64	1122-1123	(	_	_	_	
+14-65	1123-1127	lake	_	_	_	
+14-66	1127-1128	)	_	_	_	
+14-67	1129-1133	Park	_	_	_	
+14-68	1134-1135	/	_	_	_	
+14-69	1136-1142	wooded	_	_	_	
+14-70	1143-1147	area	_	_	_	
+14-71	1148-1150	at	_	_	_	
+14-72	1151-1154	the	_	_	_	
+14-73	1155-1160	north	_	_	_	
+14-74	1161-1168	Railway	_	_	_	
+14-75	1169-1173	line	_	_	_	
+14-76	1174-1176	on	_	_	_	
+14-77	1177-1180	the	_	_	_	
+14-78	1181-1185	east	_	_	_	
+14-79	1186-1193	Various	_	_	_	
+14-80	1194-1199	roads	_	_	_	
+14-81	1200-1203	and	_	_	_	
+14-82	1204-1210	access	_	_	_	
+14-83	1211-1217	points	_	_	_	
+14-84	1218-1219	(	_	_	_	
+14-85	1219-1224	white	_	_	_	
+14-86	1224-1225	/	_	_	_	
+14-87	1225-1229	grey	_	_	_	
+14-88	1230-1235	lines	_	_	_	
+14-89	1235-1236	,	_	_	_	
+14-90	1237-1245	possible	_	_	_	
+14-91	1246-1251	small	_	_	_	
+14-92	1252-1257	roads	_	_	_	
+14-93	1257-1258	)	_	_	_	
+14-94	1259-1272	Predominantly	_	_	_	
+14-95	1273-1284	undeveloped	_	_	_	
+14-96	1285-1286	/	_	_	_	
+14-97	1287-1295	sparsely	_	_	_	
+14-98	1296-1305	inhabited	_	_	_	
+14-99	1306-1311	white	_	_	_	
+14-100	1312-1315	and	_	_	_	
+14-101	1316-1320	grey	_	_	_	
+14-102	1321-1326	areas	_	_	_	

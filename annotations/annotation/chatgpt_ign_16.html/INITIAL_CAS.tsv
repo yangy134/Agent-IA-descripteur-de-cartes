@@ -1,0 +1,1134 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	
+1-2	4-7	you	h1[1]	*[1]	
+1-3	8-16	describe	h1[1]	*[1]	
+1-4	17-20	the	h1[1]	*[1]	
+1-5	21-28	content	h1[1]	*[1]	
+1-6	29-31	of	h1[1]	*[1]	
+1-7	32-36	this	h1[1]	*[1]	
+1-8	37-40	map	h1[1]	*[1]	
+1-9	40-41	?	h1[1]	*[1]	
+
+#Text=Certainly!
+2-1	42-51	Certainly	p[2]	*[2]	
+2-2	51-52	!	p[2]	*[2]	
+
+#Text=Here's a detailed description of the content and most visually salient elements of the map you've shared: 🗺️ Map Overview This is a detailed topographic-style urban map centered on a large urban park and its surrounding residential and institutional areas in a city.
+3-1	53-59	Here's	p[2]	*[2]	
+3-2	60-61	a	p[2]	*[2]	
+3-3	62-70	detailed	p[2]	*[2]	
+3-4	71-82	description	p[2]	*[2]	
+3-5	83-85	of	p[2]	*[2]	
+3-6	86-89	the	p[2]	*[2]	
+3-7	90-97	content	p[2]	*[2]	
+3-8	98-101	and	p[2]	*[2]	
+3-9	102-106	most	p[2]	*[2]	
+3-10	107-115	visually	p[2]	*[2]	
+3-11	116-123	salient	p[2]	*[2]	
+3-12	124-132	elements	p[2]	*[2]	
+3-13	133-135	of	p[2]	*[2]	
+3-14	136-139	the	p[2]	*[2]	
+3-15	140-143	map	p[2]	*[2]	
+3-16	144-150	you've	p[2]	*[2]	
+3-17	151-157	shared	p[2]	*[2]	
+3-18	157-158	:	p[2]	*[2]	
+3-19	159-162	🗺️	h2[3]	*[3]	
+3-20	163-166	Map	h2[3]	*[3]	
+3-21	167-175	Overview	h2[3]	*[3]	
+3-22	176-180	This	p[4]	*[4]	
+3-23	181-183	is	p[4]	*[4]	
+3-24	184-185	a	p[4]	*[4]	
+3-25	186-194	detailed	p[4]	*[4]	
+3-26	195-212	topographic-style	p[4]	*[4]	
+3-27	213-218	urban	p[4]	*[4]	
+3-28	219-222	map	p[4]	*[4]	
+3-29	223-231	centered	p[4]	*[4]	
+3-30	232-234	on	p[4]	*[4]	
+3-31	235-236	a	p[4]	*[4]	
+3-32	237-242	large	p[4]	*[4]	
+3-33	243-248	urban	p[4]	*[4]	
+3-34	249-253	park	p[4]	*[4]	
+3-35	254-257	and	p[4]	*[4]	
+3-36	258-261	its	p[4]	*[4]	
+3-37	262-273	surrounding	p[4]	*[4]	
+3-38	274-285	residential	p[4]	*[4]	
+3-39	286-289	and	p[4]	*[4]	
+3-40	290-303	institutional	p[4]	*[4]	
+3-41	304-309	areas	p[4]	*[4]	
+3-42	310-312	in	p[4]	*[4]	
+3-43	313-314	a	p[4]	*[4]	
+3-44	315-319	city	p[4]	*[4]	
+3-45	319-320	.	p[4]	*[4]	
+
+#Text=The level of detail suggests a scale around 1:5,000 to 1:10,000. 🔝 Most Visually Salient Elements 🌳 1.
+4-1	321-324	The	p[4]	*[4]	
+4-2	325-330	level	p[4]	*[4]	
+4-3	331-333	of	p[4]	*[4]	
+4-4	334-340	detail	p[4]	*[4]	
+4-5	341-349	suggests	p[4]	*[4]	
+4-6	350-351	a	p[4]	*[4]	
+4-7	352-357	scale	p[4]	*[4]	
+4-8	358-364	around	p[4]	*[4]	
+4-9	365-366	1	p[4]	*[4]	
+4-10	366-367	:	p[4]	*[4]	
+4-11	367-372	5,000	p[4]	*[4]	
+4-12	373-375	to	p[4]	*[4]	
+4-13	376-377	1	p[4]	*[4]	
+4-14	377-378	:	p[4]	*[4]	
+4-15	378-384	10,000	p[4]	*[4]	
+4-16	384-385	.	p[4]	*[4]	
+4-17	386-388	🔝	h2[5]	*[5]	
+4-18	389-393	Most	h2[5]	*[5]	
+4-19	394-402	Visually	h2[5]	*[5]	
+4-20	403-410	Salient	h2[5]	*[5]	
+4-21	411-419	Elements	h2[5]	*[5]	
+4-22	420-422	🌳	h3[6]	*[6]	
+4-23	423-424	1	h3[6]	*[6]	
+4-24	424-425	.	h3[6]	*[6]	
+
+#Text=Large Central Green Space (Parc)  Labeled simply as “Parc”, this light green area is the dominant visual feature.
+5-1	426-431	Large	h3[6]	*[6]	
+5-2	432-439	Central	h3[6]	*[6]	
+5-3	440-445	Green	h3[6]	*[6]	
+5-4	446-451	Space	h3[6]	*[6]	
+5-5	452-453	(	h3[6]	*[6]	
+5-6	453-457	Parc	h3[6]	*[6]	
+5-7	457-458	)	h3[6]	*[6]	
+5-8	460-467	Labeled	p[7]	*[7]	
+5-9	468-474	simply	p[7]	*[7]	
+5-10	475-477	as	p[7]	*[7]	
+5-11	478-479	“	p[7]	*[7]	
+5-12	479-483	Parc	p[7]	*[7]	
+5-13	483-484	”	p[7]	*[7]	
+5-14	484-485	,	p[7]	*[7]	
+5-15	486-490	this	p[7]	*[7]	
+5-16	491-496	light	p[7]	*[7]	
+5-17	497-502	green	p[7]	*[7]	
+5-18	503-507	area	p[7]	*[7]	
+5-19	508-510	is	p[7]	*[7]	
+5-20	511-514	the	p[7]	*[7]	
+5-21	515-523	dominant	p[7]	*[7]	
+5-22	524-530	visual	p[7]	*[7]	
+5-23	531-538	feature	p[7]	*[7]	
+5-24	538-539	.	p[7]	*[7]	
+
+#Text=It contains:  Curving light blue paths and footbridges Small water bodies (ponds, streams) A stadium or sports field outlined in pale green (center-right)  Dotted and solid footpaths crisscross the area, indicating recreational use
+6-1	540-542	It	p[8]	*[8]	
+6-2	543-551	contains	p[8]	*[8]	
+6-3	551-552	:	p[8]	*[8]	
+6-4	554-561	Curving	_	_	
+6-5	562-567	light	_	_	
+6-6	568-572	blue	_	_	
+6-7	573-578	paths	_	_	
+6-8	579-582	and	_	_	
+6-9	583-594	footbridges	_	_	
+6-10	595-600	Small	_	_	
+6-11	601-606	water	_	_	
+6-12	607-613	bodies	_	_	
+6-13	614-615	(	_	_	
+6-14	615-620	ponds	_	_	
+6-15	620-621	,	_	_	
+6-16	622-629	streams	_	_	
+6-17	629-630	)	_	_	
+6-18	631-632	A	_	_	
+6-19	633-640	stadium	_	_	
+6-20	641-643	or	_	_	
+6-21	644-650	sports	_	_	
+6-22	651-656	field	_	_	
+6-23	657-665	outlined	_	_	
+6-24	666-668	in	_	_	
+6-25	669-673	pale	_	_	
+6-26	674-679	green	_	_	
+6-27	680-681	(	_	_	
+6-28	681-693	center-right	_	_	
+6-29	693-694	)	_	_	
+6-30	696-702	Dotted	p[9]	*[9]	
+6-31	703-706	and	p[9]	*[9]	
+6-32	707-712	solid	p[9]	*[9]	
+6-33	713-722	footpaths	p[9]	*[9]	
+6-34	723-733	crisscross	p[9]	*[9]	
+6-35	734-737	the	p[9]	*[9]	
+6-36	738-742	area	p[9]	*[9]	
+6-37	742-743	,	p[9]	*[9]	
+6-38	744-754	indicating	p[9]	*[9]	
+6-39	755-767	recreational	p[9]	*[9]	
+6-40	768-771	use	p[9]	*[9]	
+
+#Text=.
+7-1	771-772	.	p[9]	*[9]	
+
+#Text=🏫 2.
+8-1	774-776	🏫	h3[10]	*[10]	
+8-2	777-778	2	h3[10]	*[10]	
+8-3	778-779	.	h3[10]	*[10]	
+
+#Text=Educational Facilities  Several purple-shaded building complexes marked “Éc.”
+9-1	780-791	Educational	h3[10]	*[10]	
+9-2	792-802	Facilities	h3[10]	*[10]	
+9-3	804-811	Several	p[11]	*[11]	
+9-4	812-825	purple-shaded	p[11]	*[11]	
+9-5	826-834	building	p[11]	*[11]	
+9-6	835-844	complexes	p[11]	*[11]	
+9-7	845-851	marked	p[11]	*[11]	
+9-8	852-853	“	p[11]	*[11]	
+9-9	853-855	Éc	p[11]	*[11]	
+9-10	855-856	.	p[11]	*[11]	
+9-11	856-857	”	p[11]	*[11]	
+
+#Text=(école), “Coll.”
+10-1	858-859	(	p[11]	*[11]	
+10-2	859-864	école	p[11]	*[11]	
+10-3	864-865	)	p[11]	*[11]	
+10-4	865-866	,	p[11]	*[11]	
+10-5	867-868	“	p[11]	*[11]	
+10-6	868-872	Coll	p[11]	*[11]	
+10-7	872-873	.	p[11]	*[11]	
+10-8	873-874	”	p[11]	*[11]	
+
+#Text=(collège), and “C. sportif” (centre sportif) stand out due to:  Their large footprints Distinctive light purple fill Central labels indicating public function   💠 3.
+11-1	875-876	(	p[11]	*[11]	
+11-2	876-883	collège	p[11]	*[11]	
+11-3	883-884	)	p[11]	*[11]	
+11-4	884-885	,	p[11]	*[11]	
+11-5	886-889	and	p[11]	*[11]	
+11-6	890-891	“	p[11]	*[11]	
+11-7	891-892	C	p[11]	*[11]	
+11-8	892-893	.	p[11]	*[11]	
+11-9	894-901	sportif	p[11]	*[11]	
+11-10	901-902	”	p[11]	*[11]	
+11-11	903-904	(	p[11]	*[11]	
+11-12	904-910	centre	p[11]	*[11]	
+11-13	911-918	sportif	p[11]	*[11]	
+11-14	918-919	)	p[11]	*[11]	
+11-15	920-925	stand	p[11]	*[11]	
+11-16	926-929	out	p[11]	*[11]	
+11-17	930-933	due	p[11]	*[11]	
+11-18	934-936	to	p[11]	*[11]	
+11-19	936-937	:	p[11]	*[11]	
+11-20	939-944	Their	_	_	
+11-21	945-950	large	_	_	
+11-22	951-961	footprints	_	_	
+11-23	962-973	Distinctive	_	_	
+11-24	974-979	light	_	_	
+11-25	980-986	purple	_	_	
+11-26	987-991	fill	_	_	
+11-27	992-999	Central	_	_	
+11-28	1000-1006	labels	_	_	
+11-29	1007-1017	indicating	_	_	
+11-30	1018-1024	public	_	_	
+11-31	1025-1033	function	_	_	
+11-32	1036-1038	💠	h3[12]	*[12]	
+11-33	1039-1040	3	h3[12]	*[12]	
+11-34	1040-1041	.	h3[12]	*[12]	
+
+#Text=Le Chézine River  On the left side, a winding blue stream labeled le Chézine flows through a green corridor.
+12-1	1042-1044	Le	h3[12]	*[12]	
+12-2	1045-1052	Chézine	h3[12]	*[12]	
+12-3	1053-1058	River	h3[12]	*[12]	
+12-4	1060-1062	On	_	_	
+12-5	1063-1066	the	_	_	
+12-6	1067-1071	left	_	_	
+12-7	1072-1076	side	_	_	
+12-8	1076-1077	,	_	_	
+12-9	1078-1079	a	_	_	
+12-10	1080-1087	winding	_	_	
+12-11	1088-1092	blue	_	_	
+12-12	1093-1099	stream	_	_	
+12-13	1100-1107	labeled	_	_	
+12-14	1108-1110	le	_	_	
+12-15	1111-1118	Chézine	_	_	
+12-16	1119-1124	flows	_	_	
+12-17	1125-1132	through	_	_	
+12-18	1133-1134	a	_	_	
+12-19	1135-1140	green	_	_	
+12-20	1141-1149	corridor	_	_	
+12-21	1149-1150	.	_	_	
+
+#Text=The contrast between the blue and green adds significant visual interest
+13-1	1151-1154	The	_	_	
+13-2	1155-1163	contrast	_	_	
+13-3	1164-1171	between	_	_	
+13-4	1172-1175	the	_	_	
+13-5	1176-1180	blue	_	_	
+13-6	1181-1184	and	_	_	
+13-7	1185-1190	green	_	_	
+13-8	1191-1195	adds	_	_	
+13-9	1196-1207	significant	_	_	
+13-10	1208-1214	visual	_	_	
+13-11	1215-1223	interest	_	_	
+
+#Text=.
+14-1	1223-1224	.	_	_	
+
+#Text=🚦 4.
+15-1	1226-1228	🚦	h3[13]	*[13]	
+15-2	1229-1230	4	h3[13]	*[13]	
+15-3	1230-1231	.	h3[13]	*[13]	
+
+#Text=Traffic and Street Network  Key boulevards like Boulevard des Anglais, Bd Clovis Constant, and Bd Albert Thomas frame and traverse the map.
+16-1	1232-1239	Traffic	h3[13]	*[13]	
+16-2	1240-1243	and	h3[13]	*[13]	
+16-3	1244-1250	Street	h3[13]	*[13]	
+16-4	1251-1258	Network	h3[13]	*[13]	
+16-5	1260-1263	Key	_	_	
+16-6	1264-1274	boulevards	_	_	
+16-7	1275-1279	like	_	_	
+16-8	1280-1289	Boulevard	_	_	
+16-9	1290-1293	des	_	_	
+16-10	1294-1301	Anglais	_	_	
+16-11	1301-1302	,	_	_	
+16-12	1303-1305	Bd	_	_	
+16-13	1306-1312	Clovis	_	_	
+16-14	1313-1321	Constant	_	_	
+16-15	1321-1322	,	_	_	
+16-16	1323-1326	and	_	_	
+16-17	1327-1329	Bd	_	_	
+16-18	1330-1336	Albert	_	_	
+16-19	1337-1343	Thomas	_	_	
+16-20	1344-1349	frame	_	_	
+16-21	1350-1353	and	_	_	
+16-22	1354-1362	traverse	_	_	
+16-23	1363-1366	the	_	_	
+16-24	1367-1370	map	_	_	
+16-25	1370-1371	.	_	_	
+
+#Text=Roundabouts and yellow-highlighted major intersections help anchor the urban layout visually
+17-1	1372-1383	Roundabouts	_	_	
+17-2	1384-1387	and	_	_	
+17-3	1388-1406	yellow-highlighted	_	_	
+17-4	1407-1412	major	_	_	
+17-5	1413-1426	intersections	_	_	
+17-6	1427-1431	help	_	_	
+17-7	1432-1438	anchor	_	_	
+17-8	1439-1442	the	_	_	
+17-9	1443-1448	urban	_	_	
+17-10	1449-1455	layout	_	_	
+17-11	1456-1464	visually	_	_	
+
+#Text=.
+18-1	1464-1465	.	_	_	
+
+#Text=🟫 5.
+19-1	1467-1469	🟫	h3[14]	*[14]	
+19-2	1470-1471	5	h3[14]	*[14]	
+19-3	1471-1472	.	h3[14]	*[14]	
+
+#Text=Dense Urban Fabric  The map is densely filled with brown-outlined buildings representing residential structures.
+20-1	1473-1478	Dense	h3[14]	*[14]	
+20-2	1479-1484	Urban	h3[14]	*[14]	
+20-3	1485-1491	Fabric	h3[14]	*[14]	
+20-4	1493-1496	The	_	_	
+20-5	1497-1500	map	_	_	
+20-6	1501-1503	is	_	_	
+20-7	1504-1511	densely	_	_	
+20-8	1512-1518	filled	_	_	
+20-9	1519-1523	with	_	_	
+20-10	1524-1538	brown-outlined	_	_	
+20-11	1539-1548	buildings	_	_	
+20-12	1549-1561	representing	_	_	
+20-13	1562-1573	residential	_	_	
+20-14	1574-1584	structures	_	_	
+20-15	1584-1585	.	_	_	
+
+#Text=Their regular alignment and small size create a visual texture in contrast to the openness of the park
+21-1	1586-1591	Their	_	_	
+21-2	1592-1599	regular	_	_	
+21-3	1600-1609	alignment	_	_	
+21-4	1610-1613	and	_	_	
+21-5	1614-1619	small	_	_	
+21-6	1620-1624	size	_	_	
+21-7	1625-1631	create	_	_	
+21-8	1632-1633	a	_	_	
+21-9	1634-1640	visual	_	_	
+21-10	1641-1648	texture	_	_	
+21-11	1649-1651	in	_	_	
+21-12	1652-1660	contrast	_	_	
+21-13	1661-1663	to	_	_	
+21-14	1664-1667	the	_	_	
+21-15	1668-1676	openness	_	_	
+21-16	1677-1679	of	_	_	
+21-17	1680-1683	the	_	_	
+21-18	1684-1688	park	_	_	
+
+#Text=.
+22-1	1688-1689	.	_	_	
+
+#Text=🧭 Spatial Organization  West: The river corridor and greenways Center: Dominated by the large urban park and stadium East/North: Densely packed urban neighborhoods and public institutions South: A mix of open space (sports fields) and more dispersed buildings  🧩 Notable Contrasts  Natural vs Built: The map clearly separates green, natural areas from tan-brown urban blocks.
+23-1	1691-1693	🧭	h2[15]	*[15]	
+23-2	1694-1701	Spatial	h2[15]	*[15]	
+23-3	1702-1714	Organization	h2[15]	*[15]	
+23-4	1716-1720	West	_	_	
+23-5	1720-1721	:	_	_	
+23-6	1722-1725	The	_	_	
+23-7	1726-1731	river	_	_	
+23-8	1732-1740	corridor	_	_	
+23-9	1741-1744	and	_	_	
+23-10	1745-1754	greenways	_	_	
+23-11	1755-1761	Center	_	_	
+23-12	1761-1762	:	_	_	
+23-13	1763-1772	Dominated	_	_	
+23-14	1773-1775	by	_	_	
+23-15	1776-1779	the	_	_	
+23-16	1780-1785	large	_	_	
+23-17	1786-1791	urban	_	_	
+23-18	1792-1796	park	_	_	
+23-19	1797-1800	and	_	_	
+23-20	1801-1808	stadium	_	_	
+23-21	1809-1813	East	_	_	
+23-22	1813-1814	/	_	_	
+23-23	1814-1819	North	_	_	
+23-24	1819-1820	:	_	_	
+23-25	1821-1828	Densely	_	_	
+23-26	1829-1835	packed	_	_	
+23-27	1836-1841	urban	_	_	
+23-28	1842-1855	neighborhoods	_	_	
+23-29	1856-1859	and	_	_	
+23-30	1860-1866	public	_	_	
+23-31	1867-1879	institutions	_	_	
+23-32	1880-1885	South	_	_	
+23-33	1885-1886	:	_	_	
+23-34	1887-1888	A	_	_	
+23-35	1889-1892	mix	_	_	
+23-36	1893-1895	of	_	_	
+23-37	1896-1900	open	_	_	
+23-38	1901-1906	space	_	_	
+23-39	1907-1908	(	_	_	
+23-40	1908-1914	sports	_	_	
+23-41	1915-1921	fields	_	_	
+23-42	1921-1922	)	_	_	
+23-43	1923-1926	and	_	_	
+23-44	1927-1931	more	_	_	
+23-45	1932-1941	dispersed	_	_	
+23-46	1942-1951	buildings	_	_	
+23-47	1953-1955	🧩	h2[16]	*[16]	
+23-48	1956-1963	Notable	h2[16]	*[16]	
+23-49	1964-1973	Contrasts	h2[16]	*[16]	
+23-50	1975-1982	Natural	_	_	
+23-51	1983-1985	vs	_	_	
+23-52	1986-1991	Built	_	_	
+23-53	1991-1992	:	_	_	
+23-54	1993-1996	The	_	_	
+23-55	1997-2000	map	_	_	
+23-56	2001-2008	clearly	_	_	
+23-57	2009-2018	separates	_	_	
+23-58	2019-2024	green	_	_	
+23-59	2024-2025	,	_	_	
+23-60	2026-2033	natural	_	_	
+23-61	2034-2039	areas	_	_	
+23-62	2040-2044	from	_	_	
+23-63	2045-2054	tan-brown	_	_	
+23-64	2055-2060	urban	_	_	
+23-65	2061-2067	blocks	_	_	
+23-66	2067-2068	.	_	_	
+
+#Text=Public vs Private Use: Institutions are distinctively symbolized and easily distinguished from residential zones.
+24-1	2069-2075	Public	_	_	
+24-2	2076-2078	vs	_	_	
+24-3	2079-2086	Private	_	_	
+24-4	2087-2090	Use	_	_	
+24-5	2090-2091	:	_	_	
+24-6	2092-2104	Institutions	_	_	
+24-7	2105-2108	are	_	_	
+24-8	2109-2122	distinctively	_	_	
+24-9	2123-2133	symbolized	_	_	
+24-10	2134-2137	and	_	_	
+24-11	2138-2144	easily	_	_	
+24-12	2145-2158	distinguished	_	_	
+24-13	2159-2163	from	_	_	
+24-14	2164-2175	residential	_	_	
+24-15	2176-2181	zones	_	_	
+24-16	2181-2182	.	_	_	
+
+#Text=Curvilinear vs Rectilinear: The flowing shapes of the park and river contrast with the orthogonal grid of city blocks.
+25-1	2183-2194	Curvilinear	_	_	
+25-2	2195-2197	vs	_	_	
+25-3	2198-2209	Rectilinear	_	_	
+25-4	2209-2210	:	_	_	
+25-5	2211-2214	The	_	_	
+25-6	2215-2222	flowing	_	_	
+25-7	2223-2229	shapes	_	_	
+25-8	2230-2232	of	_	_	
+25-9	2233-2236	the	_	_	
+25-10	2237-2241	park	_	_	
+25-11	2242-2245	and	_	_	
+25-12	2246-2251	river	_	_	
+25-13	2252-2260	contrast	_	_	
+25-14	2261-2265	with	_	_	
+25-15	2266-2269	the	_	_	
+25-16	2270-2280	orthogonal	_	_	
+25-17	2281-2285	grid	_	_	
+25-18	2286-2288	of	_	_	
+25-19	2289-2293	city	_	_	
+25-20	2294-2300	blocks	_	_	
+25-21	2300-2301	.	_	_	
+
+#Text=Would you like a comparison between this and the previous castle-centered map or the OSM-based maps?
+26-1	2303-2308	Would	p[17]	*[17]	
+26-2	2309-2312	you	p[17]	*[17]	
+26-3	2313-2317	like	p[17]	*[17]	
+26-4	2318-2319	a	p[17]	*[17]	
+26-5	2320-2330	comparison	p[17]	*[17]	
+26-6	2331-2338	between	p[17]	*[17]	
+26-7	2339-2343	this	p[17]	*[17]	
+26-8	2344-2347	and	p[17]	*[17]	
+26-9	2348-2351	the	p[17]	*[17]	
+26-10	2352-2360	previous	p[17]	*[17]	
+26-11	2361-2376	castle-centered	p[17]	*[17]	
+26-12	2377-2380	map	p[17]	*[17]	
+26-13	2381-2383	or	p[17]	*[17]	
+26-14	2384-2387	the	p[17]	*[17]	
+26-15	2388-2397	OSM-based	p[17]	*[17]	
+26-16	2398-2402	maps	p[17]	*[17]	
+26-17	2402-2403	?	p[17]	*[17]	
+
+#Text=Can you describe the most visually salient elements of the map?
+27-1	2404-2407	Can	h1[18]	*[18]	
+27-2	2408-2411	you	h1[18]	*[18]	
+27-3	2412-2420	describe	h1[18]	*[18]	
+27-4	2421-2424	the	h1[18]	*[18]	
+27-5	2425-2429	most	h1[18]	*[18]	
+27-6	2430-2438	visually	h1[18]	*[18]	
+27-7	2439-2446	salient	h1[18]	*[18]	
+27-8	2447-2455	elements	h1[18]	*[18]	
+27-9	2456-2458	of	h1[18]	*[18]	
+27-10	2459-2462	the	h1[18]	*[18]	
+27-11	2463-2466	map	h1[18]	*[18]	
+27-12	2466-2467	?	h1[18]	*[18]	
+
+#Text=Certainly!
+28-1	2468-2477	Certainly	p[19]	*[19]	
+28-2	2477-2478	!	p[19]	*[19]	
+
+#Text=Here's a description of the most visually salient elements in the map you've just shared: 🗺️ Map Overview This is a detailed urban topographic map focused on a large city park and its surrounding urban neighborhood.
+29-1	2479-2485	Here's	p[19]	*[19]	
+29-2	2486-2487	a	p[19]	*[19]	
+29-3	2488-2499	description	p[19]	*[19]	
+29-4	2500-2502	of	p[19]	*[19]	
+29-5	2503-2506	the	p[19]	*[19]	
+29-6	2507-2511	most	p[19]	*[19]	
+29-7	2512-2520	visually	p[19]	*[19]	
+29-8	2521-2528	salient	p[19]	*[19]	
+29-9	2529-2537	elements	p[19]	*[19]	
+29-10	2538-2540	in	p[19]	*[19]	
+29-11	2541-2544	the	p[19]	*[19]	
+29-12	2545-2548	map	p[19]	*[19]	
+29-13	2549-2555	you've	p[19]	*[19]	
+29-14	2556-2560	just	p[19]	*[19]	
+29-15	2561-2567	shared	p[19]	*[19]	
+29-16	2567-2568	:	p[19]	*[19]	
+29-17	2569-2572	🗺️	h2[20]	*[20]	
+29-18	2573-2576	Map	h2[20]	*[20]	
+29-19	2577-2585	Overview	h2[20]	*[20]	
+29-20	2586-2590	This	p[21]	*[21]	
+29-21	2591-2593	is	p[21]	*[21]	
+29-22	2594-2595	a	p[21]	*[21]	
+29-23	2596-2604	detailed	p[21]	*[21]	
+29-24	2605-2610	urban	p[21]	*[21]	
+29-25	2611-2622	topographic	p[21]	*[21]	
+29-26	2623-2626	map	p[21]	*[21]	
+29-27	2627-2634	focused	p[21]	*[21]	
+29-28	2635-2637	on	p[21]	*[21]	
+29-29	2638-2639	a	p[21]	*[21]	
+29-30	2640-2645	large	p[21]	*[21]	
+29-31	2646-2650	city	p[21]	*[21]	
+29-32	2651-2655	park	p[21]	*[21]	
+29-33	2656-2659	and	p[21]	*[21]	
+29-34	2660-2663	its	p[21]	*[21]	
+29-35	2664-2675	surrounding	p[21]	*[21]	
+29-36	2676-2681	urban	p[21]	*[21]	
+29-37	2682-2694	neighborhood	p[21]	*[21]	
+29-38	2694-2695	.	p[21]	*[21]	
+
+#Text=The style is typical of French national cartographic standards (likely from IGN), featuring clearly delineated public infrastructure and natural elements. 🔝 Most Visually Salient Elements 🌳 1.
+30-1	2696-2699	The	p[21]	*[21]	
+30-2	2700-2705	style	p[21]	*[21]	
+30-3	2706-2708	is	p[21]	*[21]	
+30-4	2709-2716	typical	p[21]	*[21]	
+30-5	2717-2719	of	p[21]	*[21]	
+30-6	2720-2726	French	p[21]	*[21]	
+30-7	2727-2735	national	p[21]	*[21]	
+30-8	2736-2748	cartographic	p[21]	*[21]	
+30-9	2749-2758	standards	p[21]	*[21]	
+30-10	2759-2760	(	p[21]	*[21]	
+30-11	2760-2766	likely	p[21]	*[21]	
+30-12	2767-2771	from	p[21]	*[21]	
+30-13	2772-2775	IGN	p[21]	*[21]	
+30-14	2775-2776	)	p[21]	*[21]	
+30-15	2776-2777	,	p[21]	*[21]	
+30-16	2778-2787	featuring	p[21]	*[21]	
+30-17	2788-2795	clearly	p[21]	*[21]	
+30-18	2796-2806	delineated	p[21]	*[21]	
+30-19	2807-2813	public	p[21]	*[21]	
+30-20	2814-2828	infrastructure	p[21]	*[21]	
+30-21	2829-2832	and	p[21]	*[21]	
+30-22	2833-2840	natural	p[21]	*[21]	
+30-23	2841-2849	elements	p[21]	*[21]	
+30-24	2849-2850	.	p[21]	*[21]	
+30-25	2851-2853	🔝	h2[22]	*[22]	
+30-26	2854-2858	Most	h2[22]	*[22]	
+30-27	2859-2867	Visually	h2[22]	*[22]	
+30-28	2868-2875	Salient	h2[22]	*[22]	
+30-29	2876-2884	Elements	h2[22]	*[22]	
+30-30	2885-2887	🌳	h3[23]	*[23]	
+30-31	2888-2889	1	h3[23]	*[23]	
+30-32	2889-2890	.	h3[23]	*[23]	
+
+#Text=Central Park Area ("Parc")  A large, green-shaded area dominates the center of the map, labeled simply as “Parc”.
+31-1	2891-2898	Central	h3[23]	*[23]	
+31-2	2899-2903	Park	h3[23]	*[23]	
+31-3	2904-2908	Area	h3[23]	*[23]	
+31-4	2909-2910	(	h3[23]	*[23]	
+31-5	2910-2911	"	h3[23]	*[23]	
+31-6	2911-2915	Parc	h3[23]	*[23]	
+31-7	2915-2916	"	h3[23]	*[23]	
+31-8	2916-2917	)	h3[23]	*[23]	
+31-9	2919-2920	A	p[24]	*[24]	
+31-10	2921-2926	large	p[24]	*[24]	
+31-11	2926-2927	,	p[24]	*[24]	
+31-12	2928-2940	green-shaded	p[24]	*[24]	
+31-13	2941-2945	area	p[24]	*[24]	
+31-14	2946-2955	dominates	p[24]	*[24]	
+31-15	2956-2959	the	p[24]	*[24]	
+31-16	2960-2966	center	p[24]	*[24]	
+31-17	2967-2969	of	p[24]	*[24]	
+31-18	2970-2973	the	p[24]	*[24]	
+31-19	2974-2977	map	p[24]	*[24]	
+31-20	2977-2978	,	p[24]	*[24]	
+31-21	2979-2986	labeled	p[24]	*[24]	
+31-22	2987-2993	simply	p[24]	*[24]	
+31-23	2994-2996	as	p[24]	*[24]	
+31-24	2997-2998	“	p[24]	*[24]	
+31-25	2998-3002	Parc	p[24]	*[24]	
+31-26	3002-3003	”	p[24]	*[24]	
+31-27	3003-3004	.	p[24]	*[24]	
+
+#Text=It includes:  Curving paths in light gray or brown Light blue water bodies and canals Open grass fields Naturalistic elements, giving a tranquil, organic appearance  This is the most visually dominant zone due to its size and pale green coloring
+32-1	3005-3007	It	p[25]	*[25]	
+32-2	3008-3016	includes	p[25]	*[25]	
+32-3	3016-3017	:	p[25]	*[25]	
+32-4	3019-3026	Curving	_	_	
+32-5	3027-3032	paths	_	_	
+32-6	3033-3035	in	_	_	
+32-7	3036-3041	light	_	_	
+32-8	3042-3046	gray	_	_	
+32-9	3047-3049	or	_	_	
+32-10	3050-3055	brown	_	_	
+32-11	3056-3061	Light	_	_	
+32-12	3062-3066	blue	_	_	
+32-13	3067-3072	water	_	_	
+32-14	3073-3079	bodies	_	_	
+32-15	3080-3083	and	_	_	
+32-16	3084-3090	canals	_	_	
+32-17	3091-3095	Open	_	_	
+32-18	3096-3101	grass	_	_	
+32-19	3102-3108	fields	_	_	
+32-20	3109-3121	Naturalistic	_	_	
+32-21	3122-3130	elements	_	_	
+32-22	3130-3131	,	_	_	
+32-23	3132-3138	giving	_	_	
+32-24	3139-3140	a	_	_	
+32-25	3141-3149	tranquil	_	_	
+32-26	3149-3150	,	_	_	
+32-27	3151-3158	organic	_	_	
+32-28	3159-3169	appearance	_	_	
+32-29	3171-3175	This	p[26]	*[26]	
+32-30	3176-3178	is	p[26]	*[26]	
+32-31	3179-3182	the	p[26]	*[26]	
+32-32	3183-3187	most	p[26]	*[26]	
+32-33	3188-3196	visually	p[26]	*[26]	
+32-34	3197-3205	dominant	p[26]	*[26]	
+32-35	3206-3210	zone	p[26]	*[26]	
+32-36	3211-3214	due	p[26]	*[26]	
+32-37	3215-3217	to	p[26]	*[26]	
+32-38	3218-3221	its	p[26]	*[26]	
+32-39	3222-3226	size	p[26]	*[26]	
+32-40	3227-3230	and	p[26]	*[26]	
+32-41	3231-3235	pale	p[26]	*[26]	
+32-42	3236-3241	green	p[26]	*[26]	
+32-43	3242-3250	coloring	p[26]	*[26]	
+
+#Text=.
+33-1	3250-3251	.	p[26]	*[26]	
+
+#Text=🟩 2.
+34-1	3253-3255	🟩	h3[27]	*[27]	
+34-2	3256-3257	2	h3[27]	*[27]	
+34-3	3257-3258	.	h3[27]	*[27]	
+
+#Text=Stadium/Sports Field  Located slightly northeast within the park is a large, rectangular green area likely representing a stadium or sports field.
+35-1	3259-3266	Stadium	h3[27]	*[27]	
+35-2	3266-3267	/	h3[27]	*[27]	
+35-3	3267-3273	Sports	h3[27]	*[27]	
+35-4	3274-3279	Field	h3[27]	*[27]	
+35-5	3281-3288	Located	_	_	
+35-6	3289-3297	slightly	_	_	
+35-7	3298-3307	northeast	_	_	
+35-8	3308-3314	within	_	_	
+35-9	3315-3318	the	_	_	
+35-10	3319-3323	park	_	_	
+35-11	3324-3326	is	_	_	
+35-12	3327-3328	a	_	_	
+35-13	3329-3334	large	_	_	
+35-14	3334-3335	,	_	_	
+35-15	3336-3347	rectangular	_	_	
+35-16	3348-3353	green	_	_	
+35-17	3354-3358	area	_	_	
+35-18	3359-3365	likely	_	_	
+35-19	3366-3378	representing	_	_	
+35-20	3379-3380	a	_	_	
+35-21	3381-3388	stadium	_	_	
+35-22	3389-3391	or	_	_	
+35-23	3392-3398	sports	_	_	
+35-24	3399-3404	field	_	_	
+35-25	3404-3405	.	_	_	
+
+#Text=Its geometric, outlined shape contrasts with the surrounding natural curves, drawing the eye
+36-1	3406-3409	Its	_	_	
+36-2	3410-3419	geometric	_	_	
+36-3	3419-3420	,	_	_	
+36-4	3421-3429	outlined	_	_	
+36-5	3430-3435	shape	_	_	
+36-6	3436-3445	contrasts	_	_	
+36-7	3446-3450	with	_	_	
+36-8	3451-3454	the	_	_	
+36-9	3455-3466	surrounding	_	_	
+36-10	3467-3474	natural	_	_	
+36-11	3475-3481	curves	_	_	
+36-12	3481-3482	,	_	_	
+36-13	3483-3490	drawing	_	_	
+36-14	3491-3494	the	_	_	
+36-15	3495-3498	eye	_	_	
+
+#Text=.
+37-1	3498-3499	.	_	_	
+
+#Text=🟪 3.
+38-1	3501-3503	🟪	h3[28]	*[28]	
+38-2	3504-3505	3	h3[28]	*[28]	
+38-3	3505-3506	.	h3[28]	*[28]	
+
+#Text=Educational and Public Facilities  Several light purple buildings, labeled with:  Éc.
+39-1	3507-3518	Educational	h3[28]	*[28]	
+39-2	3519-3522	and	h3[28]	*[28]	
+39-3	3523-3529	Public	h3[28]	*[28]	
+39-4	3530-3540	Facilities	h3[28]	*[28]	
+39-5	3542-3549	Several	p[29]	*[29]	
+39-6	3550-3555	light	p[29]	*[29]	
+39-7	3556-3562	purple	p[29]	*[29]	
+39-8	3563-3572	buildings	p[29]	*[29]	
+39-9	3572-3573	,	p[29]	*[29]	
+39-10	3574-3581	labeled	p[29]	*[29]	
+39-11	3582-3586	with	p[29]	*[29]	
+39-12	3586-3587	:	p[29]	*[29]	
+39-13	3589-3591	Éc	_	_	
+39-14	3591-3592	.	_	_	
+
+#Text=(École = School) Coll.
+40-1	3593-3594	(	_	_	
+40-2	3594-3599	École	_	_	
+40-3	3600-3601	=	_	_	
+40-4	3602-3608	School	_	_	
+40-5	3608-3609	)	_	_	
+40-6	3610-3614	Coll	_	_	
+40-7	3614-3615	.	_	_	
+
+#Text=(Collège = Middle school) C. sportif (Complexe sportif = Sports center)  Their unique fill color and sizable footprints make them stand out from the surrounding brown residential blocks
+41-1	3616-3617	(	_	_	
+41-2	3617-3624	Collège	_	_	
+41-3	3625-3626	=	_	_	
+41-4	3627-3633	Middle	_	_	
+41-5	3634-3640	school	_	_	
+41-6	3640-3641	)	_	_	
+41-7	3642-3643	C	_	_	
+41-8	3643-3644	.	_	_	
+41-9	3645-3652	sportif	_	_	
+41-10	3653-3654	(	_	_	
+41-11	3654-3662	Complexe	_	_	
+41-12	3663-3670	sportif	_	_	
+41-13	3671-3672	=	_	_	
+41-14	3673-3679	Sports	_	_	
+41-15	3680-3686	center	_	_	
+41-16	3686-3687	)	_	_	
+41-17	3689-3694	Their	p[30]	*[30]	
+41-18	3695-3701	unique	p[30]	*[30]	
+41-19	3702-3706	fill	p[30]	*[30]	
+41-20	3707-3712	color	p[30]	*[30]	
+41-21	3713-3716	and	p[30]	*[30]	
+41-22	3717-3724	sizable	p[30]	*[30]	
+41-23	3725-3735	footprints	p[30]	*[30]	
+41-24	3736-3740	make	p[30]	*[30]	
+41-25	3741-3745	them	p[30]	*[30]	
+41-26	3746-3751	stand	p[30]	*[30]	
+41-27	3752-3755	out	p[30]	*[30]	
+41-28	3756-3760	from	p[30]	*[30]	
+41-29	3761-3764	the	p[30]	*[30]	
+41-30	3765-3776	surrounding	p[30]	*[30]	
+41-31	3777-3782	brown	p[30]	*[30]	
+41-32	3783-3794	residential	p[30]	*[30]	
+41-33	3795-3801	blocks	p[30]	*[30]	
+
+#Text=.
+42-1	3801-3802	.	p[30]	*[30]	
+
+#Text=🔵 4.
+43-1	3804-3806	🔵	h3[31]	*[31]	
+43-2	3807-3808	4	h3[31]	*[31]	
+43-3	3808-3809	.	h3[31]	*[31]	
+
+#Text=Le Chézine River  On the west side, the light blue winding river named le Chézine snakes through a green corridor.
+44-1	3810-3812	Le	h3[31]	*[31]	
+44-2	3813-3820	Chézine	h3[31]	*[31]	
+44-3	3821-3826	River	h3[31]	*[31]	
+44-4	3828-3830	On	_	_	
+44-5	3831-3834	the	_	_	
+44-6	3835-3839	west	_	_	
+44-7	3840-3844	side	_	_	
+44-8	3844-3845	,	_	_	
+44-9	3846-3849	the	_	_	
+44-10	3850-3855	light	_	_	
+44-11	3856-3860	blue	_	_	
+44-12	3861-3868	winding	_	_	
+44-13	3869-3874	river	_	_	
+44-14	3875-3880	named	_	_	
+44-15	3881-3883	le	_	_	
+44-16	3884-3891	Chézine	_	_	
+44-17	3892-3898	snakes	_	_	
+44-18	3899-3906	through	_	_	
+44-19	3907-3908	a	_	_	
+44-20	3909-3914	green	_	_	
+44-21	3915-3923	corridor	_	_	
+44-22	3923-3924	.	_	_	
+
+#Text=Its curvilinear shape and contrasting color make it another prominent visual feature
+45-1	3925-3928	Its	_	_	
+45-2	3929-3940	curvilinear	_	_	
+45-3	3941-3946	shape	_	_	
+45-4	3947-3950	and	_	_	
+45-5	3951-3962	contrasting	_	_	
+45-6	3963-3968	color	_	_	
+45-7	3969-3973	make	_	_	
+45-8	3974-3976	it	_	_	
+45-9	3977-3984	another	_	_	
+45-10	3985-3994	prominent	_	_	
+45-11	3995-4001	visual	_	_	
+45-12	4002-4009	feature	_	_	
+
+#Text=.
+46-1	4009-4010	.	_	_	
+
+#Text=🟫 5.
+47-1	4012-4014	🟫	h3[32]	*[32]	
+47-2	4015-4016	5	h3[32]	*[32]	
+47-3	4016-4017	.	h3[32]	*[32]	
+
+#Text=Dense Urban Fabric  Residential buildings are shown as brown-outlined rectangles densely packed around the park.
+48-1	4018-4023	Dense	h3[32]	*[32]	
+48-2	4024-4029	Urban	h3[32]	*[32]	
+48-3	4030-4036	Fabric	h3[32]	*[32]	
+48-4	4038-4049	Residential	_	_	
+48-5	4050-4059	buildings	_	_	
+48-6	4060-4063	are	_	_	
+48-7	4064-4069	shown	_	_	
+48-8	4070-4072	as	_	_	
+48-9	4073-4087	brown-outlined	_	_	
+48-10	4088-4098	rectangles	_	_	
+48-11	4099-4106	densely	_	_	
+48-12	4107-4113	packed	_	_	
+48-13	4114-4120	around	_	_	
+48-14	4121-4124	the	_	_	
+48-15	4125-4129	park	_	_	
+48-16	4129-4130	.	_	_	
+
+#Text=These provide texture and frame the open space, emphasizing the contrast between built and natural areas
+49-1	4131-4136	These	_	_	
+49-2	4137-4144	provide	_	_	
+49-3	4145-4152	texture	_	_	
+49-4	4153-4156	and	_	_	
+49-5	4157-4162	frame	_	_	
+49-6	4163-4166	the	_	_	
+49-7	4167-4171	open	_	_	
+49-8	4172-4177	space	_	_	
+49-9	4177-4178	,	_	_	
+49-10	4179-4190	emphasizing	_	_	
+49-11	4191-4194	the	_	_	
+49-12	4195-4203	contrast	_	_	
+49-13	4204-4211	between	_	_	
+49-14	4212-4217	built	_	_	
+49-15	4218-4221	and	_	_	
+49-16	4222-4229	natural	_	_	
+49-17	4230-4235	areas	_	_	
+
+#Text=.
+50-1	4235-4236	.	_	_	
+
+#Text=🟡 6.
+51-1	4238-4240	🟡	h3[33]	*[33]	
+51-2	4241-4242	6	h3[33]	*[33]	
+51-3	4242-4243	.	h3[33]	*[33]	
+
+#Text=Major Roads and Roundabouts  Highlighted roads include:  Bd des Anglais Bd Clovis Constant Bd Albert Thomas  Yellow shading and roundabouts mark key intersections, adding a sense of urban structure and orientation
+52-1	4244-4249	Major	h3[33]	*[33]	
+52-2	4250-4255	Roads	h3[33]	*[33]	
+52-3	4256-4259	and	h3[33]	*[33]	
+52-4	4260-4271	Roundabouts	h3[33]	*[33]	
+52-5	4273-4284	Highlighted	p[34]	*[34]	
+52-6	4285-4290	roads	p[34]	*[34]	
+52-7	4291-4298	include	p[34]	*[34]	
+52-8	4298-4299	:	p[34]	*[34]	
+52-9	4301-4303	Bd	_	_	
+52-10	4304-4307	des	_	_	
+52-11	4308-4315	Anglais	_	_	
+52-12	4316-4318	Bd	_	_	
+52-13	4319-4325	Clovis	_	_	
+52-14	4326-4334	Constant	_	_	
+52-15	4335-4337	Bd	_	_	
+52-16	4338-4344	Albert	_	_	
+52-17	4345-4351	Thomas	_	_	
+52-18	4353-4359	Yellow	p[35]	*[35]	
+52-19	4360-4367	shading	p[35]	*[35]	
+52-20	4368-4371	and	p[35]	*[35]	
+52-21	4372-4383	roundabouts	p[35]	*[35]	
+52-22	4384-4388	mark	p[35]	*[35]	
+52-23	4389-4392	key	p[35]	*[35]	
+52-24	4393-4406	intersections	p[35]	*[35]	
+52-25	4406-4407	,	p[35]	*[35]	
+52-26	4408-4414	adding	p[35]	*[35]	
+52-27	4415-4416	a	p[35]	*[35]	
+52-28	4417-4422	sense	p[35]	*[35]	
+52-29	4423-4425	of	p[35]	*[35]	
+52-30	4426-4431	urban	p[35]	*[35]	
+52-31	4432-4441	structure	p[35]	*[35]	
+52-32	4442-4445	and	p[35]	*[35]	
+52-33	4446-4457	orientation	p[35]	*[35]	
+
+#Text=.
+53-1	4457-4458	.	p[35]	*[35]	
+
+#Text=🔁 Visual Contrast and Hierarchy  Natural vs Built: The park and river (green and blue) visually dominate over the densely packed urban area (brown).
+54-1	4460-4462	🔁	h2[36]	*[36]	
+54-2	4463-4469	Visual	h2[36]	*[36]	
+54-3	4470-4478	Contrast	h2[36]	*[36]	
+54-4	4479-4482	and	h2[36]	*[36]	
+54-5	4483-4492	Hierarchy	h2[36]	*[36]	
+54-6	4494-4501	Natural	_	_	
+54-7	4502-4504	vs	_	_	
+54-8	4505-4510	Built	_	_	
+54-9	4510-4511	:	_	_	
+54-10	4512-4515	The	_	_	
+54-11	4516-4520	park	_	_	
+54-12	4521-4524	and	_	_	
+54-13	4525-4530	river	_	_	
+54-14	4531-4532	(	_	_	
+54-15	4532-4537	green	_	_	
+54-16	4538-4541	and	_	_	
+54-17	4542-4546	blue	_	_	
+54-18	4546-4547	)	_	_	
+54-19	4548-4556	visually	_	_	
+54-20	4557-4565	dominate	_	_	
+54-21	4566-4570	over	_	_	
+54-22	4571-4574	the	_	_	
+54-23	4575-4582	densely	_	_	
+54-24	4583-4589	packed	_	_	
+54-25	4590-4595	urban	_	_	
+54-26	4596-4600	area	_	_	
+54-27	4601-4602	(	_	_	
+54-28	4602-4607	brown	_	_	
+54-29	4607-4608	)	_	_	
+54-30	4608-4609	.	_	_	
+
+#Text=Public Institutions: Stand out with unique purple coloring and are easily distinguishable.
+55-1	4610-4616	Public	_	_	
+55-2	4617-4629	Institutions	_	_	
+55-3	4629-4630	:	_	_	
+55-4	4631-4636	Stand	_	_	
+55-5	4637-4640	out	_	_	
+55-6	4641-4645	with	_	_	
+55-7	4646-4652	unique	_	_	
+55-8	4653-4659	purple	_	_	
+55-9	4660-4668	coloring	_	_	
+55-10	4669-4672	and	_	_	
+55-11	4673-4676	are	_	_	
+55-12	4677-4683	easily	_	_	
+55-13	4684-4699	distinguishable	_	_	
+55-14	4699-4700	.	_	_	
+
+#Text=Circulation: Roads and paths provide structure and movement, with roundabouts creating focal points.
+56-1	4701-4712	Circulation	_	_	
+56-2	4712-4713	:	_	_	
+56-3	4714-4719	Roads	_	_	
+56-4	4720-4723	and	_	_	
+56-5	4724-4729	paths	_	_	
+56-6	4730-4737	provide	_	_	
+56-7	4738-4747	structure	_	_	
+56-8	4748-4751	and	_	_	
+56-9	4752-4760	movement	_	_	
+56-10	4760-4761	,	_	_	
+56-11	4762-4766	with	_	_	
+56-12	4767-4778	roundabouts	_	_	
+56-13	4779-4787	creating	_	_	
+56-14	4788-4793	focal	_	_	
+56-15	4794-4800	points	_	_	
+56-16	4800-4801	.	_	_	
+
+#Text=Would you like a side-by-side comparison with another map in your series (e.g. the Château des Ducs de Bretagne or the OSM map of Santander)?
+57-1	4803-4808	Would	p[37]	*[37]	
+57-2	4809-4812	you	p[37]	*[37]	
+57-3	4813-4817	like	p[37]	*[37]	
+57-4	4818-4819	a	p[37]	*[37]	
+57-5	4820-4832	side-by-side	p[37]	*[37]	
+57-6	4833-4843	comparison	p[37]	*[37]	
+57-7	4844-4848	with	p[37]	*[37]	
+57-8	4849-4856	another	p[37]	*[37]	
+57-9	4857-4860	map	p[37]	*[37]	
+57-10	4861-4863	in	p[37]	*[37]	
+57-11	4864-4868	your	p[37]	*[37]	
+57-12	4869-4875	series	p[37]	*[37]	
+57-13	4876-4877	(	p[37]	*[37]	
+57-14	4877-4880	e.g	p[37]	*[37]	
+57-15	4880-4881	.	p[37]	*[37]	
+57-16	4882-4885	the	p[37]	*[37]	
+57-17	4886-4893	Château	p[37]	*[37]	
+57-18	4894-4897	des	p[37]	*[37]	
+57-19	4898-4902	Ducs	p[37]	*[37]	
+57-20	4903-4905	de	p[37]	*[37]	
+57-21	4906-4914	Bretagne	p[37]	*[37]	
+57-22	4915-4917	or	p[37]	*[37]	
+57-23	4918-4921	the	p[37]	*[37]	
+57-24	4922-4925	OSM	p[37]	*[37]	
+57-25	4926-4929	map	p[37]	*[37]	
+57-26	4930-4932	of	p[37]	*[37]	
+57-27	4933-4942	Santander	p[37]	*[37]	
+57-28	4942-4943	)	p[37]	*[37]	
+57-29	4943-4944	?	p[37]	*[37]	
+
+#Text=Anchors summary  Parc (large central park) — named Stadium / sports field (within the park) — non-named le Chézine (river) — named Éc.
+58-1	4945-4952	Anchors	h1[38]	*[38]	
+58-2	4953-4960	summary	h1[38]	*[38]	
+58-3	4962-4966	Parc	_	_	
+58-4	4967-4968	(	_	_	
+58-5	4968-4973	large	_	_	
+58-6	4974-4981	central	_	_	
+58-7	4982-4986	park	_	_	
+58-8	4986-4987	)	_	_	
+58-9	4988-4989	—	_	_	
+58-10	4990-4995	named	_	_	
+58-11	4996-5003	Stadium	_	_	
+58-12	5004-5005	/	_	_	
+58-13	5006-5012	sports	_	_	
+58-14	5013-5018	field	_	_	
+58-15	5019-5020	(	_	_	
+58-16	5020-5026	within	_	_	
+58-17	5027-5030	the	_	_	
+58-18	5031-5035	park	_	_	
+58-19	5035-5036	)	_	_	
+58-20	5037-5038	—	_	_	
+58-21	5039-5048	non-named	_	_	
+58-22	5049-5051	le	_	_	
+58-23	5052-5059	Chézine	_	_	
+58-24	5060-5061	(	_	_	
+58-25	5061-5066	river	_	_	
+58-26	5066-5067	)	_	_	
+58-27	5068-5069	—	_	_	
+58-28	5070-5075	named	_	_	
+58-29	5076-5078	Éc	_	_	
+58-30	5078-5079	.	_	_	
+
+#Text=(école / school) — labeled (non-named) Coll.
+59-1	5080-5081	(	_	_	
+59-2	5081-5086	école	_	_	
+59-3	5087-5088	/	_	_	
+59-4	5089-5095	school	_	_	
+59-5	5095-5096	)	_	_	
+59-6	5097-5098	—	_	_	
+59-7	5099-5106	labeled	_	_	
+59-8	5107-5108	(	_	_	
+59-9	5108-5117	non-named	_	_	
+59-10	5117-5118	)	_	_	
+59-11	5119-5123	Coll	_	_	
+59-12	5123-5124	.	_	_	
+
+#Text=(collège) — labeled (non-named) C. sportif (centre sportif / sports complex) — labeled (non-named) Bd des Anglais (Boulevard des Anglais) — named Bd Clovis Constant — named Bd Albert Thomas — named Roundabouts / major intersections — non-named Curving paths and footbridges — non-named Small water bodies (ponds, streams) — non-named Dense residential blocks / brown-outlined buildings — non-named Green corridor along le Chézine — non-named
+60-1	5125-5126	(	_	_	
+60-2	5126-5133	collège	_	_	
+60-3	5133-5134	)	_	_	
+60-4	5135-5136	—	_	_	
+60-5	5137-5144	labeled	_	_	
+60-6	5145-5146	(	_	_	
+60-7	5146-5155	non-named	_	_	
+60-8	5155-5156	)	_	_	
+60-9	5157-5158	C	_	_	
+60-10	5158-5159	.	_	_	
+60-11	5160-5167	sportif	_	_	
+60-12	5168-5169	(	_	_	
+60-13	5169-5175	centre	_	_	
+60-14	5176-5183	sportif	_	_	
+60-15	5184-5185	/	_	_	
+60-16	5186-5192	sports	_	_	
+60-17	5193-5200	complex	_	_	
+60-18	5200-5201	)	_	_	
+60-19	5202-5203	—	_	_	
+60-20	5204-5211	labeled	_	_	
+60-21	5212-5213	(	_	_	
+60-22	5213-5222	non-named	_	_	
+60-23	5222-5223	)	_	_	
+60-24	5224-5226	Bd	_	_	
+60-25	5227-5230	des	_	_	
+60-26	5231-5238	Anglais	_	_	
+60-27	5239-5240	(	_	_	
+60-28	5240-5249	Boulevard	_	_	
+60-29	5250-5253	des	_	_	
+60-30	5254-5261	Anglais	_	_	
+60-31	5261-5262	)	_	_	
+60-32	5263-5264	—	_	_	
+60-33	5265-5270	named	_	_	
+60-34	5271-5273	Bd	_	_	
+60-35	5274-5280	Clovis	_	_	
+60-36	5281-5289	Constant	_	_	
+60-37	5290-5291	—	_	_	
+60-38	5292-5297	named	_	_	
+60-39	5298-5300	Bd	_	_	
+60-40	5301-5307	Albert	_	_	
+60-41	5308-5314	Thomas	_	_	
+60-42	5315-5316	—	_	_	
+60-43	5317-5322	named	_	_	
+60-44	5323-5334	Roundabouts	_	_	
+60-45	5335-5336	/	_	_	
+60-46	5337-5342	major	_	_	
+60-47	5343-5356	intersections	_	_	
+60-48	5357-5358	—	_	_	
+60-49	5359-5368	non-named	_	_	
+60-50	5369-5376	Curving	_	_	
+60-51	5377-5382	paths	_	_	
+60-52	5383-5386	and	_	_	
+60-53	5387-5398	footbridges	_	_	
+60-54	5399-5400	—	_	_	
+60-55	5401-5410	non-named	_	_	
+60-56	5411-5416	Small	_	_	
+60-57	5417-5422	water	_	_	
+60-58	5423-5429	bodies	_	_	
+60-59	5430-5431	(	_	_	
+60-60	5431-5436	ponds	_	_	
+60-61	5436-5437	,	_	_	
+60-62	5438-5445	streams	_	_	
+60-63	5445-5446	)	_	_	
+60-64	5447-5448	—	_	_	
+60-65	5449-5458	non-named	_	_	
+60-66	5459-5464	Dense	_	_	
+60-67	5465-5476	residential	_	_	
+60-68	5477-5483	blocks	_	_	
+60-69	5484-5485	/	_	_	
+60-70	5486-5500	brown-outlined	_	_	
+60-71	5501-5510	buildings	_	_	
+60-72	5511-5512	—	_	_	
+60-73	5513-5522	non-named	_	_	
+60-74	5523-5528	Green	_	_	
+60-75	5529-5537	corridor	_	_	
+60-76	5538-5543	along	_	_	
+60-77	5544-5546	le	_	_	
+60-78	5547-5554	Chézine	_	_	
+60-79	5555-5556	—	_	_	
+60-80	5557-5566	non-named	_	_	

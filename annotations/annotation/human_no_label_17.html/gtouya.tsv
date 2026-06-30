@@ -1,0 +1,156 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=A map with no annotations, no indications, just areas.
+2-1	42-43	A	p[2]	*[2]	_	
+2-2	44-47	map	p[2]	*[2]	_	
+2-3	48-52	with	p[2]	*[2]	_	
+2-4	53-55	no	p[2]	*[2]	_	
+2-5	56-67	annotations	p[2]	*[2]	_	
+2-6	67-68	,	p[2]	*[2]	_	
+2-7	69-71	no	p[2]	*[2]	_	
+2-8	72-83	indications	p[2]	*[2]	_	
+2-9	83-84	,	p[2]	*[2]	_	
+2-10	85-89	just	p[2]	*[2]	_	
+2-11	90-95	areas	p[2]	*[2]	_	
+2-12	95-96	.	p[2]	*[2]	_	
+
+#Text=We can see a river with a bridge.
+3-1	97-99	We	p[2]	*[2]	_	
+3-2	100-103	can	p[2]	*[2]	_	
+3-3	104-107	see	p[2]	*[2]	_	
+3-4	108-109	a	p[2]	*[2]	_	
+3-5	110-115	river	p[2]	*[2]	_	
+3-6	116-120	with	p[2]	*[2]	_	
+3-7	121-122	a	p[2]	*[2]	_	
+3-8	123-129	bridge	p[2]	*[2]	_	
+3-9	129-130	.	p[2]	*[2]	_	
+
+#Text=Urban areas and areas in green representing parks or wooded areas.
+4-1	131-136	Urban	p[2]	*[2]	_	
+4-2	137-142	areas	p[2]	*[2]	_	
+4-3	143-146	and	p[2]	*[2]	_	
+4-4	147-152	areas	p[2]	*[2]	_	
+4-5	153-155	in	p[2]	*[2]	_	
+4-6	156-161	green	p[2]	*[2]	_	
+4-7	162-174	representing	p[2]	*[2]	_	
+4-8	175-180	parks	p[2]	*[2]	_	
+4-9	181-183	or	p[2]	*[2]	_	
+4-10	184-190	wooded	p[2]	*[2]	_	
+4-11	191-196	areas	p[2]	*[2]	_	
+4-12	196-197	.	p[2]	*[2]	_	
+
+#Text=A railway bridge to the southeast, I think, crossing the river.
+5-1	198-199	A	p[2]	*[2]	_	
+5-2	200-207	railway	p[2]	*[2]	_	
+5-3	208-214	bridge	p[2]	*[2]	_	
+5-4	215-217	to	p[2]	*[2]	spatial relation[4]	
+5-5	218-221	the	p[2]	*[2]	spatial relation[4]	
+5-6	222-231	southeast	p[2]	*[2]	spatial relation[4]	
+5-7	231-232	,	p[2]	*[2]	_	
+5-8	233-234	I	p[2]	*[2]	_	
+5-9	235-240	think	p[2]	*[2]	_	
+5-10	240-241	,	p[2]	*[2]	_	
+5-11	242-250	crossing	p[2]	*[2]	spatial relation	
+5-12	251-254	the	p[2]	*[2]	_	
+5-13	255-260	river	p[2]	*[2]	_	
+5-14	260-261	.	p[2]	*[2]	_	
+
+#Text=The colors are too pale, it's hard to see, and there's no legend either.
+6-1	262-265	The	p[2]	*[2]	_	
+6-2	266-272	colors	p[2]	*[2]	_	
+6-3	273-276	are	p[2]	*[2]	_	
+6-4	277-280	too	p[2]	*[2]	_	
+6-5	281-285	pale	p[2]	*[2]	_	
+6-6	285-286	,	p[2]	*[2]	_	
+6-7	287-291	it's	p[2]	*[2]	_	
+6-8	292-296	hard	p[2]	*[2]	_	
+6-9	297-299	to	p[2]	*[2]	_	
+6-10	300-303	see	p[2]	*[2]	_	
+6-11	303-304	,	p[2]	*[2]	_	
+6-12	305-308	and	p[2]	*[2]	_	
+6-13	309-316	there's	p[2]	*[2]	_	
+6-14	317-319	no	p[2]	*[2]	_	
+6-15	320-326	legend	p[2]	*[2]	_	
+6-16	327-333	either	p[2]	*[2]	_	
+6-17	333-334	.	p[2]	*[2]	_	
+
+#Text=The yellow areas are presumably major roads or an expressway, perhaps a highway.
+7-1	335-338	The	p[2]	*[2]	_	
+7-2	339-345	yellow	p[2]	*[2]	_	
+7-3	346-351	areas	p[2]	*[2]	_	
+7-4	352-355	are	p[2]	*[2]	_	
+7-5	356-366	presumably	p[2]	*[2]	_	
+7-6	367-372	major	p[2]	*[2]	_	
+7-7	373-378	roads	p[2]	*[2]	_	
+7-8	379-381	or	p[2]	*[2]	_	
+7-9	382-384	an	p[2]	*[2]	_	
+7-10	385-395	expressway	p[2]	*[2]	_	
+7-11	395-396	,	p[2]	*[2]	_	
+7-12	397-404	perhaps	p[2]	*[2]	_	
+7-13	405-406	a	p[2]	*[2]	_	
+7-14	407-414	highway	p[2]	*[2]	_	
+7-15	414-415	.	p[2]	*[2]	_	
+
+#Text=Anchors summary  River with a bridge (non-named) Railway bridge in the southeast crossing the river (non-named) Urban/built-up areas (non-named) Green areas — parks or wooded zones (non-named) Major roads / a highway shown in yellow (non-named)
+8-1	416-423	Anchors	h1[3]	*[3]	_	
+8-2	424-431	summary	h1[3]	*[3]	_	
+8-3	433-438	River	_	_	_	
+8-4	439-443	with	_	_	_	
+8-5	444-445	a	_	_	_	
+8-6	446-452	bridge	_	_	_	
+8-7	453-454	(	_	_	_	
+8-8	454-463	non-named	_	_	_	
+8-9	463-464	)	_	_	_	
+8-10	465-472	Railway	_	_	_	
+8-11	473-479	bridge	_	_	_	
+8-12	480-482	in	_	_	_	
+8-13	483-486	the	_	_	_	
+8-14	487-496	southeast	_	_	_	
+8-15	497-505	crossing	_	_	_	
+8-16	506-509	the	_	_	_	
+8-17	510-515	river	_	_	_	
+8-18	516-517	(	_	_	_	
+8-19	517-526	non-named	_	_	_	
+8-20	526-527	)	_	_	_	
+8-21	528-533	Urban	_	_	_	
+8-22	533-534	/	_	_	_	
+8-23	534-542	built-up	_	_	_	
+8-24	543-548	areas	_	_	_	
+8-25	549-550	(	_	_	_	
+8-26	550-559	non-named	_	_	_	
+8-27	559-560	)	_	_	_	
+8-28	561-566	Green	_	_	_	
+8-29	567-572	areas	_	_	_	
+8-30	573-574	—	_	_	_	
+8-31	575-580	parks	_	_	_	
+8-32	581-583	or	_	_	_	
+8-33	584-590	wooded	_	_	_	
+8-34	591-596	zones	_	_	_	
+8-35	597-598	(	_	_	_	
+8-36	598-607	non-named	_	_	_	
+8-37	607-608	)	_	_	_	
+8-38	609-614	Major	_	_	_	
+8-39	615-620	roads	_	_	_	
+8-40	621-622	/	_	_	_	
+8-41	623-624	a	_	_	_	
+8-42	625-632	highway	_	_	_	
+8-43	633-638	shown	_	_	_	
+8-44	639-641	in	_	_	_	
+8-45	642-648	yellow	_	_	_	
+8-46	649-650	(	_	_	_	
+8-47	650-659	non-named	_	_	_	
+8-48	659-660	)	_	_	_	

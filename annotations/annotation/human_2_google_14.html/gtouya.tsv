@@ -1,0 +1,131 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=Fragment of Long Island with the town of Montauk and Fort Pond Lake in the center of the map.
+2-1	42-50	Fragment	p[2]	*[2]	spatial relation[4]	
+2-2	51-53	of	p[2]	*[2]	spatial relation[4]	
+2-3	54-58	Long	p[2]	*[2]	toponym[5]	
+2-4	59-65	Island	p[2]	*[2]	toponym[5]	
+2-5	66-70	with	p[2]	*[2]	_	
+2-6	71-74	the	p[2]	*[2]	_	
+2-7	75-79	town	p[2]	*[2]	_	
+2-8	80-82	of	p[2]	*[2]	_	
+2-9	83-90	Montauk	p[2]	*[2]	toponym	
+2-10	91-94	and	p[2]	*[2]	_	
+2-11	95-99	Fort	p[2]	*[2]	toponym[6]	
+2-12	100-104	Pond	p[2]	*[2]	toponym[6]	
+2-13	105-109	Lake	p[2]	*[2]	toponym[6]	
+2-14	110-112	in	p[2]	*[2]	spatial relation[7]	
+2-15	113-116	the	p[2]	*[2]	spatial relation[7]	
+2-16	117-123	center	p[2]	*[2]	spatial relation[7]	
+2-17	124-126	of	p[2]	*[2]	_	
+2-18	127-130	the	p[2]	*[2]	_	
+2-19	131-134	map	p[2]	*[2]	_	
+2-20	134-135	.	p[2]	*[2]	_	
+
+#Text=In the northwest corner and southeast corner, the Atlantic Ocean.
+3-1	136-138	In	p[2]	*[2]	spatial relation[8]	
+3-2	139-142	the	p[2]	*[2]	spatial relation[8]	
+3-3	143-152	northwest	p[2]	*[2]	spatial relation[8]	
+3-4	153-159	corner	p[2]	*[2]	spatial relation[8]	
+3-5	160-163	and	p[2]	*[2]	_	
+3-6	164-173	southeast	p[2]	*[2]	spatial relation[9]	
+3-7	174-180	corner	p[2]	*[2]	spatial relation[9]	
+3-8	180-181	,	p[2]	*[2]	_	
+3-9	182-185	the	p[2]	*[2]	_	
+3-10	186-194	Atlantic	p[2]	*[2]	toponym[10]	
+3-11	195-200	Ocean	p[2]	*[2]	toponym[10]	
+3-12	200-201	.	p[2]	*[2]	_	
+
+#Text=In the northeast corner, part of a state park, Montauk Downs Park.
+4-1	202-204	In	p[2]	*[2]	spatial relation[11]	
+4-2	205-208	the	p[2]	*[2]	spatial relation[11]	
+4-3	209-218	northeast	p[2]	*[2]	spatial relation[11]	
+4-4	219-225	corner	p[2]	*[2]	spatial relation[11]	
+4-5	225-226	,	p[2]	*[2]	_	
+4-6	227-231	part	p[2]	*[2]	spatial relation[12]	
+4-7	232-234	of	p[2]	*[2]	spatial relation[12]	
+4-8	235-236	a	p[2]	*[2]	_	
+4-9	237-242	state	p[2]	*[2]	_	
+4-10	243-247	park	p[2]	*[2]	_	
+4-11	247-248	,	p[2]	*[2]	_	
+4-12	249-256	Montauk	p[2]	*[2]	toponym[13]	
+4-13	257-262	Downs	p[2]	*[2]	toponym[13]	
+4-14	263-267	Park	p[2]	*[2]	toponym[13]	
+4-15	267-268	.	p[2]	*[2]	_	
+
+#Text=The rest of the peninsula is built up.
+5-1	269-272	The	p[2]	*[2]	_	
+5-2	273-277	rest	p[2]	*[2]	_	
+5-3	278-280	of	p[2]	*[2]	_	
+5-4	281-284	the	p[2]	*[2]	_	
+5-5	285-294	peninsula	p[2]	*[2]	_	
+5-6	295-297	is	p[2]	*[2]	_	
+5-7	298-303	built	p[2]	*[2]	_	
+5-8	304-306	up	p[2]	*[2]	_	
+5-9	306-307	.	p[2]	*[2]	_	
+
+#Text=A main road crosses the peninsula from west to east, passing south of Montauk and Fort Pond Lake.
+6-1	308-309	A	p[2]	*[2]	_	
+6-2	310-314	main	p[2]	*[2]	_	
+6-3	315-319	road	p[2]	*[2]	_	
+6-4	320-327	crosses	p[2]	*[2]	spatial relation	
+6-5	328-331	the	p[2]	*[2]	_	
+6-6	332-341	peninsula	p[2]	*[2]	_	
+6-7	342-346	from	p[2]	*[2]	spatial relation[14]	
+6-8	347-351	west	p[2]	*[2]	spatial relation[14]	
+6-9	352-354	to	p[2]	*[2]	spatial relation[14]	
+6-10	355-359	east	p[2]	*[2]	spatial relation[14]	
+6-11	359-360	,	p[2]	*[2]	_	
+6-12	361-368	passing	p[2]	*[2]	spatial relation[15]	
+6-13	369-374	south	p[2]	*[2]	spatial relation[15]	
+6-14	375-377	of	p[2]	*[2]	spatial relation[15]	
+6-15	378-385	Montauk	p[2]	*[2]	toponym	
+6-16	386-389	and	p[2]	*[2]	_	
+6-17	390-394	Fort	p[2]	*[2]	toponym[16]	
+6-18	395-399	Pond	p[2]	*[2]	toponym[16]	
+6-19	400-404	Lake	p[2]	*[2]	toponym[16]	
+6-20	404-405	.	p[2]	*[2]	_	
+
+#Text=A few hotels and restaurants are marked.
+7-1	406-407	A	p[2]	*[2]	_	
+7-2	408-411	few	p[2]	*[2]	_	
+7-3	412-418	hotels	p[2]	*[2]	_	
+7-4	419-422	and	p[2]	*[2]	_	
+7-5	423-434	restaurants	p[2]	*[2]	_	
+7-6	435-438	are	p[2]	*[2]	_	
+7-7	439-445	marked	p[2]	*[2]	_	
+7-8	445-446	.	p[2]	*[2]	_	
+
+#Text=The south of the peninsula has a large beach along the entire coastline.
+8-1	447-450	The	p[2]	*[2]	spatial relation[17]	
+8-2	451-456	south	p[2]	*[2]	spatial relation[17]	
+8-3	457-459	of	p[2]	*[2]	spatial relation[17]	
+8-4	460-463	the	p[2]	*[2]	_	
+8-5	464-473	peninsula	p[2]	*[2]	_	
+8-6	474-477	has	p[2]	*[2]	_	
+8-7	478-479	a	p[2]	*[2]	_	
+8-8	480-485	large	p[2]	*[2]	_	
+8-9	486-491	beach	p[2]	*[2]	_	
+8-10	492-497	along	p[2]	*[2]	spatial relation	
+8-11	498-501	the	p[2]	*[2]	_	
+8-12	502-508	entire	p[2]	*[2]	_	
+8-13	509-518	coastline	p[2]	*[2]	_	
+8-14	518-519	.	p[2]	*[2]	_	
+
+#Text=Anchors summary
+9-1	520-527	Anchors	h1[3]	*[3]	_	
+9-2	528-535	summary	h1[3]	*[3]	_	

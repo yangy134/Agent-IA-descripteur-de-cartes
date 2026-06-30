@@ -1,0 +1,198 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=A detailed map of a neighborhood in Paris with Gustave Eiffel University in the northwest.
+2-1	42-43	A	p[2]	*[2]	_	
+2-2	44-52	detailed	p[2]	*[2]	_	
+2-3	53-56	map	p[2]	*[2]	_	
+2-4	57-59	of	p[2]	*[2]	_	
+2-5	60-61	a	p[2]	*[2]	_	
+2-6	62-74	neighborhood	p[2]	*[2]	_	
+2-7	75-77	in	p[2]	*[2]	_	
+2-8	78-83	Paris	p[2]	*[2]	toponym	
+2-9	84-88	with	p[2]	*[2]	_	
+2-10	89-96	Gustave	p[2]	*[2]	toponym[4]	
+2-11	97-103	Eiffel	p[2]	*[2]	toponym[4]	
+2-12	104-114	University	p[2]	*[2]	toponym[4]	
+2-13	115-117	in	p[2]	*[2]	spatial relation[5]	
+2-14	118-121	the	p[2]	*[2]	spatial relation[5]	
+2-15	122-131	northwest	p[2]	*[2]	spatial relation[5]	
+2-16	131-132	.	p[2]	*[2]	_	
+
+#Text=Avenues with, under Blaise Pascal Avenue, the École des Ponts.
+3-1	133-140	Avenues	p[2]	*[2]	_	
+3-2	141-145	with	p[2]	*[2]	_	
+3-3	145-146	,	p[2]	*[2]	_	
+3-4	147-152	under	p[2]	*[2]	spatial relation	
+3-5	153-159	Blaise	p[2]	*[2]	toponym[6]	
+3-6	160-166	Pascal	p[2]	*[2]	toponym[6]	
+3-7	167-173	Avenue	p[2]	*[2]	toponym[6]	
+3-8	173-174	,	p[2]	*[2]	_	
+3-9	175-178	the	p[2]	*[2]	_	
+3-10	179-184	École	p[2]	*[2]	toponym[7]	
+3-11	185-188	des	p[2]	*[2]	toponym[7]	
+3-12	189-194	Ponts	p[2]	*[2]	toponym[7]	
+3-13	194-195	.	p[2]	*[2]	_	
+
+#Text=There are prestigious universities, the urban planning school in the southeast, restaurants (Les Lumières, Au Poké, Addict Café).
+4-1	196-201	There	p[2]	*[2]	_	
+4-2	202-205	are	p[2]	*[2]	_	
+4-3	206-217	prestigious	p[2]	*[2]	_	
+4-4	218-230	universities	p[2]	*[2]	_	
+4-5	230-231	,	p[2]	*[2]	_	
+4-6	232-235	the	p[2]	*[2]	_	
+4-7	236-241	urban	p[2]	*[2]	_	
+4-8	242-250	planning	p[2]	*[2]	_	
+4-9	251-257	school	p[2]	*[2]	_	
+4-10	258-260	in	p[2]	*[2]	spatial relation[8]	
+4-11	261-264	the	p[2]	*[2]	spatial relation[8]	
+4-12	265-274	southeast	p[2]	*[2]	spatial relation[8]	
+4-13	274-275	,	p[2]	*[2]	_	
+4-14	276-287	restaurants	p[2]	*[2]	_	
+4-15	288-289	(	p[2]	*[2]	_	
+4-16	289-292	Les	p[2]	*[2]	toponym[9]	
+4-17	293-301	Lumières	p[2]	*[2]	toponym[9]	
+4-18	301-302	,	p[2]	*[2]	_	
+4-19	303-305	Au	p[2]	*[2]	toponym[10]	
+4-20	306-310	Poké	p[2]	*[2]	toponym[10]	
+4-21	310-311	,	p[2]	*[2]	_	
+4-22	312-318	Addict	p[2]	*[2]	toponym[11]	
+4-23	319-323	Café	p[2]	*[2]	toponym[11]	
+4-24	323-324	)	p[2]	*[2]	_	
+4-25	324-325	.	p[2]	*[2]	_	
+
+#Text=There is a parking lot starting at Boulevard Copernic, a hotel, offices.
+5-1	326-331	There	p[2]	*[2]	_	
+5-2	332-334	is	p[2]	*[2]	_	
+5-3	335-336	a	p[2]	*[2]	_	
+5-4	337-344	parking	p[2]	*[2]	_	
+5-5	345-348	lot	p[2]	*[2]	_	
+5-6	349-357	starting	p[2]	*[2]	spatial relation[12]	
+5-7	358-360	at	p[2]	*[2]	spatial relation[12]	
+5-8	361-370	Boulevard	p[2]	*[2]	toponym[13]	
+5-9	371-379	Copernic	p[2]	*[2]	toponym[13]	
+5-10	379-380	,	p[2]	*[2]	_	
+5-11	381-382	a	p[2]	*[2]	_	
+5-12	383-388	hotel	p[2]	*[2]	_	
+5-13	388-389	,	p[2]	*[2]	_	
+5-14	390-397	offices	p[2]	*[2]	_	
+5-15	397-398	.	p[2]	*[2]	_	
+
+#Text=There you go, it is a small map of a university neighborhood.
+6-1	399-404	There	p[2]	*[2]	_	
+6-2	405-408	you	p[2]	*[2]	_	
+6-3	409-411	go	p[2]	*[2]	_	
+6-4	411-412	,	p[2]	*[2]	_	
+6-5	413-415	it	p[2]	*[2]	_	
+6-6	416-418	is	p[2]	*[2]	_	
+6-7	419-420	a	p[2]	*[2]	_	
+6-8	421-426	small	p[2]	*[2]	_	
+6-9	427-430	map	p[2]	*[2]	_	
+6-10	431-433	of	p[2]	*[2]	_	
+6-11	434-435	a	p[2]	*[2]	_	
+6-12	436-446	university	p[2]	*[2]	_	
+6-13	447-459	neighborhood	p[2]	*[2]	_	
+6-14	459-460	.	p[2]	*[2]	_	
+
+#Text=With green perhaps representing greenery.
+7-1	461-465	With	p[2]	*[2]	_	
+7-2	466-471	green	p[2]	*[2]	_	
+7-3	472-479	perhaps	p[2]	*[2]	_	
+7-4	480-492	representing	p[2]	*[2]	_	
+7-5	493-501	greenery	p[2]	*[2]	_	
+7-6	501-502	.	p[2]	*[2]	_	
+
+#Text=Anchors summary  Université Gustave Eiffel (nord‑ouest) Avenue Blaise Pascal École des Ponts (sous l’avenue Blaise Pascal) École d’urbanisme (sud‑est) Grandes écoles (groupe) Les Lumières (restaurant) Au Poké (restaurant) Addict Café (café/restaurant) Boulevard Copernic Parking (partant du boulevard Copernic) Hôtel (non nommé) Bureaux (espaces de travail) Avenues (voies principales) Espaces verts / verdure
+8-1	503-510	Anchors	h1[3]	*[3]	_	
+8-2	511-518	summary	h1[3]	*[3]	_	
+8-3	520-530	Université	_	_	_	
+8-4	531-538	Gustave	_	_	_	
+8-5	539-545	Eiffel	_	_	_	
+8-6	546-547	(	_	_	_	
+8-7	547-557	nord‑ouest	_	_	_	
+8-8	557-558	)	_	_	_	
+8-9	559-565	Avenue	_	_	_	
+8-10	566-572	Blaise	_	_	_	
+8-11	573-579	Pascal	_	_	_	
+8-12	580-585	École	_	_	_	
+8-13	586-589	des	_	_	_	
+8-14	590-595	Ponts	_	_	_	
+8-15	596-597	(	_	_	_	
+8-16	597-601	sous	_	_	_	
+8-17	602-603	l	_	_	_	
+8-18	603-604	’	_	_	_	
+8-19	604-610	avenue	_	_	_	
+8-20	611-617	Blaise	_	_	_	
+8-21	618-624	Pascal	_	_	_	
+8-22	624-625	)	_	_	_	
+8-23	626-631	École	_	_	_	
+8-24	632-633	d	_	_	_	
+8-25	633-634	’	_	_	_	
+8-26	634-643	urbanisme	_	_	_	
+8-27	644-645	(	_	_	_	
+8-28	645-652	sud‑est	_	_	_	
+8-29	652-653	)	_	_	_	
+8-30	654-661	Grandes	_	_	_	
+8-31	662-668	écoles	_	_	_	
+8-32	669-670	(	_	_	_	
+8-33	670-676	groupe	_	_	_	
+8-34	676-677	)	_	_	_	
+8-35	678-681	Les	_	_	_	
+8-36	682-690	Lumières	_	_	_	
+8-37	691-692	(	_	_	_	
+8-38	692-702	restaurant	_	_	_	
+8-39	702-703	)	_	_	_	
+8-40	704-706	Au	_	_	_	
+8-41	707-711	Poké	_	_	_	
+8-42	712-713	(	_	_	_	
+8-43	713-723	restaurant	_	_	_	
+8-44	723-724	)	_	_	_	
+8-45	725-731	Addict	_	_	_	
+8-46	732-736	Café	_	_	_	
+8-47	737-738	(	_	_	_	
+8-48	738-742	café	_	_	_	
+8-49	742-743	/	_	_	_	
+8-50	743-753	restaurant	_	_	_	
+8-51	753-754	)	_	_	_	
+8-52	755-764	Boulevard	_	_	_	
+8-53	765-773	Copernic	_	_	_	
+8-54	774-781	Parking	_	_	_	
+8-55	782-783	(	_	_	_	
+8-56	783-790	partant	_	_	_	
+8-57	791-793	du	_	_	_	
+8-58	794-803	boulevard	_	_	_	
+8-59	804-812	Copernic	_	_	_	
+8-60	812-813	)	_	_	_	
+8-61	814-819	Hôtel	_	_	_	
+8-62	820-821	(	_	_	_	
+8-63	821-824	non	_	_	_	
+8-64	825-830	nommé	_	_	_	
+8-65	830-831	)	_	_	_	
+8-66	832-839	Bureaux	_	_	_	
+8-67	840-841	(	_	_	_	
+8-68	841-848	espaces	_	_	_	
+8-69	849-851	de	_	_	_	
+8-70	852-859	travail	_	_	_	
+8-71	859-860	)	_	_	_	
+8-72	861-868	Avenues	_	_	_	
+8-73	869-870	(	_	_	_	
+8-74	870-875	voies	_	_	_	
+8-75	876-887	principales	_	_	_	
+8-76	887-888	)	_	_	_	
+8-77	889-896	Espaces	_	_	_	
+8-78	897-902	verts	_	_	_	
+8-79	903-904	/	_	_	_	
+8-80	905-912	verdure	_	_	_	

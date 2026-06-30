@@ -1,0 +1,991 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=Of course!
+2-1	42-44	Of	p[2]	*[2]	_	
+2-2	45-51	course	p[2]	*[2]	_	
+2-3	51-52	!	p[2]	*[2]	_	
+
+#Text=Here's a detailed description of the content of this map: General Area  The map shows the Madison, Wisconsin region, including surrounding areas like Middleton, Monona, and parts of McFarland.
+3-1	53-59	Here's	p[2]	*[2]	_	
+3-2	60-61	a	p[2]	*[2]	_	
+3-3	62-70	detailed	p[2]	*[2]	_	
+3-4	71-82	description	p[2]	*[2]	_	
+3-5	83-85	of	p[2]	*[2]	_	
+3-6	86-89	the	p[2]	*[2]	_	
+3-7	90-97	content	p[2]	*[2]	_	
+3-8	98-100	of	p[2]	*[2]	_	
+3-9	101-105	this	p[2]	*[2]	_	
+3-10	106-109	map	p[2]	*[2]	_	
+3-11	109-110	:	p[2]	*[2]	_	
+3-12	111-118	General	h2[3]	*[3]	_	
+3-13	119-123	Area	h2[3]	*[3]	_	
+3-14	125-128	The	_	_	_	
+3-15	129-132	map	_	_	_	
+3-16	133-138	shows	_	_	_	
+3-17	139-142	the	_	_	_	
+3-18	143-150	Madison	_	_	toponym[31]	
+3-19	150-151	,	_	_	toponym[31]	
+3-20	152-161	Wisconsin	_	_	toponym[31]	
+3-21	162-168	region	_	_	_	
+3-22	168-169	,	_	_	_	
+3-23	170-179	including	_	_	_	
+3-24	180-191	surrounding	_	_	spatial relation	
+3-25	192-197	areas	_	_	_	
+3-26	198-202	like	_	_	_	
+3-27	203-212	Middleton	_	_	toponym	
+3-28	212-213	,	_	_	_	
+3-29	214-220	Monona	_	_	toponym	
+3-30	220-221	,	_	_	_	
+3-31	222-225	and	_	_	_	
+3-32	226-231	parts	_	_	spatial relation[32]	
+3-33	232-234	of	_	_	spatial relation[32]	
+3-34	235-244	McFarland	_	_	toponym	
+3-35	244-245	.	_	_	_	
+
+#Text=It prominently features large natural elements like lakes and parks, along with a dense urban road network.
+4-1	246-248	It	_	_	_	
+4-2	249-260	prominently	_	_	_	
+4-3	261-269	features	_	_	_	
+4-4	270-275	large	_	_	_	
+4-5	276-283	natural	_	_	_	
+4-6	284-292	elements	_	_	_	
+4-7	293-297	like	_	_	_	
+4-8	298-303	lakes	_	_	_	
+4-9	304-307	and	_	_	_	
+4-10	308-313	parks	_	_	_	
+4-11	313-314	,	_	_	_	
+4-12	315-320	along	_	_	_	
+4-13	321-325	with	_	_	_	
+4-14	326-327	a	_	_	_	
+4-15	328-333	dense	_	_	_	
+4-16	334-339	urban	_	_	_	
+4-17	340-344	road	_	_	_	
+4-18	345-352	network	_	_	_	
+4-19	352-353	.	_	_	_	
+
+#Text=Major Natural Features  Lake Mendota:  A very large and dominant bright blue lake located near the top center.
+5-1	355-360	Major	h2[4]	*[4]	_	
+5-2	361-368	Natural	h2[4]	*[4]	_	
+5-3	369-377	Features	h2[4]	*[4]	_	
+5-4	379-383	Lake	p[5]	*[5]	toponym[33]	
+5-5	384-391	Mendota	p[5]	*[5]	toponym[33]	
+5-6	391-392	:	p[5]	*[5]	_	
+5-7	394-395	A	_	_	_	
+5-8	396-400	very	_	_	_	
+5-9	401-406	large	_	_	_	
+5-10	407-410	and	_	_	_	
+5-11	411-419	dominant	_	_	_	
+5-12	420-426	bright	_	_	_	
+5-13	427-431	blue	_	_	_	
+5-14	432-436	lake	_	_	_	
+5-15	437-444	located	_	_	_	
+5-16	445-449	near	_	_	spatial relation	
+5-17	450-453	the	_	_	spatial relation[34]	
+5-18	454-457	top	_	_	spatial relation[34]	
+5-19	458-464	center	_	_	spatial relation[34]	
+5-20	464-465	.	_	_	_	
+
+#Text=Lake Monona:  A smaller but still significant lake to the southeast of Lake Mendota.
+6-1	467-471	Lake	p[6]	*[6]	toponym[35]	
+6-2	472-478	Monona	p[6]	*[6]	toponym[35]	
+6-3	478-479	:	p[6]	*[6]	_	
+6-4	481-482	A	_	_	_	
+6-5	483-490	smaller	_	_	_	
+6-6	491-494	but	_	_	_	
+6-7	495-500	still	_	_	_	
+6-8	501-512	significant	_	_	_	
+6-9	513-517	lake	_	_	_	
+6-10	518-520	to	_	_	spatial relation[36]	
+6-11	521-524	the	_	_	spatial relation[36]	
+6-12	525-534	southeast	_	_	spatial relation[36]	
+6-13	535-537	of	_	_	_	
+6-14	538-542	Lake	_	_	toponym[37]	
+6-15	543-550	Mendota	_	_	toponym[37]	
+6-16	550-551	.	_	_	_	
+
+#Text=Parks and Green Areas:  Many parks are marked in light green, including Governor Nelson State Park, Olbrich Botanical Gardens, and McKee Farms Park.
+7-1	553-558	Parks	p[7]	*[7]	_	
+7-2	559-562	and	p[7]	*[7]	_	
+7-3	563-568	Green	p[7]	*[7]	_	
+7-4	569-574	Areas	p[7]	*[7]	_	
+7-5	574-575	:	p[7]	*[7]	_	
+7-6	577-581	Many	_	_	_	
+7-7	582-587	parks	_	_	_	
+7-8	588-591	are	_	_	_	
+7-9	592-598	marked	_	_	_	
+7-10	599-601	in	_	_	_	
+7-11	602-607	light	_	_	_	
+7-12	608-613	green	_	_	_	
+7-13	613-614	,	_	_	_	
+7-14	615-624	including	_	_	_	
+7-15	625-633	Governor	_	_	toponym[38]	
+7-16	634-640	Nelson	_	_	toponym[38]	
+7-17	641-646	State	_	_	toponym[38]	
+7-18	647-651	Park	_	_	toponym[38]	
+7-19	651-652	,	_	_	_	
+7-20	653-660	Olbrich	_	_	toponym[39]	
+7-21	661-670	Botanical	_	_	toponym[39]	
+7-22	671-678	Gardens	_	_	toponym[39]	
+7-23	678-679	,	_	_	_	
+7-24	680-683	and	_	_	_	
+7-25	684-689	McKee	_	_	toponym[40]	
+7-26	690-695	Farms	_	_	toponym[40]	
+7-27	696-700	Park	_	_	toponym[40]	
+7-28	700-701	.	_	_	_	
+
+#Text=Urban and Transportation Elements  City of Madison:  Clearly labeled near the center, surrounded by neighborhoods like Shorewood Hills, Wingra Park, and Dudgeon-Monroe.
+8-1	704-709	Urban	h2[8]	*[8]	_	
+8-2	710-713	and	h2[8]	*[8]	_	
+8-3	714-728	Transportation	h2[8]	*[8]	_	
+8-4	729-737	Elements	h2[8]	*[8]	_	
+8-5	739-743	City	p[9]	*[9]	_	
+8-6	744-746	of	p[9]	*[9]	_	
+8-7	747-754	Madison	p[9]	*[9]	toponym	
+8-8	754-755	:	p[9]	*[9]	_	
+8-9	757-764	Clearly	_	_	_	
+8-10	765-772	labeled	_	_	_	
+8-11	773-777	near	_	_	spatial relation	
+8-12	778-781	the	_	_	_	
+8-13	782-788	center	_	_	_	
+8-14	788-789	,	_	_	_	
+8-15	790-800	surrounded	_	_	spatial relation	
+8-16	801-803	by	_	_	_	
+8-17	804-817	neighborhoods	_	_	_	
+8-18	818-822	like	_	_	_	
+8-19	823-832	Shorewood	_	_	toponym[41]	
+8-20	833-838	Hills	_	_	toponym[41]	
+8-21	838-839	,	_	_	_	
+8-22	840-846	Wingra	_	_	toponym[42]	
+8-23	847-851	Park	_	_	toponym[42]	
+8-24	851-852	,	_	_	_	
+8-25	853-856	and	_	_	_	
+8-26	857-871	Dudgeon-Monroe	_	_	toponym	
+8-27	871-872	.	_	_	_	
+
+#Text=Highways and Major Roads:  Major highways like Interstate 90 (I-90), I-94, and Highway 151 are depicted with thick, dark gray lines.
+9-1	874-882	Highways	p[10]	*[10]	_	
+9-2	883-886	and	p[10]	*[10]	_	
+9-3	887-892	Major	p[10]	*[10]	_	
+9-4	893-898	Roads	p[10]	*[10]	_	
+9-5	898-899	:	p[10]	*[10]	_	
+9-6	901-906	Major	_	_	_	
+9-7	907-915	highways	_	_	_	
+9-8	916-920	like	_	_	_	
+9-9	921-931	Interstate	_	_	_	
+9-10	932-934	90	_	_	_	
+9-11	935-936	(	_	_	_	
+9-12	936-937	I	_	_	toponym[43]	
+9-13	937-938	-	_	_	toponym[43]	
+9-14	938-940	90	_	_	toponym[43]	
+9-15	940-941	)	_	_	_	
+9-16	941-942	,	_	_	_	
+9-17	943-944	I	_	_	toponym[44]	
+9-18	944-945	-	_	_	toponym[44]	
+9-19	945-947	94	_	_	toponym[44]	
+9-20	947-948	,	_	_	_	
+9-21	949-952	and	_	_	_	
+9-22	953-960	Highway	_	_	toponym[45]	
+9-23	961-964	151	_	_	toponym[45]	
+9-24	965-968	are	_	_	_	
+9-25	969-977	depicted	_	_	_	
+9-26	978-982	with	_	_	_	
+9-27	983-988	thick	_	_	_	
+9-28	988-989	,	_	_	_	
+9-29	990-994	dark	_	_	_	
+9-30	995-999	gray	_	_	_	
+9-31	1000-1005	lines	_	_	_	
+9-32	1005-1006	.	_	_	_	
+
+#Text=Local roads are thinner and lighter, creating a fine mesh especially dense around Madison and Monona.
+10-1	1007-1012	Local	_	_	_	
+10-2	1013-1018	roads	_	_	_	
+10-3	1019-1022	are	_	_	_	
+10-4	1023-1030	thinner	_	_	_	
+10-5	1031-1034	and	_	_	_	
+10-6	1035-1042	lighter	_	_	_	
+10-7	1042-1043	,	_	_	_	
+10-8	1044-1052	creating	_	_	_	
+10-9	1053-1054	a	_	_	_	
+10-10	1055-1059	fine	_	_	_	
+10-11	1060-1064	mesh	_	_	_	
+10-12	1065-1075	especially	_	_	_	
+10-13	1076-1081	dense	_	_	_	
+10-14	1082-1088	around	_	_	spatial relation	
+10-15	1089-1096	Madison	_	_	toponym	
+10-16	1097-1100	and	_	_	_	
+10-17	1101-1107	Monona	_	_	toponym	
+10-18	1107-1108	.	_	_	_	
+
+#Text=Key Landmarks  Airports:  Airport icon visible near the northeast (close to "Truax"), marking Dane County Regional Airport.
+11-1	1111-1114	Key	h2[11]	*[11]	_	
+11-2	1115-1124	Landmarks	h2[11]	*[11]	_	
+11-3	1126-1134	Airports	p[12]	*[12]	_	
+11-4	1134-1135	:	p[12]	*[12]	_	
+11-5	1137-1144	Airport	_	_	_	
+11-6	1145-1149	icon	_	_	_	
+11-7	1150-1157	visible	_	_	_	
+11-8	1158-1162	near	_	_	spatial relation	
+11-9	1163-1166	the	_	_	spatial relation[46]	
+11-10	1167-1176	northeast	_	_	spatial relation[46]	
+11-11	1177-1178	(	_	_	_	
+11-12	1178-1183	close	_	_	spatial relation[47]	
+11-13	1184-1186	to	_	_	spatial relation[47]	
+11-14	1187-1188	"	_	_	_	
+11-15	1188-1193	Truax	_	_	toponym	
+11-16	1193-1194	"	_	_	_	
+11-17	1194-1195	)	_	_	_	
+11-18	1195-1196	,	_	_	_	
+11-19	1197-1204	marking	_	_	_	
+11-20	1205-1209	Dane	_	_	toponym[48]	
+11-21	1210-1216	County	_	_	toponym[48]	
+11-22	1217-1225	Regional	_	_	toponym[48]	
+11-23	1226-1233	Airport	_	_	toponym[48]	
+11-24	1233-1234	.	_	_	_	
+
+#Text=Holy Wisdom Monastery:  Labeled in the top-left quadrant of the map.
+12-1	1236-1240	Holy	p[13]	*[13]	toponym[49]	
+12-2	1241-1247	Wisdom	p[13]	*[13]	toponym[49]	
+12-3	1248-1257	Monastery	p[13]	*[13]	toponym[49]	
+12-4	1257-1258	:	p[13]	*[13]	_	
+12-5	1260-1267	Labeled	_	_	_	
+12-6	1268-1270	in	_	_	spatial relation[50]	
+12-7	1271-1274	the	_	_	spatial relation[50]	
+12-8	1275-1283	top-left	_	_	spatial relation[50]	
+12-9	1284-1292	quadrant	_	_	spatial relation[50]	
+12-10	1293-1295	of	_	_	_	
+12-11	1296-1299	the	_	_	_	
+12-12	1300-1303	map	_	_	_	
+12-13	1303-1304	.	_	_	_	
+
+#Text=Hotels and Restaurants:  A few hotels and restaurants are marked with the usual pink (hotel) and orange (restaurant) icons, such as the avid hotel Madison.
+13-1	1306-1312	Hotels	p[14]	*[14]	_	
+13-2	1313-1316	and	p[14]	*[14]	_	
+13-3	1317-1328	Restaurants	p[14]	*[14]	_	
+13-4	1328-1329	:	p[14]	*[14]	_	
+13-5	1331-1332	A	_	_	_	
+13-6	1333-1336	few	_	_	_	
+13-7	1337-1343	hotels	_	_	_	
+13-8	1344-1347	and	_	_	_	
+13-9	1348-1359	restaurants	_	_	_	
+13-10	1360-1363	are	_	_	_	
+13-11	1364-1370	marked	_	_	_	
+13-12	1371-1375	with	_	_	_	
+13-13	1376-1379	the	_	_	_	
+13-14	1380-1385	usual	_	_	_	
+13-15	1386-1390	pink	_	_	_	
+13-16	1391-1392	(	_	_	_	
+13-17	1392-1397	hotel	_	_	_	
+13-18	1397-1398	)	_	_	_	
+13-19	1399-1402	and	_	_	_	
+13-20	1403-1409	orange	_	_	_	
+13-21	1410-1411	(	_	_	_	
+13-22	1411-1421	restaurant	_	_	_	
+13-23	1421-1422	)	_	_	_	
+13-24	1423-1428	icons	_	_	_	
+13-25	1428-1429	,	_	_	_	
+13-26	1430-1434	such	_	_	_	
+13-27	1435-1437	as	_	_	_	
+13-28	1438-1441	the	_	_	_	
+13-29	1442-1446	avid	_	_	toponym[51]	
+13-30	1447-1452	hotel	_	_	toponym[51]	
+13-31	1453-1460	Madison	_	_	toponym[51]	
+13-32	1460-1461	.	_	_	_	
+
+#Text=Olbrich Botanical Gardens:  Marked with a distinctive green flower icon east of Madison.
+14-1	1463-1470	Olbrich	p[15]	*[15]	toponym[52]	
+14-2	1471-1480	Botanical	p[15]	*[15]	toponym[52]	
+14-3	1481-1488	Gardens	p[15]	*[15]	toponym[52]	
+14-4	1488-1489	:	p[15]	*[15]	_	
+14-5	1491-1497	Marked	_	_	_	
+14-6	1498-1502	with	_	_	_	
+14-7	1503-1504	a	_	_	_	
+14-8	1505-1516	distinctive	_	_	_	
+14-9	1517-1522	green	_	_	_	
+14-10	1523-1529	flower	_	_	_	
+14-11	1530-1534	icon	_	_	_	
+14-12	1535-1539	east	_	_	spatial relation[53]	
+14-13	1540-1542	of	_	_	spatial relation[53]	
+14-14	1543-1550	Madison	_	_	toponym	
+14-15	1550-1551	.	_	_	_	
+
+#Text=Visual Hierarchy Here’s what visually dominates:  Large Blue Lakes (Lake Mendota and Lake Monona) Network of Major Roads and Highways Patches of Green Parks Scattered bright icons (airports, hotels, parks)  Overall Feel  This map gives a sense of balance between urban and natural spaces.
+15-1	1554-1560	Visual	h2[16]	*[16]	_	
+15-2	1561-1570	Hierarchy	h2[16]	*[16]	_	
+15-3	1571-1575	Here	p[17]	*[17]	_	
+15-4	1575-1576	’	p[17]	*[17]	_	
+15-5	1576-1577	s	p[17]	*[17]	_	
+15-6	1578-1582	what	p[17]	*[17]	_	
+15-7	1583-1591	visually	p[17]	*[17]	_	
+15-8	1592-1601	dominates	p[17]	*[17]	_	
+15-9	1601-1602	:	p[17]	*[17]	_	
+15-10	1604-1609	Large	_	_	_	
+15-11	1610-1614	Blue	_	_	_	
+15-12	1615-1620	Lakes	_	_	_	
+15-13	1621-1622	(	_	_	_	
+15-14	1622-1626	Lake	_	_	toponym[54]	
+15-15	1627-1634	Mendota	_	_	toponym[54]	
+15-16	1635-1638	and	_	_	_	
+15-17	1639-1643	Lake	_	_	toponym[55]	
+15-18	1644-1650	Monona	_	_	toponym[55]	
+15-19	1650-1651	)	_	_	_	
+15-20	1652-1659	Network	_	_	_	
+15-21	1660-1662	of	_	_	_	
+15-22	1663-1668	Major	_	_	_	
+15-23	1669-1674	Roads	_	_	_	
+15-24	1675-1678	and	_	_	_	
+15-25	1679-1687	Highways	_	_	_	
+15-26	1688-1695	Patches	_	_	_	
+15-27	1696-1698	of	_	_	_	
+15-28	1699-1704	Green	_	_	_	
+15-29	1705-1710	Parks	_	_	_	
+15-30	1711-1720	Scattered	_	_	spatial relation	
+15-31	1721-1727	bright	_	_	_	
+15-32	1728-1733	icons	_	_	_	
+15-33	1734-1735	(	_	_	_	
+15-34	1735-1743	airports	_	_	_	
+15-35	1743-1744	,	_	_	_	
+15-36	1745-1751	hotels	_	_	_	
+15-37	1751-1752	,	_	_	_	
+15-38	1753-1758	parks	_	_	_	
+15-39	1758-1759	)	_	_	_	
+15-40	1761-1768	Overall	h2[18]	*[18]	_	
+15-41	1769-1773	Feel	h2[18]	*[18]	_	
+15-42	1775-1779	This	_	_	_	
+15-43	1780-1783	map	_	_	_	
+15-44	1784-1789	gives	_	_	_	
+15-45	1790-1791	a	_	_	_	
+15-46	1792-1797	sense	_	_	_	
+15-47	1798-1800	of	_	_	_	
+15-48	1801-1808	balance	_	_	_	
+15-49	1809-1816	between	_	_	_	
+15-50	1817-1822	urban	_	_	_	
+15-51	1823-1826	and	_	_	_	
+15-52	1827-1834	natural	_	_	_	
+15-53	1835-1841	spaces	_	_	_	
+15-54	1841-1842	.	_	_	_	
+
+#Text=There's a strong emphasis on water and parklands, suggesting Madison's identity as a city built around nature.
+16-1	1843-1850	There's	_	_	_	
+16-2	1851-1852	a	_	_	_	
+16-3	1853-1859	strong	_	_	_	
+16-4	1860-1868	emphasis	_	_	_	
+16-5	1869-1871	on	_	_	_	
+16-6	1872-1877	water	_	_	_	
+16-7	1878-1881	and	_	_	_	
+16-8	1882-1891	parklands	_	_	_	
+16-9	1891-1892	,	_	_	_	
+16-10	1893-1903	suggesting	_	_	_	
+16-11	1904-1913	Madison's	_	_	toponym	
+16-12	1914-1922	identity	_	_	_	
+16-13	1923-1925	as	_	_	_	
+16-14	1926-1927	a	_	_	_	
+16-15	1928-1932	city	_	_	_	
+16-16	1933-1938	built	_	_	_	
+16-17	1939-1945	around	_	_	_	
+16-18	1946-1952	nature	_	_	_	
+16-19	1952-1953	.	_	_	_	
+
+#Text=Transportation corridors (highways) are very structured and prominent, reflecting the connectivity of the region.
+17-1	1954-1968	Transportation	_	_	_	
+17-2	1969-1978	corridors	_	_	_	
+17-3	1979-1980	(	_	_	_	
+17-4	1980-1988	highways	_	_	_	
+17-5	1988-1989	)	_	_	_	
+17-6	1990-1993	are	_	_	_	
+17-7	1994-1998	very	_	_	_	
+17-8	1999-2009	structured	_	_	_	
+17-9	2010-2013	and	_	_	_	
+17-10	2014-2023	prominent	_	_	_	
+17-11	2023-2024	,	_	_	_	
+17-12	2025-2035	reflecting	_	_	_	
+17-13	2036-2039	the	_	_	_	
+17-14	2040-2052	connectivity	_	_	_	
+17-15	2053-2055	of	_	_	_	
+17-16	2056-2059	the	_	_	_	
+17-17	2060-2066	region	_	_	_	
+17-18	2066-2067	.	_	_	_	
+
+#Text=Would you also like me to give you a quick visual and thematic comparison between all four maps you’ve shared so far?
+18-1	2069-2074	Would	p[19]	*[19]	_	
+18-2	2075-2078	you	p[19]	*[19]	_	
+18-3	2079-2083	also	p[19]	*[19]	_	
+18-4	2084-2088	like	p[19]	*[19]	_	
+18-5	2089-2091	me	p[19]	*[19]	_	
+18-6	2092-2094	to	p[19]	*[19]	_	
+18-7	2095-2099	give	p[19]	*[19]	_	
+18-8	2100-2103	you	p[19]	*[19]	_	
+18-9	2104-2105	a	p[19]	*[19]	_	
+18-10	2106-2111	quick	p[19]	*[19]	_	
+18-11	2112-2118	visual	p[19]	*[19]	_	
+18-12	2119-2122	and	p[19]	*[19]	_	
+18-13	2123-2131	thematic	p[19]	*[19]	_	
+18-14	2132-2142	comparison	p[19]	*[19]	_	
+18-15	2143-2150	between	p[19]	*[19]	_	
+18-16	2151-2154	all	p[19]	*[19]	_	
+18-17	2155-2159	four	p[19]	*[19]	_	
+18-18	2160-2164	maps	p[19]	*[19]	_	
+18-19	2165-2168	you	p[19]	*[19]	_	
+18-20	2168-2169	’	p[19]	*[19]	_	
+18-21	2169-2171	ve	p[19]	*[19]	_	
+18-22	2172-2178	shared	p[19]	*[19]	_	
+18-23	2179-2181	so	p[19]	*[19]	_	
+18-24	2182-2185	far	p[19]	*[19]	_	
+18-25	2185-2186	?	p[19]	*[19]	_	
+
+#Text=(They each highlight very different types of places!)
+19-1	2187-2188	(	p[19]	*[19]	_	
+19-2	2188-2192	They	p[19]	*[19]	_	
+19-3	2193-2197	each	p[19]	*[19]	_	
+19-4	2198-2207	highlight	p[19]	*[19]	_	
+19-5	2208-2212	very	p[19]	*[19]	_	
+19-6	2213-2222	different	p[19]	*[19]	_	
+19-7	2223-2228	types	p[19]	*[19]	_	
+19-8	2229-2231	of	p[19]	*[19]	_	
+19-9	2232-2238	places	p[19]	*[19]	_	
+19-10	2238-2239	!	p[19]	*[19]	_	
+19-11	2239-2240	)	p[19]	*[19]	_	
+
+#Text=🚗🌳🌊 Can you describe the most visually salient elements of the map?
+20-1	2241-2243	🚗	p[19]	*[19]	_	
+20-2	2243-2245	🌳	p[19]	*[19]	_	
+20-3	2245-2247	🌊	p[19]	*[19]	_	
+20-4	2248-2251	Can	h1[20]	*[20]	_	
+20-5	2252-2255	you	h1[20]	*[20]	_	
+20-6	2256-2264	describe	h1[20]	*[20]	_	
+20-7	2265-2268	the	h1[20]	*[20]	_	
+20-8	2269-2273	most	h1[20]	*[20]	_	
+20-9	2274-2282	visually	h1[20]	*[20]	_	
+20-10	2283-2290	salient	h1[20]	*[20]	_	
+20-11	2291-2299	elements	h1[20]	*[20]	_	
+20-12	2300-2302	of	h1[20]	*[20]	_	
+20-13	2303-2306	the	h1[20]	*[20]	_	
+20-14	2307-2310	map	h1[20]	*[20]	_	
+20-15	2310-2311	?	h1[20]	*[20]	_	
+
+#Text=Absolutely — here’s a focused description of the most visually salient elements of this map: 1.
+21-1	2312-2322	Absolutely	p[21]	*[21]	_	
+21-2	2323-2324	—	p[21]	*[21]	_	
+21-3	2325-2329	here	p[21]	*[21]	_	
+21-4	2329-2330	’	p[21]	*[21]	_	
+21-5	2330-2331	s	p[21]	*[21]	_	
+21-6	2332-2333	a	p[21]	*[21]	_	
+21-7	2334-2341	focused	p[21]	*[21]	_	
+21-8	2342-2353	description	p[21]	*[21]	_	
+21-9	2354-2356	of	p[21]	*[21]	_	
+21-10	2357-2360	the	p[21]	*[21]	_	
+21-11	2361-2365	most	p[21]	*[21]	_	
+21-12	2366-2374	visually	p[21]	*[21]	_	
+21-13	2375-2382	salient	p[21]	*[21]	_	
+21-14	2383-2391	elements	p[21]	*[21]	_	
+21-15	2392-2394	of	p[21]	*[21]	_	
+21-16	2395-2399	this	p[21]	*[21]	_	
+21-17	2400-2403	map	p[21]	*[21]	_	
+21-18	2403-2404	:	p[21]	*[21]	_	
+21-19	2405-2406	1	h2[22]	*[22]	_	
+21-20	2406-2407	.	h2[22]	*[22]	_	
+
+#Text=The Large Blue Lakes  Lake Mendota (top center-left) and Lake Monona (center-right) are the most dominant visual features.
+22-1	2408-2411	The	h2[22]	*[22]	_	
+22-2	2412-2417	Large	h2[22]	*[22]	_	
+22-3	2418-2422	Blue	h2[22]	*[22]	_	
+22-4	2423-2428	Lakes	h2[22]	*[22]	_	
+22-5	2430-2434	Lake	_	_	_	
+22-6	2435-2442	Mendota	_	_	_	
+22-7	2443-2444	(	_	_	_	
+22-8	2444-2447	top	_	_	_	
+22-9	2448-2459	center-left	_	_	_	
+22-10	2459-2460	)	_	_	_	
+22-11	2461-2464	and	_	_	_	
+22-12	2465-2469	Lake	_	_	_	
+22-13	2470-2476	Monona	_	_	_	
+22-14	2477-2478	(	_	_	_	
+22-15	2478-2490	center-right	_	_	_	
+22-16	2490-2491	)	_	_	_	
+22-17	2492-2495	are	_	_	_	
+22-18	2496-2499	the	_	_	_	
+22-19	2500-2504	most	_	_	_	
+22-20	2505-2513	dominant	_	_	_	
+22-21	2514-2520	visual	_	_	_	
+22-22	2521-2529	features	_	_	_	
+22-23	2529-2530	.	_	_	_	
+
+#Text=Their bright, saturated blue color immediately draws the eye.
+23-1	2531-2536	Their	_	_	_	
+23-2	2537-2543	bright	_	_	_	
+23-3	2543-2544	,	_	_	_	
+23-4	2545-2554	saturated	_	_	_	
+23-5	2555-2559	blue	_	_	_	
+23-6	2560-2565	color	_	_	_	
+23-7	2566-2577	immediately	_	_	_	
+23-8	2578-2583	draws	_	_	_	
+23-9	2584-2587	the	_	_	_	
+23-10	2588-2591	eye	_	_	_	
+23-11	2591-2592	.	_	_	_	
+
+#Text=Lake Mendota is larger and irregular in shape, while Lake Monona is smaller but still prominent.  2.
+24-1	2593-2597	Lake	_	_	_	
+24-2	2598-2605	Mendota	_	_	_	
+24-3	2606-2608	is	_	_	_	
+24-4	2609-2615	larger	_	_	_	
+24-5	2616-2619	and	_	_	_	
+24-6	2620-2629	irregular	_	_	_	
+24-7	2630-2632	in	_	_	_	
+24-8	2633-2638	shape	_	_	_	
+24-9	2638-2639	,	_	_	_	
+24-10	2640-2645	while	_	_	_	
+24-11	2646-2650	Lake	_	_	_	
+24-12	2651-2657	Monona	_	_	_	
+24-13	2658-2660	is	_	_	_	
+24-14	2661-2668	smaller	_	_	_	
+24-15	2669-2672	but	_	_	_	
+24-16	2673-2678	still	_	_	_	
+24-17	2679-2688	prominent	_	_	_	
+24-18	2688-2689	.	_	_	_	
+24-19	2691-2692	2	h2[23]	*[23]	_	
+24-20	2692-2693	.	h2[23]	*[23]	_	
+
+#Text=Major Roads and Highways  Interstates 90 and 94 (north-east and south-east) and Highway 151 cut through the map with thick gray lines.
+25-1	2694-2699	Major	h2[23]	*[23]	_	
+25-2	2700-2705	Roads	h2[23]	*[23]	_	
+25-3	2706-2709	and	h2[23]	*[23]	_	
+25-4	2710-2718	Highways	h2[23]	*[23]	_	
+25-5	2720-2731	Interstates	_	_	_	
+25-6	2732-2734	90	_	_	_	
+25-7	2735-2738	and	_	_	_	
+25-8	2739-2741	94	_	_	_	
+25-9	2742-2743	(	_	_	_	
+25-10	2743-2753	north-east	_	_	_	
+25-11	2754-2757	and	_	_	_	
+25-12	2758-2768	south-east	_	_	_	
+25-13	2768-2769	)	_	_	_	
+25-14	2770-2773	and	_	_	_	
+25-15	2774-2781	Highway	_	_	_	
+25-16	2782-2785	151	_	_	_	
+25-17	2786-2789	cut	_	_	_	
+25-18	2790-2797	through	_	_	_	
+25-19	2798-2801	the	_	_	_	
+25-20	2802-2805	map	_	_	_	
+25-21	2806-2810	with	_	_	_	
+25-22	2811-2816	thick	_	_	_	
+25-23	2817-2821	gray	_	_	_	
+25-24	2822-2827	lines	_	_	_	
+25-25	2827-2828	.	_	_	_	
+
+#Text=The cloverleaf-style highway interchanges (especially where I-90 and Highway 18 meet) are highly noticeable because of their bold, complex shapes.
+26-1	2829-2832	The	_	_	_	
+26-2	2833-2849	cloverleaf-style	_	_	_	
+26-3	2850-2857	highway	_	_	_	
+26-4	2858-2870	interchanges	_	_	_	
+26-5	2871-2872	(	_	_	_	
+26-6	2872-2882	especially	_	_	_	
+26-7	2883-2888	where	_	_	_	
+26-8	2889-2890	I	_	_	_	
+26-9	2890-2891	-	_	_	_	
+26-10	2891-2893	90	_	_	_	
+26-11	2894-2897	and	_	_	_	
+26-12	2898-2905	Highway	_	_	_	
+26-13	2906-2908	18	_	_	_	
+26-14	2909-2913	meet	_	_	_	
+26-15	2913-2914	)	_	_	_	
+26-16	2915-2918	are	_	_	_	
+26-17	2919-2925	highly	_	_	_	
+26-18	2926-2936	noticeable	_	_	_	
+26-19	2937-2944	because	_	_	_	
+26-20	2945-2947	of	_	_	_	
+26-21	2948-2953	their	_	_	_	
+26-22	2954-2958	bold	_	_	_	
+26-23	2958-2959	,	_	_	_	
+26-24	2960-2967	complex	_	_	_	
+26-25	2968-2974	shapes	_	_	_	
+26-26	2974-2975	.	_	_	_	
+
+#Text=Major roads outline the city structure and visually break up the greens and blues.  3.
+27-1	2976-2981	Major	_	_	_	
+27-2	2982-2987	roads	_	_	_	
+27-3	2988-2995	outline	_	_	_	
+27-4	2996-2999	the	_	_	_	
+27-5	3000-3004	city	_	_	_	
+27-6	3005-3014	structure	_	_	_	
+27-7	3015-3018	and	_	_	_	
+27-8	3019-3027	visually	_	_	_	
+27-9	3028-3033	break	_	_	_	
+27-10	3034-3036	up	_	_	_	
+27-11	3037-3040	the	_	_	_	
+27-12	3041-3047	greens	_	_	_	
+27-13	3048-3051	and	_	_	_	
+27-14	3052-3057	blues	_	_	_	
+27-15	3057-3058	.	_	_	_	
+27-16	3060-3061	3	h2[24]	*[24]	_	
+27-17	3061-3062	.	h2[24]	*[24]	_	
+
+#Text=Patches of Green Spaces  State parks (like Governor Nelson State Park) and areas such as Olbrich Botanical Gardens are displayed in light green, standing out against the more muted urban backgrounds.
+28-1	3063-3070	Patches	h2[24]	*[24]	_	
+28-2	3071-3073	of	h2[24]	*[24]	_	
+28-3	3074-3079	Green	h2[24]	*[24]	_	
+28-4	3080-3086	Spaces	h2[24]	*[24]	_	
+28-5	3088-3093	State	_	_	_	
+28-6	3094-3099	parks	_	_	_	
+28-7	3100-3101	(	_	_	_	
+28-8	3101-3105	like	_	_	_	
+28-9	3106-3114	Governor	_	_	_	
+28-10	3115-3121	Nelson	_	_	_	
+28-11	3122-3127	State	_	_	_	
+28-12	3128-3132	Park	_	_	_	
+28-13	3132-3133	)	_	_	_	
+28-14	3134-3137	and	_	_	_	
+28-15	3138-3143	areas	_	_	_	
+28-16	3144-3148	such	_	_	_	
+28-17	3149-3151	as	_	_	_	
+28-18	3152-3159	Olbrich	_	_	_	
+28-19	3160-3169	Botanical	_	_	_	
+28-20	3170-3177	Gardens	_	_	_	
+28-21	3178-3181	are	_	_	_	
+28-22	3182-3191	displayed	_	_	_	
+28-23	3192-3194	in	_	_	_	
+28-24	3195-3200	light	_	_	_	
+28-25	3201-3206	green	_	_	_	
+28-26	3206-3207	,	_	_	_	
+28-27	3208-3216	standing	_	_	_	
+28-28	3217-3220	out	_	_	_	
+28-29	3221-3228	against	_	_	_	
+28-30	3229-3232	the	_	_	_	
+28-31	3233-3237	more	_	_	_	
+28-32	3238-3243	muted	_	_	_	
+28-33	3244-3249	urban	_	_	_	
+28-34	3250-3261	backgrounds	_	_	_	
+28-35	3261-3262	.	_	_	_	
+
+#Text=These green patches balance the visual weight of the lakes.  4.
+29-1	3263-3268	These	_	_	_	
+29-2	3269-3274	green	_	_	_	
+29-3	3275-3282	patches	_	_	_	
+29-4	3283-3290	balance	_	_	_	
+29-5	3291-3294	the	_	_	_	
+29-6	3295-3301	visual	_	_	_	
+29-7	3302-3308	weight	_	_	_	
+29-8	3309-3311	of	_	_	_	
+29-9	3312-3315	the	_	_	_	
+29-10	3316-3321	lakes	_	_	_	
+29-11	3321-3322	.	_	_	_	
+29-12	3324-3325	4	h2[25]	*[25]	_	
+29-13	3325-3326	.	h2[25]	*[25]	_	
+
+#Text=Bright Icons  A few brightly colored icons catch attention:  Airport symbol (plane icon near Truax area) Hotel symbols (pink icons, e.g., "avid hotel Madison") Park/garden symbols (green flower icons for parks)   5.
+30-1	3327-3333	Bright	h2[25]	*[25]	_	
+30-2	3334-3339	Icons	h2[25]	*[25]	_	
+30-3	3341-3342	A	p[26]	*[26]	_	
+30-4	3343-3346	few	p[26]	*[26]	_	
+30-5	3347-3355	brightly	p[26]	*[26]	_	
+30-6	3356-3363	colored	p[26]	*[26]	_	
+30-7	3364-3369	icons	p[26]	*[26]	_	
+30-8	3370-3375	catch	p[26]	*[26]	_	
+30-9	3376-3385	attention	p[26]	*[26]	_	
+30-10	3385-3386	:	p[26]	*[26]	_	
+30-11	3388-3395	Airport	_	_	_	
+30-12	3396-3402	symbol	_	_	_	
+30-13	3403-3404	(	_	_	_	
+30-14	3404-3409	plane	_	_	_	
+30-15	3410-3414	icon	_	_	_	
+30-16	3415-3419	near	_	_	_	
+30-17	3420-3425	Truax	_	_	_	
+30-18	3426-3430	area	_	_	_	
+30-19	3430-3431	)	_	_	_	
+30-20	3432-3437	Hotel	_	_	_	
+30-21	3438-3445	symbols	_	_	_	
+30-22	3446-3447	(	_	_	_	
+30-23	3447-3451	pink	_	_	_	
+30-24	3452-3457	icons	_	_	_	
+30-25	3457-3458	,	_	_	_	
+30-26	3459-3462	e.g	_	_	_	
+30-27	3462-3463	.	_	_	_	
+30-28	3463-3464	,	_	_	_	
+30-29	3465-3466	"	_	_	_	
+30-30	3466-3470	avid	_	_	_	
+30-31	3471-3476	hotel	_	_	_	
+30-32	3477-3484	Madison	_	_	_	
+30-33	3484-3485	"	_	_	_	
+30-34	3485-3486	)	_	_	_	
+30-35	3487-3491	Park	_	_	_	
+30-36	3491-3492	/	_	_	_	
+30-37	3492-3498	garden	_	_	_	
+30-38	3499-3506	symbols	_	_	_	
+30-39	3507-3508	(	_	_	_	
+30-40	3508-3513	green	_	_	_	
+30-41	3514-3520	flower	_	_	_	
+30-42	3521-3526	icons	_	_	_	
+30-43	3527-3530	for	_	_	_	
+30-44	3531-3536	parks	_	_	_	
+30-45	3536-3537	)	_	_	_	
+30-46	3540-3541	5	h2[27]	*[27]	_	
+30-47	3541-3542	.	h2[27]	*[27]	_	
+
+#Text=City Labels  The name "Madison" appears prominently and centrally in bold black text, making the city immediately identifiable.
+31-1	3543-3547	City	h2[27]	*[27]	_	
+31-2	3548-3554	Labels	h2[27]	*[27]	_	
+31-3	3556-3559	The	_	_	_	
+31-4	3560-3564	name	_	_	_	
+31-5	3565-3566	"	_	_	_	
+31-6	3566-3573	Madison	_	_	_	
+31-7	3573-3574	"	_	_	_	
+31-8	3575-3582	appears	_	_	_	
+31-9	3583-3594	prominently	_	_	_	
+31-10	3595-3598	and	_	_	_	
+31-11	3599-3608	centrally	_	_	_	
+31-12	3609-3611	in	_	_	_	
+31-13	3612-3616	bold	_	_	_	
+31-14	3617-3622	black	_	_	_	
+31-15	3623-3627	text	_	_	_	
+31-16	3627-3628	,	_	_	_	
+31-17	3629-3635	making	_	_	_	
+31-18	3636-3639	the	_	_	_	
+31-19	3640-3644	city	_	_	_	
+31-20	3645-3656	immediately	_	_	_	
+31-21	3657-3669	identifiable	_	_	_	
+31-22	3669-3670	.	_	_	_	
+
+#Text=Sub-areas like Monona, Middleton, and Maple Bluff are labeled but in slightly smaller fonts.
+32-1	3671-3680	Sub-areas	_	_	_	
+32-2	3681-3685	like	_	_	_	
+32-3	3686-3692	Monona	_	_	_	
+32-4	3692-3693	,	_	_	_	
+32-5	3694-3703	Middleton	_	_	_	
+32-6	3703-3704	,	_	_	_	
+32-7	3705-3708	and	_	_	_	
+32-8	3709-3714	Maple	_	_	_	
+32-9	3715-3720	Bluff	_	_	_	
+32-10	3721-3724	are	_	_	_	
+32-11	3725-3732	labeled	_	_	_	
+32-12	3733-3736	but	_	_	_	
+32-13	3737-3739	in	_	_	_	
+32-14	3740-3748	slightly	_	_	_	
+32-15	3749-3756	smaller	_	_	_	
+32-16	3757-3762	fonts	_	_	_	
+32-17	3762-3763	.	_	_	_	
+
+#Text=Visual Summary  Color Contrast (blue water, green parks, gray roads) is the primary organizer of attention.
+33-1	3765-3771	Visual	h2[28]	*[28]	_	
+33-2	3772-3779	Summary	h2[28]	*[28]	_	
+33-3	3781-3786	Color	_	_	_	
+33-4	3787-3795	Contrast	_	_	_	
+33-5	3796-3797	(	_	_	_	
+33-6	3797-3801	blue	_	_	_	
+33-7	3802-3807	water	_	_	_	
+33-8	3807-3808	,	_	_	_	
+33-9	3809-3814	green	_	_	_	
+33-10	3815-3820	parks	_	_	_	
+33-11	3820-3821	,	_	_	_	
+33-12	3822-3826	gray	_	_	_	
+33-13	3827-3832	roads	_	_	_	
+33-14	3832-3833	)	_	_	_	
+33-15	3834-3836	is	_	_	_	
+33-16	3837-3840	the	_	_	_	
+33-17	3841-3848	primary	_	_	_	
+33-18	3849-3858	organizer	_	_	_	
+33-19	3859-3861	of	_	_	_	
+33-20	3862-3871	attention	_	_	_	
+33-21	3871-3872	.	_	_	_	
+
+#Text=Large Geometric Shapes (the lakes and road grids) create a strong and readable structure.
+34-1	3873-3878	Large	_	_	_	
+34-2	3879-3888	Geometric	_	_	_	
+34-3	3889-3895	Shapes	_	_	_	
+34-4	3896-3897	(	_	_	_	
+34-5	3897-3900	the	_	_	_	
+34-6	3901-3906	lakes	_	_	_	
+34-7	3907-3910	and	_	_	_	
+34-8	3911-3915	road	_	_	_	
+34-9	3916-3921	grids	_	_	_	
+34-10	3921-3922	)	_	_	_	
+34-11	3923-3929	create	_	_	_	
+34-12	3930-3931	a	_	_	_	
+34-13	3932-3938	strong	_	_	_	
+34-14	3939-3942	and	_	_	_	
+34-15	3943-3951	readable	_	_	_	
+34-16	3952-3961	structure	_	_	_	
+34-17	3961-3962	.	_	_	_	
+
+#Text=Bright icons and bold text labels add focal points on top of the broader natural and urban layout.
+35-1	3963-3969	Bright	_	_	_	
+35-2	3970-3975	icons	_	_	_	
+35-3	3976-3979	and	_	_	_	
+35-4	3980-3984	bold	_	_	_	
+35-5	3985-3989	text	_	_	_	
+35-6	3990-3996	labels	_	_	_	
+35-7	3997-4000	add	_	_	_	
+35-8	4001-4006	focal	_	_	_	
+35-9	4007-4013	points	_	_	_	
+35-10	4014-4016	on	_	_	_	
+35-11	4017-4020	top	_	_	_	
+35-12	4021-4023	of	_	_	_	
+35-13	4024-4027	the	_	_	_	
+35-14	4028-4035	broader	_	_	_	
+35-15	4036-4043	natural	_	_	_	
+35-16	4044-4047	and	_	_	_	
+35-17	4048-4053	urban	_	_	_	
+35-18	4054-4060	layout	_	_	_	
+35-19	4060-4061	.	_	_	_	
+
+#Text=Would you also like a quick ranked list of which single elements are the absolute strongest at grabbing the viewer's attention first?
+36-1	4063-4068	Would	p[29]	*[29]	_	
+36-2	4069-4072	you	p[29]	*[29]	_	
+36-3	4073-4077	also	p[29]	*[29]	_	
+36-4	4078-4082	like	p[29]	*[29]	_	
+36-5	4083-4084	a	p[29]	*[29]	_	
+36-6	4085-4090	quick	p[29]	*[29]	_	
+36-7	4091-4097	ranked	p[29]	*[29]	_	
+36-8	4098-4102	list	p[29]	*[29]	_	
+36-9	4103-4105	of	p[29]	*[29]	_	
+36-10	4106-4111	which	p[29]	*[29]	_	
+36-11	4112-4118	single	p[29]	*[29]	_	
+36-12	4119-4127	elements	p[29]	*[29]	_	
+36-13	4128-4131	are	p[29]	*[29]	_	
+36-14	4132-4135	the	p[29]	*[29]	_	
+36-15	4136-4144	absolute	p[29]	*[29]	_	
+36-16	4145-4154	strongest	p[29]	*[29]	_	
+36-17	4155-4157	at	p[29]	*[29]	_	
+36-18	4158-4166	grabbing	p[29]	*[29]	_	
+36-19	4167-4170	the	p[29]	*[29]	_	
+36-20	4171-4179	viewer's	p[29]	*[29]	_	
+36-21	4180-4189	attention	p[29]	*[29]	_	
+36-22	4190-4195	first	p[29]	*[29]	_	
+36-23	4195-4196	?	p[29]	*[29]	_	
+
+#Text=🌟 Anchors summary  Lake Mendota Lake Monona Interstate 90 (I-90) Interstate 94 (I-94) Highway 151 Governor Nelson State Park Olbrich Botanical Gardens avid hotel Madison Truax (airport area / airport symbol) Madison (city label) Monona (label) Middleton (label) Maple Bluff (label) large blue lakes (general) large irregular-shaped lake (description) smaller but prominent lake (description) cloverleaf-style highway interchanges patches of green spaces / state parks (light green areas) bright icons (airport plane icon, hotel pink icons, park/garden green flower icons) major roads depicted as thick gray lines bold city/sub-area text labels
+37-1	4197-4199	🌟	p[29]	*[29]	_	
+37-2	4200-4207	Anchors	h1[30]	*[30]	_	
+37-3	4208-4215	summary	h1[30]	*[30]	_	
+37-4	4217-4221	Lake	_	_	_	
+37-5	4222-4229	Mendota	_	_	_	
+37-6	4230-4234	Lake	_	_	_	
+37-7	4235-4241	Monona	_	_	_	
+37-8	4242-4252	Interstate	_	_	_	
+37-9	4253-4255	90	_	_	_	
+37-10	4256-4257	(	_	_	_	
+37-11	4257-4258	I	_	_	_	
+37-12	4258-4259	-	_	_	_	
+37-13	4259-4261	90	_	_	_	
+37-14	4261-4262	)	_	_	_	
+37-15	4263-4273	Interstate	_	_	_	
+37-16	4274-4276	94	_	_	_	
+37-17	4277-4278	(	_	_	_	
+37-18	4278-4279	I	_	_	_	
+37-19	4279-4280	-	_	_	_	
+37-20	4280-4282	94	_	_	_	
+37-21	4282-4283	)	_	_	_	
+37-22	4284-4291	Highway	_	_	_	
+37-23	4292-4295	151	_	_	_	
+37-24	4296-4304	Governor	_	_	_	
+37-25	4305-4311	Nelson	_	_	_	
+37-26	4312-4317	State	_	_	_	
+37-27	4318-4322	Park	_	_	_	
+37-28	4323-4330	Olbrich	_	_	_	
+37-29	4331-4340	Botanical	_	_	_	
+37-30	4341-4348	Gardens	_	_	_	
+37-31	4349-4353	avid	_	_	_	
+37-32	4354-4359	hotel	_	_	_	
+37-33	4360-4367	Madison	_	_	_	
+37-34	4368-4373	Truax	_	_	_	
+37-35	4374-4375	(	_	_	_	
+37-36	4375-4382	airport	_	_	_	
+37-37	4383-4387	area	_	_	_	
+37-38	4388-4389	/	_	_	_	
+37-39	4390-4397	airport	_	_	_	
+37-40	4398-4404	symbol	_	_	_	
+37-41	4404-4405	)	_	_	_	
+37-42	4406-4413	Madison	_	_	_	
+37-43	4414-4415	(	_	_	_	
+37-44	4415-4419	city	_	_	_	
+37-45	4420-4425	label	_	_	_	
+37-46	4425-4426	)	_	_	_	
+37-47	4427-4433	Monona	_	_	_	
+37-48	4434-4435	(	_	_	_	
+37-49	4435-4440	label	_	_	_	
+37-50	4440-4441	)	_	_	_	
+37-51	4442-4451	Middleton	_	_	_	
+37-52	4452-4453	(	_	_	_	
+37-53	4453-4458	label	_	_	_	
+37-54	4458-4459	)	_	_	_	
+37-55	4460-4465	Maple	_	_	_	
+37-56	4466-4471	Bluff	_	_	_	
+37-57	4472-4473	(	_	_	_	
+37-58	4473-4478	label	_	_	_	
+37-59	4478-4479	)	_	_	_	
+37-60	4480-4485	large	_	_	_	
+37-61	4486-4490	blue	_	_	_	
+37-62	4491-4496	lakes	_	_	_	
+37-63	4497-4498	(	_	_	_	
+37-64	4498-4505	general	_	_	_	
+37-65	4505-4506	)	_	_	_	
+37-66	4507-4512	large	_	_	_	
+37-67	4513-4529	irregular-shaped	_	_	_	
+37-68	4530-4534	lake	_	_	_	
+37-69	4535-4536	(	_	_	_	
+37-70	4536-4547	description	_	_	_	
+37-71	4547-4548	)	_	_	_	
+37-72	4549-4556	smaller	_	_	_	
+37-73	4557-4560	but	_	_	_	
+37-74	4561-4570	prominent	_	_	_	
+37-75	4571-4575	lake	_	_	_	
+37-76	4576-4577	(	_	_	_	
+37-77	4577-4588	description	_	_	_	
+37-78	4588-4589	)	_	_	_	
+37-79	4590-4606	cloverleaf-style	_	_	_	
+37-80	4607-4614	highway	_	_	_	
+37-81	4615-4627	interchanges	_	_	_	
+37-82	4628-4635	patches	_	_	_	
+37-83	4636-4638	of	_	_	_	
+37-84	4639-4644	green	_	_	_	
+37-85	4645-4651	spaces	_	_	_	
+37-86	4652-4653	/	_	_	_	
+37-87	4654-4659	state	_	_	_	
+37-88	4660-4665	parks	_	_	_	
+37-89	4666-4667	(	_	_	_	
+37-90	4667-4672	light	_	_	_	
+37-91	4673-4678	green	_	_	_	
+37-92	4679-4684	areas	_	_	_	
+37-93	4684-4685	)	_	_	_	
+37-94	4686-4692	bright	_	_	_	
+37-95	4693-4698	icons	_	_	_	
+37-96	4699-4700	(	_	_	_	
+37-97	4700-4707	airport	_	_	_	
+37-98	4708-4713	plane	_	_	_	
+37-99	4714-4718	icon	_	_	_	
+37-100	4718-4719	,	_	_	_	
+37-101	4720-4725	hotel	_	_	_	
+37-102	4726-4730	pink	_	_	_	
+37-103	4731-4736	icons	_	_	_	
+37-104	4736-4737	,	_	_	_	
+37-105	4738-4742	park	_	_	_	
+37-106	4742-4743	/	_	_	_	
+37-107	4743-4749	garden	_	_	_	
+37-108	4750-4755	green	_	_	_	
+37-109	4756-4762	flower	_	_	_	
+37-110	4763-4768	icons	_	_	_	
+37-111	4768-4769	)	_	_	_	
+37-112	4770-4775	major	_	_	_	
+37-113	4776-4781	roads	_	_	_	
+37-114	4782-4790	depicted	_	_	_	
+37-115	4791-4793	as	_	_	_	
+37-116	4794-4799	thick	_	_	_	
+37-117	4800-4804	gray	_	_	_	
+37-118	4805-4810	lines	_	_	_	
+37-119	4811-4815	bold	_	_	_	
+37-120	4816-4820	city	_	_	_	
+37-121	4820-4821	/	_	_	_	
+37-122	4821-4829	sub-area	_	_	_	
+37-123	4830-4834	text	_	_	_	
+37-124	4835-4841	labels	_	_	_	

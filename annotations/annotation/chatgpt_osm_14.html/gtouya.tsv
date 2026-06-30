@@ -1,0 +1,805 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=This map shows the western part of A Coruña, a city in northwestern Spain, with a clear focus on urban structure, road networks, and industrial zones.
+2-1	42-46	This	p[2]	*[2]	_	
+2-2	47-50	map	p[2]	*[2]	_	
+2-3	51-56	shows	p[2]	*[2]	_	
+2-4	57-60	the	p[2]	*[2]	_	
+2-5	61-68	western	p[2]	*[2]	_	
+2-6	69-73	part	p[2]	*[2]	_	
+2-7	74-76	of	p[2]	*[2]	_	
+2-8	77-78	A	p[2]	*[2]	toponym[19]	
+2-9	79-85	Coruña	p[2]	*[2]	toponym[19]	
+2-10	85-86	,	p[2]	*[2]	_	
+2-11	87-88	a	p[2]	*[2]	_	
+2-12	89-93	city	p[2]	*[2]	_	
+2-13	94-96	in	p[2]	*[2]	spatial relation	
+2-14	97-109	northwestern	p[2]	*[2]	spatial relation	
+2-15	110-115	Spain	p[2]	*[2]	toponym	
+2-16	115-116	,	p[2]	*[2]	_	
+2-17	117-121	with	p[2]	*[2]	_	
+2-18	122-123	a	p[2]	*[2]	_	
+2-19	124-129	clear	p[2]	*[2]	_	
+2-20	130-135	focus	p[2]	*[2]	_	
+2-21	136-138	on	p[2]	*[2]	_	
+2-22	139-144	urban	p[2]	*[2]	_	
+2-23	145-154	structure	p[2]	*[2]	_	
+2-24	154-155	,	p[2]	*[2]	_	
+2-25	156-160	road	p[2]	*[2]	_	
+2-26	161-169	networks	p[2]	*[2]	_	
+2-27	169-170	,	p[2]	*[2]	_	
+2-28	171-174	and	p[2]	*[2]	_	
+2-29	175-185	industrial	p[2]	*[2]	_	
+2-30	186-191	zones	p[2]	*[2]	_	
+2-31	191-192	.	p[2]	*[2]	_	
+
+#Text=Here are the key features: 🌆 Urban Areas  Dense city blocks are visible in the northeast (e.g., Ensanche, Catro Camiños, Santa Margarida), shown with a tight, light grey grid.
+3-1	193-197	Here	p[2]	*[2]	_	
+3-2	198-201	are	p[2]	*[2]	_	
+3-3	202-205	the	p[2]	*[2]	_	
+3-4	206-209	key	p[2]	*[2]	_	
+3-5	210-218	features	p[2]	*[2]	_	
+3-6	218-219	:	p[2]	*[2]	_	
+3-7	220-222	🌆	h2[3]	*[3]	_	
+3-8	223-228	Urban	h2[3]	*[3]	_	
+3-9	229-234	Areas	h2[3]	*[3]	_	
+3-10	236-241	Dense	_	_	_	
+3-11	242-246	city	_	_	_	
+3-12	247-253	blocks	_	_	_	
+3-13	254-257	are	_	_	_	
+3-14	258-265	visible	_	_	_	
+3-15	266-268	in	_	_	spatial relation[20]	
+3-16	269-272	the	_	_	spatial relation[20]	
+3-17	273-282	northeast	_	_	spatial relation[20]	
+3-18	283-284	(	_	_	_	
+3-19	284-287	e.g	_	_	_	
+3-20	287-288	.	_	_	_	
+3-21	288-289	,	_	_	_	
+3-22	290-298	Ensanche	_	_	toponym	
+3-23	298-299	,	_	_	_	
+3-24	300-305	Catro	_	_	toponym[21]	
+3-25	306-313	Camiños	_	_	toponym[21]	
+3-26	313-314	,	_	_	_	
+3-27	315-320	Santa	_	_	toponym[22]	
+3-28	321-330	Margarida	_	_	toponym[22]	
+3-29	330-331	)	_	_	_	
+3-30	331-332	,	_	_	_	
+3-31	333-338	shown	_	_	_	
+3-32	339-343	with	_	_	_	
+3-33	344-345	a	_	_	_	
+3-34	346-351	tight	_	_	_	
+3-35	351-352	,	_	_	_	
+3-36	353-358	light	_	_	_	
+3-37	359-363	grey	_	_	_	
+3-38	364-368	grid	_	_	_	
+3-39	368-369	.	_	_	_	
+
+#Text=Residential neighborhoods are labeled, such as Elviña, Os Castros, O Birloque, and Xuxán
+4-1	370-381	Residential	_	_	_	
+4-2	382-395	neighborhoods	_	_	_	
+4-3	396-399	are	_	_	_	
+4-4	400-407	labeled	_	_	_	
+4-5	407-408	,	_	_	_	
+4-6	409-413	such	_	_	_	
+4-7	414-416	as	_	_	_	
+4-8	417-423	Elviña	_	_	toponym	
+4-9	423-424	,	_	_	_	
+4-10	425-427	Os	_	_	toponym[23]	
+4-11	428-435	Castros	_	_	toponym[23]	
+4-12	435-436	,	_	_	_	
+4-13	437-438	O	_	_	toponym[24]	
+4-14	439-447	Birloque	_	_	toponym[24]	
+4-15	447-448	,	_	_	_	
+4-16	449-452	and	_	_	_	
+4-17	453-458	Xuxán	_	_	toponym	
+
+#Text=.
+5-1	458-459	.	_	_	_	
+
+#Text=🛣️ Major Roads and Highways  The AC-552 and V-1.4 highways are the most visually prominent (in bold orange-red), forming a north-south axis through the map.
+6-1	461-464	🛣️	h2[4]	*[4]	_	
+6-2	465-470	Major	h2[4]	*[4]	_	
+6-3	471-476	Roads	h2[4]	*[4]	_	
+6-4	477-480	and	h2[4]	*[4]	_	
+6-5	481-489	Highways	h2[4]	*[4]	_	
+6-6	491-494	The	_	_	_	
+6-7	495-497	AC	_	_	toponym[25]	
+6-8	497-498	-	_	_	toponym[25]	
+6-9	498-501	552	_	_	toponym[25]	
+6-10	502-505	and	_	_	_	
+6-11	506-507	V	_	_	toponym[26]	
+6-12	507-508	-	_	_	toponym[26]	
+6-13	508-511	1.4	_	_	toponym[26]	
+6-14	512-520	highways	_	_	_	
+6-15	521-524	are	_	_	_	
+6-16	525-528	the	_	_	_	
+6-17	529-533	most	_	_	_	
+6-18	534-542	visually	_	_	_	
+6-19	543-552	prominent	_	_	_	
+6-20	553-554	(	_	_	_	
+6-21	554-556	in	_	_	_	
+6-22	557-561	bold	_	_	_	
+6-23	562-572	orange-red	_	_	_	
+6-24	572-573	)	_	_	_	
+6-25	573-574	,	_	_	_	
+6-26	575-582	forming	_	_	spatial relation[27]	
+6-27	583-584	a	_	_	spatial relation[27]	
+6-28	585-596	north-south	_	_	spatial relation[27]	
+6-29	597-601	axis	_	_	_	
+6-30	602-609	through	_	_	spatial relation	
+6-31	610-613	the	_	_	_	
+6-32	614-617	map	_	_	_	
+6-33	617-618	.	_	_	_	
+
+#Text=Multiple large roundabouts and interchanges (e.g., near Matogrande and Elviña) reinforce the hierarchy of the transport network
+7-1	619-627	Multiple	_	_	_	
+7-2	628-633	large	_	_	_	
+7-3	634-645	roundabouts	_	_	_	
+7-4	646-649	and	_	_	_	
+7-5	650-662	interchanges	_	_	_	
+7-6	663-664	(	_	_	_	
+7-7	664-667	e.g	_	_	_	
+7-8	667-668	.	_	_	_	
+7-9	668-669	,	_	_	_	
+7-10	670-674	near	_	_	_	
+7-11	675-685	Matogrande	_	_	toponym	
+7-12	686-689	and	_	_	_	
+7-13	690-696	Elviña	_	_	toponym	
+7-14	696-697	)	_	_	_	
+7-15	698-707	reinforce	_	_	_	
+7-16	708-711	the	_	_	_	
+7-17	712-721	hierarchy	_	_	_	
+7-18	722-724	of	_	_	_	
+7-19	725-728	the	_	_	_	
+7-20	729-738	transport	_	_	_	
+7-21	739-746	network	_	_	_	
+
+#Text=.
+8-1	746-747	.	_	_	_	
+
+#Text=🏭 Industrial Zones  Repsol refinery and Alcoa A Coruña are clearly marked in the west, colored in pale grey with large blocky outlines.
+9-1	749-751	🏭	h2[5]	*[5]	_	
+9-2	752-762	Industrial	h2[5]	*[5]	_	
+9-3	763-768	Zones	h2[5]	*[5]	_	
+9-4	770-776	Repsol	_	_	toponym	
+9-5	777-785	refinery	_	_	_	
+9-6	786-789	and	_	_	_	
+9-7	790-795	Alcoa	_	_	toponym[28]	
+9-8	796-797	A	_	_	toponym[28]	
+9-9	798-804	Coruña	_	_	toponym[28]	
+9-10	805-808	are	_	_	_	
+9-11	809-816	clearly	_	_	_	
+9-12	817-823	marked	_	_	_	
+9-13	824-826	in	_	_	spatial relation[29]	
+9-14	827-830	the	_	_	spatial relation[29]	
+9-15	831-835	west	_	_	spatial relation[29]	
+9-16	835-836	,	_	_	_	
+9-17	837-844	colored	_	_	_	
+9-18	845-847	in	_	_	_	
+9-19	848-852	pale	_	_	_	
+9-20	853-857	grey	_	_	_	
+9-21	858-862	with	_	_	_	
+9-22	863-868	large	_	_	_	
+9-23	869-875	blocky	_	_	_	
+9-24	876-884	outlines	_	_	_	
+9-25	884-885	.	_	_	_	
+
+#Text=These contrast sharply with the green areas and give the southwest a heavy industrial identity
+10-1	886-891	These	_	_	_	
+10-2	892-900	contrast	_	_	_	
+10-3	901-908	sharply	_	_	_	
+10-4	909-913	with	_	_	_	
+10-5	914-917	the	_	_	_	
+10-6	918-923	green	_	_	_	
+10-7	924-929	areas	_	_	_	
+10-8	930-933	and	_	_	_	
+10-9	934-938	give	_	_	_	
+10-10	939-942	the	_	_	spatial relation[30]	
+10-11	943-952	southwest	_	_	spatial relation[30]	
+10-12	953-954	a	_	_	_	
+10-13	955-960	heavy	_	_	_	
+10-14	961-971	industrial	_	_	_	
+10-15	972-980	identity	_	_	_	
+
+#Text=.
+11-1	980-981	.	_	_	_	
+
+#Text=🌳 Green and Natural Spaces  Bens Park, Monte Patelo, and Eko Atlántico in the west/southwest provide large, visually prominent green areas.
+12-1	983-985	🌳	h2[6]	*[6]	_	
+12-2	986-991	Green	h2[6]	*[6]	_	
+12-3	992-995	and	h2[6]	*[6]	_	
+12-4	996-1003	Natural	h2[6]	*[6]	_	
+12-5	1004-1010	Spaces	h2[6]	*[6]	_	
+12-6	1012-1016	Bens	_	_	toponym[31]	
+12-7	1017-1021	Park	_	_	toponym[31]	
+12-8	1021-1022	,	_	_	_	
+12-9	1023-1028	Monte	_	_	toponym[32]	
+12-10	1029-1035	Patelo	_	_	toponym[32]	
+12-11	1035-1036	,	_	_	_	
+12-12	1037-1040	and	_	_	_	
+12-13	1041-1044	Eko	_	_	toponym[33]	
+12-14	1045-1054	Atlántico	_	_	toponym[33]	
+12-15	1055-1057	in	_	_	spatial relation[34]	
+12-16	1058-1061	the	_	_	spatial relation[34]	
+12-17	1062-1066	west	_	_	spatial relation[34]	
+12-18	1066-1067	/	_	_	spatial relation[34]	
+12-19	1067-1076	southwest	_	_	spatial relation[34]	
+12-20	1077-1084	provide	_	_	_	
+12-21	1085-1090	large	_	_	_	
+12-22	1090-1091	,	_	_	_	
+12-23	1092-1100	visually	_	_	_	
+12-24	1101-1110	prominent	_	_	_	
+12-25	1111-1116	green	_	_	_	
+12-26	1117-1122	areas	_	_	_	
+12-27	1122-1123	.	_	_	_	
+
+#Text=Elevation markers (e.g., Os Montalbos, Elviña 67 m) and shaded relief indicate terrain variation
+13-1	1124-1133	Elevation	_	_	_	
+13-2	1134-1141	markers	_	_	_	
+13-3	1142-1143	(	_	_	_	
+13-4	1143-1146	e.g	_	_	_	
+13-5	1146-1147	.	_	_	_	
+13-6	1147-1148	,	_	_	_	
+13-7	1149-1151	Os	_	_	toponym[35]	
+13-8	1152-1161	Montalbos	_	_	toponym[35]	
+13-9	1161-1162	,	_	_	_	
+13-10	1163-1169	Elviña	_	_	toponym[36]	
+13-11	1170-1172	67	_	_	toponym[36]	
+13-12	1173-1174	m	_	_	toponym[36]	
+13-13	1174-1175	)	_	_	_	
+13-14	1176-1179	and	_	_	_	
+13-15	1180-1186	shaded	_	_	_	
+13-16	1187-1193	relief	_	_	_	
+13-17	1194-1202	indicate	_	_	_	
+13-18	1203-1210	terrain	_	_	_	
+13-19	1211-1220	variation	_	_	_	
+
+#Text=.
+14-1	1220-1221	.	_	_	_	
+
+#Text=🚉 Transport & Stations  Rail lines and the A Coruña Provisional station are shown in black, running northeast–southwest.
+15-1	1223-1225	🚉	h2[7]	*[7]	_	
+15-2	1226-1235	Transport	h2[7]	*[7]	_	
+15-3	1236-1237	&	h2[7]	*[7]	_	
+15-4	1238-1246	Stations	h2[7]	*[7]	_	
+15-5	1248-1252	Rail	_	_	_	
+15-6	1253-1258	lines	_	_	_	
+15-7	1259-1262	and	_	_	_	
+15-8	1263-1266	the	_	_	_	
+15-9	1267-1268	A	_	_	toponym[37]	
+15-10	1269-1275	Coruña	_	_	toponym[37]	
+15-11	1276-1287	Provisional	_	_	toponym[37]	
+15-12	1288-1295	station	_	_	_	
+15-13	1296-1299	are	_	_	_	
+15-14	1300-1305	shown	_	_	_	
+15-15	1306-1308	in	_	_	_	
+15-16	1309-1314	black	_	_	_	
+15-17	1314-1315	,	_	_	_	
+15-18	1316-1323	running	_	_	spatial relation[38]	
+15-19	1324-1343	northeast–southwest	_	_	spatial relation[38]	
+15-20	1343-1344	.	_	_	_	
+
+#Text=The Elviña–Universidade station is also labeled in the south, suggesting university access via rail
+16-1	1345-1348	The	_	_	_	
+16-2	1349-1368	Elviña–Universidade	_	_	toponym	
+16-3	1369-1376	station	_	_	_	
+16-4	1377-1379	is	_	_	_	
+16-5	1380-1384	also	_	_	_	
+16-6	1385-1392	labeled	_	_	_	
+16-7	1393-1395	in	_	_	spatial relation[39]	
+16-8	1396-1399	the	_	_	spatial relation[39]	
+16-9	1400-1405	south	_	_	spatial relation[39]	
+16-10	1405-1406	,	_	_	_	
+16-11	1407-1417	suggesting	_	_	_	
+16-12	1418-1428	university	_	_	_	
+16-13	1429-1435	access	_	_	_	
+16-14	1436-1439	via	_	_	_	
+16-15	1440-1444	rail	_	_	_	
+
+#Text=.
+17-1	1444-1445	.	_	_	_	
+
+#Text=🌊 Harbor Area (Top Right)  Although only partially shown, the map hints at the Port of A Coruña and associated infrastructure in the northeast.
+18-1	1447-1449	🌊	h2[8]	*[8]	_	
+18-2	1450-1456	Harbor	h2[8]	*[8]	_	
+18-3	1457-1461	Area	h2[8]	*[8]	_	
+18-4	1462-1463	(	h2[8]	*[8]	_	
+18-5	1463-1466	Top	h2[8]	*[8]	spatial relation[40]	
+18-6	1467-1472	Right	h2[8]	*[8]	spatial relation[40]	
+18-7	1472-1473	)	h2[8]	*[8]	_	
+18-8	1475-1483	Although	_	_	_	
+18-9	1484-1488	only	_	_	_	
+18-10	1489-1498	partially	_	_	_	
+18-11	1499-1504	shown	_	_	_	
+18-12	1504-1505	,	_	_	_	
+18-13	1506-1509	the	_	_	_	
+18-14	1510-1513	map	_	_	_	
+18-15	1514-1519	hints	_	_	_	
+18-16	1520-1522	at	_	_	_	
+18-17	1523-1526	the	_	_	_	
+18-18	1527-1531	Port	_	_	toponym[41]	
+18-19	1532-1534	of	_	_	toponym[41]	
+18-20	1535-1536	A	_	_	toponym[41]	
+18-21	1537-1543	Coruña	_	_	toponym[41]	
+18-22	1544-1547	and	_	_	_	
+18-23	1548-1558	associated	_	_	_	
+18-24	1559-1573	infrastructure	_	_	_	
+18-25	1574-1576	in	_	_	spatial relation[42]	
+18-26	1577-1580	the	_	_	spatial relation[42]	
+18-27	1581-1590	northeast	_	_	spatial relation[42]	
+18-28	1590-1591	.	_	_	_	
+
+#Text=Would you like a comparison of the most salient features across this and the previous maps you shared?
+19-1	1593-1598	Would	p[9]	*[9]	_	
+19-2	1599-1602	you	p[9]	*[9]	_	
+19-3	1603-1607	like	p[9]	*[9]	_	
+19-4	1608-1609	a	p[9]	*[9]	_	
+19-5	1610-1620	comparison	p[9]	*[9]	_	
+19-6	1621-1623	of	p[9]	*[9]	_	
+19-7	1624-1627	the	p[9]	*[9]	_	
+19-8	1628-1632	most	p[9]	*[9]	_	
+19-9	1633-1640	salient	p[9]	*[9]	_	
+19-10	1641-1649	features	p[9]	*[9]	_	
+19-11	1650-1656	across	p[9]	*[9]	_	
+19-12	1657-1661	this	p[9]	*[9]	_	
+19-13	1662-1665	and	p[9]	*[9]	_	
+19-14	1666-1669	the	p[9]	*[9]	_	
+19-15	1670-1678	previous	p[9]	*[9]	_	
+19-16	1679-1683	maps	p[9]	*[9]	_	
+19-17	1684-1687	you	p[9]	*[9]	_	
+19-18	1688-1694	shared	p[9]	*[9]	_	
+19-19	1694-1695	?	p[9]	*[9]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+20-1	1696-1699	Can	h1[10]	*[10]	_	
+20-2	1700-1703	you	h1[10]	*[10]	_	
+20-3	1704-1712	describe	h1[10]	*[10]	_	
+20-4	1713-1716	the	h1[10]	*[10]	_	
+20-5	1717-1721	most	h1[10]	*[10]	_	
+20-6	1722-1730	visually	h1[10]	*[10]	_	
+20-7	1731-1738	salient	h1[10]	*[10]	_	
+20-8	1739-1747	elements	h1[10]	*[10]	_	
+20-9	1748-1750	of	h1[10]	*[10]	_	
+20-10	1751-1754	the	h1[10]	*[10]	_	
+20-11	1755-1758	map	h1[10]	*[10]	_	
+20-12	1758-1759	?	h1[10]	*[10]	_	
+
+#Text=Certainly.
+21-1	1760-1769	Certainly	p[11]	*[11]	_	
+21-2	1769-1770	.	p[11]	*[11]	_	
+
+#Text=The most visually salient elements of this map—those that stand out first and draw attention—are: 🟥 Bold Red and Orange Roads  The AC-552, V-1.4, and Avenida García Sabell highways dominate visually due to their thick red and orange lines.
+22-1	1771-1774	The	p[11]	*[11]	_	
+22-2	1775-1779	most	p[11]	*[11]	_	
+22-3	1780-1788	visually	p[11]	*[11]	_	
+22-4	1789-1796	salient	p[11]	*[11]	_	
+22-5	1797-1805	elements	p[11]	*[11]	_	
+22-6	1806-1808	of	p[11]	*[11]	_	
+22-7	1809-1813	this	p[11]	*[11]	_	
+22-8	1814-1823	map—those	p[11]	*[11]	_	
+22-9	1824-1828	that	p[11]	*[11]	_	
+22-10	1829-1834	stand	p[11]	*[11]	_	
+22-11	1835-1838	out	p[11]	*[11]	_	
+22-12	1839-1844	first	p[11]	*[11]	_	
+22-13	1845-1848	and	p[11]	*[11]	_	
+22-14	1849-1853	draw	p[11]	*[11]	_	
+22-15	1854-1867	attention—are	p[11]	*[11]	_	
+22-16	1867-1868	:	p[11]	*[11]	_	
+22-17	1869-1871	🟥	h2[12]	*[12]	_	
+22-18	1872-1876	Bold	h2[12]	*[12]	_	
+22-19	1877-1880	Red	h2[12]	*[12]	_	
+22-20	1881-1884	and	h2[12]	*[12]	_	
+22-21	1885-1891	Orange	h2[12]	*[12]	_	
+22-22	1892-1897	Roads	h2[12]	*[12]	_	
+22-23	1899-1902	The	_	_	_	
+22-24	1903-1905	AC	_	_	_	
+22-25	1905-1906	-	_	_	_	
+22-26	1906-1909	552	_	_	_	
+22-27	1909-1910	,	_	_	_	
+22-28	1911-1912	V	_	_	_	
+22-29	1912-1913	-	_	_	_	
+22-30	1913-1916	1.4	_	_	_	
+22-31	1916-1917	,	_	_	_	
+22-32	1918-1921	and	_	_	_	
+22-33	1922-1929	Avenida	_	_	_	
+22-34	1930-1936	García	_	_	_	
+22-35	1937-1943	Sabell	_	_	_	
+22-36	1944-1952	highways	_	_	_	
+22-37	1953-1961	dominate	_	_	_	
+22-38	1962-1970	visually	_	_	_	
+22-39	1971-1974	due	_	_	_	
+22-40	1975-1977	to	_	_	_	
+22-41	1978-1983	their	_	_	_	
+22-42	1984-1989	thick	_	_	_	
+22-43	1990-1993	red	_	_	_	
+22-44	1994-1997	and	_	_	_	
+22-45	1998-2004	orange	_	_	_	
+22-46	2005-2010	lines	_	_	_	
+22-47	2010-2011	.	_	_	_	
+
+#Text=Large interchanges and roundabouts (especially around Matogrande and Elviña) are strong focal points, creating a network-like visual structure
+23-1	2012-2017	Large	_	_	_	
+23-2	2018-2030	interchanges	_	_	_	
+23-3	2031-2034	and	_	_	_	
+23-4	2035-2046	roundabouts	_	_	_	
+23-5	2047-2048	(	_	_	_	
+23-6	2048-2058	especially	_	_	_	
+23-7	2059-2065	around	_	_	_	
+23-8	2066-2076	Matogrande	_	_	_	
+23-9	2077-2080	and	_	_	_	
+23-10	2081-2087	Elviña	_	_	_	
+23-11	2087-2088	)	_	_	_	
+23-12	2089-2092	are	_	_	_	
+23-13	2093-2099	strong	_	_	_	
+23-14	2100-2105	focal	_	_	_	
+23-15	2106-2112	points	_	_	_	
+23-16	2112-2113	,	_	_	_	
+23-17	2114-2122	creating	_	_	_	
+23-18	2123-2124	a	_	_	_	
+23-19	2125-2137	network-like	_	_	_	
+23-20	2138-2144	visual	_	_	_	
+23-21	2145-2154	structure	_	_	_	
+
+#Text=.
+24-1	2154-2155	.	_	_	_	
+
+#Text=🌿 Extensive Green Areas  Large parks and forested areas like Parque de Bens, Monte Patelo, and Eko Atlántico contrast sharply with the urban grey, pulling the eye west and south.
+25-1	2157-2159	🌿	h2[13]	*[13]	_	
+25-2	2160-2169	Extensive	h2[13]	*[13]	_	
+25-3	2170-2175	Green	h2[13]	*[13]	_	
+25-4	2176-2181	Areas	h2[13]	*[13]	_	
+25-5	2183-2188	Large	_	_	_	
+25-6	2189-2194	parks	_	_	_	
+25-7	2195-2198	and	_	_	_	
+25-8	2199-2207	forested	_	_	_	
+25-9	2208-2213	areas	_	_	_	
+25-10	2214-2218	like	_	_	_	
+25-11	2219-2225	Parque	_	_	_	
+25-12	2226-2228	de	_	_	_	
+25-13	2229-2233	Bens	_	_	_	
+25-14	2233-2234	,	_	_	_	
+25-15	2235-2240	Monte	_	_	_	
+25-16	2241-2247	Patelo	_	_	_	
+25-17	2247-2248	,	_	_	_	
+25-18	2249-2252	and	_	_	_	
+25-19	2253-2256	Eko	_	_	_	
+25-20	2257-2266	Atlántico	_	_	_	
+25-21	2267-2275	contrast	_	_	_	
+25-22	2276-2283	sharply	_	_	_	
+25-23	2284-2288	with	_	_	_	
+25-24	2289-2292	the	_	_	_	
+25-25	2293-2298	urban	_	_	_	
+25-26	2299-2303	grey	_	_	_	
+25-27	2303-2304	,	_	_	_	
+25-28	2305-2312	pulling	_	_	_	
+25-29	2313-2316	the	_	_	_	
+25-30	2317-2320	eye	_	_	_	
+25-31	2321-2325	west	_	_	_	
+25-32	2326-2329	and	_	_	_	
+25-33	2330-2335	south	_	_	_	
+25-34	2335-2336	.	_	_	_	
+
+#Text=These areas use varied green tones and contour shading, reinforcing their natural and topographic prominence
+26-1	2337-2342	These	_	_	_	
+26-2	2343-2348	areas	_	_	_	
+26-3	2349-2352	use	_	_	_	
+26-4	2353-2359	varied	_	_	_	
+26-5	2360-2365	green	_	_	_	
+26-6	2366-2371	tones	_	_	_	
+26-7	2372-2375	and	_	_	_	
+26-8	2376-2383	contour	_	_	_	
+26-9	2384-2391	shading	_	_	_	
+26-10	2391-2392	,	_	_	_	
+26-11	2393-2404	reinforcing	_	_	_	
+26-12	2405-2410	their	_	_	_	
+26-13	2411-2418	natural	_	_	_	
+26-14	2419-2422	and	_	_	_	
+26-15	2423-2434	topographic	_	_	_	
+26-16	2435-2445	prominence	_	_	_	
+
+#Text=.
+27-1	2445-2446	.	_	_	_	
+
+#Text=🏭 Industrial Complexes  The Refinería Repsol A Coruña and Alcoa A Coruña stand out due to their scale, bold labelling, and greyish-purple fill.
+28-1	2448-2450	🏭	h2[14]	*[14]	_	
+28-2	2451-2461	Industrial	h2[14]	*[14]	_	
+28-3	2462-2471	Complexes	h2[14]	*[14]	_	
+28-4	2473-2476	The	_	_	_	
+28-5	2477-2486	Refinería	_	_	_	
+28-6	2487-2493	Repsol	_	_	_	
+28-7	2494-2495	A	_	_	_	
+28-8	2496-2502	Coruña	_	_	_	
+28-9	2503-2506	and	_	_	_	
+28-10	2507-2512	Alcoa	_	_	_	
+28-11	2513-2514	A	_	_	_	
+28-12	2515-2521	Coruña	_	_	_	
+28-13	2522-2527	stand	_	_	_	
+28-14	2528-2531	out	_	_	_	
+28-15	2532-2535	due	_	_	_	
+28-16	2536-2538	to	_	_	_	
+28-17	2539-2544	their	_	_	_	
+28-18	2545-2550	scale	_	_	_	
+28-19	2550-2551	,	_	_	_	
+28-20	2552-2556	bold	_	_	_	
+28-21	2557-2566	labelling	_	_	_	
+28-22	2566-2567	,	_	_	_	
+28-23	2568-2571	and	_	_	_	
+28-24	2572-2586	greyish-purple	_	_	_	
+28-25	2587-2591	fill	_	_	_	
+28-26	2591-2592	.	_	_	_	
+
+#Text=Their rigid, geometric structure contrasts strongly with the surrounding residential or natural zones
+29-1	2593-2598	Their	_	_	_	
+29-2	2599-2604	rigid	_	_	_	
+29-3	2604-2605	,	_	_	_	
+29-4	2606-2615	geometric	_	_	_	
+29-5	2616-2625	structure	_	_	_	
+29-6	2626-2635	contrasts	_	_	_	
+29-7	2636-2644	strongly	_	_	_	
+29-8	2645-2649	with	_	_	_	
+29-9	2650-2653	the	_	_	_	
+29-10	2654-2665	surrounding	_	_	_	
+29-11	2666-2677	residential	_	_	_	
+29-12	2678-2680	or	_	_	_	
+29-13	2681-2688	natural	_	_	_	
+29-14	2689-2694	zones	_	_	_	
+
+#Text=.
+30-1	2694-2695	.	_	_	_	
+
+#Text=🏙️ Dense Urban Grid  In the northeast (e.g., Catro Camiños, Santa Margarida, A Gramela), the tight and uniform block grid reflects dense urbanization, though it competes for attention with the transport elements
+31-1	2697-2700	🏙️	h2[15]	*[15]	_	
+31-2	2701-2706	Dense	h2[15]	*[15]	_	
+31-3	2707-2712	Urban	h2[15]	*[15]	_	
+31-4	2713-2717	Grid	h2[15]	*[15]	_	
+31-5	2719-2721	In	_	_	_	
+31-6	2722-2725	the	_	_	_	
+31-7	2726-2735	northeast	_	_	_	
+31-8	2736-2737	(	_	_	_	
+31-9	2737-2740	e.g	_	_	_	
+31-10	2740-2741	.	_	_	_	
+31-11	2741-2742	,	_	_	_	
+31-12	2743-2748	Catro	_	_	_	
+31-13	2749-2756	Camiños	_	_	_	
+31-14	2756-2757	,	_	_	_	
+31-15	2758-2763	Santa	_	_	_	
+31-16	2764-2773	Margarida	_	_	_	
+31-17	2773-2774	,	_	_	_	
+31-18	2775-2776	A	_	_	_	
+31-19	2777-2784	Gramela	_	_	_	
+31-20	2784-2785	)	_	_	_	
+31-21	2785-2786	,	_	_	_	
+31-22	2787-2790	the	_	_	_	
+31-23	2791-2796	tight	_	_	_	
+31-24	2797-2800	and	_	_	_	
+31-25	2801-2808	uniform	_	_	_	
+31-26	2809-2814	block	_	_	_	
+31-27	2815-2819	grid	_	_	_	
+31-28	2820-2828	reflects	_	_	_	
+31-29	2829-2834	dense	_	_	_	
+31-30	2835-2847	urbanization	_	_	_	
+31-31	2847-2848	,	_	_	_	
+31-32	2849-2855	though	_	_	_	
+31-33	2856-2858	it	_	_	_	
+31-34	2859-2867	competes	_	_	_	
+31-35	2868-2871	for	_	_	_	
+31-36	2872-2881	attention	_	_	_	
+31-37	2882-2886	with	_	_	_	
+31-38	2887-2890	the	_	_	_	
+31-39	2891-2900	transport	_	_	_	
+31-40	2901-2909	elements	_	_	_	
+
+#Text=.
+32-1	2909-2910	.	_	_	_	
+
+#Text=🛤️ Rail Lines  Black railway lines cutting diagonally through the city are visually strong due to their color contrast and linearity.
+33-1	2912-2915	🛤️	h2[16]	*[16]	_	
+33-2	2916-2920	Rail	h2[16]	*[16]	_	
+33-3	2921-2926	Lines	h2[16]	*[16]	_	
+33-4	2928-2933	Black	_	_	_	
+33-5	2934-2941	railway	_	_	_	
+33-6	2942-2947	lines	_	_	_	
+33-7	2948-2955	cutting	_	_	_	
+33-8	2956-2966	diagonally	_	_	_	
+33-9	2967-2974	through	_	_	_	
+33-10	2975-2978	the	_	_	_	
+33-11	2979-2983	city	_	_	_	
+33-12	2984-2987	are	_	_	_	
+33-13	2988-2996	visually	_	_	_	
+33-14	2997-3003	strong	_	_	_	
+33-15	3004-3007	due	_	_	_	
+33-16	3008-3010	to	_	_	_	
+33-17	3011-3016	their	_	_	_	
+33-18	3017-3022	color	_	_	_	
+33-19	3023-3031	contrast	_	_	_	
+33-20	3032-3035	and	_	_	_	
+33-21	3036-3045	linearity	_	_	_	
+33-22	3045-3046	.	_	_	_	
+
+#Text=The A Coruña Provisional and Elviña–Universidade stations also anchor this network visually.
+34-1	3047-3050	The	_	_	_	
+34-2	3051-3052	A	_	_	_	
+34-3	3053-3059	Coruña	_	_	_	
+34-4	3060-3071	Provisional	_	_	_	
+34-5	3072-3075	and	_	_	_	
+34-6	3076-3095	Elviña–Universidade	_	_	_	
+34-7	3096-3104	stations	_	_	_	
+34-8	3105-3109	also	_	_	_	
+34-9	3110-3116	anchor	_	_	_	
+34-10	3117-3121	this	_	_	_	
+34-11	3122-3129	network	_	_	_	
+34-12	3130-3138	visually	_	_	_	
+34-13	3138-3139	.	_	_	_	
+
+#Text=In short, highways, green zones, and industrial areas are the most attention-grabbing features at this scale due to their color, shape, and spatial dominance.
+35-1	3141-3143	In	p[17]	*[17]	_	
+35-2	3144-3149	short	p[17]	*[17]	_	
+35-3	3149-3150	,	p[17]	*[17]	_	
+35-4	3151-3159	highways	p[17]	*[17]	_	
+35-5	3159-3160	,	p[17]	*[17]	_	
+35-6	3161-3166	green	p[17]	*[17]	_	
+35-7	3167-3172	zones	p[17]	*[17]	_	
+35-8	3172-3173	,	p[17]	*[17]	_	
+35-9	3174-3177	and	p[17]	*[17]	_	
+35-10	3178-3188	industrial	p[17]	*[17]	_	
+35-11	3189-3194	areas	p[17]	*[17]	_	
+35-12	3195-3198	are	p[17]	*[17]	_	
+35-13	3199-3202	the	p[17]	*[17]	_	
+35-14	3203-3207	most	p[17]	*[17]	_	
+35-15	3208-3226	attention-grabbing	p[17]	*[17]	_	
+35-16	3227-3235	features	p[17]	*[17]	_	
+35-17	3236-3238	at	p[17]	*[17]	_	
+35-18	3239-3243	this	p[17]	*[17]	_	
+35-19	3244-3249	scale	p[17]	*[17]	_	
+35-20	3250-3253	due	p[17]	*[17]	_	
+35-21	3254-3256	to	p[17]	*[17]	_	
+35-22	3257-3262	their	p[17]	*[17]	_	
+35-23	3263-3268	color	p[17]	*[17]	_	
+35-24	3268-3269	,	p[17]	*[17]	_	
+35-25	3270-3275	shape	p[17]	*[17]	_	
+35-26	3275-3276	,	p[17]	*[17]	_	
+35-27	3277-3280	and	p[17]	*[17]	_	
+35-28	3281-3288	spatial	p[17]	*[17]	_	
+35-29	3289-3298	dominance	p[17]	*[17]	_	
+35-30	3298-3299	.	p[17]	*[17]	_	
+
+#Text=Would you like a visual hierarchy diagram of these elements?
+36-1	3300-3305	Would	p[17]	*[17]	_	
+36-2	3306-3309	you	p[17]	*[17]	_	
+36-3	3310-3314	like	p[17]	*[17]	_	
+36-4	3315-3316	a	p[17]	*[17]	_	
+36-5	3317-3323	visual	p[17]	*[17]	_	
+36-6	3324-3333	hierarchy	p[17]	*[17]	_	
+36-7	3334-3341	diagram	p[17]	*[17]	_	
+36-8	3342-3344	of	p[17]	*[17]	_	
+36-9	3345-3350	these	p[17]	*[17]	_	
+36-10	3351-3359	elements	p[17]	*[17]	_	
+36-11	3359-3360	?	p[17]	*[17]	_	
+
+#Text=Anchors summary  AC-552 V-1.4 Avenida García Sabell Matogrande Elviña Parque de Bens (Bens Park) Monte Patelo Eko Atlántico Refinería Repsol A Coruña Alcoa A Coruña Catro Camiños Santa Margarida A Gramela A Coruña Provisional (station) Elviña–Universidade (station) (non-named) large interchanges and roundabouts (especially around Matogrande and Elviña) (non-named) large parks and forested/wooded areas (non-named) dense urban grid / tight city blocks (non-named) black railway lines / rail network (non-named) industrial complexes / large greyish block outlines (non-named) bold red/orange highways as a visual category
+37-1	3361-3368	Anchors	h1[18]	*[18]	_	
+37-2	3369-3376	summary	h1[18]	*[18]	_	
+37-3	3378-3380	AC	_	_	_	
+37-4	3380-3381	-	_	_	_	
+37-5	3381-3384	552	_	_	_	
+37-6	3385-3386	V	_	_	_	
+37-7	3386-3387	-	_	_	_	
+37-8	3387-3390	1.4	_	_	_	
+37-9	3391-3398	Avenida	_	_	_	
+37-10	3399-3405	García	_	_	_	
+37-11	3406-3412	Sabell	_	_	_	
+37-12	3413-3423	Matogrande	_	_	_	
+37-13	3424-3430	Elviña	_	_	_	
+37-14	3431-3437	Parque	_	_	_	
+37-15	3438-3440	de	_	_	_	
+37-16	3441-3445	Bens	_	_	_	
+37-17	3446-3447	(	_	_	_	
+37-18	3447-3451	Bens	_	_	_	
+37-19	3452-3456	Park	_	_	_	
+37-20	3456-3457	)	_	_	_	
+37-21	3458-3463	Monte	_	_	_	
+37-22	3464-3470	Patelo	_	_	_	
+37-23	3471-3474	Eko	_	_	_	
+37-24	3475-3484	Atlántico	_	_	_	
+37-25	3485-3494	Refinería	_	_	_	
+37-26	3495-3501	Repsol	_	_	_	
+37-27	3502-3503	A	_	_	_	
+37-28	3504-3510	Coruña	_	_	_	
+37-29	3511-3516	Alcoa	_	_	_	
+37-30	3517-3518	A	_	_	_	
+37-31	3519-3525	Coruña	_	_	_	
+37-32	3526-3531	Catro	_	_	_	
+37-33	3532-3539	Camiños	_	_	_	
+37-34	3540-3545	Santa	_	_	_	
+37-35	3546-3555	Margarida	_	_	_	
+37-36	3556-3557	A	_	_	_	
+37-37	3558-3565	Gramela	_	_	_	
+37-38	3566-3567	A	_	_	_	
+37-39	3568-3574	Coruña	_	_	_	
+37-40	3575-3586	Provisional	_	_	_	
+37-41	3587-3588	(	_	_	_	
+37-42	3588-3595	station	_	_	_	
+37-43	3595-3596	)	_	_	_	
+37-44	3597-3616	Elviña–Universidade	_	_	_	
+37-45	3617-3618	(	_	_	_	
+37-46	3618-3625	station	_	_	_	
+37-47	3625-3626	)	_	_	_	
+37-48	3627-3628	(	_	_	_	
+37-49	3628-3637	non-named	_	_	_	
+37-50	3637-3638	)	_	_	_	
+37-51	3639-3644	large	_	_	_	
+37-52	3645-3657	interchanges	_	_	_	
+37-53	3658-3661	and	_	_	_	
+37-54	3662-3673	roundabouts	_	_	_	
+37-55	3674-3675	(	_	_	_	
+37-56	3675-3685	especially	_	_	_	
+37-57	3686-3692	around	_	_	_	
+37-58	3693-3703	Matogrande	_	_	_	
+37-59	3704-3707	and	_	_	_	
+37-60	3708-3714	Elviña	_	_	_	
+37-61	3714-3715	)	_	_	_	
+37-62	3716-3717	(	_	_	_	
+37-63	3717-3726	non-named	_	_	_	
+37-64	3726-3727	)	_	_	_	
+37-65	3728-3733	large	_	_	_	
+37-66	3734-3739	parks	_	_	_	
+37-67	3740-3743	and	_	_	_	
+37-68	3744-3752	forested	_	_	_	
+37-69	3752-3753	/	_	_	_	
+37-70	3753-3759	wooded	_	_	_	
+37-71	3760-3765	areas	_	_	_	
+37-72	3766-3767	(	_	_	_	
+37-73	3767-3776	non-named	_	_	_	
+37-74	3776-3777	)	_	_	_	
+37-75	3778-3783	dense	_	_	_	
+37-76	3784-3789	urban	_	_	_	
+37-77	3790-3794	grid	_	_	_	
+37-78	3795-3796	/	_	_	_	
+37-79	3797-3802	tight	_	_	_	
+37-80	3803-3807	city	_	_	_	
+37-81	3808-3814	blocks	_	_	_	
+37-82	3815-3816	(	_	_	_	
+37-83	3816-3825	non-named	_	_	_	
+37-84	3825-3826	)	_	_	_	
+37-85	3827-3832	black	_	_	_	
+37-86	3833-3840	railway	_	_	_	
+37-87	3841-3846	lines	_	_	_	
+37-88	3847-3848	/	_	_	_	
+37-89	3849-3853	rail	_	_	_	
+37-90	3854-3861	network	_	_	_	
+37-91	3862-3863	(	_	_	_	
+37-92	3863-3872	non-named	_	_	_	
+37-93	3872-3873	)	_	_	_	
+37-94	3874-3884	industrial	_	_	_	
+37-95	3885-3894	complexes	_	_	_	
+37-96	3895-3896	/	_	_	_	
+37-97	3897-3902	large	_	_	_	
+37-98	3903-3910	greyish	_	_	_	
+37-99	3911-3916	block	_	_	_	
+37-100	3917-3925	outlines	_	_	_	
+37-101	3926-3927	(	_	_	_	
+37-102	3927-3936	non-named	_	_	_	
+37-103	3936-3937	)	_	_	_	
+37-104	3938-3942	bold	_	_	_	
+37-105	3943-3946	red	_	_	_	
+37-106	3946-3947	/	_	_	_	
+37-107	3947-3953	orange	_	_	_	
+37-108	3954-3962	highways	_	_	_	
+37-109	3963-3965	as	_	_	_	
+37-110	3966-3967	a	_	_	_	
+37-111	3968-3974	visual	_	_	_	
+37-112	3975-3983	category	_	_	_	

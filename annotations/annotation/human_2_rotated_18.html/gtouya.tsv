@@ -1,0 +1,152 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=Large-scale map section of a suburb of Paris showing half of a large roundabout in the north of the map, from which three major roads radiate outwards: Boulevard Descartes, Avenue Blaise Pascal, and Avenue André-Marie Ampère.
+2-1	42-53	Large-scale	p[2]	*[2]	_	
+2-2	54-57	map	p[2]	*[2]	_	
+2-3	58-65	section	p[2]	*[2]	_	
+2-4	66-68	of	p[2]	*[2]	_	
+2-5	69-70	a	p[2]	*[2]	_	
+2-6	71-77	suburb	p[2]	*[2]	_	
+2-7	78-80	of	p[2]	*[2]	_	
+2-8	81-86	Paris	p[2]	*[2]	toponym	
+2-9	87-94	showing	p[2]	*[2]	_	
+2-10	95-99	half	p[2]	*[2]	spatial relation[4]	
+2-11	100-102	of	p[2]	*[2]	spatial relation[4]	
+2-12	103-104	a	p[2]	*[2]	_	
+2-13	105-110	large	p[2]	*[2]	_	
+2-14	111-121	roundabout	p[2]	*[2]	_	
+2-15	122-124	in	p[2]	*[2]	spatial relation[5]	
+2-16	125-128	the	p[2]	*[2]	spatial relation[5]	
+2-17	129-134	north	p[2]	*[2]	spatial relation[5]	
+2-18	135-137	of	p[2]	*[2]	spatial relation[5]	
+2-19	138-141	the	p[2]	*[2]	_	
+2-20	142-145	map	p[2]	*[2]	_	
+2-21	145-146	,	p[2]	*[2]	_	
+2-22	147-151	from	p[2]	*[2]	_	
+2-23	152-157	which	p[2]	*[2]	_	
+2-24	158-163	three	p[2]	*[2]	_	
+2-25	164-169	major	p[2]	*[2]	_	
+2-26	170-175	roads	p[2]	*[2]	_	
+2-27	176-183	radiate	p[2]	*[2]	spatial relation[6]	
+2-28	184-192	outwards	p[2]	*[2]	spatial relation[6]	
+2-29	192-193	:	p[2]	*[2]	_	
+2-30	194-203	Boulevard	p[2]	*[2]	toponym[7]	
+2-31	204-213	Descartes	p[2]	*[2]	toponym[7]	
+2-32	213-214	,	p[2]	*[2]	_	
+2-33	215-221	Avenue	p[2]	*[2]	toponym[8]	
+2-34	222-228	Blaise	p[2]	*[2]	toponym[8]	
+2-35	229-235	Pascal	p[2]	*[2]	toponym[8]	
+2-36	235-236	,	p[2]	*[2]	_	
+2-37	237-240	and	p[2]	*[2]	_	
+2-38	241-247	Avenue	p[2]	*[2]	toponym[9]	
+2-39	248-259	André-Marie	p[2]	*[2]	toponym[9]	
+2-40	260-266	Ampère	p[2]	*[2]	toponym[9]	
+2-41	266-267	.	p[2]	*[2]	_	
+
+#Text=Another major road crosses the map diagonally from north/northwest to southeast: Boulevard Copernic.
+3-1	268-275	Another	p[2]	*[2]	_	
+3-2	276-281	major	p[2]	*[2]	_	
+3-3	282-286	road	p[2]	*[2]	_	
+3-4	287-294	crosses	p[2]	*[2]	spatial relation	
+3-5	295-298	the	p[2]	*[2]	_	
+3-6	299-302	map	p[2]	*[2]	_	
+3-7	303-313	diagonally	p[2]	*[2]	spatial relation	
+3-8	314-318	from	p[2]	*[2]	spatial relation[10]	
+3-9	319-324	north	p[2]	*[2]	spatial relation[10]	
+3-10	324-325	/	p[2]	*[2]	spatial relation[10]	
+3-11	325-334	northwest	p[2]	*[2]	spatial relation[10]	
+3-12	335-337	to	p[2]	*[2]	spatial relation[10]	
+3-13	338-347	southeast	p[2]	*[2]	spatial relation[10]	
+3-14	347-348	:	p[2]	*[2]	_	
+3-15	349-358	Boulevard	p[2]	*[2]	toponym[11]	
+3-16	359-367	Copernic	p[2]	*[2]	toponym[11]	
+3-17	367-368	.	p[2]	*[2]	_	
+
+#Text=Green spaces alternate with large university buildings, including Gustave Eiffel University in the northwest corner, École des Ponts ParisTech and the d.school of Paris (further south), and the Grande École d'Urbanisme de Paris in the south.
+4-1	369-374	Green	p[2]	*[2]	_	
+4-2	375-381	spaces	p[2]	*[2]	_	
+4-3	382-391	alternate	p[2]	*[2]	_	
+4-4	392-396	with	p[2]	*[2]	_	
+4-5	397-402	large	p[2]	*[2]	_	
+4-6	403-413	university	p[2]	*[2]	_	
+4-7	414-423	buildings	p[2]	*[2]	_	
+4-8	423-424	,	p[2]	*[2]	_	
+4-9	425-434	including	p[2]	*[2]	_	
+4-10	435-442	Gustave	p[2]	*[2]	toponym[12]	
+4-11	443-449	Eiffel	p[2]	*[2]	toponym[12]	
+4-12	450-460	University	p[2]	*[2]	toponym[12]	
+4-13	461-463	in	p[2]	*[2]	spatial relation[13]	
+4-14	464-467	the	p[2]	*[2]	spatial relation[13]	
+4-15	468-477	northwest	p[2]	*[2]	spatial relation[13]	
+4-16	478-484	corner	p[2]	*[2]	spatial relation[13]	
+4-17	484-485	,	p[2]	*[2]	_	
+4-18	486-491	École	p[2]	*[2]	toponym[14]	
+4-19	492-495	des	p[2]	*[2]	toponym[14]	
+4-20	496-501	Ponts	p[2]	*[2]	toponym[14]	
+4-21	502-511	ParisTech	p[2]	*[2]	toponym[14]	
+4-22	512-515	and	p[2]	*[2]	_	
+4-23	516-519	the	p[2]	*[2]	_	
+4-24	520-528	d.school	p[2]	*[2]	toponym[15]	
+4-25	529-531	of	p[2]	*[2]	toponym[15]	
+4-26	532-537	Paris	p[2]	*[2]	toponym[15]	
+4-27	538-539	(	p[2]	*[2]	_	
+4-28	539-546	further	p[2]	*[2]	spatial relation[16]	
+4-29	547-552	south	p[2]	*[2]	spatial relation[16]	
+4-30	552-553	)	p[2]	*[2]	_	
+4-31	553-554	,	p[2]	*[2]	_	
+4-32	555-558	and	p[2]	*[2]	_	
+4-33	559-562	the	p[2]	*[2]	_	
+4-34	563-569	Grande	p[2]	*[2]	toponym[17]	
+4-35	570-575	École	p[2]	*[2]	toponym[17]	
+4-36	576-587	d'Urbanisme	p[2]	*[2]	toponym[17]	
+4-37	588-590	de	p[2]	*[2]	toponym[17]	
+4-38	591-596	Paris	p[2]	*[2]	toponym[17]	
+4-39	597-599	in	p[2]	*[2]	spatial relation[18]	
+4-40	600-603	the	p[2]	*[2]	spatial relation[18]	
+4-41	604-609	south	p[2]	*[2]	spatial relation[18]	
+4-42	609-610	.	p[2]	*[2]	_	
+
+#Text=Two residences are indicated, probably for students, and a few cafés and restaurants, located mainly in the northeast of the map.
+5-1	611-614	Two	p[2]	*[2]	_	
+5-2	615-625	residences	p[2]	*[2]	_	
+5-3	626-629	are	p[2]	*[2]	_	
+5-4	630-639	indicated	p[2]	*[2]	_	
+5-5	639-640	,	p[2]	*[2]	_	
+5-6	641-649	probably	p[2]	*[2]	_	
+5-7	650-653	for	p[2]	*[2]	_	
+5-8	654-662	students	p[2]	*[2]	_	
+5-9	662-663	,	p[2]	*[2]	_	
+5-10	664-667	and	p[2]	*[2]	_	
+5-11	668-669	a	p[2]	*[2]	_	
+5-12	670-673	few	p[2]	*[2]	_	
+5-13	674-679	cafés	p[2]	*[2]	_	
+5-14	680-683	and	p[2]	*[2]	_	
+5-15	684-695	restaurants	p[2]	*[2]	_	
+5-16	695-696	,	p[2]	*[2]	_	
+5-17	697-704	located	p[2]	*[2]	_	
+5-18	705-711	mainly	p[2]	*[2]	_	
+5-19	712-714	in	p[2]	*[2]	spatial relation[19]	
+5-20	715-718	the	p[2]	*[2]	spatial relation[19]	
+5-21	719-728	northeast	p[2]	*[2]	spatial relation[19]	
+5-22	729-731	of	p[2]	*[2]	_	
+5-23	732-735	the	p[2]	*[2]	_	
+5-24	736-739	map	p[2]	*[2]	_	
+5-25	739-740	.	p[2]	*[2]	_	
+
+#Text=Anchors summary
+6-1	741-748	Anchors	h1[3]	*[3]	_	
+6-2	749-756	summary	h1[3]	*[3]	_	

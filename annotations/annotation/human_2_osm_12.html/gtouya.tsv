@@ -1,0 +1,285 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=Small-scale map showing a section of the Cantabrian coast in Spain, with the city of Santander and its large bay in the center and on the ocean shore.
+2-1	42-53	Small-scale	p[2]	*[2]	_	
+2-2	54-57	map	p[2]	*[2]	_	
+2-3	58-65	showing	p[2]	*[2]	_	
+2-4	66-67	a	p[2]	*[2]	_	
+2-5	68-75	section	p[2]	*[2]	_	
+2-6	76-78	of	p[2]	*[2]	_	
+2-7	79-82	the	p[2]	*[2]	_	
+2-8	83-93	Cantabrian	p[2]	*[2]	toponym	
+2-9	94-99	coast	p[2]	*[2]	_	
+2-10	100-102	in	p[2]	*[2]	spatial relation	
+2-11	103-108	Spain	p[2]	*[2]	toponym	
+2-12	108-109	,	p[2]	*[2]	_	
+2-13	110-114	with	p[2]	*[2]	_	
+2-14	115-118	the	p[2]	*[2]	_	
+2-15	119-123	city	p[2]	*[2]	_	
+2-16	124-126	of	p[2]	*[2]	_	
+2-17	127-136	Santander	p[2]	*[2]	toponym	
+2-18	137-140	and	p[2]	*[2]	_	
+2-19	141-144	its	p[2]	*[2]	_	
+2-20	145-150	large	p[2]	*[2]	_	
+2-21	151-154	bay	p[2]	*[2]	_	
+2-22	155-157	in	p[2]	*[2]	spatial relation[4]	
+2-23	158-161	the	p[2]	*[2]	spatial relation[4]	
+2-24	162-168	center	p[2]	*[2]	spatial relation[4]	
+2-25	169-172	and	p[2]	*[2]	_	
+2-26	173-175	on	p[2]	*[2]	spatial relation[5]	
+2-27	176-179	the	p[2]	*[2]	spatial relation[5]	
+2-28	180-185	ocean	p[2]	*[2]	spatial relation[5]	
+2-29	186-191	shore	p[2]	*[2]	spatial relation[5]	
+2-30	191-192	.	p[2]	*[2]	_	
+
+#Text=From west to east, it covers the area from the village of Mogro to the city of El Bosque.
+3-1	193-197	From	p[2]	*[2]	spatial relation[6]	
+3-2	198-202	west	p[2]	*[2]	spatial relation[6]	
+3-3	203-205	to	p[2]	*[2]	spatial relation[6]	
+3-4	206-210	east	p[2]	*[2]	spatial relation[6]	
+3-5	210-211	,	p[2]	*[2]	_	
+3-6	212-214	it	p[2]	*[2]	_	
+3-7	215-221	covers	p[2]	*[2]	_	
+3-8	222-225	the	p[2]	*[2]	_	
+3-9	226-230	area	p[2]	*[2]	_	
+3-10	231-235	from	p[2]	*[2]	_	
+3-11	236-239	the	p[2]	*[2]	_	
+3-12	240-247	village	p[2]	*[2]	_	
+3-13	248-250	of	p[2]	*[2]	_	
+3-14	251-256	Mogro	p[2]	*[2]	toponym	
+3-15	257-259	to	p[2]	*[2]	_	
+3-16	260-263	the	p[2]	*[2]	_	
+3-17	264-268	city	p[2]	*[2]	_	
+3-18	269-271	of	p[2]	*[2]	_	
+3-19	272-274	El	p[2]	*[2]	toponym[7]	
+3-20	275-281	Bosque	p[2]	*[2]	toponym[7]	
+3-21	281-282	.	p[2]	*[2]	_	
+
+#Text=From north to south, from the Atlantic Ocean to the city of Villanueva de Villaescusa.
+4-1	283-287	From	p[2]	*[2]	spatial relation[8]	
+4-2	288-293	north	p[2]	*[2]	spatial relation[8]	
+4-3	294-296	to	p[2]	*[2]	spatial relation[8]	
+4-4	297-302	south	p[2]	*[2]	spatial relation[8]	
+4-5	302-303	,	p[2]	*[2]	_	
+4-6	304-308	from	p[2]	*[2]	spatial relation	
+4-7	309-312	the	p[2]	*[2]	_	
+4-8	313-321	Atlantic	p[2]	*[2]	toponym[9]	
+4-9	322-327	Ocean	p[2]	*[2]	toponym[9]	
+4-10	328-330	to	p[2]	*[2]	spatial relation	
+4-11	331-334	the	p[2]	*[2]	_	
+4-12	335-339	city	p[2]	*[2]	_	
+4-13	340-342	of	p[2]	*[2]	_	
+4-14	343-353	Villanueva	p[2]	*[2]	toponym[10]	
+4-15	354-356	de	p[2]	*[2]	toponym[10]	
+4-16	357-368	Villaescusa	p[2]	*[2]	toponym[10]	
+4-17	368-369	.	p[2]	*[2]	_	
+
+#Text=In addition to Santander, the main cities are Santa Cruz de Bezana, Camargo, El Astillero, and Valdecilla, connected by major roads marked in red, minor roads marked in orange, and even smaller roads marked in yellow.
+5-1	370-372	In	p[2]	*[2]	_	
+5-2	373-381	addition	p[2]	*[2]	_	
+5-3	382-384	to	p[2]	*[2]	_	
+5-4	385-394	Santander	p[2]	*[2]	toponym	
+5-5	394-395	,	p[2]	*[2]	_	
+5-6	396-399	the	p[2]	*[2]	_	
+5-7	400-404	main	p[2]	*[2]	_	
+5-8	405-411	cities	p[2]	*[2]	_	
+5-9	412-415	are	p[2]	*[2]	_	
+5-10	416-421	Santa	p[2]	*[2]	toponym[11]	
+5-11	422-426	Cruz	p[2]	*[2]	toponym[11]	
+5-12	427-429	de	p[2]	*[2]	toponym[11]	
+5-13	430-436	Bezana	p[2]	*[2]	toponym[11]	
+5-14	436-437	,	p[2]	*[2]	_	
+5-15	438-445	Camargo	p[2]	*[2]	toponym	
+5-16	445-446	,	p[2]	*[2]	_	
+5-17	447-449	El	p[2]	*[2]	toponym[12]	
+5-18	450-459	Astillero	p[2]	*[2]	toponym[12]	
+5-19	459-460	,	p[2]	*[2]	_	
+5-20	461-464	and	p[2]	*[2]	_	
+5-21	465-475	Valdecilla	p[2]	*[2]	toponym	
+5-22	475-476	,	p[2]	*[2]	_	
+5-23	477-486	connected	p[2]	*[2]	spatial relation	
+5-24	487-489	by	p[2]	*[2]	_	
+5-25	490-495	major	p[2]	*[2]	_	
+5-26	496-501	roads	p[2]	*[2]	_	
+5-27	502-508	marked	p[2]	*[2]	_	
+5-28	509-511	in	p[2]	*[2]	_	
+5-29	512-515	red	p[2]	*[2]	_	
+5-30	515-516	,	p[2]	*[2]	_	
+5-31	517-522	minor	p[2]	*[2]	_	
+5-32	523-528	roads	p[2]	*[2]	_	
+5-33	529-535	marked	p[2]	*[2]	_	
+5-34	536-538	in	p[2]	*[2]	_	
+5-35	539-545	orange	p[2]	*[2]	_	
+5-36	545-546	,	p[2]	*[2]	_	
+5-37	547-550	and	p[2]	*[2]	_	
+5-38	551-555	even	p[2]	*[2]	_	
+5-39	556-563	smaller	p[2]	*[2]	_	
+5-40	564-569	roads	p[2]	*[2]	_	
+5-41	570-576	marked	p[2]	*[2]	_	
+5-42	577-579	in	p[2]	*[2]	_	
+5-43	580-586	yellow	p[2]	*[2]	_	
+5-44	586-587	.	p[2]	*[2]	_	
+
+#Text=A railway line is also visible from Santander to the south.
+6-1	588-589	A	p[2]	*[2]	_	
+6-2	590-597	railway	p[2]	*[2]	_	
+6-3	598-602	line	p[2]	*[2]	_	
+6-4	603-605	is	p[2]	*[2]	_	
+6-5	606-610	also	p[2]	*[2]	_	
+6-6	611-618	visible	p[2]	*[2]	_	
+6-7	619-623	from	p[2]	*[2]	spatial relation	
+6-8	624-633	Santander	p[2]	*[2]	toponym	
+6-9	634-636	to	p[2]	*[2]	spatial relation[13]	
+6-10	637-640	the	p[2]	*[2]	spatial relation[13]	
+6-11	641-646	south	p[2]	*[2]	spatial relation[13]	
+6-12	646-647	.	p[2]	*[2]	_	
+
+#Text=On the Atlantic Ocean, a blue dotted line shows a ferry route running back and forth from the north to the city of Santander.
+7-1	648-650	On	p[2]	*[2]	spatial relation	
+7-2	651-654	the	p[2]	*[2]	_	
+7-3	655-663	Atlantic	p[2]	*[2]	toponym[14]	
+7-4	664-669	Ocean	p[2]	*[2]	toponym[14]	
+7-5	669-670	,	p[2]	*[2]	_	
+7-6	671-672	a	p[2]	*[2]	_	
+7-7	673-677	blue	p[2]	*[2]	_	
+7-8	678-684	dotted	p[2]	*[2]	_	
+7-9	685-689	line	p[2]	*[2]	_	
+7-10	690-695	shows	p[2]	*[2]	_	
+7-11	696-697	a	p[2]	*[2]	_	
+7-12	698-703	ferry	p[2]	*[2]	_	
+7-13	704-709	route	p[2]	*[2]	_	
+7-14	710-717	running	p[2]	*[2]	spatial relation[15]	
+7-15	718-722	back	p[2]	*[2]	spatial relation[15]	
+7-16	723-726	and	p[2]	*[2]	spatial relation[15]	
+7-17	727-732	forth	p[2]	*[2]	spatial relation[15]	
+7-18	733-737	from	p[2]	*[2]	spatial relation[16]	
+7-19	738-741	the	p[2]	*[2]	spatial relation[16]	
+7-20	742-747	north	p[2]	*[2]	spatial relation[16]	
+7-21	748-750	to	p[2]	*[2]	spatial relation[16]	
+7-22	751-754	the	p[2]	*[2]	_	
+7-23	755-759	city	p[2]	*[2]	_	
+7-24	760-762	of	p[2]	*[2]	_	
+7-25	763-772	Santander	p[2]	*[2]	toponym	
+7-26	772-773	.	p[2]	*[2]	_	
+
+#Text=Another ferry route crosses Santander Bay from west to east and back from the city of Santander to the tip of Pedrena.
+8-1	774-781	Another	p[2]	*[2]	_	
+8-2	782-787	ferry	p[2]	*[2]	_	
+8-3	788-793	route	p[2]	*[2]	_	
+8-4	794-801	crosses	p[2]	*[2]	toponym	
+8-5	802-811	Santander	p[2]	*[2]	toponym[17]	
+8-6	812-815	Bay	p[2]	*[2]	toponym[17]	
+8-7	816-820	from	p[2]	*[2]	spatial relation[18]	
+8-8	821-825	west	p[2]	*[2]	spatial relation[18]	
+8-9	826-828	to	p[2]	*[2]	spatial relation[18]	
+8-10	829-833	east	p[2]	*[2]	spatial relation[18]	
+8-11	834-837	and	p[2]	*[2]	_	
+8-12	838-842	back	p[2]	*[2]	spatial relation[19]	
+8-13	843-847	from	p[2]	*[2]	spatial relation[19]	
+8-14	848-851	the	p[2]	*[2]	_	
+8-15	852-856	city	p[2]	*[2]	_	
+8-16	857-859	of	p[2]	*[2]	_	
+8-17	860-869	Santander	p[2]	*[2]	toponym	
+8-18	870-872	to	p[2]	*[2]	spatial relation[20]	
+8-19	873-876	the	p[2]	*[2]	spatial relation[20]	
+8-20	877-880	tip	p[2]	*[2]	spatial relation[20]	
+8-21	881-883	of	p[2]	*[2]	_	
+8-22	884-891	Pedrena	p[2]	*[2]	toponym	
+8-23	891-892	.	p[2]	*[2]	_	
+
+#Text=South of the city of Santander is an airport, symbolized by a large straight runway with a small plane on it.
+9-1	893-898	South	p[2]	*[2]	spatial relation[21]	
+9-2	899-901	of	p[2]	*[2]	spatial relation[21]	
+9-3	902-905	the	p[2]	*[2]	_	
+9-4	906-910	city	p[2]	*[2]	_	
+9-5	911-913	of	p[2]	*[2]	_	
+9-6	914-923	Santander	p[2]	*[2]	toponym	
+9-7	924-926	is	p[2]	*[2]	_	
+9-8	927-929	an	p[2]	*[2]	_	
+9-9	930-937	airport	p[2]	*[2]	_	
+9-10	937-938	,	p[2]	*[2]	_	
+9-11	939-949	symbolized	p[2]	*[2]	_	
+9-12	950-952	by	p[2]	*[2]	_	
+9-13	953-954	a	p[2]	*[2]	_	
+9-14	955-960	large	p[2]	*[2]	_	
+9-15	961-969	straight	p[2]	*[2]	_	
+9-16	970-976	runway	p[2]	*[2]	_	
+9-17	977-981	with	p[2]	*[2]	_	
+9-18	982-983	a	p[2]	*[2]	_	
+9-19	984-989	small	p[2]	*[2]	_	
+9-20	990-995	plane	p[2]	*[2]	_	
+9-21	996-998	on	p[2]	*[2]	_	
+9-22	999-1001	it	p[2]	*[2]	_	
+9-23	1001-1002	.	p[2]	*[2]	_	
+
+#Text=In several places around the bay, in undeveloped areas, what are probably bird sanctuaries on the edge of lagoons are shown.
+10-1	1003-1005	In	p[2]	*[2]	_	
+10-2	1006-1013	several	p[2]	*[2]	_	
+10-3	1014-1020	places	p[2]	*[2]	_	
+10-4	1021-1027	around	p[2]	*[2]	spatial relation	
+10-5	1028-1031	the	p[2]	*[2]	_	
+10-6	1032-1035	bay	p[2]	*[2]	_	
+10-7	1035-1036	,	p[2]	*[2]	_	
+10-8	1037-1039	in	p[2]	*[2]	_	
+10-9	1040-1051	undeveloped	p[2]	*[2]	_	
+10-10	1052-1057	areas	p[2]	*[2]	_	
+10-11	1057-1058	,	p[2]	*[2]	_	
+10-12	1059-1063	what	p[2]	*[2]	_	
+10-13	1064-1067	are	p[2]	*[2]	_	
+10-14	1068-1076	probably	p[2]	*[2]	_	
+10-15	1077-1081	bird	p[2]	*[2]	_	
+10-16	1082-1093	sanctuaries	p[2]	*[2]	_	
+10-17	1094-1096	on	p[2]	*[2]	spatial relation[22]	
+10-18	1097-1100	the	p[2]	*[2]	spatial relation[22]	
+10-19	1101-1105	edge	p[2]	*[2]	spatial relation[22]	
+10-20	1106-1108	of	p[2]	*[2]	spatial relation[22]	
+10-21	1109-1116	lagoons	p[2]	*[2]	_	
+10-22	1117-1120	are	p[2]	*[2]	_	
+10-23	1121-1126	shown	p[2]	*[2]	_	
+10-24	1126-1127	.	p[2]	*[2]	_	
+
+#Text=On the west coast of Santander Bay, the coastline has been modified and built up by humans, most likely to accommodate a seaport.
+11-1	1128-1130	On	p[2]	*[2]	spatial relation[23]	
+11-2	1131-1134	the	p[2]	*[2]	spatial relation[23]	
+11-3	1135-1139	west	p[2]	*[2]	spatial relation[23]	
+11-4	1140-1145	coast	p[2]	*[2]	spatial relation[23]	
+11-5	1146-1148	of	p[2]	*[2]	_	
+11-6	1149-1158	Santander	p[2]	*[2]	toponym[24]	
+11-7	1159-1162	Bay	p[2]	*[2]	toponym[24]	
+11-8	1162-1163	,	p[2]	*[2]	_	
+11-9	1164-1167	the	p[2]	*[2]	_	
+11-10	1168-1177	coastline	p[2]	*[2]	_	
+11-11	1178-1181	has	p[2]	*[2]	_	
+11-12	1182-1186	been	p[2]	*[2]	_	
+11-13	1187-1195	modified	p[2]	*[2]	_	
+11-14	1196-1199	and	p[2]	*[2]	_	
+11-15	1200-1205	built	p[2]	*[2]	_	
+11-16	1206-1208	up	p[2]	*[2]	_	
+11-17	1209-1211	by	p[2]	*[2]	_	
+11-18	1212-1218	humans	p[2]	*[2]	_	
+11-19	1218-1219	,	p[2]	*[2]	_	
+11-20	1220-1224	most	p[2]	*[2]	_	
+11-21	1225-1231	likely	p[2]	*[2]	_	
+11-22	1232-1234	to	p[2]	*[2]	_	
+11-23	1235-1246	accommodate	p[2]	*[2]	_	
+11-24	1247-1248	a	p[2]	*[2]	_	
+11-25	1249-1256	seaport	p[2]	*[2]	_	
+11-26	1256-1257	.	p[2]	*[2]	_	
+
+#Text=Anchors summary
+12-1	1259-1266	Anchors	h1[3]	*[3]	_	
+12-2	1267-1274	summary	h1[3]	*[3]	_	

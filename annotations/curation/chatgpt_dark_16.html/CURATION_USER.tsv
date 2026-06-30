@@ -1,0 +1,852 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	_	
+1-2	4-7	you	_	
+1-3	8-16	describe	_	
+1-4	17-20	the	_	
+1-5	21-28	content	_	
+1-6	29-31	of	_	
+1-7	32-36	this	_	
+1-8	37-40	map	_	
+1-9	40-41	?	_	
+
+#Text=This map presents a dark-themed (night mode) base map focused on Central Park, New York City, and its immediate surroundings.
+2-1	42-46	This	_	
+2-2	47-50	map	_	
+2-3	51-59	presents	_	
+2-4	60-61	a	_	
+2-5	62-73	dark-themed	_	
+2-6	74-75	(	_	
+2-7	75-80	night	_	
+2-8	81-85	mode	_	
+2-9	85-86	)	_	
+2-10	87-91	base	_	
+2-11	92-95	map	_	
+2-12	96-103	focused	_	
+2-13	104-106	on	_	
+2-14	107-114	Central	toponym[1]	
+2-15	115-119	Park	toponym[1]	
+2-16	119-120	,	toponym[1]	
+2-17	121-124	New	toponym[1]	
+2-18	125-129	York	toponym[1]	
+2-19	130-134	City	toponym[1]	
+2-20	134-135	,	_	
+2-21	136-139	and	_	
+2-22	140-143	its	_	
+2-23	144-153	immediate	spatial relation[2]	
+2-24	154-166	surroundings	spatial relation[2]	
+2-25	166-167	.	_	
+
+#Text=Here are the most visually salient and content-rich elements: 🔲 Color Scheme & Contrast  The black and deep gray background forms a high-contrast canvas.
+3-1	168-172	Here	_	
+3-2	173-176	are	_	
+3-3	177-180	the	_	
+3-4	181-185	most	_	
+3-5	186-194	visually	_	
+3-6	195-202	salient	_	
+3-7	203-206	and	_	
+3-8	207-219	content-rich	_	
+3-9	220-228	elements	_	
+3-10	228-229	:	_	
+3-11	230-232	🔲	_	
+3-12	233-238	Color	_	
+3-13	239-245	Scheme	_	
+3-14	246-247	&	_	
+3-15	248-256	Contrast	_	
+3-16	258-261	The	_	
+3-17	262-267	black	_	
+3-18	268-271	and	_	
+3-19	272-276	deep	_	
+3-20	277-281	gray	_	
+3-21	282-292	background	_	
+3-22	293-298	forms	_	
+3-23	299-300	a	_	
+3-24	301-314	high-contrast	_	
+3-25	315-321	canvas	_	
+3-26	321-322	.	_	
+
+#Text=Key features are rendered in medium to light gray or subtle white, enhancing readability without brightness
+4-1	323-326	Key	_	
+4-2	327-335	features	_	
+4-3	336-339	are	_	
+4-4	340-348	rendered	_	
+4-5	349-351	in	_	
+4-6	352-358	medium	_	
+4-7	359-361	to	_	
+4-8	362-367	light	_	
+4-9	368-372	gray	_	
+4-10	373-375	or	_	
+4-11	376-382	subtle	_	
+4-12	383-388	white	_	
+4-13	388-389	,	_	
+4-14	390-399	enhancing	_	
+4-15	400-411	readability	_	
+4-16	412-419	without	_	
+4-17	420-430	brightness	_	
+
+#Text=.
+5-1	430-431	.	_	
+
+#Text=📍 Prominent Landmarks  Labeled features within Central Park:  The Lake – central and clearly visible in light gray.
+6-1	433-435	📍	_	
+6-2	436-445	Prominent	_	
+6-3	446-455	Landmarks	_	
+6-4	457-464	Labeled	_	
+6-5	465-473	features	_	
+6-6	474-480	within	spatial relation	
+6-7	481-488	Central	toponym[3]	
+6-8	489-493	Park	toponym[3]	
+6-9	493-494	:	_	
+6-10	496-499	The	toponym[4]	
+6-11	500-504	Lake	toponym[4]	
+6-12	505-506	–	_	
+6-13	507-514	central	spatial relation	
+6-14	515-518	and	_	
+6-15	519-526	clearly	_	
+6-16	527-534	visible	_	
+6-17	535-537	in	_	
+6-18	538-543	light	_	
+6-19	544-548	gray	_	
+6-20	548-549	.	_	
+
+#Text=Cherry Hill Fountain, Bethesda Fountain, Azalea Pond – all labeled with soft, unobtrusive text.
+7-1	550-556	Cherry	toponym[5]	
+7-2	557-561	Hill	toponym[5]	
+7-3	562-570	Fountain	toponym[5]	
+7-4	570-571	,	_	
+7-5	572-580	Bethesda	toponym[6]	
+7-6	581-589	Fountain	toponym[6]	
+7-7	589-590	,	_	
+7-8	591-597	Azalea	toponym[7]	
+7-9	598-602	Pond	toponym[7]	
+7-10	603-604	–	_	
+7-11	605-608	all	_	
+7-12	609-616	labeled	_	
+7-13	617-621	with	_	
+7-14	622-626	soft	_	
+7-15	626-627	,	_	
+7-16	628-639	unobtrusive	_	
+7-17	640-644	text	_	
+7-18	644-645	.	_	
+
+#Text=These labels are some of the few pieces of text with mid-level brightness, making them stand out in the dark theme
+8-1	647-652	These	_	
+8-2	653-659	labels	_	
+8-3	660-663	are	_	
+8-4	664-668	some	_	
+8-5	669-671	of	_	
+8-6	672-675	the	_	
+8-7	676-679	few	_	
+8-8	680-686	pieces	_	
+8-9	687-689	of	_	
+8-10	690-694	text	_	
+8-11	695-699	with	_	
+8-12	700-709	mid-level	_	
+8-13	710-720	brightness	_	
+8-14	720-721	,	_	
+8-15	722-728	making	_	
+8-16	729-733	them	_	
+8-17	734-739	stand	_	
+8-18	740-743	out	_	
+8-19	744-746	in	_	
+8-20	747-750	the	_	
+8-21	751-755	dark	_	
+8-22	756-761	theme	_	
+
+#Text=.
+9-1	761-762	.	_	
+
+#Text=🛣️ Street Network  Streets surrounding the park, such as:  Central Park West 5th Avenue Madison Avenue 79th Street Transverse (which cuts across the park)  These are all clearly delineated with light gray lines and street names, offering structure and orientation
+10-1	764-767	🛣️	_	
+10-2	768-774	Street	_	
+10-3	775-782	Network	_	
+10-4	784-791	Streets	_	
+10-5	792-803	surrounding	spatial relation	
+10-6	804-807	the	_	
+10-7	808-812	park	_	
+10-8	812-813	,	_	
+10-9	814-818	such	_	
+10-10	819-821	as	_	
+10-11	821-822	:	_	
+10-12	824-831	Central	toponym[8]	
+10-13	832-836	Park	toponym[8]	
+10-14	837-841	West	toponym[8]	
+10-15	842-845	5th	toponym[9]	
+10-16	846-852	Avenue	toponym[9]	
+10-17	853-860	Madison	toponym[10]	
+10-18	861-867	Avenue	toponym[10]	
+10-19	868-872	79th	toponym[11]	
+10-20	873-879	Street	toponym[11]	
+10-21	880-890	Transverse	toponym[11]	
+10-22	891-892	(	_	
+10-23	892-897	which	_	
+10-24	898-902	cuts	spatial relation[12]	
+10-25	903-909	across	spatial relation[12]	
+10-26	910-913	the	_	
+10-27	914-918	park	_	
+10-28	918-919	)	_	
+10-29	921-926	These	_	
+10-30	927-930	are	_	
+10-31	931-934	all	_	
+10-32	935-942	clearly	_	
+10-33	943-953	delineated	_	
+10-34	954-958	with	_	
+10-35	959-964	light	_	
+10-36	965-969	gray	_	
+10-37	970-975	lines	_	
+10-38	976-979	and	_	
+10-39	980-986	street	_	
+10-40	987-992	names	_	
+10-41	992-993	,	_	
+10-42	994-1002	offering	_	
+10-43	1003-1012	structure	_	
+10-44	1013-1016	and	_	
+10-45	1017-1028	orientation	_	
+
+#Text=.
+11-1	1028-1029	.	_	
+
+#Text=🗺️ Neighborhood Labels  "UPPER EAST SIDE" is prominently labeled with bold, light gray type.
+12-1	1031-1034	🗺️	_	
+12-2	1035-1047	Neighborhood	_	
+12-3	1048-1054	Labels	_	
+12-4	1056-1057	"	_	
+12-5	1057-1062	UPPER	toponym[13]	
+12-6	1063-1067	EAST	toponym[13]	
+12-7	1068-1072	SIDE	toponym[13]	
+12-8	1072-1073	"	_	
+12-9	1074-1076	is	_	
+12-10	1077-1088	prominently	_	
+12-11	1089-1096	labeled	_	
+12-12	1097-1101	with	_	
+12-13	1102-1106	bold	_	
+12-14	1106-1107	,	_	
+12-15	1108-1113	light	_	
+12-16	1114-1118	gray	_	
+12-17	1119-1123	type	_	
+12-18	1123-1124	.	_	
+
+#Text=This large-font text gives a clear contextual anchor in the urban grid
+13-1	1125-1129	This	_	
+13-2	1130-1140	large-font	_	
+13-3	1141-1145	text	_	
+13-4	1146-1151	gives	_	
+13-5	1152-1153	a	_	
+13-6	1154-1159	clear	_	
+13-7	1160-1170	contextual	_	
+13-8	1171-1177	anchor	_	
+13-9	1178-1180	in	_	
+13-10	1181-1184	the	_	
+13-11	1185-1190	urban	_	
+13-12	1191-1195	grid	_	
+
+#Text=.
+14-1	1195-1196	.	_	
+
+#Text=🌀 Paths and Trails  Dashed and dotted paths within Central Park show pedestrian or cycling routes.
+15-1	1198-1200	🌀	_	
+15-2	1201-1206	Paths	_	
+15-3	1207-1210	and	_	
+15-4	1211-1217	Trails	_	
+15-5	1219-1225	Dashed	_	
+15-6	1226-1229	and	_	
+15-7	1230-1236	dotted	_	
+15-8	1237-1242	paths	_	
+15-9	1243-1249	within	_	
+15-10	1250-1257	Central	toponym[14]	
+15-11	1258-1262	Park	toponym[14]	
+15-12	1263-1267	show	_	
+15-13	1268-1278	pedestrian	_	
+15-14	1279-1281	or	_	
+15-15	1282-1289	cycling	_	
+15-16	1290-1296	routes	_	
+15-17	1296-1297	.	_	
+
+#Text=These are numerous and intricately woven, providing insight into park accessibility and layout
+16-1	1298-1303	These	_	
+16-2	1304-1307	are	_	
+16-3	1308-1316	numerous	_	
+16-4	1317-1320	and	_	
+16-5	1321-1332	intricately	_	
+16-6	1333-1338	woven	_	
+16-7	1338-1339	,	_	
+16-8	1340-1349	providing	_	
+16-9	1350-1357	insight	_	
+16-10	1358-1362	into	_	
+16-11	1363-1367	park	_	
+16-12	1368-1381	accessibility	_	
+16-13	1382-1385	and	_	
+16-14	1386-1392	layout	_	
+
+#Text=.
+17-1	1392-1393	.	_	
+
+#Text=🏙️ Urban Grid  The surrounding blocks of the Upper West Side and Upper East Side are rendered with:  Parallel lines for building outlines and street grids.
+18-1	1395-1398	🏙️	_	
+18-2	1399-1404	Urban	_	
+18-3	1405-1409	Grid	_	
+18-4	1411-1414	The	_	
+18-5	1415-1426	surrounding	spatial relation	
+18-6	1427-1433	blocks	_	
+18-7	1434-1436	of	_	
+18-8	1437-1440	the	_	
+18-9	1441-1446	Upper	toponym[15]	
+18-10	1447-1451	West	toponym[15]	
+18-11	1452-1456	Side	toponym[15]	
+18-12	1457-1460	and	_	
+18-13	1461-1466	Upper	toponym[16]	
+18-14	1467-1471	East	toponym[16]	
+18-15	1472-1476	Side	toponym[16]	
+18-16	1477-1480	are	_	
+18-17	1481-1489	rendered	_	
+18-18	1490-1494	with	_	
+18-19	1494-1495	:	_	
+18-20	1497-1505	Parallel	_	
+18-21	1506-1511	lines	_	
+18-22	1512-1515	for	_	
+18-23	1516-1524	building	_	
+18-24	1525-1533	outlines	_	
+18-25	1534-1537	and	_	
+18-26	1538-1544	street	_	
+18-27	1545-1550	grids	_	
+18-28	1550-1551	.	_	
+
+#Text=Slightly lighter contrast than the background but still subdued compared to Central Park
+19-1	1552-1560	Slightly	_	
+19-2	1561-1568	lighter	_	
+19-3	1569-1577	contrast	_	
+19-4	1578-1582	than	_	
+19-5	1583-1586	the	_	
+19-6	1587-1597	background	_	
+19-7	1598-1601	but	_	
+19-8	1602-1607	still	_	
+19-9	1608-1615	subdued	_	
+19-10	1616-1624	compared	_	
+19-11	1625-1627	to	_	
+19-12	1628-1635	Central	toponym[17]	
+19-13	1636-1640	Park	toponym[17]	
+
+#Text=.
+20-1	1640-1641	.	_	
+
+#Text=🎯 Summary of Visual Hierarchy  Water bodies and fountains (lightest elements) Named roads and park features (moderate brightness) Dashed trail lines (subtle, yet detailed) Urban structure (low contrast, background detail)  This map prioritizes landmark navigation and park layout, particularly effective in low-light or digital-first contexts like mobile apps, in-car navigation, or night-use mapping tools.
+21-1	1644-1646	🎯	_	
+21-2	1647-1654	Summary	_	
+21-3	1655-1657	of	_	
+21-4	1658-1664	Visual	_	
+21-5	1665-1674	Hierarchy	_	
+21-6	1676-1681	Water	_	
+21-7	1682-1688	bodies	_	
+21-8	1689-1692	and	_	
+21-9	1693-1702	fountains	_	
+21-10	1703-1704	(	_	
+21-11	1704-1712	lightest	_	
+21-12	1713-1721	elements	_	
+21-13	1721-1722	)	_	
+21-14	1723-1728	Named	_	
+21-15	1729-1734	roads	_	
+21-16	1735-1738	and	_	
+21-17	1739-1743	park	_	
+21-18	1744-1752	features	_	
+21-19	1753-1754	(	_	
+21-20	1754-1762	moderate	_	
+21-21	1763-1773	brightness	_	
+21-22	1773-1774	)	_	
+21-23	1775-1781	Dashed	_	
+21-24	1782-1787	trail	_	
+21-25	1788-1793	lines	_	
+21-26	1794-1795	(	_	
+21-27	1795-1801	subtle	_	
+21-28	1801-1802	,	_	
+21-29	1803-1806	yet	_	
+21-30	1807-1815	detailed	_	
+21-31	1815-1816	)	_	
+21-32	1817-1822	Urban	_	
+21-33	1823-1832	structure	_	
+21-34	1833-1834	(	_	
+21-35	1834-1837	low	_	
+21-36	1838-1846	contrast	_	
+21-37	1846-1847	,	_	
+21-38	1848-1858	background	_	
+21-39	1859-1865	detail	_	
+21-40	1865-1866	)	_	
+21-41	1868-1872	This	_	
+21-42	1873-1876	map	_	
+21-43	1877-1888	prioritizes	_	
+21-44	1889-1897	landmark	_	
+21-45	1898-1908	navigation	_	
+21-46	1909-1912	and	_	
+21-47	1913-1917	park	_	
+21-48	1918-1924	layout	_	
+21-49	1924-1925	,	_	
+21-50	1926-1938	particularly	_	
+21-51	1939-1948	effective	_	
+21-52	1949-1951	in	_	
+21-53	1952-1961	low-light	_	
+21-54	1962-1964	or	_	
+21-55	1965-1978	digital-first	_	
+21-56	1979-1987	contexts	_	
+21-57	1988-1992	like	_	
+21-58	1993-1999	mobile	_	
+21-59	2000-2004	apps	_	
+21-60	2004-2005	,	_	
+21-61	2006-2012	in-car	_	
+21-62	2013-2023	navigation	_	
+21-63	2023-2024	,	_	
+21-64	2025-2027	or	_	
+21-65	2028-2037	night-use	_	
+21-66	2038-2045	mapping	_	
+21-67	2046-2051	tools	_	
+21-68	2051-2052	.	_	
+
+#Text=Would you like a comparison with the day-mode equivalent or an analysis of its readability?
+22-1	2053-2058	Would	_	
+22-2	2059-2062	you	_	
+22-3	2063-2067	like	_	
+22-4	2068-2069	a	_	
+22-5	2070-2080	comparison	_	
+22-6	2081-2085	with	_	
+22-7	2086-2089	the	_	
+22-8	2090-2098	day-mode	_	
+22-9	2099-2109	equivalent	_	
+22-10	2110-2112	or	_	
+22-11	2113-2115	an	_	
+22-12	2116-2124	analysis	_	
+22-13	2125-2127	of	_	
+22-14	2128-2131	its	_	
+22-15	2132-2143	readability	_	
+22-16	2143-2144	?	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+23-1	2145-2148	Can	_	
+23-2	2149-2152	you	_	
+23-3	2153-2161	describe	_	
+23-4	2162-2165	the	_	
+23-5	2166-2170	most	_	
+23-6	2171-2179	visually	_	
+23-7	2180-2187	salient	_	
+23-8	2188-2196	elements	_	
+23-9	2197-2199	of	_	
+23-10	2200-2203	the	_	
+23-11	2204-2207	map	_	
+23-12	2207-2208	?	_	
+
+#Text=Yes, here is a focused description of the most visually salient elements of the dark-themed map you uploaded: 🔹 1.
+24-1	2209-2212	Yes	_	
+24-2	2212-2213	,	_	
+24-3	2214-2218	here	_	
+24-4	2219-2221	is	_	
+24-5	2222-2223	a	_	
+24-6	2224-2231	focused	_	
+24-7	2232-2243	description	_	
+24-8	2244-2246	of	_	
+24-9	2247-2250	the	_	
+24-10	2251-2255	most	_	
+24-11	2256-2264	visually	_	
+24-12	2265-2272	salient	_	
+24-13	2273-2281	elements	_	
+24-14	2282-2284	of	_	
+24-15	2285-2288	the	_	
+24-16	2289-2300	dark-themed	_	
+24-17	2301-2304	map	_	
+24-18	2305-2308	you	_	
+24-19	2309-2317	uploaded	_	
+24-20	2317-2318	:	_	
+24-21	2319-2321	🔹	_	
+24-22	2322-2323	1	_	
+24-23	2323-2324	.	_	
+
+#Text=The Lake (Central Park)  The large light-gray water body labeled “The Lake” stands out starkly against the dark background.
+25-1	2325-2328	The	_	
+25-2	2329-2333	Lake	_	
+25-3	2334-2335	(	_	
+25-4	2335-2342	Central	_	
+25-5	2343-2347	Park	_	
+25-6	2347-2348	)	_	
+25-7	2350-2353	The	_	
+25-8	2354-2359	large	_	
+25-9	2360-2370	light-gray	_	
+25-10	2371-2376	water	_	
+25-11	2377-2381	body	_	
+25-12	2382-2389	labeled	_	
+25-13	2390-2391	“	_	
+25-14	2391-2394	The	_	
+25-15	2395-2399	Lake	_	
+25-16	2399-2400	”	_	
+25-17	2401-2407	stands	_	
+25-18	2408-2411	out	_	
+25-19	2412-2419	starkly	_	
+25-20	2420-2427	against	_	
+25-21	2428-2431	the	_	
+25-22	2432-2436	dark	_	
+25-23	2437-2447	background	_	
+25-24	2447-2448	.	_	
+
+#Text=Its irregular shape and central location in the park draw immediate attention
+26-1	2449-2452	Its	_	
+26-2	2453-2462	irregular	_	
+26-3	2463-2468	shape	_	
+26-4	2469-2472	and	_	
+26-5	2473-2480	central	_	
+26-6	2481-2489	location	_	
+26-7	2490-2492	in	_	
+26-8	2493-2496	the	_	
+26-9	2497-2501	park	_	
+26-10	2502-2506	draw	_	
+26-11	2507-2516	immediate	_	
+26-12	2517-2526	attention	_	
+
+#Text=.
+27-1	2526-2527	.	_	
+
+#Text=🔹 2.
+28-1	2529-2531	🔹	_	
+28-2	2532-2533	2	_	
+28-3	2533-2534	.	_	
+
+#Text=Labeled Landmarks  Brightly labeled elements such as:  “Cherry Hill Fountain” “Bethesda Fountain” “Azalea Pond”  These are rendered in a medium-light gray that makes them pop without overwhelming the map
+29-1	2535-2542	Labeled	_	
+29-2	2543-2552	Landmarks	_	
+29-3	2554-2562	Brightly	_	
+29-4	2563-2570	labeled	_	
+29-5	2571-2579	elements	_	
+29-6	2580-2584	such	_	
+29-7	2585-2587	as	_	
+29-8	2587-2588	:	_	
+29-9	2590-2591	“	_	
+29-10	2591-2597	Cherry	_	
+29-11	2598-2602	Hill	_	
+29-12	2603-2611	Fountain	_	
+29-13	2611-2612	”	_	
+29-14	2613-2614	“	_	
+29-15	2614-2622	Bethesda	_	
+29-16	2623-2631	Fountain	_	
+29-17	2631-2632	”	_	
+29-18	2633-2634	“	_	
+29-19	2634-2640	Azalea	_	
+29-20	2641-2645	Pond	_	
+29-21	2645-2646	”	_	
+29-22	2648-2653	These	_	
+29-23	2654-2657	are	_	
+29-24	2658-2666	rendered	_	
+29-25	2667-2669	in	_	
+29-26	2670-2671	a	_	
+29-27	2672-2684	medium-light	_	
+29-28	2685-2689	gray	_	
+29-29	2690-2694	that	_	
+29-30	2695-2700	makes	_	
+29-31	2701-2705	them	_	
+29-32	2706-2709	pop	_	
+29-33	2710-2717	without	_	
+29-34	2718-2730	overwhelming	_	
+29-35	2731-2734	the	_	
+29-36	2735-2738	map	_	
+
+#Text=.
+30-1	2738-2739	.	_	
+
+#Text=🔹 3.
+31-1	2741-2743	🔹	_	
+31-2	2744-2745	3	_	
+31-3	2745-2746	.	_	
+
+#Text=Major Streets & Park Boundaries  Roads like:  Central Park West 5th Avenue 79th Street Transverse  Are prominent due to their solid, light-gray lines and readable labels
+32-1	2747-2752	Major	_	
+32-2	2753-2760	Streets	_	
+32-3	2761-2762	&	_	
+32-4	2763-2767	Park	_	
+32-5	2768-2778	Boundaries	_	
+32-6	2780-2785	Roads	_	
+32-7	2786-2790	like	_	
+32-8	2790-2791	:	_	
+32-9	2793-2800	Central	_	
+32-10	2801-2805	Park	_	
+32-11	2806-2810	West	_	
+32-12	2811-2814	5th	_	
+32-13	2815-2821	Avenue	_	
+32-14	2822-2826	79th	_	
+32-15	2827-2833	Street	_	
+32-16	2834-2844	Transverse	_	
+32-17	2846-2849	Are	_	
+32-18	2850-2859	prominent	_	
+32-19	2860-2863	due	_	
+32-20	2864-2866	to	_	
+32-21	2867-2872	their	_	
+32-22	2873-2878	solid	_	
+32-23	2878-2879	,	_	
+32-24	2880-2890	light-gray	_	
+32-25	2891-2896	lines	_	
+32-26	2897-2900	and	_	
+32-27	2901-2909	readable	_	
+32-28	2910-2916	labels	_	
+
+#Text=.
+33-1	2916-2917	.	_	
+
+#Text=🔹 4.
+34-1	2919-2921	🔹	_	
+34-2	2922-2923	4	_	
+34-3	2923-2924	.	_	
+
+#Text=Neighborhood Label: “UPPER EAST SIDE”  This label is one of the boldest and largest textual elements.
+35-1	2925-2937	Neighborhood	_	
+35-2	2938-2943	Label	_	
+35-3	2943-2944	:	_	
+35-4	2945-2946	“	_	
+35-5	2946-2951	UPPER	_	
+35-6	2952-2956	EAST	_	
+35-7	2957-2961	SIDE	_	
+35-8	2961-2962	”	_	
+35-9	2964-2968	This	_	
+35-10	2969-2974	label	_	
+35-11	2975-2977	is	_	
+35-12	2978-2981	one	_	
+35-13	2982-2984	of	_	
+35-14	2985-2988	the	_	
+35-15	2989-2996	boldest	_	
+35-16	2997-3000	and	_	
+35-17	3001-3008	largest	_	
+35-18	3009-3016	textual	_	
+35-19	3017-3025	elements	_	
+35-20	3025-3026	.	_	
+
+#Text=Its uppercase style and brightness help anchor spatial orientation
+36-1	3027-3030	Its	_	
+36-2	3031-3040	uppercase	_	
+36-3	3041-3046	style	_	
+36-4	3047-3050	and	_	
+36-5	3051-3061	brightness	_	
+36-6	3062-3066	help	_	
+36-7	3067-3073	anchor	_	
+36-8	3074-3081	spatial	_	
+36-9	3082-3093	orientation	_	
+
+#Text=.
+37-1	3093-3094	.	_	
+
+#Text=🔹 5.
+38-1	3096-3098	🔹	_	
+38-2	3099-3100	5	_	
+38-3	3100-3101	.	_	
+
+#Text=Dotted Trail Network in Central Park  Numerous dotted or dashed paths appear throughout the park, forming a web of pedestrian or cycling routes.
+39-1	3102-3108	Dotted	_	
+39-2	3109-3114	Trail	_	
+39-3	3115-3122	Network	_	
+39-4	3123-3125	in	_	
+39-5	3126-3133	Central	_	
+39-6	3134-3138	Park	_	
+39-7	3140-3148	Numerous	_	
+39-8	3149-3155	dotted	_	
+39-9	3156-3158	or	_	
+39-10	3159-3165	dashed	_	
+39-11	3166-3171	paths	_	
+39-12	3172-3178	appear	_	
+39-13	3179-3189	throughout	_	
+39-14	3190-3193	the	_	
+39-15	3194-3198	park	_	
+39-16	3198-3199	,	_	
+39-17	3200-3207	forming	_	
+39-18	3208-3209	a	_	
+39-19	3210-3213	web	_	
+39-20	3214-3216	of	_	
+39-21	3217-3227	pedestrian	_	
+39-22	3228-3230	or	_	
+39-23	3231-3238	cycling	_	
+39-24	3239-3245	routes	_	
+39-25	3245-3246	.	_	
+
+#Text=These offer a rich texture to the park interior
+40-1	3247-3252	These	_	
+40-2	3253-3258	offer	_	
+40-3	3259-3260	a	_	
+40-4	3261-3265	rich	_	
+40-5	3266-3273	texture	_	
+40-6	3274-3276	to	_	
+40-7	3277-3280	the	_	
+40-8	3281-3285	park	_	
+40-9	3286-3294	interior	_	
+
+#Text=.
+41-1	3294-3295	.	_	
+
+#Text=🔹 6.
+42-1	3297-3299	🔹	_	
+42-2	3300-3301	6	_	
+42-3	3301-3302	.	_	
+
+#Text=Urban Grid (Low Contrast)  The surrounding streets and buildings are mapped but with low visual contrast, ensuring they don’t distract from the park features.
+43-1	3303-3308	Urban	_	
+43-2	3309-3313	Grid	_	
+43-3	3314-3315	(	_	
+43-4	3315-3318	Low	_	
+43-5	3319-3327	Contrast	_	
+43-6	3327-3328	)	_	
+43-7	3330-3333	The	_	
+43-8	3334-3345	surrounding	_	
+43-9	3346-3353	streets	_	
+43-10	3354-3357	and	_	
+43-11	3358-3367	buildings	_	
+43-12	3368-3371	are	_	
+43-13	3372-3378	mapped	_	
+43-14	3379-3382	but	_	
+43-15	3383-3387	with	_	
+43-16	3388-3391	low	_	
+43-17	3392-3398	visual	_	
+43-18	3399-3407	contrast	_	
+43-19	3407-3408	,	_	
+43-20	3409-3417	ensuring	_	
+43-21	3418-3422	they	_	
+43-22	3423-3426	don	_	
+43-23	3426-3427	’	_	
+43-24	3427-3428	t	_	
+43-25	3429-3437	distract	_	
+43-26	3438-3442	from	_	
+43-27	3443-3446	the	_	
+43-28	3447-3451	park	_	
+43-29	3452-3460	features	_	
+43-30	3460-3461	.	_	
+
+#Text=This contrast hierarchy emphasizes the park as the main focus of the map.
+44-1	3462-3466	This	_	
+44-2	3467-3475	contrast	_	
+44-3	3476-3485	hierarchy	_	
+44-4	3486-3496	emphasizes	_	
+44-5	3497-3500	the	_	
+44-6	3501-3505	park	_	
+44-7	3506-3508	as	_	
+44-8	3509-3512	the	_	
+44-9	3513-3517	main	_	
+44-10	3518-3523	focus	_	
+44-11	3524-3526	of	_	
+44-12	3527-3530	the	_	
+44-13	3531-3534	map	_	
+44-14	3534-3535	.	_	
+
+#Text=Summary:  The visual hierarchy centers the map on Central Park, especially The Lake and nearby fountains.
+45-1	3537-3544	Summary	_	
+45-2	3544-3545	:	_	
+45-3	3547-3550	The	_	
+45-4	3551-3557	visual	_	
+45-5	3558-3567	hierarchy	_	
+45-6	3568-3575	centers	_	
+45-7	3576-3579	the	_	
+45-8	3580-3583	map	_	
+45-9	3584-3586	on	_	
+45-10	3587-3594	Central	_	
+45-11	3595-3599	Park	_	
+45-12	3599-3600	,	_	
+45-13	3601-3611	especially	_	
+45-14	3612-3615	The	_	
+45-15	3616-3620	Lake	_	
+45-16	3621-3624	and	_	
+45-17	3625-3631	nearby	_	
+45-18	3632-3641	fountains	_	
+45-19	3641-3642	.	_	
+
+#Text=High-contrast labels and paths guide the viewer naturally toward the park’s landmarks, while streets and neighborhoods provide spatial context without overpowering the visual balance.
+46-1	3643-3656	High-contrast	_	
+46-2	3657-3663	labels	_	
+46-3	3664-3667	and	_	
+46-4	3668-3673	paths	_	
+46-5	3674-3679	guide	_	
+46-6	3680-3683	the	_	
+46-7	3684-3690	viewer	_	
+46-8	3691-3700	naturally	_	
+46-9	3701-3707	toward	_	
+46-10	3708-3711	the	_	
+46-11	3712-3716	park	_	
+46-12	3716-3717	’	_	
+46-13	3717-3718	s	_	
+46-14	3719-3728	landmarks	_	
+46-15	3728-3729	,	_	
+46-16	3730-3735	while	_	
+46-17	3736-3743	streets	_	
+46-18	3744-3747	and	_	
+46-19	3748-3761	neighborhoods	_	
+46-20	3762-3769	provide	_	
+46-21	3770-3777	spatial	_	
+46-22	3778-3785	context	_	
+46-23	3786-3793	without	_	
+46-24	3794-3806	overpowering	_	
+46-25	3807-3810	the	_	
+46-26	3811-3817	visual	_	
+46-27	3818-3825	balance	_	
+46-28	3825-3826	.	_	
+
+#Text=Would you like this same analysis applied to one of your earlier map styles for comparison?
+47-1	3828-3833	Would	_	
+47-2	3834-3837	you	_	
+47-3	3838-3842	like	_	
+47-4	3843-3847	this	_	
+47-5	3848-3852	same	_	
+47-6	3853-3861	analysis	_	
+47-7	3862-3869	applied	_	
+47-8	3870-3872	to	_	
+47-9	3873-3876	one	_	
+47-10	3877-3879	of	_	
+47-11	3880-3884	your	_	
+47-12	3885-3892	earlier	_	
+47-13	3893-3896	map	_	
+47-14	3897-3903	styles	_	
+47-15	3904-3907	for	_	
+47-16	3908-3918	comparison	_	
+47-17	3918-3919	?	_	
+
+#Text=Anchors summary  The Lake (Central Park) Cherry Hill Fountain Bethesda Fountain Azalea Pond Central Park West 5th Avenue 79th Street Transverse “UPPER EAST SIDE” (neighborhood label) Dotted/dashed paths / trail network (non-named) Urban grid: surrounding streets and building outlines (non-named)
+48-1	3920-3927	Anchors	_	
+48-2	3928-3935	summary	_	
+48-3	3937-3940	The	_	
+48-4	3941-3945	Lake	_	
+48-5	3946-3947	(	_	
+48-6	3947-3954	Central	_	
+48-7	3955-3959	Park	_	
+48-8	3959-3960	)	_	
+48-9	3961-3967	Cherry	_	
+48-10	3968-3972	Hill	_	
+48-11	3973-3981	Fountain	_	
+48-12	3982-3990	Bethesda	_	
+48-13	3991-3999	Fountain	_	
+48-14	4000-4006	Azalea	_	
+48-15	4007-4011	Pond	_	
+48-16	4012-4019	Central	_	
+48-17	4020-4024	Park	_	
+48-18	4025-4029	West	_	
+48-19	4030-4033	5th	_	
+48-20	4034-4040	Avenue	_	
+48-21	4041-4045	79th	_	
+48-22	4046-4052	Street	_	
+48-23	4053-4063	Transverse	_	
+48-24	4064-4065	“	_	
+48-25	4065-4070	UPPER	_	
+48-26	4071-4075	EAST	_	
+48-27	4076-4080	SIDE	_	
+48-28	4080-4081	”	_	
+48-29	4082-4083	(	_	
+48-30	4083-4095	neighborhood	_	
+48-31	4096-4101	label	_	
+48-32	4101-4102	)	_	
+48-33	4103-4109	Dotted	_	
+48-34	4109-4110	/	_	
+48-35	4110-4116	dashed	_	
+48-36	4117-4122	paths	_	
+48-37	4123-4124	/	_	
+48-38	4125-4130	trail	_	
+48-39	4131-4138	network	_	
+48-40	4139-4140	(	_	
+48-41	4140-4149	non-named	_	
+48-42	4149-4150	)	_	
+48-43	4151-4156	Urban	_	
+48-44	4157-4161	grid	_	
+48-45	4161-4162	:	_	
+48-46	4163-4174	surrounding	_	
+48-47	4175-4182	streets	_	
+48-48	4183-4186	and	_	
+48-49	4187-4195	building	_	
+48-50	4196-4204	outlines	_	
+48-51	4205-4206	(	_	
+48-52	4206-4215	non-named	_	
+48-53	4215-4216	)	_	

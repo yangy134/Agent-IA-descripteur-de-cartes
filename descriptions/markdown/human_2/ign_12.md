@@ -1,0 +1,6 @@
+# Can you describe the content of this map?
+
+Map of the Loire estuary showing both banks, right and left, running north to south from Montoir-de-Bretagne to Saint Père en Retz, and west to east from the Ust marsh (right bank) to Paimboeuf (left bank). There are four types of representation depending on soil quality: white for undeveloped land, beige for developed land, blue dots for sand or lagoons (at the mouth of the Loire and along the beaches, especially on the left bank and south of the Loire) and finally small blue dashes with clumps of marsh plants for swamps (in the northwest and northeast of the map). The main town is Saint-Nazaire on the right bank, with Donges a little further upstream, then, on the left bank, St Brévin les Pins and, further south, St Brévin l'Océan and Les Rochelets. As for the road network, a main road runs from south to north along the coast, then crosses the Loire estuary via a large bridge that leads to Saint-Nazaire. The road then branches off to the west to continue along the coast. Still on the right bank and to the right of the Saint-Nazaire bridge, is Saint-Nazaire airport.
+
+# Anchors summary
+

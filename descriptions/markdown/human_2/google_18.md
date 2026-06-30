@@ -1,0 +1,6 @@
+# Can you describe the content of this map?
+
+Large-scale map section of Martha's Vineyard Island with a strip of land extending northward between two bodies of water, to the west and especially to the east, where a breakwater runs perpendicular to the coast, providing access to a boat or ferry terminal. A road follows the coastline around the headland. Five parallel roads connect the two sides. A major road continues along the breakwater on the east side of the map to allow cars to board and disembark from the ferry. Apart from the tip of the headland, where undeveloped areas meet the ocean, the rest of the map is built up with streets and roads connecting the different neighborhoods. A few restaurants and lodging options are indicated, in addition to bicycle and car rentals.
+
+# Anchors summary
+

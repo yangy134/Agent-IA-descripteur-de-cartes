@@ -1,0 +1,208 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=Map of part of a large city in Spain, Barcelona, recognized by a famous monument named, in the center and slightly north of the map: the Sagrada Familia.
+2-1	42-45	Map	p[2]	*[2]	_	
+2-2	46-48	of	p[2]	*[2]	_	
+2-3	49-53	part	p[2]	*[2]	_	
+2-4	54-56	of	p[2]	*[2]	_	
+2-5	57-58	a	p[2]	*[2]	_	
+2-6	59-64	large	p[2]	*[2]	_	
+2-7	65-69	city	p[2]	*[2]	_	
+2-8	70-72	in	p[2]	*[2]	spatial relation	
+2-9	73-78	Spain	p[2]	*[2]	toponym	
+2-10	78-79	,	p[2]	*[2]	_	
+2-11	80-89	Barcelona	p[2]	*[2]	toponym	
+2-12	89-90	,	p[2]	*[2]	_	
+2-13	91-101	recognized	p[2]	*[2]	_	
+2-14	102-104	by	p[2]	*[2]	_	
+2-15	105-106	a	p[2]	*[2]	_	
+2-16	107-113	famous	p[2]	*[2]	_	
+2-17	114-122	monument	p[2]	*[2]	_	
+2-18	123-128	named	p[2]	*[2]	_	
+2-19	128-129	,	p[2]	*[2]	_	
+2-20	130-132	in	p[2]	*[2]	spatial relation[4]	
+2-21	133-136	the	p[2]	*[2]	spatial relation[4]	
+2-22	137-143	center	p[2]	*[2]	spatial relation[4]	
+2-23	144-147	and	p[2]	*[2]	_	
+2-24	148-156	slightly	p[2]	*[2]	spatial relation[5]	
+2-25	157-162	north	p[2]	*[2]	spatial relation[5]	
+2-26	163-165	of	p[2]	*[2]	_	
+2-27	166-169	the	p[2]	*[2]	_	
+2-28	170-173	map	p[2]	*[2]	_	
+2-29	173-174	:	p[2]	*[2]	_	
+2-30	175-178	the	p[2]	*[2]	_	
+2-31	179-186	Sagrada	p[2]	*[2]	toponym[6]	
+2-32	187-194	Familia	p[2]	*[2]	toponym[6]	
+2-33	194-195	.	p[2]	*[2]	_	
+
+#Text=In the northeast corner of the map, part of the port basins can be seen.
+3-1	196-198	In	p[2]	*[2]	spatial relation[7]	
+3-2	199-202	the	p[2]	*[2]	spatial relation[7]	
+3-3	203-212	northeast	p[2]	*[2]	spatial relation[7]	
+3-4	213-219	corner	p[2]	*[2]	spatial relation[7]	
+3-5	220-222	of	p[2]	*[2]	_	
+3-6	223-226	the	p[2]	*[2]	_	
+3-7	227-230	map	p[2]	*[2]	_	
+3-8	230-231	,	p[2]	*[2]	_	
+3-9	232-236	part	p[2]	*[2]	spatial relation[8]	
+3-10	237-239	of	p[2]	*[2]	spatial relation[8]	
+3-11	240-243	the	p[2]	*[2]	_	
+3-12	244-248	port	p[2]	*[2]	_	
+3-13	249-255	basins	p[2]	*[2]	_	
+3-14	256-259	can	p[2]	*[2]	_	
+3-15	260-262	be	p[2]	*[2]	_	
+3-16	263-267	seen	p[2]	*[2]	_	
+3-17	267-268	.	p[2]	*[2]	_	
+
+#Text=Three major roads run from south to northeast, i.e., toward the center of Barcelona and the port area.
+4-1	269-274	Three	p[2]	*[2]	_	
+4-2	275-280	major	p[2]	*[2]	_	
+4-3	281-286	roads	p[2]	*[2]	_	
+4-4	287-290	run	p[2]	*[2]	spatial relation[9]	
+4-5	291-295	from	p[2]	*[2]	spatial relation[9]	
+4-6	296-301	south	p[2]	*[2]	spatial relation[9]	
+4-7	302-304	to	p[2]	*[2]	spatial relation[9]	
+4-8	305-314	northeast	p[2]	*[2]	spatial relation[9]	
+4-9	314-315	,	p[2]	*[2]	_	
+4-10	316-319	i.e	p[2]	*[2]	_	
+4-11	319-320	.	p[2]	*[2]	_	
+4-12	320-321	,	p[2]	*[2]	_	
+4-13	322-328	toward	p[2]	*[2]	spatial relation[10]	
+4-14	329-332	the	p[2]	*[2]	spatial relation[10]	
+4-15	333-339	center	p[2]	*[2]	spatial relation[10]	
+4-16	340-342	of	p[2]	*[2]	_	
+4-17	343-352	Barcelona	p[2]	*[2]	toponym	
+4-18	353-356	and	p[2]	*[2]	_	
+4-19	357-360	the	p[2]	*[2]	_	
+4-20	361-365	port	p[2]	*[2]	_	
+4-21	366-370	area	p[2]	*[2]	_	
+4-22	370-371	.	p[2]	*[2]	_	
+
+#Text=Another major road, like a ring road, surrounds the city center.
+5-1	372-379	Another	p[2]	*[2]	_	
+5-2	380-385	major	p[2]	*[2]	_	
+5-3	386-390	road	p[2]	*[2]	_	
+5-4	390-391	,	p[2]	*[2]	_	
+5-5	392-396	like	p[2]	*[2]	_	
+5-6	397-398	a	p[2]	*[2]	_	
+5-7	399-403	ring	p[2]	*[2]	_	
+5-8	404-408	road	p[2]	*[2]	_	
+5-9	408-409	,	p[2]	*[2]	_	
+5-10	410-419	surrounds	p[2]	*[2]	spatial relation	
+5-11	420-423	the	p[2]	*[2]	_	
+5-12	424-428	city	p[2]	*[2]	_	
+5-13	429-435	center	p[2]	*[2]	_	
+5-14	435-436	.	p[2]	*[2]	_	
+
+#Text=Two railway lines arrive, one from the south and the other from the east, at a station located in the heart of the city.
+6-1	437-440	Two	p[2]	*[2]	_	
+6-2	441-448	railway	p[2]	*[2]	_	
+6-3	449-454	lines	p[2]	*[2]	_	
+6-4	455-461	arrive	p[2]	*[2]	spatial relation	
+6-5	461-462	,	p[2]	*[2]	_	
+6-6	463-466	one	p[2]	*[2]	spatial relation[11]	
+6-7	467-471	from	p[2]	*[2]	spatial relation[11]	
+6-8	472-475	the	p[2]	*[2]	spatial relation[11]	
+6-9	476-481	south	p[2]	*[2]	spatial relation[11]	
+6-10	482-485	and	p[2]	*[2]	_	
+6-11	486-489	the	p[2]	*[2]	_	
+6-12	490-495	other	p[2]	*[2]	_	
+6-13	496-500	from	p[2]	*[2]	spatial relation[12]	
+6-14	501-504	the	p[2]	*[2]	spatial relation[12]	
+6-15	505-509	east	p[2]	*[2]	spatial relation[12]	
+6-16	509-510	,	p[2]	*[2]	_	
+6-17	511-513	at	p[2]	*[2]	_	
+6-18	514-515	a	p[2]	*[2]	_	
+6-19	516-523	station	p[2]	*[2]	_	
+6-20	524-531	located	p[2]	*[2]	_	
+6-21	532-534	in	p[2]	*[2]	spatial relation[13]	
+6-22	535-538	the	p[2]	*[2]	spatial relation[13]	
+6-23	539-544	heart	p[2]	*[2]	spatial relation[13]	
+6-24	545-547	of	p[2]	*[2]	spatial relation[13]	
+6-25	548-551	the	p[2]	*[2]	_	
+6-26	552-556	city	p[2]	*[2]	_	
+6-27	556-557	.	p[2]	*[2]	_	
+
+#Text=Famous monuments and city districts are named.
+7-1	558-564	Famous	p[2]	*[2]	_	
+7-2	565-574	monuments	p[2]	*[2]	_	
+7-3	575-578	and	p[2]	*[2]	_	
+7-4	579-583	city	p[2]	*[2]	_	
+7-5	584-593	districts	p[2]	*[2]	_	
+7-6	594-597	are	p[2]	*[2]	_	
+7-7	598-603	named	p[2]	*[2]	_	
+7-8	603-604	.	p[2]	*[2]	_	
+
+#Text=To the west and south of the map, beyond the main road/ring road, there are a few undeveloped green areas with some indications of relief on the peaks (144 m, 137 m).
+8-1	605-607	To	p[2]	*[2]	spatial relation[14]	
+8-2	608-611	the	p[2]	*[2]	spatial relation[14]	
+8-3	612-616	west	p[2]	*[2]	spatial relation[14]	
+8-4	617-620	and	p[2]	*[2]	spatial relation[14]	
+8-5	621-626	south	p[2]	*[2]	spatial relation[14]	
+8-6	627-629	of	p[2]	*[2]	_	
+8-7	630-633	the	p[2]	*[2]	_	
+8-8	634-637	map	p[2]	*[2]	_	
+8-9	637-638	,	p[2]	*[2]	_	
+8-10	639-645	beyond	p[2]	*[2]	spatial relation	
+8-11	646-649	the	p[2]	*[2]	_	
+8-12	650-654	main	p[2]	*[2]	_	
+8-13	655-659	road	p[2]	*[2]	_	
+8-14	659-660	/	p[2]	*[2]	_	
+8-15	660-664	ring	p[2]	*[2]	_	
+8-16	665-669	road	p[2]	*[2]	_	
+8-17	669-670	,	p[2]	*[2]	_	
+8-18	671-676	there	p[2]	*[2]	_	
+8-19	677-680	are	p[2]	*[2]	_	
+8-20	681-682	a	p[2]	*[2]	_	
+8-21	683-686	few	p[2]	*[2]	_	
+8-22	687-698	undeveloped	p[2]	*[2]	_	
+8-23	699-704	green	p[2]	*[2]	_	
+8-24	705-710	areas	p[2]	*[2]	_	
+8-25	711-715	with	p[2]	*[2]	_	
+8-26	716-720	some	p[2]	*[2]	_	
+8-27	721-732	indications	p[2]	*[2]	_	
+8-28	733-735	of	p[2]	*[2]	_	
+8-29	736-742	relief	p[2]	*[2]	_	
+8-30	743-745	on	p[2]	*[2]	_	
+8-31	746-749	the	p[2]	*[2]	_	
+8-32	750-755	peaks	p[2]	*[2]	_	
+8-33	756-757	(	p[2]	*[2]	_	
+8-34	757-760	144	p[2]	*[2]	toponym[15]	
+8-35	761-762	m	p[2]	*[2]	toponym[15]	
+8-36	762-763	,	p[2]	*[2]	_	
+8-37	764-767	137	p[2]	*[2]	toponym[16]	
+8-38	768-769	m	p[2]	*[2]	toponym[16]	
+8-39	769-770	)	p[2]	*[2]	_	
+8-40	770-771	.	p[2]	*[2]	_	
+
+#Text=To the far west is a huge Repsol A Coruña refinery.
+9-1	772-774	To	p[2]	*[2]	spatial relation[17]	
+9-2	775-778	the	p[2]	*[2]	spatial relation[17]	
+9-3	779-782	far	p[2]	*[2]	spatial relation[17]	
+9-4	783-787	west	p[2]	*[2]	spatial relation[17]	
+9-5	788-790	is	p[2]	*[2]	_	
+9-6	791-792	a	p[2]	*[2]	_	
+9-7	793-797	huge	p[2]	*[2]	_	
+9-8	798-804	Repsol	p[2]	*[2]	toponym[18]	
+9-9	805-806	A	p[2]	*[2]	toponym[18]	
+9-10	807-813	Coruña	p[2]	*[2]	toponym[18]	
+9-11	814-822	refinery	p[2]	*[2]	_	
+9-12	822-823	.	p[2]	*[2]	_	
+
+#Text=Anchors summary
+10-1	824-831	Anchors	h1[3]	*[3]	_	
+10-2	832-839	summary	h1[3]	*[3]	_	

@@ -1,0 +1,337 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	
+1-2	4-7	you	h1[1]	*[1]	
+1-3	8-16	describe	h1[1]	*[1]	
+1-4	17-20	the	h1[1]	*[1]	
+1-5	21-28	content	h1[1]	*[1]	
+1-6	29-31	of	h1[1]	*[1]	
+1-7	32-36	this	h1[1]	*[1]	
+1-8	37-40	map	h1[1]	*[1]	
+1-9	40-41	?	h1[1]	*[1]	
+
+#Text=The image shows a map of Montauk, New York.
+2-1	42-45	The	p[2]	*[2]	
+2-2	46-51	image	p[2]	*[2]	
+2-3	52-57	shows	p[2]	*[2]	
+2-4	58-59	a	p[2]	*[2]	
+2-5	60-63	map	p[2]	*[2]	
+2-6	64-66	of	p[2]	*[2]	
+2-7	67-74	Montauk	p[2]	*[2]	
+2-8	74-75	,	p[2]	*[2]	
+2-9	76-79	New	p[2]	*[2]	
+2-10	80-84	York	p[2]	*[2]	
+2-11	84-85	.	p[2]	*[2]	
+
+#Text=The map is oriented with north at the top.
+3-1	86-89	The	p[2]	*[2]	
+3-2	90-93	map	p[2]	*[2]	
+3-3	94-96	is	p[2]	*[2]	
+3-4	97-105	oriented	p[2]	*[2]	
+3-5	106-110	with	p[2]	*[2]	
+3-6	111-116	north	p[2]	*[2]	
+3-7	117-119	at	p[2]	*[2]	
+3-8	120-123	the	p[2]	*[2]	
+3-9	124-127	top	p[2]	*[2]	
+3-10	127-128	.	p[2]	*[2]	
+
+#Text=A map of Montauk, New York  The map shows the location of various businesses and attractions in Montauk.
+4-1	130-131	A	p[3]	*[3]	
+4-2	132-135	map	p[3]	*[3]	
+4-3	136-138	of	p[3]	*[3]	
+4-4	139-146	Montauk	p[3]	*[3]	
+4-5	146-147	,	p[3]	*[3]	
+4-6	148-151	New	p[3]	*[3]	
+4-7	152-156	York	p[3]	*[3]	
+4-8	158-161	The	_	_	
+4-9	162-165	map	_	_	
+4-10	166-171	shows	_	_	
+4-11	172-175	the	_	_	
+4-12	176-184	location	_	_	
+4-13	185-187	of	_	_	
+4-14	188-195	various	_	_	
+4-15	196-206	businesses	_	_	
+4-16	207-210	and	_	_	
+4-17	211-222	attractions	_	_	
+4-18	223-225	in	_	_	
+4-19	226-233	Montauk	_	_	
+4-20	233-234	.	_	_	
+
+#Text=A beach  The map shows a large body of water, which is likely the ocean.
+5-1	236-237	A	p[4]	*[4]	
+5-2	238-243	beach	p[4]	*[4]	
+5-3	245-248	The	_	_	
+5-4	249-252	map	_	_	
+5-5	253-258	shows	_	_	
+5-6	259-260	a	_	_	
+5-7	261-266	large	_	_	
+5-8	267-271	body	_	_	
+5-9	272-274	of	_	_	
+5-10	275-280	water	_	_	
+5-11	280-281	,	_	_	
+5-12	282-287	which	_	_	
+5-13	288-290	is	_	_	
+5-14	291-297	likely	_	_	
+5-15	298-301	the	_	_	
+5-16	302-307	ocean	_	_	
+5-17	307-308	.	_	_	
+
+#Text=A hotel  The map shows a hotel located near the beach.
+6-1	310-311	A	p[5]	*[5]	
+6-2	312-317	hotel	p[5]	*[5]	
+6-3	319-322	The	_	_	
+6-4	323-326	map	_	_	
+6-5	327-332	shows	_	_	
+6-6	333-334	a	_	_	
+6-7	335-340	hotel	_	_	
+6-8	341-348	located	_	_	
+6-9	349-353	near	_	_	
+6-10	354-357	the	_	_	
+6-11	358-363	beach	_	_	
+6-12	363-364	.	_	_	
+
+#Text=A restaurant  The map shows several restaurants, including one called “Navy Beach Restaurant”.
+7-1	366-367	A	p[6]	*[6]	
+7-2	368-378	restaurant	p[6]	*[6]	
+7-3	380-383	The	_	_	
+7-4	384-387	map	_	_	
+7-5	388-393	shows	_	_	
+7-6	394-401	several	_	_	
+7-7	402-413	restaurants	_	_	
+7-8	413-414	,	_	_	
+7-9	415-424	including	_	_	
+7-10	425-428	one	_	_	
+7-11	429-435	called	_	_	
+7-12	436-437	“	_	_	
+7-13	437-441	Navy	_	_	
+7-14	442-447	Beach	_	_	
+7-15	448-458	Restaurant	_	_	
+7-16	458-459	”	_	_	
+7-17	459-460	.	_	_	
+
+#Text=A marina  The map shows a marina located near the beach.
+8-1	462-463	A	p[7]	*[7]	
+8-2	464-470	marina	p[7]	*[7]	
+8-3	472-475	The	_	_	
+8-4	476-479	map	_	_	
+8-5	480-485	shows	_	_	
+8-6	486-487	a	_	_	
+8-7	488-494	marina	_	_	
+8-8	495-502	located	_	_	
+8-9	503-507	near	_	_	
+8-10	508-511	the	_	_	
+8-11	512-517	beach	_	_	
+8-12	517-518	.	_	_	
+
+#Text=The map appears to be a screenshot from Google Maps, showing the location of various businesses and attractions in Montauk, New York.
+9-1	521-524	The	p[8]	*[8]	
+9-2	525-528	map	p[8]	*[8]	
+9-3	529-536	appears	p[8]	*[8]	
+9-4	537-539	to	p[8]	*[8]	
+9-5	540-542	be	p[8]	*[8]	
+9-6	543-544	a	p[8]	*[8]	
+9-7	545-555	screenshot	p[8]	*[8]	
+9-8	556-560	from	p[8]	*[8]	
+9-9	561-567	Google	p[8]	*[8]	
+9-10	568-572	Maps	p[8]	*[8]	
+9-11	572-573	,	p[8]	*[8]	
+9-12	574-581	showing	p[8]	*[8]	
+9-13	582-585	the	p[8]	*[8]	
+9-14	586-594	location	p[8]	*[8]	
+9-15	595-597	of	p[8]	*[8]	
+9-16	598-605	various	p[8]	*[8]	
+9-17	606-616	businesses	p[8]	*[8]	
+9-18	617-620	and	p[8]	*[8]	
+9-19	621-632	attractions	p[8]	*[8]	
+9-20	633-635	in	p[8]	*[8]	
+9-21	636-643	Montauk	p[8]	*[8]	
+9-22	643-644	,	p[8]	*[8]	
+9-23	645-648	New	p[8]	*[8]	
+9-24	649-653	York	p[8]	*[8]	
+9-25	653-654	.	p[8]	*[8]	
+
+#Text=The map includes a beach, a hotel, several restaurants, and a marina.
+10-1	655-658	The	p[8]	*[8]	
+10-2	659-662	map	p[8]	*[8]	
+10-3	663-671	includes	p[8]	*[8]	
+10-4	672-673	a	p[8]	*[8]	
+10-5	674-679	beach	p[8]	*[8]	
+10-6	679-680	,	p[8]	*[8]	
+10-7	681-682	a	p[8]	*[8]	
+10-8	683-688	hotel	p[8]	*[8]	
+10-9	688-689	,	p[8]	*[8]	
+10-10	690-697	several	p[8]	*[8]	
+10-11	698-709	restaurants	p[8]	*[8]	
+10-12	709-710	,	p[8]	*[8]	
+10-13	711-714	and	p[8]	*[8]	
+10-14	715-716	a	p[8]	*[8]	
+10-15	717-723	marina	p[8]	*[8]	
+10-16	723-724	.	p[8]	*[8]	
+
+#Text=Can you describe the most visually salient elements of the map?
+11-1	725-728	Can	h1[9]	*[9]	
+11-2	729-732	you	h1[9]	*[9]	
+11-3	733-741	describe	h1[9]	*[9]	
+11-4	742-745	the	h1[9]	*[9]	
+11-5	746-750	most	h1[9]	*[9]	
+11-6	751-759	visually	h1[9]	*[9]	
+11-7	760-767	salient	h1[9]	*[9]	
+11-8	768-776	elements	h1[9]	*[9]	
+11-9	777-779	of	h1[9]	*[9]	
+11-10	780-783	the	h1[9]	*[9]	
+11-11	784-787	map	h1[9]	*[9]	
+11-12	787-788	?	h1[9]	*[9]	
+
+#Text=The map appears to be a map of Montauk, New York.
+12-1	789-792	The	p[10]	*[10]	
+12-2	793-796	map	p[10]	*[10]	
+12-3	797-804	appears	p[10]	*[10]	
+12-4	805-807	to	p[10]	*[10]	
+12-5	808-810	be	p[10]	*[10]	
+12-6	811-812	a	p[10]	*[10]	
+12-7	813-816	map	p[10]	*[10]	
+12-8	817-819	of	p[10]	*[10]	
+12-9	820-827	Montauk	p[10]	*[10]	
+12-10	827-828	,	p[10]	*[10]	
+12-11	829-832	New	p[10]	*[10]	
+12-12	833-837	York	p[10]	*[10]	
+12-13	837-838	.	p[10]	*[10]	
+
+#Text=The most visually salient elements of the map are the bodies of water, which include the ocean and a bay.
+13-1	839-842	The	p[10]	*[10]	
+13-2	843-847	most	p[10]	*[10]	
+13-3	848-856	visually	p[10]	*[10]	
+13-4	857-864	salient	p[10]	*[10]	
+13-5	865-873	elements	p[10]	*[10]	
+13-6	874-876	of	p[10]	*[10]	
+13-7	877-880	the	p[10]	*[10]	
+13-8	881-884	map	p[10]	*[10]	
+13-9	885-888	are	p[10]	*[10]	
+13-10	889-892	the	p[10]	*[10]	
+13-11	893-899	bodies	p[10]	*[10]	
+13-12	900-902	of	p[10]	*[10]	
+13-13	903-908	water	p[10]	*[10]	
+13-14	908-909	,	p[10]	*[10]	
+13-15	910-915	which	p[10]	*[10]	
+13-16	916-923	include	p[10]	*[10]	
+13-17	924-927	the	p[10]	*[10]	
+13-18	928-933	ocean	p[10]	*[10]	
+13-19	934-937	and	p[10]	*[10]	
+13-20	938-939	a	p[10]	*[10]	
+13-21	940-943	bay	p[10]	*[10]	
+13-22	943-944	.	p[10]	*[10]	
+
+#Text=The map also shows several roads, including Montauk Highway and Old Montauk Highway.
+14-1	945-948	The	p[10]	*[10]	
+14-2	949-952	map	p[10]	*[10]	
+14-3	953-957	also	p[10]	*[10]	
+14-4	958-963	shows	p[10]	*[10]	
+14-5	964-971	several	p[10]	*[10]	
+14-6	972-977	roads	p[10]	*[10]	
+14-7	977-978	,	p[10]	*[10]	
+14-8	979-988	including	p[10]	*[10]	
+14-9	989-996	Montauk	p[10]	*[10]	
+14-10	997-1004	Highway	p[10]	*[10]	
+14-11	1005-1008	and	p[10]	*[10]	
+14-12	1009-1012	Old	p[10]	*[10]	
+14-13	1013-1020	Montauk	p[10]	*[10]	
+14-14	1021-1028	Highway	p[10]	*[10]	
+14-15	1028-1029	.	p[10]	*[10]	
+
+#Text=Additionally, there are several hotels and restaurants marked on the map, including the Montauk Hotel and the Navy Beach Restaurant.
+15-1	1030-1042	Additionally	p[10]	*[10]	
+15-2	1042-1043	,	p[10]	*[10]	
+15-3	1044-1049	there	p[10]	*[10]	
+15-4	1050-1053	are	p[10]	*[10]	
+15-5	1054-1061	several	p[10]	*[10]	
+15-6	1062-1068	hotels	p[10]	*[10]	
+15-7	1069-1072	and	p[10]	*[10]	
+15-8	1073-1084	restaurants	p[10]	*[10]	
+15-9	1085-1091	marked	p[10]	*[10]	
+15-10	1092-1094	on	p[10]	*[10]	
+15-11	1095-1098	the	p[10]	*[10]	
+15-12	1099-1102	map	p[10]	*[10]	
+15-13	1102-1103	,	p[10]	*[10]	
+15-14	1104-1113	including	p[10]	*[10]	
+15-15	1114-1117	the	p[10]	*[10]	
+15-16	1118-1125	Montauk	p[10]	*[10]	
+15-17	1126-1131	Hotel	p[10]	*[10]	
+15-18	1132-1135	and	p[10]	*[10]	
+15-19	1136-1139	the	p[10]	*[10]	
+15-20	1140-1144	Navy	p[10]	*[10]	
+15-21	1145-1150	Beach	p[10]	*[10]	
+15-22	1151-1161	Restaurant	p[10]	*[10]	
+15-23	1161-1162	.	p[10]	*[10]	
+
+#Text=Overall, the map provides a clear view of the area’s geography and amenities.
+16-1	1163-1170	Overall	p[10]	*[10]	
+16-2	1170-1171	,	p[10]	*[10]	
+16-3	1172-1175	the	p[10]	*[10]	
+16-4	1176-1179	map	p[10]	*[10]	
+16-5	1180-1188	provides	p[10]	*[10]	
+16-6	1189-1190	a	p[10]	*[10]	
+16-7	1191-1196	clear	p[10]	*[10]	
+16-8	1197-1201	view	p[10]	*[10]	
+16-9	1202-1204	of	p[10]	*[10]	
+16-10	1205-1208	the	p[10]	*[10]	
+16-11	1209-1213	area	p[10]	*[10]	
+16-12	1213-1214	’	p[10]	*[10]	
+16-13	1214-1215	s	p[10]	*[10]	
+16-14	1216-1225	geography	p[10]	*[10]	
+16-15	1226-1229	and	p[10]	*[10]	
+16-16	1230-1239	amenities	p[10]	*[10]	
+16-17	1239-1240	.	p[10]	*[10]	
+
+#Text=Anchors summary  Ocean (body of water) Bay (body of water) Montauk Highway (road) Old Montauk Highway (road) Montauk Hotel (hotel) Navy Beach Restaurant (restaurant) Several hotels and restaurants (non-named) Roads (general, non-named)
+17-1	1241-1248	Anchors	h1[11]	*[11]	
+17-2	1249-1256	summary	h1[11]	*[11]	
+17-3	1258-1263	Ocean	_	_	
+17-4	1264-1265	(	_	_	
+17-5	1265-1269	body	_	_	
+17-6	1270-1272	of	_	_	
+17-7	1273-1278	water	_	_	
+17-8	1278-1279	)	_	_	
+17-9	1280-1283	Bay	_	_	
+17-10	1284-1285	(	_	_	
+17-11	1285-1289	body	_	_	
+17-12	1290-1292	of	_	_	
+17-13	1293-1298	water	_	_	
+17-14	1298-1299	)	_	_	
+17-15	1300-1307	Montauk	_	_	
+17-16	1308-1315	Highway	_	_	
+17-17	1316-1317	(	_	_	
+17-18	1317-1321	road	_	_	
+17-19	1321-1322	)	_	_	
+17-20	1323-1326	Old	_	_	
+17-21	1327-1334	Montauk	_	_	
+17-22	1335-1342	Highway	_	_	
+17-23	1343-1344	(	_	_	
+17-24	1344-1348	road	_	_	
+17-25	1348-1349	)	_	_	
+17-26	1350-1357	Montauk	_	_	
+17-27	1358-1363	Hotel	_	_	
+17-28	1364-1365	(	_	_	
+17-29	1365-1370	hotel	_	_	
+17-30	1370-1371	)	_	_	
+17-31	1372-1376	Navy	_	_	
+17-32	1377-1382	Beach	_	_	
+17-33	1383-1393	Restaurant	_	_	
+17-34	1394-1395	(	_	_	
+17-35	1395-1405	restaurant	_	_	
+17-36	1405-1406	)	_	_	
+17-37	1407-1414	Several	_	_	
+17-38	1415-1421	hotels	_	_	
+17-39	1422-1425	and	_	_	
+17-40	1426-1437	restaurants	_	_	
+17-41	1438-1439	(	_	_	
+17-42	1439-1448	non-named	_	_	
+17-43	1448-1449	)	_	_	
+17-44	1450-1455	Roads	_	_	
+17-45	1456-1457	(	_	_	
+17-46	1457-1464	general	_	_	
+17-47	1464-1465	,	_	_	
+17-48	1466-1475	non-named	_	_	
+17-49	1475-1476	)	_	_	

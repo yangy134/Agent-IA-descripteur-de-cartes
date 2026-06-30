@@ -1,0 +1,417 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=The image shows a map of an area, likely in Europe.
+2-1	42-45	The	p[2]	*[2]	_	
+2-2	46-51	image	p[2]	*[2]	_	
+2-3	52-57	shows	p[2]	*[2]	_	
+2-4	58-59	a	p[2]	*[2]	_	
+2-5	60-63	map	p[2]	*[2]	_	
+2-6	64-66	of	p[2]	*[2]	_	
+2-7	67-69	an	p[2]	*[2]	_	
+2-8	70-74	area	p[2]	*[2]	_	
+2-9	74-75	,	p[2]	*[2]	_	
+2-10	76-82	likely	p[2]	*[2]	_	
+2-11	83-85	in	p[2]	*[2]	_	
+2-12	86-92	Europe	p[2]	*[2]	_	
+2-13	92-93	.	p[2]	*[2]	_	
+
+#Text=The map is oriented with north at the top and south at the bottom.
+3-1	94-97	The	p[2]	*[2]	_	
+3-2	98-101	map	p[2]	*[2]	_	
+3-3	102-104	is	p[2]	*[2]	_	
+3-4	105-113	oriented	p[2]	*[2]	_	
+3-5	114-118	with	p[2]	*[2]	_	
+3-6	119-124	north	p[2]	*[2]	spatial relation[11]	
+3-7	125-127	at	p[2]	*[2]	spatial relation[11]	
+3-8	128-131	the	p[2]	*[2]	spatial relation[11]	
+3-9	132-135	top	p[2]	*[2]	spatial relation[11]	
+3-10	136-139	and	p[2]	*[2]	_	
+3-11	140-145	south	p[2]	*[2]	spatial relation[12]	
+3-12	146-148	at	p[2]	*[2]	spatial relation[12]	
+3-13	149-152	the	p[2]	*[2]	spatial relation[12]	
+3-14	153-159	bottom	p[2]	*[2]	spatial relation[12]	
+3-15	159-160	.	p[2]	*[2]	_	
+
+#Text=The area depicted on the map appears to be a city or town, with many roads and streets.
+4-1	161-164	The	p[3]	*[3]	_	
+4-2	165-169	area	p[3]	*[3]	_	
+4-3	170-178	depicted	p[3]	*[3]	_	
+4-4	179-181	on	p[3]	*[3]	_	
+4-5	182-185	the	p[3]	*[3]	_	
+4-6	186-189	map	p[3]	*[3]	_	
+4-7	190-197	appears	p[3]	*[3]	_	
+4-8	198-200	to	p[3]	*[3]	_	
+4-9	201-203	be	p[3]	*[3]	_	
+4-10	204-205	a	p[3]	*[3]	_	
+4-11	206-210	city	p[3]	*[3]	_	
+4-12	211-213	or	p[3]	*[3]	_	
+4-13	214-218	town	p[3]	*[3]	_	
+4-14	218-219	,	p[3]	*[3]	_	
+4-15	220-224	with	p[3]	*[3]	_	
+4-16	225-229	many	p[3]	*[3]	_	
+4-17	230-235	roads	p[3]	*[3]	_	
+4-18	236-239	and	p[3]	*[3]	_	
+4-19	240-247	streets	p[3]	*[3]	_	
+4-20	247-248	.	p[3]	*[3]	_	
+
+#Text=The map also shows several parks and green spaces, as well as a few bodies of water.
+5-1	249-252	The	p[3]	*[3]	_	
+5-2	253-256	map	p[3]	*[3]	_	
+5-3	257-261	also	p[3]	*[3]	_	
+5-4	262-267	shows	p[3]	*[3]	_	
+5-5	268-275	several	p[3]	*[3]	_	
+5-6	276-281	parks	p[3]	*[3]	_	
+5-7	282-285	and	p[3]	*[3]	_	
+5-8	286-291	green	p[3]	*[3]	_	
+5-9	292-298	spaces	p[3]	*[3]	_	
+5-10	298-299	,	p[3]	*[3]	_	
+5-11	300-302	as	p[3]	*[3]	_	
+5-12	303-307	well	p[3]	*[3]	_	
+5-13	308-310	as	p[3]	*[3]	_	
+5-14	311-312	a	p[3]	*[3]	_	
+5-15	313-316	few	p[3]	*[3]	_	
+5-16	317-323	bodies	p[3]	*[3]	_	
+5-17	324-326	of	p[3]	*[3]	_	
+5-18	327-332	water	p[3]	*[3]	_	
+5-19	332-333	.	p[3]	*[3]	_	
+
+#Text=There are no people or buildings visible on the map.
+6-1	334-339	There	p[3]	*[3]	_	
+6-2	340-343	are	p[3]	*[3]	_	
+6-3	344-346	no	p[3]	*[3]	_	
+6-4	347-353	people	p[3]	*[3]	_	
+6-5	354-356	or	p[3]	*[3]	_	
+6-6	357-366	buildings	p[3]	*[3]	_	
+6-7	367-374	visible	p[3]	*[3]	_	
+6-8	375-377	on	p[3]	*[3]	_	
+6-9	378-381	the	p[3]	*[3]	_	
+6-10	382-385	map	p[3]	*[3]	_	
+6-11	385-386	.	p[3]	*[3]	_	
+
+#Text=The map is likely a screenshot from Google Maps, as it has a similar layout and design.
+7-1	387-390	The	p[4]	*[4]	_	
+7-2	391-394	map	p[4]	*[4]	_	
+7-3	395-397	is	p[4]	*[4]	_	
+7-4	398-404	likely	p[4]	*[4]	_	
+7-5	405-406	a	p[4]	*[4]	_	
+7-6	407-417	screenshot	p[4]	*[4]	_	
+7-7	418-422	from	p[4]	*[4]	_	
+7-8	423-429	Google	p[4]	*[4]	_	
+7-9	430-434	Maps	p[4]	*[4]	_	
+7-10	434-435	,	p[4]	*[4]	_	
+7-11	436-438	as	p[4]	*[4]	_	
+7-12	439-441	it	p[4]	*[4]	_	
+7-13	442-445	has	p[4]	*[4]	_	
+7-14	446-447	a	p[4]	*[4]	_	
+7-15	448-455	similar	p[4]	*[4]	_	
+7-16	456-462	layout	p[4]	*[4]	_	
+7-17	463-466	and	p[4]	*[4]	_	
+7-18	467-473	design	p[4]	*[4]	_	
+7-19	473-474	.	p[4]	*[4]	_	
+
+#Text=The image does not show any specific location or landmark, but rather appears to be a general view of the area.
+8-1	475-478	The	p[4]	*[4]	_	
+8-2	479-484	image	p[4]	*[4]	_	
+8-3	485-489	does	p[4]	*[4]	_	
+8-4	490-493	not	p[4]	*[4]	_	
+8-5	494-498	show	p[4]	*[4]	_	
+8-6	499-502	any	p[4]	*[4]	_	
+8-7	503-511	specific	p[4]	*[4]	_	
+8-8	512-520	location	p[4]	*[4]	_	
+8-9	521-523	or	p[4]	*[4]	_	
+8-10	524-532	landmark	p[4]	*[4]	_	
+8-11	532-533	,	p[4]	*[4]	_	
+8-12	534-537	but	p[4]	*[4]	_	
+8-13	538-544	rather	p[4]	*[4]	_	
+8-14	545-552	appears	p[4]	*[4]	_	
+8-15	553-555	to	p[4]	*[4]	_	
+8-16	556-558	be	p[4]	*[4]	_	
+8-17	559-560	a	p[4]	*[4]	_	
+8-18	561-568	general	p[4]	*[4]	_	
+8-19	569-573	view	p[4]	*[4]	_	
+8-20	574-576	of	p[4]	*[4]	_	
+8-21	577-580	the	p[4]	*[4]	_	
+8-22	581-585	area	p[4]	*[4]	_	
+8-23	585-586	.	p[4]	*[4]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+9-1	587-590	Can	h1[5]	*[5]	_	
+9-2	591-594	you	h1[5]	*[5]	_	
+9-3	595-603	describe	h1[5]	*[5]	_	
+9-4	604-607	the	h1[5]	*[5]	_	
+9-5	608-612	most	h1[5]	*[5]	_	
+9-6	613-621	visually	h1[5]	*[5]	_	
+9-7	622-629	salient	h1[5]	*[5]	_	
+9-8	630-638	elements	h1[5]	*[5]	_	
+9-9	639-641	of	h1[5]	*[5]	_	
+9-10	642-645	the	h1[5]	*[5]	_	
+9-11	646-649	map	h1[5]	*[5]	_	
+9-12	649-650	?	h1[5]	*[5]	_	
+
+#Text=The image appears to be a map of a city, with various roads and highways visible.
+10-1	651-654	The	p[6]	*[6]	_	
+10-2	655-660	image	p[6]	*[6]	_	
+10-3	661-668	appears	p[6]	*[6]	_	
+10-4	669-671	to	p[6]	*[6]	_	
+10-5	672-674	be	p[6]	*[6]	_	
+10-6	675-676	a	p[6]	*[6]	_	
+10-7	677-680	map	p[6]	*[6]	_	
+10-8	681-683	of	p[6]	*[6]	_	
+10-9	684-685	a	p[6]	*[6]	_	
+10-10	686-690	city	p[6]	*[6]	_	
+10-11	690-691	,	p[6]	*[6]	_	
+10-12	692-696	with	p[6]	*[6]	_	
+10-13	697-704	various	p[6]	*[6]	_	
+10-14	705-710	roads	p[6]	*[6]	_	
+10-15	711-714	and	p[6]	*[6]	_	
+10-16	715-723	highways	p[6]	*[6]	_	
+10-17	724-731	visible	p[6]	*[6]	_	
+10-18	731-732	.	p[6]	*[6]	_	
+
+#Text=The map is likely a screenshot from Google Maps or another online mapping service.
+11-1	733-736	The	p[6]	*[6]	_	
+11-2	737-740	map	p[6]	*[6]	_	
+11-3	741-743	is	p[6]	*[6]	_	
+11-4	744-750	likely	p[6]	*[6]	_	
+11-5	751-752	a	p[6]	*[6]	_	
+11-6	753-763	screenshot	p[6]	*[6]	_	
+11-7	764-768	from	p[6]	*[6]	_	
+11-8	769-775	Google	p[6]	*[6]	_	
+11-9	776-780	Maps	p[6]	*[6]	_	
+11-10	781-783	or	p[6]	*[6]	_	
+11-11	784-791	another	p[6]	*[6]	_	
+11-12	792-798	online	p[6]	*[6]	_	
+11-13	799-806	mapping	p[6]	*[6]	_	
+11-14	807-814	service	p[6]	*[6]	_	
+11-15	814-815	.	p[6]	*[6]	_	
+
+#Text=The most visually salient elements of the map are the roads and highways, which are depicted in a variety of colors.
+12-1	816-819	The	p[7]	*[7]	_	
+12-2	820-824	most	p[7]	*[7]	_	
+12-3	825-833	visually	p[7]	*[7]	_	
+12-4	834-841	salient	p[7]	*[7]	_	
+12-5	842-850	elements	p[7]	*[7]	_	
+12-6	851-853	of	p[7]	*[7]	_	
+12-7	854-857	the	p[7]	*[7]	_	
+12-8	858-861	map	p[7]	*[7]	_	
+12-9	862-865	are	p[7]	*[7]	_	
+12-10	866-869	the	p[7]	*[7]	_	
+12-11	870-875	roads	p[7]	*[7]	_	
+12-12	876-879	and	p[7]	*[7]	_	
+12-13	880-888	highways	p[7]	*[7]	_	
+12-14	888-889	,	p[7]	*[7]	_	
+12-15	890-895	which	p[7]	*[7]	_	
+12-16	896-899	are	p[7]	*[7]	_	
+12-17	900-908	depicted	p[7]	*[7]	_	
+12-18	909-911	in	p[7]	*[7]	_	
+12-19	912-913	a	p[7]	*[7]	_	
+12-20	914-921	variety	p[7]	*[7]	_	
+12-21	922-924	of	p[7]	*[7]	_	
+12-22	925-931	colors	p[7]	*[7]	_	
+12-23	931-932	.	p[7]	*[7]	_	
+
+#Text=The main thoroughfare appears to be a major highway that runs through the center of the city, with several smaller roads branching off from it.
+13-1	933-936	The	p[7]	*[7]	_	
+13-2	937-941	main	p[7]	*[7]	_	
+13-3	942-954	thoroughfare	p[7]	*[7]	_	
+13-4	955-962	appears	p[7]	*[7]	_	
+13-5	963-965	to	p[7]	*[7]	_	
+13-6	966-968	be	p[7]	*[7]	_	
+13-7	969-970	a	p[7]	*[7]	_	
+13-8	971-976	major	p[7]	*[7]	_	
+13-9	977-984	highway	p[7]	*[7]	_	
+13-10	985-989	that	p[7]	*[7]	_	
+13-11	990-994	runs	p[7]	*[7]	_	
+13-12	995-1002	through	p[7]	*[7]	_	
+13-13	1003-1006	the	p[7]	*[7]	_	
+13-14	1007-1013	center	p[7]	*[7]	_	
+13-15	1014-1016	of	p[7]	*[7]	_	
+13-16	1017-1020	the	p[7]	*[7]	_	
+13-17	1021-1025	city	p[7]	*[7]	_	
+13-18	1025-1026	,	p[7]	*[7]	_	
+13-19	1027-1031	with	p[7]	*[7]	_	
+13-20	1032-1039	several	p[7]	*[7]	_	
+13-21	1040-1047	smaller	p[7]	*[7]	_	
+13-22	1048-1053	roads	p[7]	*[7]	_	
+13-23	1054-1063	branching	p[7]	*[7]	_	
+13-24	1064-1067	off	p[7]	*[7]	_	
+13-25	1068-1072	from	p[7]	*[7]	_	
+13-26	1073-1075	it	p[7]	*[7]	_	
+13-27	1075-1076	.	p[7]	*[7]	_	
+
+#Text=There are also several parks and green spaces visible on the map, which are depicted in shades of green.
+14-1	1077-1082	There	p[7]	*[7]	_	
+14-2	1083-1086	are	p[7]	*[7]	_	
+14-3	1087-1091	also	p[7]	*[7]	_	
+14-4	1092-1099	several	p[7]	*[7]	_	
+14-5	1100-1105	parks	p[7]	*[7]	_	
+14-6	1106-1109	and	p[7]	*[7]	_	
+14-7	1110-1115	green	p[7]	*[7]	_	
+14-8	1116-1122	spaces	p[7]	*[7]	_	
+14-9	1123-1130	visible	p[7]	*[7]	_	
+14-10	1131-1133	on	p[7]	*[7]	_	
+14-11	1134-1137	the	p[7]	*[7]	_	
+14-12	1138-1141	map	p[7]	*[7]	_	
+14-13	1141-1142	,	p[7]	*[7]	_	
+14-14	1143-1148	which	p[7]	*[7]	_	
+14-15	1149-1152	are	p[7]	*[7]	_	
+14-16	1153-1161	depicted	p[7]	*[7]	_	
+14-17	1162-1164	in	p[7]	*[7]	_	
+14-18	1165-1171	shades	p[7]	*[7]	_	
+14-19	1172-1174	of	p[7]	*[7]	_	
+14-20	1175-1180	green	p[7]	*[7]	_	
+14-21	1180-1181	.	p[7]	*[7]	_	
+
+#Text=In the background, there is a body of water visible, which may be a lake or river.
+15-1	1182-1184	In	p[8]	*[8]	_	
+15-2	1185-1188	the	p[8]	*[8]	_	
+15-3	1189-1199	background	p[8]	*[8]	_	
+15-4	1199-1200	,	p[8]	*[8]	_	
+15-5	1201-1206	there	p[8]	*[8]	_	
+15-6	1207-1209	is	p[8]	*[8]	_	
+15-7	1210-1211	a	p[8]	*[8]	_	
+15-8	1212-1216	body	p[8]	*[8]	_	
+15-9	1217-1219	of	p[8]	*[8]	_	
+15-10	1220-1225	water	p[8]	*[8]	_	
+15-11	1226-1233	visible	p[8]	*[8]	_	
+15-12	1233-1234	,	p[8]	*[8]	_	
+15-13	1235-1240	which	p[8]	*[8]	_	
+15-14	1241-1244	may	p[8]	*[8]	_	
+15-15	1245-1247	be	p[8]	*[8]	_	
+15-16	1248-1249	a	p[8]	*[8]	_	
+15-17	1250-1254	lake	p[8]	*[8]	_	
+15-18	1255-1257	or	p[8]	*[8]	_	
+15-19	1258-1263	river	p[8]	*[8]	_	
+15-20	1263-1264	.	p[8]	*[8]	_	
+
+#Text=The surrounding landscape appears to be urban, with buildings and other structures visible.
+16-1	1265-1268	The	p[8]	*[8]	_	
+16-2	1269-1280	surrounding	p[8]	*[8]	_	
+16-3	1281-1290	landscape	p[8]	*[8]	_	
+16-4	1291-1298	appears	p[8]	*[8]	_	
+16-5	1299-1301	to	p[8]	*[8]	_	
+16-6	1302-1304	be	p[8]	*[8]	_	
+16-7	1305-1310	urban	p[8]	*[8]	_	
+16-8	1310-1311	,	p[8]	*[8]	_	
+16-9	1312-1316	with	p[8]	*[8]	_	
+16-10	1317-1326	buildings	p[8]	*[8]	_	
+16-11	1327-1330	and	p[8]	*[8]	_	
+16-12	1331-1336	other	p[8]	*[8]	_	
+16-13	1337-1347	structures	p[8]	*[8]	_	
+16-14	1348-1355	visible	p[8]	*[8]	_	
+16-15	1355-1356	.	p[8]	*[8]	_	
+
+#Text=Overall, the map provides a clear view of the city’s layout and infrastructure.
+17-1	1357-1364	Overall	p[9]	*[9]	_	
+17-2	1364-1365	,	p[9]	*[9]	_	
+17-3	1366-1369	the	p[9]	*[9]	_	
+17-4	1370-1373	map	p[9]	*[9]	_	
+17-5	1374-1382	provides	p[9]	*[9]	_	
+17-6	1383-1384	a	p[9]	*[9]	_	
+17-7	1385-1390	clear	p[9]	*[9]	_	
+17-8	1391-1395	view	p[9]	*[9]	_	
+17-9	1396-1398	of	p[9]	*[9]	_	
+17-10	1399-1402	the	p[9]	*[9]	_	
+17-11	1403-1407	city	p[9]	*[9]	_	
+17-12	1407-1408	’	p[9]	*[9]	_	
+17-13	1408-1409	s	p[9]	*[9]	_	
+17-14	1410-1416	layout	p[9]	*[9]	_	
+17-15	1417-1420	and	p[9]	*[9]	_	
+17-16	1421-1435	infrastructure	p[9]	*[9]	_	
+17-17	1435-1436	.	p[9]	*[9]	_	
+
+#Text=It is likely used for navigation or to provide information about the city’s amenities and services.
+18-1	1437-1439	It	p[9]	*[9]	_	
+18-2	1440-1442	is	p[9]	*[9]	_	
+18-3	1443-1449	likely	p[9]	*[9]	_	
+18-4	1450-1454	used	p[9]	*[9]	_	
+18-5	1455-1458	for	p[9]	*[9]	_	
+18-6	1459-1469	navigation	p[9]	*[9]	_	
+18-7	1470-1472	or	p[9]	*[9]	_	
+18-8	1473-1475	to	p[9]	*[9]	_	
+18-9	1476-1483	provide	p[9]	*[9]	_	
+18-10	1484-1495	information	p[9]	*[9]	_	
+18-11	1496-1501	about	p[9]	*[9]	_	
+18-12	1502-1505	the	p[9]	*[9]	_	
+18-13	1506-1510	city	p[9]	*[9]	_	
+18-14	1510-1511	’	p[9]	*[9]	_	
+18-15	1511-1512	s	p[9]	*[9]	_	
+18-16	1513-1522	amenities	p[9]	*[9]	_	
+18-17	1523-1526	and	p[9]	*[9]	_	
+18-18	1527-1535	services	p[9]	*[9]	_	
+18-19	1535-1536	.	p[9]	*[9]	_	
+
+#Text=Anchors summary  No named landmarks identified Major highway (main thoroughfare running through the center) Smaller roads and streets branching off the highway Roads and highways depicted in various colors Parks and green spaces (shaded green) Body of water (lake or river visible in the background) Urban landscape (buildings and other structures)
+19-1	1537-1544	Anchors	h1[10]	*[10]	_	
+19-2	1545-1552	summary	h1[10]	*[10]	_	
+19-3	1554-1556	No	_	_	_	
+19-4	1557-1562	named	_	_	_	
+19-5	1563-1572	landmarks	_	_	_	
+19-6	1573-1583	identified	_	_	_	
+19-7	1584-1589	Major	_	_	_	
+19-8	1590-1597	highway	_	_	_	
+19-9	1598-1599	(	_	_	_	
+19-10	1599-1603	main	_	_	_	
+19-11	1604-1616	thoroughfare	_	_	_	
+19-12	1617-1624	running	_	_	_	
+19-13	1625-1632	through	_	_	_	
+19-14	1633-1636	the	_	_	_	
+19-15	1637-1643	center	_	_	_	
+19-16	1643-1644	)	_	_	_	
+19-17	1645-1652	Smaller	_	_	_	
+19-18	1653-1658	roads	_	_	_	
+19-19	1659-1662	and	_	_	_	
+19-20	1663-1670	streets	_	_	_	
+19-21	1671-1680	branching	_	_	_	
+19-22	1681-1684	off	_	_	_	
+19-23	1685-1688	the	_	_	_	
+19-24	1689-1696	highway	_	_	_	
+19-25	1697-1702	Roads	_	_	_	
+19-26	1703-1706	and	_	_	_	
+19-27	1707-1715	highways	_	_	_	
+19-28	1716-1724	depicted	_	_	_	
+19-29	1725-1727	in	_	_	_	
+19-30	1728-1735	various	_	_	_	
+19-31	1736-1742	colors	_	_	_	
+19-32	1743-1748	Parks	_	_	_	
+19-33	1749-1752	and	_	_	_	
+19-34	1753-1758	green	_	_	_	
+19-35	1759-1765	spaces	_	_	_	
+19-36	1766-1767	(	_	_	_	
+19-37	1767-1773	shaded	_	_	_	
+19-38	1774-1779	green	_	_	_	
+19-39	1779-1780	)	_	_	_	
+19-40	1781-1785	Body	_	_	_	
+19-41	1786-1788	of	_	_	_	
+19-42	1789-1794	water	_	_	_	
+19-43	1795-1796	(	_	_	_	
+19-44	1796-1800	lake	_	_	_	
+19-45	1801-1803	or	_	_	_	
+19-46	1804-1809	river	_	_	_	
+19-47	1810-1817	visible	_	_	_	
+19-48	1818-1820	in	_	_	_	
+19-49	1821-1824	the	_	_	_	
+19-50	1825-1835	background	_	_	_	
+19-51	1835-1836	)	_	_	_	
+19-52	1837-1842	Urban	_	_	_	
+19-53	1843-1852	landscape	_	_	_	
+19-54	1853-1854	(	_	_	_	
+19-55	1854-1863	buildings	_	_	_	
+19-56	1864-1867	and	_	_	_	
+19-57	1868-1873	other	_	_	_	
+19-58	1874-1884	structures	_	_	_	
+19-59	1884-1885	)	_	_	_	

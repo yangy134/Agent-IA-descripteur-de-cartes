@@ -1,0 +1,1015 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=Okay, let’s break down what we see on this map.
+2-1	42-46	Okay	p[2]	*[2]	_	
+2-2	46-47	,	p[2]	*[2]	_	
+2-3	48-51	let	p[2]	*[2]	_	
+2-4	51-52	’	p[2]	*[2]	_	
+2-5	52-53	s	p[2]	*[2]	_	
+2-6	54-59	break	p[2]	*[2]	_	
+2-7	60-64	down	p[2]	*[2]	_	
+2-8	65-69	what	p[2]	*[2]	_	
+2-9	70-72	we	p[2]	*[2]	_	
+2-10	73-76	see	p[2]	*[2]	_	
+2-11	77-79	on	p[2]	*[2]	_	
+2-12	80-84	this	p[2]	*[2]	_	
+2-13	85-88	map	p[2]	*[2]	_	
+2-14	88-89	.	p[2]	*[2]	_	
+
+#Text=Overall: The map depicts the region of Cantabria, Spain, specifically focusing on the area around Santander.
+3-1	90-97	Overall	p[3]	*[3]	_	
+3-2	97-98	:	p[3]	*[3]	_	
+3-3	99-102	The	p[4]	*[4]	_	
+3-4	103-106	map	p[4]	*[4]	_	
+3-5	107-114	depicts	p[4]	*[4]	_	
+3-6	115-118	the	p[4]	*[4]	_	
+3-7	119-125	region	p[4]	*[4]	_	
+3-8	126-128	of	p[4]	*[4]	_	
+3-9	129-138	Cantabria	p[4]	*[4]	toponym[25]	
+3-10	138-139	,	p[4]	*[4]	toponym[25]	
+3-11	140-145	Spain	p[4]	*[4]	toponym[25]	
+3-12	145-146	,	p[4]	*[4]	_	
+3-13	147-159	specifically	p[4]	*[4]	_	
+3-14	160-168	focusing	p[4]	*[4]	_	
+3-15	169-171	on	p[4]	*[4]	_	
+3-16	172-175	the	p[4]	*[4]	_	
+3-17	176-180	area	p[4]	*[4]	_	
+3-18	181-187	around	p[4]	*[4]	spatial relation	
+3-19	188-197	Santander	p[4]	*[4]	toponym	
+3-20	197-198	.	p[4]	*[4]	_	
+
+#Text=It’s a detailed topographic map with a strong emphasis on terrain and roads.
+4-1	199-201	It	p[4]	*[4]	_	
+4-2	201-202	’	p[4]	*[4]	_	
+4-3	202-203	s	p[4]	*[4]	_	
+4-4	204-205	a	p[4]	*[4]	_	
+4-5	206-214	detailed	p[4]	*[4]	_	
+4-6	215-226	topographic	p[4]	*[4]	_	
+4-7	227-230	map	p[4]	*[4]	_	
+4-8	231-235	with	p[4]	*[4]	_	
+4-9	236-237	a	p[4]	*[4]	_	
+4-10	238-244	strong	p[4]	*[4]	_	
+4-11	245-253	emphasis	p[4]	*[4]	_	
+4-12	254-256	on	p[4]	*[4]	_	
+4-13	257-264	terrain	p[4]	*[4]	_	
+4-14	265-268	and	p[4]	*[4]	_	
+4-15	269-274	roads	p[4]	*[4]	_	
+4-16	274-275	.	p[4]	*[4]	_	
+
+#Text=Key Features & Locations:  Santander: The largest city in the region, prominently displayed and marked as a major urban center.
+5-1	276-279	Key	p[5]	*[5]	_	
+5-2	280-288	Features	p[5]	*[5]	_	
+5-3	289-290	&	p[5]	*[5]	_	
+5-4	291-300	Locations	p[5]	*[5]	_	
+5-5	300-301	:	p[5]	*[5]	_	
+5-6	303-312	Santander	p[6]	*[6]	toponym	
+5-7	312-313	:	p[6]	*[6]	_	
+5-8	314-317	The	p[6]	*[6]	_	
+5-9	318-325	largest	p[6]	*[6]	_	
+5-10	326-330	city	p[6]	*[6]	_	
+5-11	331-333	in	p[6]	*[6]	_	
+5-12	334-337	the	p[6]	*[6]	_	
+5-13	338-344	region	p[6]	*[6]	_	
+5-14	344-345	,	p[6]	*[6]	_	
+5-15	346-357	prominently	p[6]	*[6]	_	
+5-16	358-367	displayed	p[6]	*[6]	_	
+5-17	368-371	and	p[6]	*[6]	_	
+5-18	372-378	marked	p[6]	*[6]	_	
+5-19	379-381	as	p[6]	*[6]	_	
+5-20	382-383	a	p[6]	*[6]	_	
+5-21	384-389	major	p[6]	*[6]	_	
+5-22	390-395	urban	p[6]	*[6]	_	
+5-23	396-402	center	p[6]	*[6]	_	
+5-24	402-403	.	p[6]	*[6]	_	
+
+#Text=Cantabria: The autonomous community of Cantabria is clearly indicated by the region’s outline.
+6-1	404-413	Cantabria	p[7]	*[7]	toponym	
+6-2	413-414	:	p[7]	*[7]	_	
+6-3	415-418	The	p[7]	*[7]	_	
+6-4	419-429	autonomous	p[7]	*[7]	_	
+6-5	430-439	community	p[7]	*[7]	_	
+6-6	440-442	of	p[7]	*[7]	_	
+6-7	443-452	Cantabria	p[7]	*[7]	toponym	
+6-8	453-455	is	p[7]	*[7]	_	
+6-9	456-463	clearly	p[7]	*[7]	_	
+6-10	464-473	indicated	p[7]	*[7]	_	
+6-11	474-476	by	p[7]	*[7]	_	
+6-12	477-480	the	p[7]	*[7]	_	
+6-13	481-487	region	p[7]	*[7]	_	
+6-14	487-488	’	p[7]	*[7]	_	
+6-15	488-489	s	p[7]	*[7]	_	
+6-16	490-497	outline	p[7]	*[7]	_	
+6-17	497-498	.	p[7]	*[7]	_	
+
+#Text=Mountains: The map is dominated by a rugged mountain range, most notably the Sierra de la Arena and Sierra del Silan.
+7-1	499-508	Mountains	p[8]	*[8]	_	
+7-2	508-509	:	p[8]	*[8]	_	
+7-3	510-513	The	p[8]	*[8]	_	
+7-4	514-517	map	p[8]	*[8]	_	
+7-5	518-520	is	p[8]	*[8]	_	
+7-6	521-530	dominated	p[8]	*[8]	_	
+7-7	531-533	by	p[8]	*[8]	_	
+7-8	534-535	a	p[8]	*[8]	_	
+7-9	536-542	rugged	p[8]	*[8]	_	
+7-10	543-551	mountain	p[8]	*[8]	_	
+7-11	552-557	range	p[8]	*[8]	_	
+7-12	557-558	,	p[8]	*[8]	_	
+7-13	559-563	most	p[8]	*[8]	_	
+7-14	564-571	notably	p[8]	*[8]	_	
+7-15	572-575	the	p[8]	*[8]	_	
+7-16	576-582	Sierra	p[8]	*[8]	toponym[26]	
+7-17	583-585	de	p[8]	*[8]	toponym[26]	
+7-18	586-588	la	p[8]	*[8]	toponym[26]	
+7-19	589-594	Arena	p[8]	*[8]	toponym[26]	
+7-20	595-598	and	p[8]	*[8]	toponym[26]	
+7-21	599-605	Sierra	p[8]	*[8]	toponym[26]	
+7-22	606-609	del	p[8]	*[8]	toponym[26]	
+7-23	610-615	Silan	p[8]	*[8]	toponym[26]	
+7-24	615-616	.	p[8]	*[8]	_	
+
+#Text=These mountains are depicted with varying shades of brown, indicating elevation.
+8-1	617-622	These	p[8]	*[8]	_	
+8-2	623-632	mountains	p[8]	*[8]	_	
+8-3	633-636	are	p[8]	*[8]	_	
+8-4	637-645	depicted	p[8]	*[8]	_	
+8-5	646-650	with	p[8]	*[8]	_	
+8-6	651-658	varying	p[8]	*[8]	_	
+8-7	659-665	shades	p[8]	*[8]	_	
+8-8	666-668	of	p[8]	*[8]	_	
+8-9	669-674	brown	p[8]	*[8]	_	
+8-10	674-675	,	p[8]	*[8]	_	
+8-11	676-686	indicating	p[8]	*[8]	_	
+8-12	687-696	elevation	p[8]	*[8]	_	
+8-13	696-697	.	p[8]	*[8]	_	
+
+#Text=Rivers: Several rivers flow through the region:  Miño: The river flows from west to east, forming part of the border with Galicia.
+9-1	698-704	Rivers	p[9]	*[9]	_	
+9-2	704-705	:	p[9]	*[9]	_	
+9-3	706-713	Several	p[9]	*[9]	_	
+9-4	714-720	rivers	p[9]	*[9]	_	
+9-5	721-725	flow	p[9]	*[9]	spatial relation[27]	
+9-6	726-733	through	p[9]	*[9]	spatial relation[27]	
+9-7	734-737	the	p[9]	*[9]	_	
+9-8	738-744	region	p[9]	*[9]	_	
+9-9	744-745	:	p[9]	*[9]	_	
+9-10	747-751	Miño	_	_	toponym	
+9-11	751-752	:	_	_	_	
+9-12	753-756	The	_	_	_	
+9-13	757-762	river	_	_	_	
+9-14	763-768	flows	_	_	_	
+9-15	769-773	from	_	_	spatial relation[28]	
+9-16	774-778	west	_	_	spatial relation[28]	
+9-17	779-781	to	_	_	spatial relation[28]	
+9-18	782-786	east	_	_	spatial relation[28]	
+9-19	786-787	,	_	_	_	
+9-20	788-795	forming	_	_	_	
+9-21	796-800	part	_	_	_	
+9-22	801-803	of	_	_	_	
+9-23	804-807	the	_	_	_	
+9-24	808-814	border	_	_	_	
+9-25	815-819	with	_	_	_	
+9-26	820-827	Galicia	_	_	_	
+9-27	827-828	.	_	_	_	
+
+#Text=Nervión: Flows through Santander and into the Atlantic Ocean.
+10-1	829-836	Nervión	_	_	toponym	
+10-2	836-837	:	_	_	_	
+10-3	838-843	Flows	_	_	_	
+10-4	844-851	through	_	_	spatial relation	
+10-5	852-861	Santander	_	_	toponym	
+10-6	862-865	and	_	_	_	
+10-7	866-870	into	_	_	spatial relation	
+10-8	871-874	the	_	_	_	
+10-9	875-883	Atlantic	_	_	toponym[29]	
+10-10	884-889	Ocean	_	_	toponym[29]	
+10-11	889-890	.	_	_	_	
+
+#Text=Miño: Runs from west to east, forming part of the border with Galicia.
+11-1	891-895	Miño	_	_	toponym	
+11-2	895-896	:	_	_	_	
+11-3	897-901	Runs	_	_	_	
+11-4	902-906	from	_	_	spatial relation[30]	
+11-5	907-911	west	_	_	spatial relation[30]	
+11-6	912-914	to	_	_	spatial relation[30]	
+11-7	915-919	east	_	_	spatial relation[30]	
+11-8	919-920	,	_	_	_	
+11-9	921-928	forming	_	_	spatial relation[31]	
+11-10	929-933	part	_	_	spatial relation[31]	
+11-11	934-936	of	_	_	spatial relation[31]	
+11-12	937-940	the	_	_	spatial relation[31]	
+11-13	941-947	border	_	_	spatial relation[31]	
+11-14	948-952	with	_	_	spatial relation[31]	
+11-15	953-960	Galicia	_	_	toponym	
+11-16	960-961	.	_	_	_	
+
+#Text=Roads: A dense network of roads is shown, indicating transportation routes within and around the region.
+12-1	963-968	Roads	p[10]	*[10]	_	
+12-2	968-969	:	p[10]	*[10]	_	
+12-3	970-971	A	p[10]	*[10]	_	
+12-4	972-977	dense	p[10]	*[10]	_	
+12-5	978-985	network	p[10]	*[10]	_	
+12-6	986-988	of	p[10]	*[10]	_	
+12-7	989-994	roads	p[10]	*[10]	_	
+12-8	995-997	is	p[10]	*[10]	_	
+12-9	998-1003	shown	p[10]	*[10]	_	
+12-10	1003-1004	,	p[10]	*[10]	_	
+12-11	1005-1015	indicating	p[10]	*[10]	_	
+12-12	1016-1030	transportation	p[10]	*[10]	_	
+12-13	1031-1037	routes	p[10]	*[10]	_	
+12-14	1038-1044	within	p[10]	*[10]	spatial relation	
+12-15	1045-1048	and	p[10]	*[10]	_	
+12-16	1049-1055	around	p[10]	*[10]	spatial relation	
+12-17	1056-1059	the	p[10]	*[10]	_	
+12-18	1060-1066	region	p[10]	*[10]	_	
+12-19	1066-1067	.	p[10]	*[10]	_	
+
+#Text=Towns & Villages: Numerous smaller towns and villages are marked, including:  San Román de la Llana Penacastillo Llanes Somo Pedreña Valdecilla Mocedo de Vilaresca Llanos Hércules El Bosque Mocedo de la Marina   Other Details:  Topography: The map uses a color-coded system to represent elevation, with darker shades indicating higher elevations.
+13-1	1068-1073	Towns	p[11]	*[11]	_	
+13-2	1074-1075	&	p[11]	*[11]	_	
+13-3	1076-1084	Villages	p[11]	*[11]	_	
+13-4	1084-1085	:	p[11]	*[11]	_	
+13-5	1086-1094	Numerous	p[11]	*[11]	_	
+13-6	1095-1102	smaller	p[11]	*[11]	_	
+13-7	1103-1108	towns	p[11]	*[11]	_	
+13-8	1109-1112	and	p[11]	*[11]	_	
+13-9	1113-1121	villages	p[11]	*[11]	_	
+13-10	1122-1125	are	p[11]	*[11]	_	
+13-11	1126-1132	marked	p[11]	*[11]	_	
+13-12	1132-1133	,	p[11]	*[11]	_	
+13-13	1134-1143	including	p[11]	*[11]	_	
+13-14	1143-1144	:	p[11]	*[11]	_	
+13-15	1146-1149	San	_	_	toponym[32]	
+13-16	1150-1155	Román	_	_	toponym[32]	
+13-17	1156-1158	de	_	_	toponym[32]	
+13-18	1159-1161	la	_	_	toponym[32]	
+13-19	1162-1167	Llana	_	_	toponym[32]	
+13-20	1168-1180	Penacastillo	_	_	toponym	
+13-21	1181-1187	Llanes	_	_	toponym	
+13-22	1188-1192	Somo	_	_	toponym	
+13-23	1193-1200	Pedreña	_	_	toponym	
+13-24	1201-1211	Valdecilla	_	_	toponym	
+13-25	1212-1218	Mocedo	_	_	toponym[33]	
+13-26	1219-1221	de	_	_	toponym[33]	
+13-27	1222-1231	Vilaresca	_	_	toponym[33]	
+13-28	1232-1238	Llanos	_	_	toponym	
+13-29	1239-1247	Hércules	_	_	toponym	
+13-30	1248-1250	El	_	_	toponym[34]	
+13-31	1251-1257	Bosque	_	_	toponym[34]	
+13-32	1258-1264	Mocedo	_	_	toponym[35]	
+13-33	1265-1267	de	_	_	toponym[35]	
+13-34	1268-1270	la	_	_	toponym[35]	
+13-35	1271-1277	Marina	_	_	toponym[35]	
+13-36	1280-1285	Other	p[12]	*[12]	_	
+13-37	1286-1293	Details	p[12]	*[12]	_	
+13-38	1293-1294	:	p[12]	*[12]	_	
+13-39	1296-1306	Topography	_	_	_	
+13-40	1306-1307	:	_	_	_	
+13-41	1308-1311	The	_	_	_	
+13-42	1312-1315	map	_	_	_	
+13-43	1316-1320	uses	_	_	_	
+13-44	1321-1322	a	_	_	_	
+13-45	1323-1334	color-coded	_	_	_	
+13-46	1335-1341	system	_	_	_	
+13-47	1342-1344	to	_	_	_	
+13-48	1345-1354	represent	_	_	_	
+13-49	1355-1364	elevation	_	_	_	
+13-50	1364-1365	,	_	_	_	
+13-51	1366-1370	with	_	_	_	
+13-52	1371-1377	darker	_	_	_	
+13-53	1378-1384	shades	_	_	_	
+13-54	1385-1395	indicating	_	_	_	
+13-55	1396-1402	higher	_	_	_	
+13-56	1403-1413	elevations	_	_	_	
+13-57	1413-1414	.	_	_	_	
+
+#Text=Scale: The scale bar (CA-146 and CA-147) provides a sense of the distances represented on the map.
+14-1	1415-1420	Scale	_	_	_	
+14-2	1420-1421	:	_	_	_	
+14-3	1422-1425	The	_	_	_	
+14-4	1426-1431	scale	_	_	_	
+14-5	1432-1435	bar	_	_	_	
+14-6	1436-1437	(	_	_	_	
+14-7	1437-1439	CA	_	_	_	
+14-8	1439-1440	-	_	_	_	
+14-9	1440-1443	146	_	_	_	
+14-10	1444-1447	and	_	_	_	
+14-11	1448-1450	CA	_	_	_	
+14-12	1450-1451	-	_	_	_	
+14-13	1451-1454	147	_	_	_	
+14-14	1454-1455	)	_	_	_	
+14-15	1456-1464	provides	_	_	_	
+14-16	1465-1466	a	_	_	_	
+14-17	1467-1472	sense	_	_	_	
+14-18	1473-1475	of	_	_	_	
+14-19	1476-1479	the	_	_	_	
+14-20	1480-1489	distances	_	_	_	
+14-21	1490-1501	represented	_	_	_	
+14-22	1502-1504	on	_	_	_	
+14-23	1505-1508	the	_	_	_	
+14-24	1509-1512	map	_	_	_	
+14-25	1512-1513	.	_	_	_	
+
+#Text=Administrative Boundaries: The boundaries between municipalities are also shown, giving a sense of the administrative divisions within Cantabria.
+15-1	1514-1528	Administrative	_	_	_	
+15-2	1529-1539	Boundaries	_	_	_	
+15-3	1539-1540	:	_	_	_	
+15-4	1541-1544	The	_	_	_	
+15-5	1545-1555	boundaries	_	_	_	
+15-6	1556-1563	between	_	_	spatial relation	
+15-7	1564-1578	municipalities	_	_	_	
+15-8	1579-1582	are	_	_	_	
+15-9	1583-1587	also	_	_	_	
+15-10	1588-1593	shown	_	_	_	
+15-11	1593-1594	,	_	_	_	
+15-12	1595-1601	giving	_	_	_	
+15-13	1602-1603	a	_	_	_	
+15-14	1604-1609	sense	_	_	_	
+15-15	1610-1612	of	_	_	_	
+15-16	1613-1616	the	_	_	_	
+15-17	1617-1631	administrative	_	_	_	
+15-18	1632-1641	divisions	_	_	_	
+15-19	1642-1648	within	_	_	spatial relation	
+15-20	1649-1658	Cantabria	_	_	toponym	
+15-21	1658-1659	.	_	_	_	
+
+#Text=In essence, this map is a detailed representation of the geography and infrastructure of a relatively mountainous region in northern Spain.
+16-1	1661-1663	In	p[13]	*[13]	_	
+16-2	1664-1671	essence	p[13]	*[13]	_	
+16-3	1671-1672	,	p[13]	*[13]	_	
+16-4	1673-1677	this	p[13]	*[13]	_	
+16-5	1678-1681	map	p[13]	*[13]	_	
+16-6	1682-1684	is	p[13]	*[13]	_	
+16-7	1685-1686	a	p[13]	*[13]	_	
+16-8	1687-1695	detailed	p[13]	*[13]	_	
+16-9	1696-1710	representation	p[13]	*[13]	_	
+16-10	1711-1713	of	p[13]	*[13]	_	
+16-11	1714-1717	the	p[13]	*[13]	_	
+16-12	1718-1727	geography	p[13]	*[13]	_	
+16-13	1728-1731	and	p[13]	*[13]	_	
+16-14	1732-1746	infrastructure	p[13]	*[13]	_	
+16-15	1747-1749	of	p[13]	*[13]	_	
+16-16	1750-1751	a	p[13]	*[13]	_	
+16-17	1752-1762	relatively	p[13]	*[13]	_	
+16-18	1763-1774	mountainous	p[13]	*[13]	_	
+16-19	1775-1781	region	p[13]	*[13]	_	
+16-20	1782-1784	in	p[13]	*[13]	spatial relation	
+16-21	1785-1793	northern	p[13]	*[13]	spatial relation	
+16-22	1794-1799	Spain	p[13]	*[13]	toponym	
+16-23	1799-1800	.	p[13]	*[13]	_	
+
+#Text=If you’d like, give me another map to describe!
+17-1	1801-1803	If	p[14]	*[14]	_	
+17-2	1804-1807	you	p[14]	*[14]	_	
+17-3	1807-1808	’	p[14]	*[14]	_	
+17-4	1808-1809	d	p[14]	*[14]	_	
+17-5	1810-1814	like	p[14]	*[14]	_	
+17-6	1814-1815	,	p[14]	*[14]	_	
+17-7	1816-1820	give	p[14]	*[14]	_	
+17-8	1821-1823	me	p[14]	*[14]	_	
+17-9	1824-1831	another	p[14]	*[14]	_	
+17-10	1832-1835	map	p[14]	*[14]	_	
+17-11	1836-1838	to	p[14]	*[14]	_	
+17-12	1839-1847	describe	p[14]	*[14]	_	
+17-13	1847-1848	!	p[14]	*[14]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+18-1	1849-1852	Can	h1[15]	*[15]	_	
+18-2	1853-1856	you	h1[15]	*[15]	_	
+18-3	1857-1865	describe	h1[15]	*[15]	_	
+18-4	1866-1869	the	h1[15]	*[15]	_	
+18-5	1870-1874	most	h1[15]	*[15]	_	
+18-6	1875-1883	visually	h1[15]	*[15]	_	
+18-7	1884-1891	salient	h1[15]	*[15]	_	
+18-8	1892-1900	elements	h1[15]	*[15]	_	
+18-9	1901-1903	of	h1[15]	*[15]	_	
+18-10	1904-1907	the	h1[15]	*[15]	_	
+18-11	1908-1911	map	h1[15]	*[15]	_	
+18-12	1911-1912	?	h1[15]	*[15]	_	
+
+#Text=Okay, let’s break down the most visually salient elements of this map.
+19-1	1913-1917	Okay	p[16]	*[16]	_	
+19-2	1917-1918	,	p[16]	*[16]	_	
+19-3	1919-1922	let	p[16]	*[16]	_	
+19-4	1922-1923	’	p[16]	*[16]	_	
+19-5	1923-1924	s	p[16]	*[16]	_	
+19-6	1925-1930	break	p[16]	*[16]	_	
+19-7	1931-1935	down	p[16]	*[16]	_	
+19-8	1936-1939	the	p[16]	*[16]	_	
+19-9	1940-1944	most	p[16]	*[16]	_	
+19-10	1945-1953	visually	p[16]	*[16]	_	
+19-11	1954-1961	salient	p[16]	*[16]	_	
+19-12	1962-1970	elements	p[16]	*[16]	_	
+19-13	1971-1973	of	p[16]	*[16]	_	
+19-14	1974-1978	this	p[16]	*[16]	_	
+19-15	1979-1982	map	p[16]	*[16]	_	
+19-16	1982-1983	.	p[16]	*[16]	_	
+
+#Text=Here’s a description focusing on what stands out: 1.
+20-1	1984-1988	Here	p[16]	*[16]	_	
+20-2	1988-1989	’	p[16]	*[16]	_	
+20-3	1989-1990	s	p[16]	*[16]	_	
+20-4	1991-1992	a	p[16]	*[16]	_	
+20-5	1993-2004	description	p[16]	*[16]	_	
+20-6	2005-2013	focusing	p[16]	*[16]	_	
+20-7	2014-2016	on	p[16]	*[16]	_	
+20-8	2017-2021	what	p[16]	*[16]	_	
+20-9	2022-2028	stands	p[16]	*[16]	_	
+20-10	2029-2032	out	p[16]	*[16]	_	
+20-11	2032-2033	:	p[16]	*[16]	_	
+20-12	2034-2035	1	p[17]	*[17]	_	
+20-13	2035-2036	.	p[17]	*[17]	_	
+
+#Text=Topography & Terrain: * Mountain Range Dominance: The most striking feature is the prominent, rugged mountain range dominating the central and western parts of the map.
+21-1	2037-2047	Topography	p[17]	*[17]	_	
+21-2	2048-2049	&	p[17]	*[17]	_	
+21-3	2050-2057	Terrain	p[17]	*[17]	_	
+21-4	2057-2058	:	p[17]	*[17]	_	
+21-5	2059-2060	*	p[17]	*[17]	_	
+21-6	2061-2069	Mountain	p[17]	*[17]	_	
+21-7	2070-2075	Range	p[17]	*[17]	_	
+21-8	2076-2085	Dominance	p[17]	*[17]	_	
+21-9	2085-2086	:	p[17]	*[17]	_	
+21-10	2087-2090	The	p[17]	*[17]	_	
+21-11	2091-2095	most	p[17]	*[17]	_	
+21-12	2096-2104	striking	p[17]	*[17]	_	
+21-13	2105-2112	feature	p[17]	*[17]	_	
+21-14	2113-2115	is	p[17]	*[17]	_	
+21-15	2116-2119	the	p[17]	*[17]	_	
+21-16	2120-2129	prominent	p[17]	*[17]	_	
+21-17	2129-2130	,	p[17]	*[17]	_	
+21-18	2131-2137	rugged	p[17]	*[17]	_	
+21-19	2138-2146	mountain	p[17]	*[17]	_	
+21-20	2147-2152	range	p[17]	*[17]	_	
+21-21	2153-2163	dominating	p[17]	*[17]	_	
+21-22	2164-2167	the	p[17]	*[17]	_	
+21-23	2168-2175	central	p[17]	*[17]	_	
+21-24	2176-2179	and	p[17]	*[17]	_	
+21-25	2180-2187	western	p[17]	*[17]	_	
+21-26	2188-2193	parts	p[17]	*[17]	_	
+21-27	2194-2196	of	p[17]	*[17]	_	
+21-28	2197-2200	the	p[17]	*[17]	_	
+21-29	2201-2204	map	p[17]	*[17]	_	
+21-30	2204-2205	.	p[17]	*[17]	_	
+
+#Text=This is clearly represented by a textured, shaded relief showing elevation changes.
+22-1	2206-2210	This	p[17]	*[17]	_	
+22-2	2211-2213	is	p[17]	*[17]	_	
+22-3	2214-2221	clearly	p[17]	*[17]	_	
+22-4	2222-2233	represented	p[17]	*[17]	_	
+22-5	2234-2236	by	p[17]	*[17]	_	
+22-6	2237-2238	a	p[17]	*[17]	_	
+22-7	2239-2247	textured	p[17]	*[17]	_	
+22-8	2247-2248	,	p[17]	*[17]	_	
+22-9	2249-2255	shaded	p[17]	*[17]	_	
+22-10	2256-2262	relief	p[17]	*[17]	_	
+22-11	2263-2270	showing	p[17]	*[17]	_	
+22-12	2271-2280	elevation	p[17]	*[17]	_	
+22-13	2281-2288	changes	p[17]	*[17]	_	
+22-14	2288-2289	.	p[17]	*[17]	_	
+
+#Text=The mountains are named “Monte” and “Sanctander,” suggesting they are a significant part of the landscape. * Valley: A large valley cuts through the mountains, creating a distinct shape and providing a clear path for rivers. 2.
+23-1	2290-2293	The	p[17]	*[17]	_	
+23-2	2294-2303	mountains	p[17]	*[17]	_	
+23-3	2304-2307	are	p[17]	*[17]	_	
+23-4	2308-2313	named	p[17]	*[17]	_	
+23-5	2314-2315	“	p[17]	*[17]	_	
+23-6	2315-2320	Monte	p[17]	*[17]	_	
+23-7	2320-2321	”	p[17]	*[17]	_	
+23-8	2322-2325	and	p[17]	*[17]	_	
+23-9	2326-2327	“	p[17]	*[17]	_	
+23-10	2327-2337	Sanctander	p[17]	*[17]	_	
+23-11	2337-2338	,	p[17]	*[17]	_	
+23-12	2338-2339	”	p[17]	*[17]	_	
+23-13	2340-2350	suggesting	p[17]	*[17]	_	
+23-14	2351-2355	they	p[17]	*[17]	_	
+23-15	2356-2359	are	p[17]	*[17]	_	
+23-16	2360-2361	a	p[17]	*[17]	_	
+23-17	2362-2373	significant	p[17]	*[17]	_	
+23-18	2374-2378	part	p[17]	*[17]	_	
+23-19	2379-2381	of	p[17]	*[17]	_	
+23-20	2382-2385	the	p[17]	*[17]	_	
+23-21	2386-2395	landscape	p[17]	*[17]	_	
+23-22	2395-2396	.	p[17]	*[17]	_	
+23-23	2397-2398	*	p[17]	*[17]	_	
+23-24	2399-2405	Valley	p[17]	*[17]	_	
+23-25	2405-2406	:	p[17]	*[17]	_	
+23-26	2407-2408	A	p[17]	*[17]	_	
+23-27	2409-2414	large	p[17]	*[17]	_	
+23-28	2415-2421	valley	p[17]	*[17]	_	
+23-29	2422-2426	cuts	p[17]	*[17]	_	
+23-30	2427-2434	through	p[17]	*[17]	_	
+23-31	2435-2438	the	p[17]	*[17]	_	
+23-32	2439-2448	mountains	p[17]	*[17]	_	
+23-33	2448-2449	,	p[17]	*[17]	_	
+23-34	2450-2458	creating	p[17]	*[17]	_	
+23-35	2459-2460	a	p[17]	*[17]	_	
+23-36	2461-2469	distinct	p[17]	*[17]	_	
+23-37	2470-2475	shape	p[17]	*[17]	_	
+23-38	2476-2479	and	p[17]	*[17]	_	
+23-39	2480-2489	providing	p[17]	*[17]	_	
+23-40	2490-2491	a	p[17]	*[17]	_	
+23-41	2492-2497	clear	p[17]	*[17]	_	
+23-42	2498-2502	path	p[17]	*[17]	_	
+23-43	2503-2506	for	p[17]	*[17]	_	
+23-44	2507-2513	rivers	p[17]	*[17]	_	
+23-45	2513-2514	.	p[17]	*[17]	_	
+23-46	2515-2516	2	p[18]	*[18]	_	
+23-47	2516-2517	.	p[18]	*[18]	_	
+
+#Text=Water Features: * River System: A complex network of rivers flows through the valley and surrounding areas.
+24-1	2518-2523	Water	p[18]	*[18]	_	
+24-2	2524-2532	Features	p[18]	*[18]	_	
+24-3	2532-2533	:	p[18]	*[18]	_	
+24-4	2534-2535	*	p[18]	*[18]	_	
+24-5	2536-2541	River	p[18]	*[18]	_	
+24-6	2542-2548	System	p[18]	*[18]	_	
+24-7	2548-2549	:	p[18]	*[18]	_	
+24-8	2550-2551	A	p[18]	*[18]	_	
+24-9	2552-2559	complex	p[18]	*[18]	_	
+24-10	2560-2567	network	p[18]	*[18]	_	
+24-11	2568-2570	of	p[18]	*[18]	_	
+24-12	2571-2577	rivers	p[18]	*[18]	_	
+24-13	2578-2583	flows	p[18]	*[18]	_	
+24-14	2584-2591	through	p[18]	*[18]	_	
+24-15	2592-2595	the	p[18]	*[18]	_	
+24-16	2596-2602	valley	p[18]	*[18]	_	
+24-17	2603-2606	and	p[18]	*[18]	_	
+24-18	2607-2618	surrounding	p[18]	*[18]	_	
+24-19	2619-2624	areas	p[18]	*[18]	_	
+24-20	2624-2625	.	p[18]	*[18]	_	
+
+#Text=The main river is a blue line, likely representing the Río del Muelle.
+25-1	2626-2629	The	p[18]	*[18]	_	
+25-2	2630-2634	main	p[18]	*[18]	_	
+25-3	2635-2640	river	p[18]	*[18]	_	
+25-4	2641-2643	is	p[18]	*[18]	_	
+25-5	2644-2645	a	p[18]	*[18]	_	
+25-6	2646-2650	blue	p[18]	*[18]	_	
+25-7	2651-2655	line	p[18]	*[18]	_	
+25-8	2655-2656	,	p[18]	*[18]	_	
+25-9	2657-2663	likely	p[18]	*[18]	_	
+25-10	2664-2676	representing	p[18]	*[18]	_	
+25-11	2677-2680	the	p[18]	*[18]	_	
+25-12	2681-2684	Río	p[18]	*[18]	_	
+25-13	2685-2688	del	p[18]	*[18]	_	
+25-14	2689-2695	Muelle	p[18]	*[18]	_	
+25-15	2695-2696	.	p[18]	*[18]	_	
+
+#Text=Smaller tributaries branch off from it. * Coastal Area: The map shows a coastline with the sea indicated in blue, and a small island (likely Isla de la Lancia) just off the coast. 3.
+26-1	2697-2704	Smaller	p[18]	*[18]	_	
+26-2	2705-2716	tributaries	p[18]	*[18]	_	
+26-3	2717-2723	branch	p[18]	*[18]	_	
+26-4	2724-2727	off	p[18]	*[18]	_	
+26-5	2728-2732	from	p[18]	*[18]	_	
+26-6	2733-2735	it	p[18]	*[18]	_	
+26-7	2735-2736	.	p[18]	*[18]	_	
+26-8	2737-2738	*	p[18]	*[18]	_	
+26-9	2739-2746	Coastal	p[18]	*[18]	_	
+26-10	2747-2751	Area	p[18]	*[18]	_	
+26-11	2751-2752	:	p[18]	*[18]	_	
+26-12	2753-2756	The	p[18]	*[18]	_	
+26-13	2757-2760	map	p[18]	*[18]	_	
+26-14	2761-2766	shows	p[18]	*[18]	_	
+26-15	2767-2768	a	p[18]	*[18]	_	
+26-16	2769-2778	coastline	p[18]	*[18]	_	
+26-17	2779-2783	with	p[18]	*[18]	_	
+26-18	2784-2787	the	p[18]	*[18]	_	
+26-19	2788-2791	sea	p[18]	*[18]	_	
+26-20	2792-2801	indicated	p[18]	*[18]	_	
+26-21	2802-2804	in	p[18]	*[18]	_	
+26-22	2805-2809	blue	p[18]	*[18]	_	
+26-23	2809-2810	,	p[18]	*[18]	_	
+26-24	2811-2814	and	p[18]	*[18]	_	
+26-25	2815-2816	a	p[18]	*[18]	_	
+26-26	2817-2822	small	p[18]	*[18]	_	
+26-27	2823-2829	island	p[18]	*[18]	_	
+26-28	2830-2831	(	p[18]	*[18]	_	
+26-29	2831-2837	likely	p[18]	*[18]	_	
+26-30	2838-2842	Isla	p[18]	*[18]	_	
+26-31	2843-2845	de	p[18]	*[18]	_	
+26-32	2846-2848	la	p[18]	*[18]	_	
+26-33	2849-2855	Lancia	p[18]	*[18]	_	
+26-34	2855-2856	)	p[18]	*[18]	_	
+26-35	2857-2861	just	p[18]	*[18]	_	
+26-36	2862-2865	off	p[18]	*[18]	_	
+26-37	2866-2869	the	p[18]	*[18]	_	
+26-38	2870-2875	coast	p[18]	*[18]	_	
+26-39	2875-2876	.	p[18]	*[18]	_	
+26-40	2877-2878	3	p[19]	*[19]	_	
+26-41	2878-2879	.	p[19]	*[19]	_	
+
+#Text=Settlements & Infrastructure: * Santander: The city of Santander is the largest settlement and is clearly marked with a distinct shape and name.
+27-1	2880-2891	Settlements	p[19]	*[19]	_	
+27-2	2892-2893	&	p[19]	*[19]	_	
+27-3	2894-2908	Infrastructure	p[19]	*[19]	_	
+27-4	2908-2909	:	p[19]	*[19]	_	
+27-5	2910-2911	*	p[19]	*[19]	_	
+27-6	2912-2921	Santander	p[19]	*[19]	_	
+27-7	2921-2922	:	p[19]	*[19]	_	
+27-8	2923-2926	The	p[19]	*[19]	_	
+27-9	2927-2931	city	p[19]	*[19]	_	
+27-10	2932-2934	of	p[19]	*[19]	_	
+27-11	2935-2944	Santander	p[19]	*[19]	_	
+27-12	2945-2947	is	p[19]	*[19]	_	
+27-13	2948-2951	the	p[19]	*[19]	_	
+27-14	2952-2959	largest	p[19]	*[19]	_	
+27-15	2960-2970	settlement	p[19]	*[19]	_	
+27-16	2971-2974	and	p[19]	*[19]	_	
+27-17	2975-2977	is	p[19]	*[19]	_	
+27-18	2978-2985	clearly	p[19]	*[19]	_	
+27-19	2986-2992	marked	p[19]	*[19]	_	
+27-20	2993-2997	with	p[19]	*[19]	_	
+27-21	2998-2999	a	p[19]	*[19]	_	
+27-22	3000-3008	distinct	p[19]	*[19]	_	
+27-23	3009-3014	shape	p[19]	*[19]	_	
+27-24	3015-3018	and	p[19]	*[19]	_	
+27-25	3019-3023	name	p[19]	*[19]	_	
+27-26	3023-3024	.	p[19]	*[19]	_	
+
+#Text=It’s located at the mouth of the Río del Muelle where it meets the sea. * Smaller Towns & Villages: Numerous smaller settlements are scattered throughout the region, indicated by dots or small shapes.
+28-1	3025-3027	It	p[19]	*[19]	_	
+28-2	3027-3028	’	p[19]	*[19]	_	
+28-3	3028-3029	s	p[19]	*[19]	_	
+28-4	3030-3037	located	p[19]	*[19]	_	
+28-5	3038-3040	at	p[19]	*[19]	_	
+28-6	3041-3044	the	p[19]	*[19]	_	
+28-7	3045-3050	mouth	p[19]	*[19]	_	
+28-8	3051-3053	of	p[19]	*[19]	_	
+28-9	3054-3057	the	p[19]	*[19]	_	
+28-10	3058-3061	Río	p[19]	*[19]	_	
+28-11	3062-3065	del	p[19]	*[19]	_	
+28-12	3066-3072	Muelle	p[19]	*[19]	_	
+28-13	3073-3078	where	p[19]	*[19]	_	
+28-14	3079-3081	it	p[19]	*[19]	_	
+28-15	3082-3087	meets	p[19]	*[19]	_	
+28-16	3088-3091	the	p[19]	*[19]	_	
+28-17	3092-3095	sea	p[19]	*[19]	_	
+28-18	3095-3096	.	p[19]	*[19]	_	
+28-19	3097-3098	*	p[19]	*[19]	_	
+28-20	3099-3106	Smaller	p[19]	*[19]	_	
+28-21	3107-3112	Towns	p[19]	*[19]	_	
+28-22	3113-3114	&	p[19]	*[19]	_	
+28-23	3115-3123	Villages	p[19]	*[19]	_	
+28-24	3123-3124	:	p[19]	*[19]	_	
+28-25	3125-3133	Numerous	p[19]	*[19]	_	
+28-26	3134-3141	smaller	p[19]	*[19]	_	
+28-27	3142-3153	settlements	p[19]	*[19]	_	
+28-28	3154-3157	are	p[19]	*[19]	_	
+28-29	3158-3167	scattered	p[19]	*[19]	_	
+28-30	3168-3178	throughout	p[19]	*[19]	_	
+28-31	3179-3182	the	p[19]	*[19]	_	
+28-32	3183-3189	region	p[19]	*[19]	_	
+28-33	3189-3190	,	p[19]	*[19]	_	
+28-34	3191-3200	indicated	p[19]	*[19]	_	
+28-35	3201-3203	by	p[19]	*[19]	_	
+28-36	3204-3208	dots	p[19]	*[19]	_	
+28-37	3209-3211	or	p[19]	*[19]	_	
+28-38	3212-3217	small	p[19]	*[19]	_	
+28-39	3218-3224	shapes	p[19]	*[19]	_	
+28-40	3224-3225	.	p[19]	*[19]	_	
+
+#Text=These include places like “Sanctander,” “Penacastillo,” and “Mocedo.” * Roads: A network of roads is visible, connecting the settlements and traversing the mountains. 4.
+29-1	3226-3231	These	p[19]	*[19]	_	
+29-2	3232-3239	include	p[19]	*[19]	_	
+29-3	3240-3246	places	p[19]	*[19]	_	
+29-4	3247-3251	like	p[19]	*[19]	_	
+29-5	3252-3253	“	p[19]	*[19]	_	
+29-6	3253-3263	Sanctander	p[19]	*[19]	_	
+29-7	3263-3264	,	p[19]	*[19]	_	
+29-8	3264-3265	”	p[19]	*[19]	_	
+29-9	3266-3267	“	p[19]	*[19]	_	
+29-10	3267-3279	Penacastillo	p[19]	*[19]	_	
+29-11	3279-3280	,	p[19]	*[19]	_	
+29-12	3280-3281	”	p[19]	*[19]	_	
+29-13	3282-3285	and	p[19]	*[19]	_	
+29-14	3286-3287	“	p[19]	*[19]	_	
+29-15	3287-3293	Mocedo	p[19]	*[19]	_	
+29-16	3293-3294	.	p[19]	*[19]	_	
+29-17	3294-3295	”	p[19]	*[19]	_	
+29-18	3296-3297	*	p[19]	*[19]	_	
+29-19	3298-3303	Roads	p[19]	*[19]	_	
+29-20	3303-3304	:	p[19]	*[19]	_	
+29-21	3305-3306	A	p[19]	*[19]	_	
+29-22	3307-3314	network	p[19]	*[19]	_	
+29-23	3315-3317	of	p[19]	*[19]	_	
+29-24	3318-3323	roads	p[19]	*[19]	_	
+29-25	3324-3326	is	p[19]	*[19]	_	
+29-26	3327-3334	visible	p[19]	*[19]	_	
+29-27	3334-3335	,	p[19]	*[19]	_	
+29-28	3336-3346	connecting	p[19]	*[19]	_	
+29-29	3347-3350	the	p[19]	*[19]	_	
+29-30	3351-3362	settlements	p[19]	*[19]	_	
+29-31	3363-3366	and	p[19]	*[19]	_	
+29-32	3367-3377	traversing	p[19]	*[19]	_	
+29-33	3378-3381	the	p[19]	*[19]	_	
+29-34	3382-3391	mountains	p[19]	*[19]	_	
+29-35	3391-3392	.	p[19]	*[19]	_	
+29-36	3393-3394	4	p[20]	*[20]	_	
+29-37	3394-3395	.	p[20]	*[20]	_	
+
+#Text=Color & Shading: * Green for Vegetation: The map uses green to represent forested areas, particularly around the mountains and along the riverbanks. * Shading for Relief: The shading on the mountains creates a strong sense of depth and highlights the elevation changes. * Blue for Water: The blue color is consistently used to represent rivers and the sea. 5.
+30-1	3396-3401	Color	p[20]	*[20]	_	
+30-2	3402-3403	&	p[20]	*[20]	_	
+30-3	3404-3411	Shading	p[20]	*[20]	_	
+30-4	3411-3412	:	p[20]	*[20]	_	
+30-5	3413-3414	*	p[20]	*[20]	_	
+30-6	3415-3420	Green	p[20]	*[20]	_	
+30-7	3421-3424	for	p[20]	*[20]	_	
+30-8	3425-3435	Vegetation	p[20]	*[20]	_	
+30-9	3435-3436	:	p[20]	*[20]	_	
+30-10	3437-3440	The	p[20]	*[20]	_	
+30-11	3441-3444	map	p[20]	*[20]	_	
+30-12	3445-3449	uses	p[20]	*[20]	_	
+30-13	3450-3455	green	p[20]	*[20]	_	
+30-14	3456-3458	to	p[20]	*[20]	_	
+30-15	3459-3468	represent	p[20]	*[20]	_	
+30-16	3469-3477	forested	p[20]	*[20]	_	
+30-17	3478-3483	areas	p[20]	*[20]	_	
+30-18	3483-3484	,	p[20]	*[20]	_	
+30-19	3485-3497	particularly	p[20]	*[20]	_	
+30-20	3498-3504	around	p[20]	*[20]	_	
+30-21	3505-3508	the	p[20]	*[20]	_	
+30-22	3509-3518	mountains	p[20]	*[20]	_	
+30-23	3519-3522	and	p[20]	*[20]	_	
+30-24	3523-3528	along	p[20]	*[20]	_	
+30-25	3529-3532	the	p[20]	*[20]	_	
+30-26	3533-3543	riverbanks	p[20]	*[20]	_	
+30-27	3543-3544	.	p[20]	*[20]	_	
+30-28	3545-3546	*	p[20]	*[20]	_	
+30-29	3547-3554	Shading	p[20]	*[20]	_	
+30-30	3555-3558	for	p[20]	*[20]	_	
+30-31	3559-3565	Relief	p[20]	*[20]	_	
+30-32	3565-3566	:	p[20]	*[20]	_	
+30-33	3567-3570	The	p[20]	*[20]	_	
+30-34	3571-3578	shading	p[20]	*[20]	_	
+30-35	3579-3581	on	p[20]	*[20]	_	
+30-36	3582-3585	the	p[20]	*[20]	_	
+30-37	3586-3595	mountains	p[20]	*[20]	_	
+30-38	3596-3603	creates	p[20]	*[20]	_	
+30-39	3604-3605	a	p[20]	*[20]	_	
+30-40	3606-3612	strong	p[20]	*[20]	_	
+30-41	3613-3618	sense	p[20]	*[20]	_	
+30-42	3619-3621	of	p[20]	*[20]	_	
+30-43	3622-3627	depth	p[20]	*[20]	_	
+30-44	3628-3631	and	p[20]	*[20]	_	
+30-45	3632-3642	highlights	p[20]	*[20]	_	
+30-46	3643-3646	the	p[20]	*[20]	_	
+30-47	3647-3656	elevation	p[20]	*[20]	_	
+30-48	3657-3664	changes	p[20]	*[20]	_	
+30-49	3664-3665	.	p[20]	*[20]	_	
+30-50	3666-3667	*	p[20]	*[20]	_	
+30-51	3668-3672	Blue	p[20]	*[20]	_	
+30-52	3673-3676	for	p[20]	*[20]	_	
+30-53	3677-3682	Water	p[20]	*[20]	_	
+30-54	3682-3683	:	p[20]	*[20]	_	
+30-55	3684-3687	The	p[20]	*[20]	_	
+30-56	3688-3692	blue	p[20]	*[20]	_	
+30-57	3693-3698	color	p[20]	*[20]	_	
+30-58	3699-3701	is	p[20]	*[20]	_	
+30-59	3702-3714	consistently	p[20]	*[20]	_	
+30-60	3715-3719	used	p[20]	*[20]	_	
+30-61	3720-3722	to	p[20]	*[20]	_	
+30-62	3723-3732	represent	p[20]	*[20]	_	
+30-63	3733-3739	rivers	p[20]	*[20]	_	
+30-64	3740-3743	and	p[20]	*[20]	_	
+30-65	3744-3747	the	p[20]	*[20]	_	
+30-66	3748-3751	sea	p[20]	*[20]	_	
+30-67	3751-3752	.	p[20]	*[20]	_	
+30-68	3753-3754	5	p[21]	*[21]	_	
+30-69	3754-3755	.	p[21]	*[21]	_	
+
+#Text=Other Notable Features: * Island (Isla de la Lancia): A small island is located offshore. * Road Numbers: The road numbers (CA-146, CA-147) are visible in the lower right corner.
+31-1	3756-3761	Other	p[21]	*[21]	_	
+31-2	3762-3769	Notable	p[21]	*[21]	_	
+31-3	3770-3778	Features	p[21]	*[21]	_	
+31-4	3778-3779	:	p[21]	*[21]	_	
+31-5	3780-3781	*	p[21]	*[21]	_	
+31-6	3782-3788	Island	p[21]	*[21]	_	
+31-7	3789-3790	(	p[21]	*[21]	_	
+31-8	3790-3794	Isla	p[21]	*[21]	_	
+31-9	3795-3797	de	p[21]	*[21]	_	
+31-10	3798-3800	la	p[21]	*[21]	_	
+31-11	3801-3807	Lancia	p[21]	*[21]	_	
+31-12	3807-3808	)	p[21]	*[21]	_	
+31-13	3808-3809	:	p[21]	*[21]	_	
+31-14	3810-3811	A	p[21]	*[21]	_	
+31-15	3812-3817	small	p[21]	*[21]	_	
+31-16	3818-3824	island	p[21]	*[21]	_	
+31-17	3825-3827	is	p[21]	*[21]	_	
+31-18	3828-3835	located	p[21]	*[21]	_	
+31-19	3836-3844	offshore	p[21]	*[21]	_	
+31-20	3844-3845	.	p[21]	*[21]	_	
+31-21	3846-3847	*	p[21]	*[21]	_	
+31-22	3848-3852	Road	p[21]	*[21]	_	
+31-23	3853-3860	Numbers	p[21]	*[21]	_	
+31-24	3860-3861	:	p[21]	*[21]	_	
+31-25	3862-3865	The	p[21]	*[21]	_	
+31-26	3866-3870	road	p[21]	*[21]	_	
+31-27	3871-3878	numbers	p[21]	*[21]	_	
+31-28	3879-3880	(	p[21]	*[21]	_	
+31-29	3880-3882	CA	p[21]	*[21]	_	
+31-30	3882-3883	-	p[21]	*[21]	_	
+31-31	3883-3886	146	p[21]	*[21]	_	
+31-32	3886-3887	,	p[21]	*[21]	_	
+31-33	3888-3890	CA	p[21]	*[21]	_	
+31-34	3890-3891	-	p[21]	*[21]	_	
+31-35	3891-3894	147	p[21]	*[21]	_	
+31-36	3894-3895	)	p[21]	*[21]	_	
+31-37	3896-3899	are	p[21]	*[21]	_	
+31-38	3900-3907	visible	p[21]	*[21]	_	
+31-39	3908-3910	in	p[21]	*[21]	_	
+31-40	3911-3914	the	p[21]	*[21]	_	
+31-41	3915-3920	lower	p[21]	*[21]	_	
+31-42	3921-3926	right	p[21]	*[21]	_	
+31-43	3927-3933	corner	p[21]	*[21]	_	
+31-44	3933-3934	.	p[21]	*[21]	_	
+
+#Text=Overall Impression: The map is a detailed representation of a mountainous region with a significant river system and a coastal area.
+32-1	3935-3942	Overall	p[22]	*[22]	_	
+32-2	3943-3953	Impression	p[22]	*[22]	_	
+32-3	3953-3954	:	p[22]	*[22]	_	
+32-4	3955-3958	The	p[22]	*[22]	_	
+32-5	3959-3962	map	p[22]	*[22]	_	
+32-6	3963-3965	is	p[22]	*[22]	_	
+32-7	3966-3967	a	p[22]	*[22]	_	
+32-8	3968-3976	detailed	p[22]	*[22]	_	
+32-9	3977-3991	representation	p[22]	*[22]	_	
+32-10	3992-3994	of	p[22]	*[22]	_	
+32-11	3995-3996	a	p[22]	*[22]	_	
+32-12	3997-4008	mountainous	p[22]	*[22]	_	
+32-13	4009-4015	region	p[22]	*[22]	_	
+32-14	4016-4020	with	p[22]	*[22]	_	
+32-15	4021-4022	a	p[22]	*[22]	_	
+32-16	4023-4034	significant	p[22]	*[22]	_	
+32-17	4035-4040	river	p[22]	*[22]	_	
+32-18	4041-4047	system	p[22]	*[22]	_	
+32-19	4048-4051	and	p[22]	*[22]	_	
+32-20	4052-4053	a	p[22]	*[22]	_	
+32-21	4054-4061	coastal	p[22]	*[22]	_	
+32-22	4062-4066	area	p[22]	*[22]	_	
+32-23	4066-4067	.	p[22]	*[22]	_	
+
+#Text=It emphasizes the natural landscape, particularly the mountains and rivers, with settlements integrated within this environment.
+33-1	4068-4070	It	p[22]	*[22]	_	
+33-2	4071-4081	emphasizes	p[22]	*[22]	_	
+33-3	4082-4085	the	p[22]	*[22]	_	
+33-4	4086-4093	natural	p[22]	*[22]	_	
+33-5	4094-4103	landscape	p[22]	*[22]	_	
+33-6	4103-4104	,	p[22]	*[22]	_	
+33-7	4105-4117	particularly	p[22]	*[22]	_	
+33-8	4118-4121	the	p[22]	*[22]	_	
+33-9	4122-4131	mountains	p[22]	*[22]	_	
+33-10	4132-4135	and	p[22]	*[22]	_	
+33-11	4136-4142	rivers	p[22]	*[22]	_	
+33-12	4142-4143	,	p[22]	*[22]	_	
+33-13	4144-4148	with	p[22]	*[22]	_	
+33-14	4149-4160	settlements	p[22]	*[22]	_	
+33-15	4161-4171	integrated	p[22]	*[22]	_	
+33-16	4172-4178	within	p[22]	*[22]	_	
+33-17	4179-4183	this	p[22]	*[22]	_	
+33-18	4184-4195	environment	p[22]	*[22]	_	
+33-19	4195-4196	.	p[22]	*[22]	_	
+
+#Text=Would you like me to focus on a specific aspect of the map, such as:  The road network?
+34-1	4197-4202	Would	p[23]	*[23]	_	
+34-2	4203-4206	you	p[23]	*[23]	_	
+34-3	4207-4211	like	p[23]	*[23]	_	
+34-4	4212-4214	me	p[23]	*[23]	_	
+34-5	4215-4217	to	p[23]	*[23]	_	
+34-6	4218-4223	focus	p[23]	*[23]	_	
+34-7	4224-4226	on	p[23]	*[23]	_	
+34-8	4227-4228	a	p[23]	*[23]	_	
+34-9	4229-4237	specific	p[23]	*[23]	_	
+34-10	4238-4244	aspect	p[23]	*[23]	_	
+34-11	4245-4247	of	p[23]	*[23]	_	
+34-12	4248-4251	the	p[23]	*[23]	_	
+34-13	4252-4255	map	p[23]	*[23]	_	
+34-14	4255-4256	,	p[23]	*[23]	_	
+34-15	4257-4261	such	p[23]	*[23]	_	
+34-16	4262-4264	as	p[23]	*[23]	_	
+34-17	4264-4265	:	p[23]	*[23]	_	
+34-18	4267-4270	The	_	_	_	
+34-19	4271-4275	road	_	_	_	
+34-20	4276-4283	network	_	_	_	
+34-21	4283-4284	?	_	_	_	
+
+#Text=The river system in more detail?
+35-1	4285-4288	The	_	_	_	
+35-2	4289-4294	river	_	_	_	
+35-3	4295-4301	system	_	_	_	
+35-4	4302-4304	in	_	_	_	
+35-5	4305-4309	more	_	_	_	
+35-6	4310-4316	detail	_	_	_	
+35-7	4316-4317	?	_	_	_	
+
+#Text=The relationship between the settlements and the terrain?
+36-1	4318-4321	The	_	_	_	
+36-2	4322-4334	relationship	_	_	_	
+36-3	4335-4342	between	_	_	_	
+36-4	4343-4346	the	_	_	_	
+36-5	4347-4358	settlements	_	_	_	
+36-6	4359-4362	and	_	_	_	
+36-7	4363-4366	the	_	_	_	
+36-8	4367-4374	terrain	_	_	_	
+36-9	4374-4375	?	_	_	_	
+
+#Text=Anchors summary  Santander (city) Monte (mountain name cited) Sanctander (mountain name cited) Large valley (non-named) River system (non-named) Río del Muelle (main river, cited as likely) Tributaries (non-named) Coastline / sea (non-named) Isla de la Lancia (small island, cited as likely) Penacastillo Mocedo Road network (non-named) Road numbers CA-146 and CA-147 Forested areas / green vegetation (non-named)
+37-1	4377-4384	Anchors	h1[24]	*[24]	_	
+37-2	4385-4392	summary	h1[24]	*[24]	_	
+37-3	4394-4403	Santander	_	_	_	
+37-4	4404-4405	(	_	_	_	
+37-5	4405-4409	city	_	_	_	
+37-6	4409-4410	)	_	_	_	
+37-7	4411-4416	Monte	_	_	_	
+37-8	4417-4418	(	_	_	_	
+37-9	4418-4426	mountain	_	_	_	
+37-10	4427-4431	name	_	_	_	
+37-11	4432-4437	cited	_	_	_	
+37-12	4437-4438	)	_	_	_	
+37-13	4439-4449	Sanctander	_	_	_	
+37-14	4450-4451	(	_	_	_	
+37-15	4451-4459	mountain	_	_	_	
+37-16	4460-4464	name	_	_	_	
+37-17	4465-4470	cited	_	_	_	
+37-18	4470-4471	)	_	_	_	
+37-19	4472-4477	Large	_	_	_	
+37-20	4478-4484	valley	_	_	_	
+37-21	4485-4486	(	_	_	_	
+37-22	4486-4495	non-named	_	_	_	
+37-23	4495-4496	)	_	_	_	
+37-24	4497-4502	River	_	_	_	
+37-25	4503-4509	system	_	_	_	
+37-26	4510-4511	(	_	_	_	
+37-27	4511-4520	non-named	_	_	_	
+37-28	4520-4521	)	_	_	_	
+37-29	4522-4525	Río	_	_	_	
+37-30	4526-4529	del	_	_	_	
+37-31	4530-4536	Muelle	_	_	_	
+37-32	4537-4538	(	_	_	_	
+37-33	4538-4542	main	_	_	_	
+37-34	4543-4548	river	_	_	_	
+37-35	4548-4549	,	_	_	_	
+37-36	4550-4555	cited	_	_	_	
+37-37	4556-4558	as	_	_	_	
+37-38	4559-4565	likely	_	_	_	
+37-39	4565-4566	)	_	_	_	
+37-40	4567-4578	Tributaries	_	_	_	
+37-41	4579-4580	(	_	_	_	
+37-42	4580-4589	non-named	_	_	_	
+37-43	4589-4590	)	_	_	_	
+37-44	4591-4600	Coastline	_	_	_	
+37-45	4601-4602	/	_	_	_	
+37-46	4603-4606	sea	_	_	_	
+37-47	4607-4608	(	_	_	_	
+37-48	4608-4617	non-named	_	_	_	
+37-49	4617-4618	)	_	_	_	
+37-50	4619-4623	Isla	_	_	_	
+37-51	4624-4626	de	_	_	_	
+37-52	4627-4629	la	_	_	_	
+37-53	4630-4636	Lancia	_	_	_	
+37-54	4637-4638	(	_	_	_	
+37-55	4638-4643	small	_	_	_	
+37-56	4644-4650	island	_	_	_	
+37-57	4650-4651	,	_	_	_	
+37-58	4652-4657	cited	_	_	_	
+37-59	4658-4660	as	_	_	_	
+37-60	4661-4667	likely	_	_	_	
+37-61	4667-4668	)	_	_	_	
+37-62	4669-4681	Penacastillo	_	_	_	
+37-63	4682-4688	Mocedo	_	_	_	
+37-64	4689-4693	Road	_	_	_	
+37-65	4694-4701	network	_	_	_	
+37-66	4702-4703	(	_	_	_	
+37-67	4703-4712	non-named	_	_	_	
+37-68	4712-4713	)	_	_	_	
+37-69	4714-4718	Road	_	_	_	
+37-70	4719-4726	numbers	_	_	_	
+37-71	4727-4729	CA	_	_	_	
+37-72	4729-4730	-	_	_	_	
+37-73	4730-4733	146	_	_	_	
+37-74	4734-4737	and	_	_	_	
+37-75	4738-4740	CA	_	_	_	
+37-76	4740-4741	-	_	_	_	
+37-77	4741-4744	147	_	_	_	
+37-78	4745-4753	Forested	_	_	_	
+37-79	4754-4759	areas	_	_	_	
+37-80	4760-4761	/	_	_	_	
+37-81	4762-4767	green	_	_	_	
+37-82	4768-4778	vegetation	_	_	_	
+37-83	4779-4780	(	_	_	_	
+37-84	4780-4789	non-named	_	_	_	
+37-85	4789-4790	)	_	_	_	

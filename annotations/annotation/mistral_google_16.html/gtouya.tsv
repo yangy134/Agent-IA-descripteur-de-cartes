@@ -1,0 +1,780 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=The map depicts a section of New Haven, Connecticut, focusing on the Yale University campus and its surrounding area.
+2-1	42-45	The	p[2]	*[2]	_	
+2-2	46-49	map	p[2]	*[2]	_	
+2-3	50-57	depicts	p[2]	*[2]	_	
+2-4	58-59	a	p[2]	*[2]	_	
+2-5	60-67	section	p[2]	*[2]	_	
+2-6	68-70	of	p[2]	*[2]	_	
+2-7	71-74	New	p[2]	*[2]	toponym[8]	
+2-8	75-80	Haven	p[2]	*[2]	toponym[8]	
+2-9	80-81	,	p[2]	*[2]	toponym[8]	
+2-10	82-93	Connecticut	p[2]	*[2]	toponym[8]	
+2-11	93-94	,	p[2]	*[2]	_	
+2-12	95-103	focusing	p[2]	*[2]	_	
+2-13	104-106	on	p[2]	*[2]	_	
+2-14	107-110	the	p[2]	*[2]	_	
+2-15	111-115	Yale	p[2]	*[2]	toponym[9]	
+2-16	116-126	University	p[2]	*[2]	toponym[9]	
+2-17	127-133	campus	p[2]	*[2]	_	
+2-18	134-137	and	p[2]	*[2]	_	
+2-19	138-141	its	p[2]	*[2]	_	
+2-20	142-153	surrounding	p[2]	*[2]	_	
+2-21	154-158	area	p[2]	*[2]	_	
+2-22	158-159	.	p[2]	*[2]	_	
+
+#Text=Here’s a detailed summary of the map’s content:  Yale University Landmarks:   Yale Old Campus: Located near the center-left of the map, this is a significant part of the Yale campus.
+3-1	160-164	Here	p[2]	*[2]	_	
+3-2	164-165	’	p[2]	*[2]	_	
+3-3	165-166	s	p[2]	*[2]	_	
+3-4	167-168	a	p[2]	*[2]	_	
+3-5	169-177	detailed	p[2]	*[2]	_	
+3-6	178-185	summary	p[2]	*[2]	_	
+3-7	186-188	of	p[2]	*[2]	_	
+3-8	189-192	the	p[2]	*[2]	_	
+3-9	193-196	map	p[2]	*[2]	_	
+3-10	196-197	’	p[2]	*[2]	_	
+3-11	197-198	s	p[2]	*[2]	_	
+3-12	199-206	content	p[2]	*[2]	_	
+3-13	206-207	:	p[2]	*[2]	_	
+3-14	209-213	Yale	_	_	_	
+3-15	214-224	University	_	_	_	
+3-16	225-234	Landmarks	_	_	_	
+3-17	234-235	:	_	_	_	
+3-18	238-242	Yale	_	_	toponym[10]	
+3-19	243-246	Old	_	_	toponym[10]	
+3-20	247-253	Campus	_	_	toponym[10]	
+3-21	253-254	:	_	_	_	
+3-22	255-262	Located	_	_	_	
+3-23	263-267	near	_	_	spatial relation	
+3-24	268-271	the	_	_	_	
+3-25	272-283	center-left	_	_	_	
+3-26	284-286	of	_	_	_	
+3-27	287-290	the	_	_	_	
+3-28	291-294	map	_	_	_	
+3-29	294-295	,	_	_	_	
+3-30	296-300	this	_	_	_	
+3-31	301-303	is	_	_	_	
+3-32	304-305	a	_	_	_	
+3-33	306-317	significant	_	_	_	
+3-34	318-322	part	_	_	_	
+3-35	323-325	of	_	_	_	
+3-36	326-329	the	_	_	_	
+3-37	330-334	Yale	_	_	toponym[11]	
+3-38	335-341	campus	_	_	toponym[11]	
+3-39	341-342	.	_	_	_	
+
+#Text=Sterling Memorial Library: Positioned north of the Old Campus, this is one of the largest libraries at Yale.
+4-1	343-351	Sterling	_	_	toponym[12]	
+4-2	352-360	Memorial	_	_	toponym[12]	
+4-3	361-368	Library	_	_	toponym[12]	
+4-4	368-369	:	_	_	_	
+4-5	370-380	Positioned	_	_	_	
+4-6	381-386	north	_	_	spatial relation[13]	
+4-7	387-389	of	_	_	spatial relation[13]	
+4-8	390-393	the	_	_	spatial relation[13]	
+4-9	394-397	Old	_	_	toponym[14]	
+4-10	398-404	Campus	_	_	toponym[14]	
+4-11	404-405	,	_	_	_	
+4-12	406-410	this	_	_	_	
+4-13	411-413	is	_	_	_	
+4-14	414-417	one	_	_	_	
+4-15	418-420	of	_	_	_	
+4-16	421-424	the	_	_	_	
+4-17	425-432	largest	_	_	_	
+4-18	433-442	libraries	_	_	_	
+4-19	443-445	at	_	_	_	
+4-20	446-450	Yale	_	_	_	
+4-21	450-451	.	_	_	_	
+
+#Text=The Mead Visitor Center: Situated east of the Old Campus, likely a point of information for visitors.
+5-1	452-455	The	_	_	toponym[15]	
+5-2	456-460	Mead	_	_	toponym[15]	
+5-3	461-468	Visitor	_	_	toponym[15]	
+5-4	469-475	Center	_	_	toponym[15]	
+5-5	475-476	:	_	_	_	
+5-6	477-485	Situated	_	_	_	
+5-7	486-490	east	_	_	spatial relation[16]	
+5-8	491-493	of	_	_	spatial relation[16]	
+5-9	494-497	the	_	_	spatial relation[16]	
+5-10	498-501	Old	_	_	toponym[17]	
+5-11	502-508	Campus	_	_	toponym[17]	
+5-12	508-509	,	_	_	_	
+5-13	510-516	likely	_	_	_	
+5-14	517-518	a	_	_	_	
+5-15	519-524	point	_	_	_	
+5-16	525-527	of	_	_	_	
+5-17	528-539	information	_	_	_	
+5-18	540-543	for	_	_	_	
+5-19	544-552	visitors	_	_	_	
+5-20	552-553	.	_	_	_	
+
+#Text=College Street Music Hall: Found south of the Old Campus, this is a venue for musical performances.
+6-1	554-561	College	_	_	toponym[18]	
+6-2	562-568	Street	_	_	toponym[18]	
+6-3	569-574	Music	_	_	toponym[18]	
+6-4	575-579	Hall	_	_	toponym[18]	
+6-5	579-580	:	_	_	_	
+6-6	581-586	Found	_	_	_	
+6-7	587-592	south	_	_	spatial relation[19]	
+6-8	593-595	of	_	_	spatial relation[19]	
+6-9	596-599	the	_	_	spatial relation[19]	
+6-10	600-603	Old	_	_	toponym[20]	
+6-11	604-610	Campus	_	_	toponym[20]	
+6-12	610-611	,	_	_	_	
+6-13	612-616	this	_	_	_	
+6-14	617-619	is	_	_	_	
+6-15	620-621	a	_	_	_	
+6-16	622-627	venue	_	_	_	
+6-17	628-631	for	_	_	_	
+6-18	632-639	musical	_	_	_	
+6-19	640-652	performances	_	_	_	
+6-20	652-653	.	_	_	_	
+
+#Text=Surrounding Streets:   Major streets include Chapel Street, College Street, Elm Street, York Street, and Grove Street.
+7-1	656-667	Surrounding	_	_	_	
+7-2	668-675	Streets	_	_	_	
+7-3	675-676	:	_	_	_	
+7-4	679-684	Major	_	_	_	
+7-5	685-692	streets	_	_	_	
+7-6	693-700	include	_	_	_	
+7-7	701-707	Chapel	_	_	toponym[21]	
+7-8	708-714	Street	_	_	toponym[21]	
+7-9	714-715	,	_	_	_	
+7-10	716-723	College	_	_	toponym[22]	
+7-11	724-730	Street	_	_	toponym[22]	
+7-12	730-731	,	_	_	_	
+7-13	732-735	Elm	_	_	toponym[23]	
+7-14	736-742	Street	_	_	toponym[23]	
+7-15	742-743	,	_	_	_	
+7-16	744-748	York	_	_	toponym[24]	
+7-17	749-755	Street	_	_	toponym[24]	
+7-18	755-756	,	_	_	_	
+7-19	757-760	and	_	_	_	
+7-20	761-766	Grove	_	_	toponym[25]	
+7-21	767-773	Street	_	_	toponym[25]	
+7-22	773-774	.	_	_	_	
+
+#Text=Broadway and Orange Street are also visible, indicating the broader urban context.
+8-1	775-783	Broadway	_	_	toponym	
+8-2	784-787	and	_	_	_	
+8-3	788-794	Orange	_	_	toponym[26]	
+8-4	795-801	Street	_	_	toponym[26]	
+8-5	802-805	are	_	_	_	
+8-6	806-810	also	_	_	_	
+8-7	811-818	visible	_	_	_	
+8-8	818-819	,	_	_	_	
+8-9	820-830	indicating	_	_	_	
+8-10	831-834	the	_	_	_	
+8-11	835-842	broader	_	_	_	
+8-12	843-848	urban	_	_	_	
+8-13	849-856	context	_	_	_	
+8-14	856-857	.	_	_	_	
+
+#Text=Notable Buildings and Locations:   The Yale Bookstore: Located on Broadway, a key location for students and visitors to purchase books and supplies.
+9-1	860-867	Notable	_	_	_	
+9-2	868-877	Buildings	_	_	_	
+9-3	878-881	and	_	_	_	
+9-4	882-891	Locations	_	_	_	
+9-5	891-892	:	_	_	_	
+9-6	895-898	The	_	_	toponym[27]	
+9-7	899-903	Yale	_	_	toponym[27]	
+9-8	904-913	Bookstore	_	_	toponym[27]	
+9-9	913-914	:	_	_	_	
+9-10	915-922	Located	_	_	_	
+9-11	923-925	on	_	_	spatial relation	
+9-12	926-934	Broadway	_	_	toponym	
+9-13	934-935	,	_	_	_	
+9-14	936-937	a	_	_	_	
+9-15	938-941	key	_	_	_	
+9-16	942-950	location	_	_	_	
+9-17	951-954	for	_	_	_	
+9-18	955-963	students	_	_	_	
+9-19	964-967	and	_	_	_	
+9-20	968-976	visitors	_	_	_	
+9-21	977-979	to	_	_	_	
+9-22	980-988	purchase	_	_	_	
+9-23	989-994	books	_	_	_	
+9-24	995-998	and	_	_	_	
+9-25	999-1007	supplies	_	_	_	
+9-26	1007-1008	.	_	_	_	
+
+#Text=Toad’s Place: A well-known music venue on York Street.
+10-1	1009-1013	Toad	_	_	toponym[28]	
+10-2	1013-1014	’	_	_	toponym[28]	
+10-3	1014-1015	s	_	_	toponym[28]	
+10-4	1016-1021	Place	_	_	toponym[28]	
+10-5	1021-1022	:	_	_	_	
+10-6	1023-1024	A	_	_	_	
+10-7	1025-1035	well-known	_	_	_	
+10-8	1036-1041	music	_	_	_	
+10-9	1042-1047	venue	_	_	_	
+10-10	1048-1050	on	_	_	spatial relation	
+10-11	1051-1055	York	_	_	toponym[29]	
+10-12	1056-1062	Street	_	_	toponym[29]	
+10-13	1062-1063	.	_	_	_	
+
+#Text=St.
+11-1	1064-1066	St	_	_	_	
+11-2	1066-1067	.	_	_	_	
+
+#Text=Mary’s Church: Located on the northeast side of the map on Grove Street.
+12-1	1068-1072	Mary	_	_	_	
+12-2	1072-1073	’	_	_	_	
+12-3	1073-1074	s	_	_	_	
+12-4	1075-1081	Church	_	_	toponym	
+12-5	1081-1082	:	_	_	_	
+12-6	1083-1090	Located	_	_	_	
+12-7	1091-1093	on	_	_	spatial relation[30]	
+12-8	1094-1097	the	_	_	spatial relation[30]	
+12-9	1098-1107	northeast	_	_	spatial relation[30]	
+12-10	1108-1112	side	_	_	spatial relation[30]	
+12-11	1113-1115	of	_	_	spatial relation[30]	
+12-12	1116-1119	the	_	_	_	
+12-13	1120-1123	map	_	_	_	
+12-14	1124-1126	on	_	_	_	
+12-15	1127-1132	Grove	_	_	toponym[31]	
+12-16	1133-1139	Street	_	_	toponym[31]	
+12-17	1139-1140	.	_	_	_	
+
+#Text=New Haven Green: A large green space in the center-right of the map, a historic park in downtown New Haven.
+13-1	1141-1144	New	_	_	toponym[32]	
+13-2	1145-1150	Haven	_	_	toponym[32]	
+13-3	1151-1156	Green	_	_	toponym[32]	
+13-4	1156-1157	:	_	_	_	
+13-5	1158-1159	A	_	_	_	
+13-6	1160-1165	large	_	_	_	
+13-7	1166-1171	green	_	_	_	
+13-8	1172-1177	space	_	_	_	
+13-9	1178-1180	in	_	_	_	
+13-10	1181-1184	the	_	_	_	
+13-11	1185-1197	center-right	_	_	spatial relation[33]	
+13-12	1198-1200	of	_	_	spatial relation[33]	
+13-13	1201-1204	the	_	_	_	
+13-14	1205-1208	map	_	_	_	
+13-15	1208-1209	,	_	_	_	
+13-16	1210-1211	a	_	_	_	
+13-17	1212-1220	historic	_	_	_	
+13-18	1221-1225	park	_	_	_	
+13-19	1226-1228	in	_	_	spatial relation	
+13-20	1229-1237	downtown	_	_	_	
+13-21	1238-1241	New	_	_	toponym[34]	
+13-22	1242-1247	Haven	_	_	toponym[34]	
+13-23	1247-1248	.	_	_	_	
+
+#Text=Other Points of Interest:   Mecha Noodle Bar: A restaurant located south of the Old Campus on Crown Street.
+14-1	1251-1256	Other	_	_	_	
+14-2	1257-1263	Points	_	_	_	
+14-3	1264-1266	of	_	_	_	
+14-4	1267-1275	Interest	_	_	_	
+14-5	1275-1276	:	_	_	_	
+14-6	1279-1284	Mecha	_	_	toponym[35]	
+14-7	1285-1291	Noodle	_	_	toponym[35]	
+14-8	1292-1295	Bar	_	_	toponym[35]	
+14-9	1295-1296	:	_	_	_	
+14-10	1297-1298	A	_	_	_	
+14-11	1299-1309	restaurant	_	_	_	
+14-12	1310-1317	located	_	_	_	
+14-13	1318-1323	south	_	_	spatial relation[36]	
+14-14	1324-1326	of	_	_	spatial relation[36]	
+14-15	1327-1330	the	_	_	_	
+14-16	1331-1334	Old	_	_	toponym[37]	
+14-17	1335-1341	Campus	_	_	toponym[37]	
+14-18	1342-1344	on	_	_	spatial relation	
+14-19	1345-1350	Crown	_	_	toponym[38]	
+14-20	1351-1357	Street	_	_	toponym[38]	
+14-21	1357-1358	.	_	_	_	
+
+#Text=BAR: A popular pizza place and brewery located on Crown Street.
+15-1	1359-1362	BAR	_	_	toponym	
+15-2	1362-1363	:	_	_	_	
+15-3	1364-1365	A	_	_	_	
+15-4	1366-1373	popular	_	_	_	
+15-5	1374-1379	pizza	_	_	_	
+15-6	1380-1385	place	_	_	_	
+15-7	1386-1389	and	_	_	_	
+15-8	1390-1397	brewery	_	_	_	
+15-9	1398-1405	located	_	_	_	
+15-10	1406-1408	on	_	_	spatial relation	
+15-11	1409-1414	Crown	_	_	toponym[39]	
+15-12	1415-1421	Street	_	_	toponym[39]	
+15-13	1421-1422	.	_	_	_	
+
+#Text=Transportation:   The map shows several bus stops, indicating public transportation accessibility in the area.
+16-1	1425-1439	Transportation	_	_	_	
+16-2	1439-1440	:	_	_	_	
+16-3	1443-1446	The	_	_	_	
+16-4	1447-1450	map	_	_	_	
+16-5	1451-1456	shows	_	_	_	
+16-6	1457-1464	several	_	_	_	
+16-7	1465-1468	bus	_	_	_	
+16-8	1469-1474	stops	_	_	_	
+16-9	1474-1475	,	_	_	_	
+16-10	1476-1486	indicating	_	_	_	
+16-11	1487-1493	public	_	_	_	
+16-12	1494-1508	transportation	_	_	_	
+16-13	1509-1522	accessibility	_	_	_	
+16-14	1523-1525	in	_	_	_	
+16-15	1526-1529	the	_	_	_	
+16-16	1530-1534	area	_	_	_	
+16-17	1534-1535	.	_	_	_	
+
+#Text=General Layout:   The map highlights the integration of the Yale campus with the urban environment of New Haven, showing a mix of academic, cultural, and commercial spaces.
+17-1	1538-1545	General	_	_	_	
+17-2	1546-1552	Layout	_	_	_	
+17-3	1552-1553	:	_	_	_	
+17-4	1556-1559	The	_	_	_	
+17-5	1560-1563	map	_	_	_	
+17-6	1564-1574	highlights	_	_	_	
+17-7	1575-1578	the	_	_	_	
+17-8	1579-1590	integration	_	_	_	
+17-9	1591-1593	of	_	_	_	
+17-10	1594-1597	the	_	_	_	
+17-11	1598-1602	Yale	_	_	_	
+17-12	1603-1609	campus	_	_	_	
+17-13	1610-1614	with	_	_	_	
+17-14	1615-1618	the	_	_	_	
+17-15	1619-1624	urban	_	_	_	
+17-16	1625-1636	environment	_	_	_	
+17-17	1637-1639	of	_	_	_	
+17-18	1640-1643	New	_	_	toponym[40]	
+17-19	1644-1649	Haven	_	_	toponym[40]	
+17-20	1649-1650	,	_	_	_	
+17-21	1651-1658	showing	_	_	_	
+17-22	1659-1660	a	_	_	_	
+17-23	1661-1664	mix	_	_	_	
+17-24	1665-1667	of	_	_	_	
+17-25	1668-1676	academic	_	_	_	
+17-26	1676-1677	,	_	_	_	
+17-27	1678-1686	cultural	_	_	_	
+17-28	1686-1687	,	_	_	_	
+17-29	1688-1691	and	_	_	_	
+17-30	1692-1702	commercial	_	_	_	
+17-31	1703-1709	spaces	_	_	_	
+17-32	1709-1710	.	_	_	_	
+
+#Text=This map provides a clear view of the central Yale University area and its immediate surroundings, useful for navigating the campus and nearby city attractions.
+18-1	1712-1716	This	p[3]	*[3]	_	
+18-2	1717-1720	map	p[3]	*[3]	_	
+18-3	1721-1729	provides	p[3]	*[3]	_	
+18-4	1730-1731	a	p[3]	*[3]	_	
+18-5	1732-1737	clear	p[3]	*[3]	_	
+18-6	1738-1742	view	p[3]	*[3]	_	
+18-7	1743-1745	of	p[3]	*[3]	_	
+18-8	1746-1749	the	p[3]	*[3]	_	
+18-9	1750-1757	central	p[3]	*[3]	_	
+18-10	1758-1762	Yale	p[3]	*[3]	toponym[41]	
+18-11	1763-1773	University	p[3]	*[3]	toponym[41]	
+18-12	1774-1778	area	p[3]	*[3]	_	
+18-13	1779-1782	and	p[3]	*[3]	_	
+18-14	1783-1786	its	p[3]	*[3]	_	
+18-15	1787-1796	immediate	p[3]	*[3]	_	
+18-16	1797-1809	surroundings	p[3]	*[3]	_	
+18-17	1809-1810	,	p[3]	*[3]	_	
+18-18	1811-1817	useful	p[3]	*[3]	_	
+18-19	1818-1821	for	p[3]	*[3]	_	
+18-20	1822-1832	navigating	p[3]	*[3]	_	
+18-21	1833-1836	the	p[3]	*[3]	_	
+18-22	1837-1843	campus	p[3]	*[3]	_	
+18-23	1844-1847	and	p[3]	*[3]	_	
+18-24	1848-1854	nearby	p[3]	*[3]	_	
+18-25	1855-1859	city	p[3]	*[3]	_	
+18-26	1860-1871	attractions	p[3]	*[3]	_	
+18-27	1871-1872	.	p[3]	*[3]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+19-1	1873-1876	Can	h1[4]	*[4]	_	
+19-2	1877-1880	you	h1[4]	*[4]	_	
+19-3	1881-1889	describe	h1[4]	*[4]	_	
+19-4	1890-1893	the	h1[4]	*[4]	_	
+19-5	1894-1898	most	h1[4]	*[4]	_	
+19-6	1899-1907	visually	h1[4]	*[4]	_	
+19-7	1908-1915	salient	h1[4]	*[4]	_	
+19-8	1916-1924	elements	h1[4]	*[4]	_	
+19-9	1925-1927	of	h1[4]	*[4]	_	
+19-10	1928-1931	the	h1[4]	*[4]	_	
+19-11	1932-1935	map	h1[4]	*[4]	_	
+19-12	1935-1936	?	h1[4]	*[4]	_	
+
+#Text=The most visually salient elements of the map are those that stand out due to their size, color, or prominence.
+20-1	1937-1940	The	p[5]	*[5]	_	
+20-2	1941-1945	most	p[5]	*[5]	_	
+20-3	1946-1954	visually	p[5]	*[5]	_	
+20-4	1955-1962	salient	p[5]	*[5]	_	
+20-5	1963-1971	elements	p[5]	*[5]	_	
+20-6	1972-1974	of	p[5]	*[5]	_	
+20-7	1975-1978	the	p[5]	*[5]	_	
+20-8	1979-1982	map	p[5]	*[5]	_	
+20-9	1983-1986	are	p[5]	*[5]	_	
+20-10	1987-1992	those	p[5]	*[5]	_	
+20-11	1993-1997	that	p[5]	*[5]	_	
+20-12	1998-2003	stand	p[5]	*[5]	_	
+20-13	2004-2007	out	p[5]	*[5]	_	
+20-14	2008-2011	due	p[5]	*[5]	_	
+20-15	2012-2014	to	p[5]	*[5]	_	
+20-16	2015-2020	their	p[5]	*[5]	_	
+20-17	2021-2025	size	p[5]	*[5]	_	
+20-18	2025-2026	,	p[5]	*[5]	_	
+20-19	2027-2032	color	p[5]	*[5]	_	
+20-20	2032-2033	,	p[5]	*[5]	_	
+20-21	2034-2036	or	p[5]	*[5]	_	
+20-22	2037-2047	prominence	p[5]	*[5]	_	
+20-23	2047-2048	.	p[5]	*[5]	_	
+
+#Text=Here are the key elements:  Labels and Icons:   Large Labels: The names of significant places like “Yale Old Campus,” “Sterling Memorial Library,” and “New Haven Green” are prominently displayed with larger text, making them easily noticeable.
+21-1	2049-2053	Here	p[5]	*[5]	_	
+21-2	2054-2057	are	p[5]	*[5]	_	
+21-3	2058-2061	the	p[5]	*[5]	_	
+21-4	2062-2065	key	p[5]	*[5]	_	
+21-5	2066-2074	elements	p[5]	*[5]	_	
+21-6	2074-2075	:	p[5]	*[5]	_	
+21-7	2077-2083	Labels	_	_	_	
+21-8	2084-2087	and	_	_	_	
+21-9	2088-2093	Icons	_	_	_	
+21-10	2093-2094	:	_	_	_	
+21-11	2097-2102	Large	_	_	_	
+21-12	2103-2109	Labels	_	_	_	
+21-13	2109-2110	:	_	_	_	
+21-14	2111-2114	The	_	_	_	
+21-15	2115-2120	names	_	_	_	
+21-16	2121-2123	of	_	_	_	
+21-17	2124-2135	significant	_	_	_	
+21-18	2136-2142	places	_	_	_	
+21-19	2143-2147	like	_	_	_	
+21-20	2148-2149	“	_	_	_	
+21-21	2149-2153	Yale	_	_	_	
+21-22	2154-2157	Old	_	_	_	
+21-23	2158-2164	Campus	_	_	_	
+21-24	2164-2165	,	_	_	_	
+21-25	2165-2166	”	_	_	_	
+21-26	2167-2168	“	_	_	_	
+21-27	2168-2176	Sterling	_	_	_	
+21-28	2177-2185	Memorial	_	_	_	
+21-29	2186-2193	Library	_	_	_	
+21-30	2193-2194	,	_	_	_	
+21-31	2194-2195	”	_	_	_	
+21-32	2196-2199	and	_	_	_	
+21-33	2200-2201	“	_	_	_	
+21-34	2201-2204	New	_	_	_	
+21-35	2205-2210	Haven	_	_	_	
+21-36	2211-2216	Green	_	_	_	
+21-37	2216-2217	”	_	_	_	
+21-38	2218-2221	are	_	_	_	
+21-39	2222-2233	prominently	_	_	_	
+21-40	2234-2243	displayed	_	_	_	
+21-41	2244-2248	with	_	_	_	
+21-42	2249-2255	larger	_	_	_	
+21-43	2256-2260	text	_	_	_	
+21-44	2260-2261	,	_	_	_	
+21-45	2262-2268	making	_	_	_	
+21-46	2269-2273	them	_	_	_	
+21-47	2274-2280	easily	_	_	_	
+21-48	2281-2291	noticeable	_	_	_	
+21-49	2291-2292	.	_	_	_	
+
+#Text=Colored Icons: Different types of locations are marked with distinct icons: Purple Icons: Likely represent cultural or educational points of interest, such as “The Mead Visitor Center” and “College Street Music Hall.”
+22-1	2293-2300	Colored	_	_	_	
+22-2	2301-2306	Icons	_	_	_	
+22-3	2306-2307	:	_	_	_	
+22-4	2308-2317	Different	_	_	_	
+22-5	2318-2323	types	_	_	_	
+22-6	2324-2326	of	_	_	_	
+22-7	2327-2336	locations	_	_	_	
+22-8	2337-2340	are	_	_	_	
+22-9	2341-2347	marked	_	_	_	
+22-10	2348-2352	with	_	_	_	
+22-11	2353-2361	distinct	_	_	_	
+22-12	2362-2367	icons	_	_	_	
+22-13	2367-2368	:	_	_	_	
+22-14	2369-2375	Purple	_	_	_	
+22-15	2376-2381	Icons	_	_	_	
+22-16	2381-2382	:	_	_	_	
+22-17	2383-2389	Likely	_	_	_	
+22-18	2390-2399	represent	_	_	_	
+22-19	2400-2408	cultural	_	_	_	
+22-20	2409-2411	or	_	_	_	
+22-21	2412-2423	educational	_	_	_	
+22-22	2424-2430	points	_	_	_	
+22-23	2431-2433	of	_	_	_	
+22-24	2434-2442	interest	_	_	_	
+22-25	2442-2443	,	_	_	_	
+22-26	2444-2448	such	_	_	_	
+22-27	2449-2451	as	_	_	_	
+22-28	2452-2453	“	_	_	_	
+22-29	2453-2456	The	_	_	_	
+22-30	2457-2461	Mead	_	_	_	
+22-31	2462-2469	Visitor	_	_	_	
+22-32	2470-2476	Center	_	_	_	
+22-33	2476-2477	”	_	_	_	
+22-34	2478-2481	and	_	_	_	
+22-35	2482-2483	“	_	_	_	
+22-36	2483-2490	College	_	_	_	
+22-37	2491-2497	Street	_	_	_	
+22-38	2498-2503	Music	_	_	_	
+22-39	2504-2508	Hall	_	_	_	
+22-40	2508-2509	.	_	_	_	
+22-41	2509-2510	”	_	_	_	
+
+#Text=Blue Icon: Represents “The Yale Bookstore.”
+23-1	2511-2515	Blue	_	_	_	
+23-2	2516-2520	Icon	_	_	_	
+23-3	2520-2521	:	_	_	_	
+23-4	2522-2532	Represents	_	_	_	
+23-5	2533-2534	“	_	_	_	
+23-6	2534-2537	The	_	_	_	
+23-7	2538-2542	Yale	_	_	_	
+23-8	2543-2552	Bookstore	_	_	_	
+23-9	2552-2553	.	_	_	_	
+23-10	2553-2554	”	_	_	_	
+
+#Text=Orange Icons: Indicate dining or entertainment venues like “Mecha Noodle Bar” and “BAR.”
+24-1	2555-2561	Orange	_	_	_	
+24-2	2562-2567	Icons	_	_	_	
+24-3	2567-2568	:	_	_	_	
+24-4	2569-2577	Indicate	_	_	_	
+24-5	2578-2584	dining	_	_	_	
+24-6	2585-2587	or	_	_	_	
+24-7	2588-2601	entertainment	_	_	_	
+24-8	2602-2608	venues	_	_	_	
+24-9	2609-2613	like	_	_	_	
+24-10	2614-2615	“	_	_	_	
+24-11	2615-2620	Mecha	_	_	_	
+24-12	2621-2627	Noodle	_	_	_	
+24-13	2628-2631	Bar	_	_	_	
+24-14	2631-2632	”	_	_	_	
+24-15	2633-2636	and	_	_	_	
+24-16	2637-2638	“	_	_	_	
+24-17	2638-2641	BAR	_	_	_	
+24-18	2641-2642	.	_	_	_	
+24-19	2642-2643	”	_	_	_	
+
+#Text=Green Spaces:   New Haven Green: This large green area stands out due to its size and color, indicating a significant park or open space in the city.
+25-1	2646-2651	Green	_	_	_	
+25-2	2652-2658	Spaces	_	_	_	
+25-3	2658-2659	:	_	_	_	
+25-4	2662-2665	New	_	_	_	
+25-5	2666-2671	Haven	_	_	_	
+25-6	2672-2677	Green	_	_	_	
+25-7	2677-2678	:	_	_	_	
+25-8	2679-2683	This	_	_	_	
+25-9	2684-2689	large	_	_	_	
+25-10	2690-2695	green	_	_	_	
+25-11	2696-2700	area	_	_	_	
+25-12	2701-2707	stands	_	_	_	
+25-13	2708-2711	out	_	_	_	
+25-14	2712-2715	due	_	_	_	
+25-15	2716-2718	to	_	_	_	
+25-16	2719-2722	its	_	_	_	
+25-17	2723-2727	size	_	_	_	
+25-18	2728-2731	and	_	_	_	
+25-19	2732-2737	color	_	_	_	
+25-20	2737-2738	,	_	_	_	
+25-21	2739-2749	indicating	_	_	_	
+25-22	2750-2751	a	_	_	_	
+25-23	2752-2763	significant	_	_	_	
+25-24	2764-2768	park	_	_	_	
+25-25	2769-2771	or	_	_	_	
+25-26	2772-2776	open	_	_	_	
+25-27	2777-2782	space	_	_	_	
+25-28	2783-2785	in	_	_	_	
+25-29	2786-2789	the	_	_	_	
+25-30	2790-2794	city	_	_	_	
+25-31	2794-2795	.	_	_	_	
+
+#Text=Street Layout:   Major Streets: Streets like Chapel Street, College Street, and Elm Street are clearly labeled and stand out due to their central placement and connection to key locations.
+26-1	2798-2804	Street	_	_	_	
+26-2	2805-2811	Layout	_	_	_	
+26-3	2811-2812	:	_	_	_	
+26-4	2815-2820	Major	_	_	_	
+26-5	2821-2828	Streets	_	_	_	
+26-6	2828-2829	:	_	_	_	
+26-7	2830-2837	Streets	_	_	_	
+26-8	2838-2842	like	_	_	_	
+26-9	2843-2849	Chapel	_	_	_	
+26-10	2850-2856	Street	_	_	_	
+26-11	2856-2857	,	_	_	_	
+26-12	2858-2865	College	_	_	_	
+26-13	2866-2872	Street	_	_	_	
+26-14	2872-2873	,	_	_	_	
+26-15	2874-2877	and	_	_	_	
+26-16	2878-2881	Elm	_	_	_	
+26-17	2882-2888	Street	_	_	_	
+26-18	2889-2892	are	_	_	_	
+26-19	2893-2900	clearly	_	_	_	
+26-20	2901-2908	labeled	_	_	_	
+26-21	2909-2912	and	_	_	_	
+26-22	2913-2918	stand	_	_	_	
+26-23	2919-2922	out	_	_	_	
+26-24	2923-2926	due	_	_	_	
+26-25	2927-2929	to	_	_	_	
+26-26	2930-2935	their	_	_	_	
+26-27	2936-2943	central	_	_	_	
+26-28	2944-2953	placement	_	_	_	
+26-29	2954-2957	and	_	_	_	
+26-30	2958-2968	connection	_	_	_	
+26-31	2969-2971	to	_	_	_	
+26-32	2972-2975	key	_	_	_	
+26-33	2976-2985	locations	_	_	_	
+26-34	2985-2986	.	_	_	_	
+
+#Text=Intersections: The intersections of these streets are visually prominent, especially where they meet key landmarks.
+27-1	2987-3000	Intersections	_	_	_	
+27-2	3000-3001	:	_	_	_	
+27-3	3002-3005	The	_	_	_	
+27-4	3006-3019	intersections	_	_	_	
+27-5	3020-3022	of	_	_	_	
+27-6	3023-3028	these	_	_	_	
+27-7	3029-3036	streets	_	_	_	
+27-8	3037-3040	are	_	_	_	
+27-9	3041-3049	visually	_	_	_	
+27-10	3050-3059	prominent	_	_	_	
+27-11	3059-3060	,	_	_	_	
+27-12	3061-3071	especially	_	_	_	
+27-13	3072-3077	where	_	_	_	
+27-14	3078-3082	they	_	_	_	
+27-15	3083-3087	meet	_	_	_	
+27-16	3088-3091	key	_	_	_	
+27-17	3092-3101	landmarks	_	_	_	
+27-18	3101-3102	.	_	_	_	
+
+#Text=Building Outlines:   The map shows the outlines of buildings, particularly around the Yale campus, which helps to give a sense of the urban layout and density.
+28-1	3105-3113	Building	_	_	_	
+28-2	3114-3122	Outlines	_	_	_	
+28-3	3122-3123	:	_	_	_	
+28-4	3126-3129	The	_	_	_	
+28-5	3130-3133	map	_	_	_	
+28-6	3134-3139	shows	_	_	_	
+28-7	3140-3143	the	_	_	_	
+28-8	3144-3152	outlines	_	_	_	
+28-9	3153-3155	of	_	_	_	
+28-10	3156-3165	buildings	_	_	_	
+28-11	3165-3166	,	_	_	_	
+28-12	3167-3179	particularly	_	_	_	
+28-13	3180-3186	around	_	_	_	
+28-14	3187-3190	the	_	_	_	
+28-15	3191-3195	Yale	_	_	_	
+28-16	3196-3202	campus	_	_	_	
+28-17	3202-3203	,	_	_	_	
+28-18	3204-3209	which	_	_	_	
+28-19	3210-3215	helps	_	_	_	
+28-20	3216-3218	to	_	_	_	
+28-21	3219-3223	give	_	_	_	
+28-22	3224-3225	a	_	_	_	
+28-23	3226-3231	sense	_	_	_	
+28-24	3232-3234	of	_	_	_	
+28-25	3235-3238	the	_	_	_	
+28-26	3239-3244	urban	_	_	_	
+28-27	3245-3251	layout	_	_	_	
+28-28	3252-3255	and	_	_	_	
+28-29	3256-3263	density	_	_	_	
+28-30	3263-3264	.	_	_	_	
+
+#Text=Bus Stops:   Small bus icons indicate public transportation access points, which are scattered throughout the map.
+29-1	3267-3270	Bus	_	_	_	
+29-2	3271-3276	Stops	_	_	_	
+29-3	3276-3277	:	_	_	_	
+29-4	3280-3285	Small	_	_	_	
+29-5	3286-3289	bus	_	_	_	
+29-6	3290-3295	icons	_	_	_	
+29-7	3296-3304	indicate	_	_	_	
+29-8	3305-3311	public	_	_	_	
+29-9	3312-3326	transportation	_	_	_	
+29-10	3327-3333	access	_	_	_	
+29-11	3334-3340	points	_	_	_	
+29-12	3340-3341	,	_	_	_	
+29-13	3342-3347	which	_	_	_	
+29-14	3348-3351	are	_	_	_	
+29-15	3352-3361	scattered	_	_	_	
+29-16	3362-3372	throughout	_	_	_	
+29-17	3373-3376	the	_	_	_	
+29-18	3377-3380	map	_	_	_	
+29-19	3380-3381	.	_	_	_	
+
+#Text=These elements are designed to draw the viewer’s attention to important locations and provide a clear understanding of the area’s layout and key points of interest.
+30-1	3383-3388	These	p[6]	*[6]	_	
+30-2	3389-3397	elements	p[6]	*[6]	_	
+30-3	3398-3401	are	p[6]	*[6]	_	
+30-4	3402-3410	designed	p[6]	*[6]	_	
+30-5	3411-3413	to	p[6]	*[6]	_	
+30-6	3414-3418	draw	p[6]	*[6]	_	
+30-7	3419-3422	the	p[6]	*[6]	_	
+30-8	3423-3429	viewer	p[6]	*[6]	_	
+30-9	3429-3430	’	p[6]	*[6]	_	
+30-10	3430-3431	s	p[6]	*[6]	_	
+30-11	3432-3441	attention	p[6]	*[6]	_	
+30-12	3442-3444	to	p[6]	*[6]	_	
+30-13	3445-3454	important	p[6]	*[6]	_	
+30-14	3455-3464	locations	p[6]	*[6]	_	
+30-15	3465-3468	and	p[6]	*[6]	_	
+30-16	3469-3476	provide	p[6]	*[6]	_	
+30-17	3477-3478	a	p[6]	*[6]	_	
+30-18	3479-3484	clear	p[6]	*[6]	_	
+30-19	3485-3498	understanding	p[6]	*[6]	_	
+30-20	3499-3501	of	p[6]	*[6]	_	
+30-21	3502-3505	the	p[6]	*[6]	_	
+30-22	3506-3510	area	p[6]	*[6]	_	
+30-23	3510-3511	’	p[6]	*[6]	_	
+30-24	3511-3512	s	p[6]	*[6]	_	
+30-25	3513-3519	layout	p[6]	*[6]	_	
+30-26	3520-3523	and	p[6]	*[6]	_	
+30-27	3524-3527	key	p[6]	*[6]	_	
+30-28	3528-3534	points	p[6]	*[6]	_	
+30-29	3535-3537	of	p[6]	*[6]	_	
+30-30	3538-3546	interest	p[6]	*[6]	_	
+30-31	3546-3547	.	p[6]	*[6]	_	
+
+#Text=Anchors summary  Yale Old Campus Sterling Memorial Library New Haven Green The Mead Visitor Center College Street Music Hall The Yale Bookstore Mecha Noodle Bar BAR Chapel Street College Street Elm Street Green spaces Intersections Building outlines Bus stops
+31-1	3548-3555	Anchors	h1[7]	*[7]	_	
+31-2	3556-3563	summary	h1[7]	*[7]	_	
+31-3	3565-3569	Yale	_	_	_	
+31-4	3570-3573	Old	_	_	_	
+31-5	3574-3580	Campus	_	_	_	
+31-6	3581-3589	Sterling	_	_	_	
+31-7	3590-3598	Memorial	_	_	_	
+31-8	3599-3606	Library	_	_	_	
+31-9	3607-3610	New	_	_	_	
+31-10	3611-3616	Haven	_	_	_	
+31-11	3617-3622	Green	_	_	_	
+31-12	3623-3626	The	_	_	_	
+31-13	3627-3631	Mead	_	_	_	
+31-14	3632-3639	Visitor	_	_	_	
+31-15	3640-3646	Center	_	_	_	
+31-16	3647-3654	College	_	_	_	
+31-17	3655-3661	Street	_	_	_	
+31-18	3662-3667	Music	_	_	_	
+31-19	3668-3672	Hall	_	_	_	
+31-20	3673-3676	The	_	_	_	
+31-21	3677-3681	Yale	_	_	_	
+31-22	3682-3691	Bookstore	_	_	_	
+31-23	3692-3697	Mecha	_	_	_	
+31-24	3698-3704	Noodle	_	_	_	
+31-25	3705-3708	Bar	_	_	_	
+31-26	3709-3712	BAR	_	_	_	
+31-27	3713-3719	Chapel	_	_	_	
+31-28	3720-3726	Street	_	_	_	
+31-29	3727-3734	College	_	_	_	
+31-30	3735-3741	Street	_	_	_	
+31-31	3742-3745	Elm	_	_	_	
+31-32	3746-3752	Street	_	_	_	
+31-33	3753-3758	Green	_	_	_	
+31-34	3759-3765	spaces	_	_	_	
+31-35	3766-3779	Intersections	_	_	_	
+31-36	3780-3788	Building	_	_	_	
+31-37	3789-3797	outlines	_	_	_	
+31-38	3798-3801	Bus	_	_	_	
+31-39	3802-3807	stops	_	_	_	

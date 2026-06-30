@@ -1,0 +1,15 @@
+# Can you describe the content of this map?
+
+Large-scale map of a monument in Nantes: the Castle of the Dukes of Brittany. It shows the entire castle and the grounds surrounding it, with a southwest/northeast orientation: the various buildings of the castle and the central square surrounded by moats filled with water. Three small bridges or footbridges span the moats, two for pedestrians and one for cars (to the west of the castle). Numerous footpaths, represented by dotted lines, crisscross in, around, and to the south of the castle. To the northeast of the castle grounds is an undeveloped area called Place de la Duchesse Anne. To the west and north of the castle are three major streets: Rue des Etats, Rue Rodier, and Rue Prémion. To the southeast of the map is a larger road network without any buildings, featuring a roundabout and two access points to a bridge called Pont de la Rotonde. Beyond the streets surrounding the grounds of the Château des Ducs de Bretagne, to the west, north, and northeast, lie the built-up areas of Nantes, nestled among small streets.
+
+# Anchors summary
+
+- Château des Ducs de Bretagne
+- Rue Premion
+- Rue des États
+- Rue Rodier
+- Place de la Duchesse
+- Chemins en pointillé (chemins piétons) 
+- Grands axes au sud‑est en jaune (voies rapides / grandes avenues)
+- Plan bordé d'eau (ruisseau/ rivière / douves — corps d'eau non nommé)
+- Plusieurs accès / axes d'accès

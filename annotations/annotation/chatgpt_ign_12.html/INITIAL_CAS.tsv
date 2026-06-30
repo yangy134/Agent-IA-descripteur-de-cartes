@@ -1,0 +1,1057 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	
+1-2	4-7	you	h1[1]	*[1]	
+1-3	8-16	describe	h1[1]	*[1]	
+1-4	17-20	the	h1[1]	*[1]	
+1-5	21-28	content	h1[1]	*[1]	
+1-6	29-31	of	h1[1]	*[1]	
+1-7	32-36	this	h1[1]	*[1]	
+1-8	37-40	map	h1[1]	*[1]	
+1-9	40-41	?	h1[1]	*[1]	
+
+#Text=Certainly!
+2-1	42-51	Certainly	p[2]	*[2]	
+2-2	51-52	!	p[2]	*[2]	
+
+#Text=Here's a description of the content and most visually salient elements of this map: 🗺️ Map Overview This is a small-scale map showing the estuary of the Loire River where it meets the Atlantic Ocean.
+3-1	53-59	Here's	p[2]	*[2]	
+3-2	60-61	a	p[2]	*[2]	
+3-3	62-73	description	p[2]	*[2]	
+3-4	74-76	of	p[2]	*[2]	
+3-5	77-80	the	p[2]	*[2]	
+3-6	81-88	content	p[2]	*[2]	
+3-7	89-92	and	p[2]	*[2]	
+3-8	93-97	most	p[2]	*[2]	
+3-9	98-106	visually	p[2]	*[2]	
+3-10	107-114	salient	p[2]	*[2]	
+3-11	115-123	elements	p[2]	*[2]	
+3-12	124-126	of	p[2]	*[2]	
+3-13	127-131	this	p[2]	*[2]	
+3-14	132-135	map	p[2]	*[2]	
+3-15	135-136	:	p[2]	*[2]	
+3-16	137-140	🗺️	h2[3]	*[3]	
+3-17	141-144	Map	h2[3]	*[3]	
+3-18	145-153	Overview	h2[3]	*[3]	
+3-19	154-158	This	p[4]	*[4]	
+3-20	159-161	is	p[4]	*[4]	
+3-21	162-163	a	p[4]	*[4]	
+3-22	164-175	small-scale	p[4]	*[4]	
+3-23	176-179	map	p[4]	*[4]	
+3-24	180-187	showing	p[4]	*[4]	
+3-25	188-191	the	p[4]	*[4]	
+3-26	192-199	estuary	p[4]	*[4]	
+3-27	200-202	of	p[4]	*[4]	
+3-28	203-206	the	p[4]	*[4]	
+3-29	207-212	Loire	p[4]	*[4]	
+3-30	213-218	River	p[4]	*[4]	
+3-31	219-224	where	p[4]	*[4]	
+3-32	225-227	it	p[4]	*[4]	
+3-33	228-233	meets	p[4]	*[4]	
+3-34	234-237	the	p[4]	*[4]	
+3-35	238-246	Atlantic	p[4]	*[4]	
+3-36	247-252	Ocean	p[4]	*[4]	
+3-37	252-253	.	p[4]	*[4]	
+
+#Text=The map centers on the Saint-Nazaire area and its surroundings, including St-Brevin-les-Pins, the Loire estuary, and major transport routes.
+4-1	254-257	The	p[4]	*[4]	
+4-2	258-261	map	p[4]	*[4]	
+4-3	262-269	centers	p[4]	*[4]	
+4-4	270-272	on	p[4]	*[4]	
+4-5	273-276	the	p[4]	*[4]	
+4-6	277-290	Saint-Nazaire	p[4]	*[4]	
+4-7	291-295	area	p[4]	*[4]	
+4-8	296-299	and	p[4]	*[4]	
+4-9	300-303	its	p[4]	*[4]	
+4-10	304-316	surroundings	p[4]	*[4]	
+4-11	316-317	,	p[4]	*[4]	
+4-12	318-327	including	p[4]	*[4]	
+4-13	328-346	St-Brevin-les-Pins	p[4]	*[4]	
+4-14	346-347	,	p[4]	*[4]	
+4-15	348-351	the	p[4]	*[4]	
+4-16	352-357	Loire	p[4]	*[4]	
+4-17	358-365	estuary	p[4]	*[4]	
+4-18	365-366	,	p[4]	*[4]	
+4-19	367-370	and	p[4]	*[4]	
+4-20	371-376	major	p[4]	*[4]	
+4-21	377-386	transport	p[4]	*[4]	
+4-22	387-393	routes	p[4]	*[4]	
+4-23	393-394	.	p[4]	*[4]	
+
+#Text=It's a generalized representation meant to support regional orientation. 🔝 Most Visually Salient Elements 🌊 1.
+5-1	395-399	It's	p[4]	*[4]	
+5-2	400-401	a	p[4]	*[4]	
+5-3	402-413	generalized	p[4]	*[4]	
+5-4	414-428	representation	p[4]	*[4]	
+5-5	429-434	meant	p[4]	*[4]	
+5-6	435-437	to	p[4]	*[4]	
+5-7	438-445	support	p[4]	*[4]	
+5-8	446-454	regional	p[4]	*[4]	
+5-9	455-466	orientation	p[4]	*[4]	
+5-10	466-467	.	p[4]	*[4]	
+5-11	468-470	🔝	h2[5]	*[5]	
+5-12	471-475	Most	h2[5]	*[5]	
+5-13	476-484	Visually	h2[5]	*[5]	
+5-14	485-492	Salient	h2[5]	*[5]	
+5-15	493-501	Elements	h2[5]	*[5]	
+5-16	502-504	🌊	h3[6]	*[6]	
+5-17	505-506	1	h3[6]	*[6]	
+5-18	506-507	.	h3[6]	*[6]	
+
+#Text=The Loire Estuary and Atlantic Coast  The estuary of the Loire is the dominant visual feature, shown in light blue, with dotted textures representing tidal flats or marshes.
+6-1	508-511	The	h3[6]	*[6]	
+6-2	512-517	Loire	h3[6]	*[6]	
+6-3	518-525	Estuary	h3[6]	*[6]	
+6-4	526-529	and	h3[6]	*[6]	
+6-5	530-538	Atlantic	h3[6]	*[6]	
+6-6	539-544	Coast	h3[6]	*[6]	
+6-7	546-549	The	_	_	
+6-8	550-557	estuary	_	_	
+6-9	558-560	of	_	_	
+6-10	561-564	the	_	_	
+6-11	565-570	Loire	_	_	
+6-12	571-573	is	_	_	
+6-13	574-577	the	_	_	
+6-14	578-586	dominant	_	_	
+6-15	587-593	visual	_	_	
+6-16	594-601	feature	_	_	
+6-17	601-602	,	_	_	
+6-18	603-608	shown	_	_	
+6-19	609-611	in	_	_	
+6-20	612-617	light	_	_	
+6-21	618-622	blue	_	_	
+6-22	622-623	,	_	_	
+6-23	624-628	with	_	_	
+6-24	629-635	dotted	_	_	
+6-25	636-644	textures	_	_	
+6-26	645-657	representing	_	_	
+6-27	658-663	tidal	_	_	
+6-28	664-669	flats	_	_	
+6-29	670-672	or	_	_	
+6-30	673-680	marshes	_	_	
+6-31	680-681	.	_	_	
+
+#Text=The Atlantic Ocean (bottom left) is filled with a deeper blue, clearly separating land and sea.
+7-1	682-685	The	_	_	
+7-2	686-694	Atlantic	_	_	
+7-3	695-700	Ocean	_	_	
+7-4	701-702	(	_	_	
+7-5	702-708	bottom	_	_	
+7-6	709-713	left	_	_	
+7-7	713-714	)	_	_	
+7-8	715-717	is	_	_	
+7-9	718-724	filled	_	_	
+7-10	725-729	with	_	_	
+7-11	730-731	a	_	_	
+7-12	732-738	deeper	_	_	
+7-13	739-743	blue	_	_	
+7-14	743-744	,	_	_	
+7-15	745-752	clearly	_	_	
+7-16	753-763	separating	_	_	
+7-17	764-768	land	_	_	
+7-18	769-772	and	_	_	
+7-19	773-776	sea	_	_	
+7-20	776-777	.	_	_	
+
+#Text=The river mouth and maritime features (islands, estuarine vegetation) stand out because of the contrast and pattern density
+8-1	778-781	The	_	_	
+8-2	782-787	river	_	_	
+8-3	788-793	mouth	_	_	
+8-4	794-797	and	_	_	
+8-5	798-806	maritime	_	_	
+8-6	807-815	features	_	_	
+8-7	816-817	(	_	_	
+8-8	817-824	islands	_	_	
+8-9	824-825	,	_	_	
+8-10	826-835	estuarine	_	_	
+8-11	836-846	vegetation	_	_	
+8-12	846-847	)	_	_	
+8-13	848-853	stand	_	_	
+8-14	854-857	out	_	_	
+8-15	858-865	because	_	_	
+8-16	866-868	of	_	_	
+8-17	869-872	the	_	_	
+8-18	873-881	contrast	_	_	
+8-19	882-885	and	_	_	
+8-20	886-893	pattern	_	_	
+8-21	894-901	density	_	_	
+
+#Text=.
+9-1	901-902	.	_	_	
+
+#Text=🟠 2.
+10-1	904-906	🟠	h3[7]	*[7]	
+10-2	907-908	2	h3[7]	*[7]	
+10-3	908-909	.	h3[7]	*[7]	
+
+#Text=Major Roads and Infrastructure  The main transport arteries are highlighted:  A bold orange line represents a major expressway (likely the N171 or D213, e.g., around Saint-Nazaire).
+11-1	910-915	Major	h3[7]	*[7]	
+11-2	916-921	Roads	h3[7]	*[7]	
+11-3	922-925	and	h3[7]	*[7]	
+11-4	926-940	Infrastructure	h3[7]	*[7]	
+11-5	942-945	The	p[8]	*[8]	
+11-6	946-950	main	p[8]	*[8]	
+11-7	951-960	transport	p[8]	*[8]	
+11-8	961-969	arteries	p[8]	*[8]	
+11-9	970-973	are	p[8]	*[8]	
+11-10	974-985	highlighted	p[8]	*[8]	
+11-11	985-986	:	p[8]	*[8]	
+11-12	988-989	A	_	_	
+11-13	990-994	bold	_	_	
+11-14	995-1001	orange	_	_	
+11-15	1002-1006	line	_	_	
+11-16	1007-1017	represents	_	_	
+11-17	1018-1019	a	_	_	
+11-18	1020-1025	major	_	_	
+11-19	1026-1036	expressway	_	_	
+11-20	1037-1038	(	_	_	
+11-21	1038-1044	likely	_	_	
+11-22	1045-1048	the	_	_	
+11-23	1049-1053	N171	_	_	
+11-24	1054-1056	or	_	_	
+11-25	1057-1061	D213	_	_	
+11-26	1061-1062	,	_	_	
+11-27	1063-1066	e.g	_	_	
+11-28	1066-1067	.	_	_	
+11-29	1067-1068	,	_	_	
+11-30	1069-1075	around	_	_	
+11-31	1076-1089	Saint-Nazaire	_	_	
+11-32	1089-1090	)	_	_	
+11-33	1090-1091	.	_	_	
+
+#Text=Yellow lines show primary roads, such as the one crossing Saint-Brévin-les-Pins and Corsept.
+12-1	1092-1098	Yellow	_	_	
+12-2	1099-1104	lines	_	_	
+12-3	1105-1109	show	_	_	
+12-4	1110-1117	primary	_	_	
+12-5	1118-1123	roads	_	_	
+12-6	1123-1124	,	_	_	
+12-7	1125-1129	such	_	_	
+12-8	1130-1132	as	_	_	
+12-9	1133-1136	the	_	_	
+12-10	1137-1140	one	_	_	
+12-11	1141-1149	crossing	_	_	
+12-12	1150-1171	Saint-Brévin-les-Pins	_	_	
+12-13	1172-1175	and	_	_	
+12-14	1176-1183	Corsept	_	_	
+12-15	1183-1184	.	_	_	
+
+#Text=Bridges and causeways connecting both riverbanks are prominent and critical to understanding regional connectivity
+13-1	1185-1192	Bridges	_	_	
+13-2	1193-1196	and	_	_	
+13-3	1197-1206	causeways	_	_	
+13-4	1207-1217	connecting	_	_	
+13-5	1218-1222	both	_	_	
+13-6	1223-1233	riverbanks	_	_	
+13-7	1234-1237	are	_	_	
+13-8	1238-1247	prominent	_	_	
+13-9	1248-1251	and	_	_	
+13-10	1252-1260	critical	_	_	
+13-11	1261-1263	to	_	_	
+13-12	1264-1277	understanding	_	_	
+13-13	1278-1286	regional	_	_	
+13-14	1287-1299	connectivity	_	_	
+
+#Text=.
+14-1	1299-1300	.	_	_	
+
+#Text=🏙️ 3.
+15-1	1303-1306	🏙️	h3[9]	*[9]	
+15-2	1307-1308	3	h3[9]	*[9]	
+15-3	1308-1309	.	h3[9]	*[9]	
+
+#Text=Urban Areas and Settlements  The city of Saint-Nazaire is highly visible:  Shown in beige with a dense road network, it anchors the northern shore of the estuary.
+16-1	1310-1315	Urban	h3[9]	*[9]	
+16-2	1316-1321	Areas	h3[9]	*[9]	
+16-3	1322-1325	and	h3[9]	*[9]	
+16-4	1326-1337	Settlements	h3[9]	*[9]	
+16-5	1339-1342	The	p[10]	*[10]	
+16-6	1343-1347	city	p[10]	*[10]	
+16-7	1348-1350	of	p[10]	*[10]	
+16-8	1351-1364	Saint-Nazaire	p[10]	*[10]	
+16-9	1365-1367	is	p[10]	*[10]	
+16-10	1368-1374	highly	p[10]	*[10]	
+16-11	1375-1382	visible	p[10]	*[10]	
+16-12	1382-1383	:	p[10]	*[10]	
+16-13	1385-1390	Shown	_	_	
+16-14	1391-1393	in	_	_	
+16-15	1394-1399	beige	_	_	
+16-16	1400-1404	with	_	_	
+16-17	1405-1406	a	_	_	
+16-18	1407-1412	dense	_	_	
+16-19	1413-1417	road	_	_	
+16-20	1418-1425	network	_	_	
+16-21	1425-1426	,	_	_	
+16-22	1427-1429	it	_	_	
+16-23	1430-1437	anchors	_	_	
+16-24	1438-1441	the	_	_	
+16-25	1442-1450	northern	_	_	
+16-26	1451-1456	shore	_	_	
+16-27	1457-1459	of	_	_	
+16-28	1460-1463	the	_	_	
+16-29	1464-1471	estuary	_	_	
+16-30	1471-1472	.	_	_	
+
+#Text=Other settlements include:  St-Brevin-les-Pins (south of the river) Donges, Trignac, and Corsept Labeled in black text, they are easy to spot due to sparse background density
+17-1	1474-1479	Other	p[11]	*[11]	
+17-2	1480-1491	settlements	p[11]	*[11]	
+17-3	1492-1499	include	p[11]	*[11]	
+17-4	1499-1500	:	p[11]	*[11]	
+17-5	1502-1520	St-Brevin-les-Pins	_	_	
+17-6	1521-1522	(	_	_	
+17-7	1522-1527	south	_	_	
+17-8	1528-1530	of	_	_	
+17-9	1531-1534	the	_	_	
+17-10	1535-1540	river	_	_	
+17-11	1540-1541	)	_	_	
+17-12	1542-1548	Donges	_	_	
+17-13	1548-1549	,	_	_	
+17-14	1550-1557	Trignac	_	_	
+17-15	1557-1558	,	_	_	
+17-16	1559-1562	and	_	_	
+17-17	1563-1570	Corsept	_	_	
+17-18	1571-1578	Labeled	_	_	
+17-19	1579-1581	in	_	_	
+17-20	1582-1587	black	_	_	
+17-21	1588-1592	text	_	_	
+17-22	1592-1593	,	_	_	
+17-23	1594-1598	they	_	_	
+17-24	1599-1602	are	_	_	
+17-25	1603-1607	easy	_	_	
+17-26	1608-1610	to	_	_	
+17-27	1611-1615	spot	_	_	
+17-28	1616-1619	due	_	_	
+17-29	1620-1622	to	_	_	
+17-30	1623-1629	sparse	_	_	
+17-31	1630-1640	background	_	_	
+17-32	1641-1648	density	_	_	
+
+#Text=.
+18-1	1648-1649	.	_	_	
+
+#Text=🧭 4.
+19-1	1652-1654	🧭	h3[12]	*[12]	
+19-2	1655-1656	4	h3[12]	*[12]	
+19-3	1656-1657	.	h3[12]	*[12]	
+
+#Text=Labels and Place Names  City names like “ST-NAZAIRE” and “ST-BREVIN-LES-PINS” are in bold black capitals, giving them strong visual weight.
+20-1	1658-1664	Labels	h3[12]	*[12]	
+20-2	1665-1668	and	h3[12]	*[12]	
+20-3	1669-1674	Place	h3[12]	*[12]	
+20-4	1675-1680	Names	h3[12]	*[12]	
+20-5	1682-1686	City	_	_	
+20-6	1687-1692	names	_	_	
+20-7	1693-1697	like	_	_	
+20-8	1698-1699	“	_	_	
+20-9	1699-1709	ST-NAZAIRE	_	_	
+20-10	1709-1710	”	_	_	
+20-11	1711-1714	and	_	_	
+20-12	1715-1716	“	_	_	
+20-13	1716-1734	ST-BREVIN-LES-PINS	_	_	
+20-14	1734-1735	”	_	_	
+20-15	1736-1739	are	_	_	
+20-16	1740-1742	in	_	_	
+20-17	1743-1747	bold	_	_	
+20-18	1748-1753	black	_	_	
+20-19	1754-1762	capitals	_	_	
+20-20	1762-1763	,	_	_	
+20-21	1764-1770	giving	_	_	
+20-22	1771-1775	them	_	_	
+20-23	1776-1782	strong	_	_	
+20-24	1783-1789	visual	_	_	
+20-25	1790-1796	weight	_	_	
+20-26	1796-1797	.	_	_	
+
+#Text=Smaller hamlets and features are labeled in a lighter, smaller type, ensuring visual hierarchy
+21-1	1798-1805	Smaller	_	_	
+21-2	1806-1813	hamlets	_	_	
+21-3	1814-1817	and	_	_	
+21-4	1818-1826	features	_	_	
+21-5	1827-1830	are	_	_	
+21-6	1831-1838	labeled	_	_	
+21-7	1839-1841	in	_	_	
+21-8	1842-1843	a	_	_	
+21-9	1844-1851	lighter	_	_	
+21-10	1851-1852	,	_	_	
+21-11	1853-1860	smaller	_	_	
+21-12	1861-1865	type	_	_	
+21-13	1865-1866	,	_	_	
+21-14	1867-1875	ensuring	_	_	
+21-15	1876-1882	visual	_	_	
+21-16	1883-1892	hierarchy	_	_	
+
+#Text=.
+22-1	1892-1893	.	_	_	
+
+#Text=🧱 5.
+23-1	1895-1897	🧱	h3[13]	*[13]	
+23-2	1898-1899	5	h3[13]	*[13]	
+23-3	1899-1900	.	h3[13]	*[13]	
+
+#Text=Industrial or Port Areas  Gray polygons with angular geometry near Saint-Nazaire and Donges likely represent:  Port facilities, industrial zones, or refineries These are prominent due to their contrasting color and rigid layout compared to organic landforms
+24-1	1901-1911	Industrial	h3[13]	*[13]	
+24-2	1912-1914	or	h3[13]	*[13]	
+24-3	1915-1919	Port	h3[13]	*[13]	
+24-4	1920-1925	Areas	h3[13]	*[13]	
+24-5	1927-1931	Gray	p[14]	*[14]	
+24-6	1932-1940	polygons	p[14]	*[14]	
+24-7	1941-1945	with	p[14]	*[14]	
+24-8	1946-1953	angular	p[14]	*[14]	
+24-9	1954-1962	geometry	p[14]	*[14]	
+24-10	1963-1967	near	p[14]	*[14]	
+24-11	1968-1981	Saint-Nazaire	p[14]	*[14]	
+24-12	1982-1985	and	p[14]	*[14]	
+24-13	1986-1992	Donges	p[14]	*[14]	
+24-14	1993-1999	likely	p[14]	*[14]	
+24-15	2000-2009	represent	p[14]	*[14]	
+24-16	2009-2010	:	p[14]	*[14]	
+24-17	2012-2016	Port	_	_	
+24-18	2017-2027	facilities	_	_	
+24-19	2027-2028	,	_	_	
+24-20	2029-2039	industrial	_	_	
+24-21	2040-2045	zones	_	_	
+24-22	2045-2046	,	_	_	
+24-23	2047-2049	or	_	_	
+24-24	2050-2060	refineries	_	_	
+24-25	2061-2066	These	_	_	
+24-26	2067-2070	are	_	_	
+24-27	2071-2080	prominent	_	_	
+24-28	2081-2084	due	_	_	
+24-29	2085-2087	to	_	_	
+24-30	2088-2093	their	_	_	
+24-31	2094-2105	contrasting	_	_	
+24-32	2106-2111	color	_	_	
+24-33	2112-2115	and	_	_	
+24-34	2116-2121	rigid	_	_	
+24-35	2122-2128	layout	_	_	
+24-36	2129-2137	compared	_	_	
+24-37	2138-2140	to	_	_	
+24-38	2141-2148	organic	_	_	
+24-39	2149-2158	landforms	_	_	
+
+#Text=.
+25-1	2158-2159	.	_	_	
+
+#Text=🌾 6.
+26-1	2162-2164	🌾	h3[15]	*[15]	
+26-2	2165-2166	6	h3[15]	*[15]	
+26-3	2166-2167	.	h3[15]	*[15]	
+
+#Text=Rural Background and Roads  The background is mostly white, indicating non-urban land, with occasional:  Green fields Thin gray lines for minor roads This high level of generalization gives priority to major features
+27-1	2168-2173	Rural	h3[15]	*[15]	
+27-2	2174-2184	Background	h3[15]	*[15]	
+27-3	2185-2188	and	h3[15]	*[15]	
+27-4	2189-2194	Roads	h3[15]	*[15]	
+27-5	2196-2199	The	p[16]	*[16]	
+27-6	2200-2210	background	p[16]	*[16]	
+27-7	2211-2213	is	p[16]	*[16]	
+27-8	2214-2220	mostly	p[16]	*[16]	
+27-9	2221-2226	white	p[16]	*[16]	
+27-10	2226-2227	,	p[16]	*[16]	
+27-11	2228-2238	indicating	p[16]	*[16]	
+27-12	2239-2248	non-urban	p[16]	*[16]	
+27-13	2249-2253	land	p[16]	*[16]	
+27-14	2253-2254	,	p[16]	*[16]	
+27-15	2255-2259	with	p[16]	*[16]	
+27-16	2260-2270	occasional	p[16]	*[16]	
+27-17	2270-2271	:	p[16]	*[16]	
+27-18	2273-2278	Green	_	_	
+27-19	2279-2285	fields	_	_	
+27-20	2286-2290	Thin	_	_	
+27-21	2291-2295	gray	_	_	
+27-22	2296-2301	lines	_	_	
+27-23	2302-2305	for	_	_	
+27-24	2306-2311	minor	_	_	
+27-25	2312-2317	roads	_	_	
+27-26	2318-2322	This	_	_	
+27-27	2323-2327	high	_	_	
+27-28	2328-2333	level	_	_	
+27-29	2334-2336	of	_	_	
+27-30	2337-2351	generalization	_	_	
+27-31	2352-2357	gives	_	_	
+27-32	2358-2366	priority	_	_	
+27-33	2367-2369	to	_	_	
+27-34	2370-2375	major	_	_	
+27-35	2376-2384	features	_	_	
+
+#Text=.
+28-1	2384-2385	.	_	_	
+
+#Text=🔁 Visual Hierarchy Summary  Blue water areas and orange/yellow roads dominate the map, defining structure.
+29-1	2388-2390	🔁	h2[17]	*[17]	
+29-2	2391-2397	Visual	h2[17]	*[17]	
+29-3	2398-2407	Hierarchy	h2[17]	*[17]	
+29-4	2408-2415	Summary	h2[17]	*[17]	
+29-5	2417-2421	Blue	_	_	
+29-6	2422-2427	water	_	_	
+29-7	2428-2433	areas	_	_	
+29-8	2434-2437	and	_	_	
+29-9	2438-2444	orange	_	_	
+29-10	2444-2445	/	_	_	
+29-11	2445-2451	yellow	_	_	
+29-12	2452-2457	roads	_	_	
+29-13	2458-2466	dominate	_	_	
+29-14	2467-2470	the	_	_	
+29-15	2471-2474	map	_	_	
+29-16	2474-2475	,	_	_	
+29-17	2476-2484	defining	_	_	
+29-18	2485-2494	structure	_	_	
+29-19	2494-2495	.	_	_	
+
+#Text=Dense beige urban areas contrast with white rural backgrounds.
+30-1	2496-2501	Dense	_	_	
+30-2	2502-2507	beige	_	_	
+30-3	2508-2513	urban	_	_	
+30-4	2514-2519	areas	_	_	
+30-5	2520-2528	contrast	_	_	
+30-6	2529-2533	with	_	_	
+30-7	2534-2539	white	_	_	
+30-8	2540-2545	rural	_	_	
+30-9	2546-2557	backgrounds	_	_	
+30-10	2557-2558	.	_	_	
+
+#Text=Bold typography draws attention to main cities and routes, establishing navigational landmarks.
+31-1	2559-2563	Bold	_	_	
+31-2	2564-2574	typography	_	_	
+31-3	2575-2580	draws	_	_	
+31-4	2581-2590	attention	_	_	
+31-5	2591-2593	to	_	_	
+31-6	2594-2598	main	_	_	
+31-7	2599-2605	cities	_	_	
+31-8	2606-2609	and	_	_	
+31-9	2610-2616	routes	_	_	
+31-10	2616-2617	,	_	_	
+31-11	2618-2630	establishing	_	_	
+31-12	2631-2643	navigational	_	_	
+31-13	2644-2653	landmarks	_	_	
+31-14	2653-2654	.	_	_	
+
+#Text=Would you like a comparison of abstraction levels between this map and the previous ones of Nantes to illustrate how scale influences symbol generalization?
+32-1	2656-2661	Would	p[18]	*[18]	
+32-2	2662-2665	you	p[18]	*[18]	
+32-3	2666-2670	like	p[18]	*[18]	
+32-4	2671-2672	a	p[18]	*[18]	
+32-5	2673-2683	comparison	p[18]	*[18]	
+32-6	2684-2686	of	p[18]	*[18]	
+32-7	2687-2698	abstraction	p[18]	*[18]	
+32-8	2699-2705	levels	p[18]	*[18]	
+32-9	2706-2713	between	p[18]	*[18]	
+32-10	2714-2718	this	p[18]	*[18]	
+32-11	2719-2722	map	p[18]	*[18]	
+32-12	2723-2726	and	p[18]	*[18]	
+32-13	2727-2730	the	p[18]	*[18]	
+32-14	2731-2739	previous	p[18]	*[18]	
+32-15	2740-2744	ones	p[18]	*[18]	
+32-16	2745-2747	of	p[18]	*[18]	
+32-17	2748-2754	Nantes	p[18]	*[18]	
+32-18	2755-2757	to	p[18]	*[18]	
+32-19	2758-2768	illustrate	p[18]	*[18]	
+32-20	2769-2772	how	p[18]	*[18]	
+32-21	2773-2778	scale	p[18]	*[18]	
+32-22	2779-2789	influences	p[18]	*[18]	
+32-23	2790-2796	symbol	p[18]	*[18]	
+32-24	2797-2811	generalization	p[18]	*[18]	
+32-25	2811-2812	?	p[18]	*[18]	
+
+#Text=Can you describe the most visually salient elements of the map?
+33-1	2813-2816	Can	h1[19]	*[19]	
+33-2	2817-2820	you	h1[19]	*[19]	
+33-3	2821-2829	describe	h1[19]	*[19]	
+33-4	2830-2833	the	h1[19]	*[19]	
+33-5	2834-2838	most	h1[19]	*[19]	
+33-6	2839-2847	visually	h1[19]	*[19]	
+33-7	2848-2855	salient	h1[19]	*[19]	
+33-8	2856-2864	elements	h1[19]	*[19]	
+33-9	2865-2867	of	h1[19]	*[19]	
+33-10	2868-2871	the	h1[19]	*[19]	
+33-11	2872-2875	map	h1[19]	*[19]	
+33-12	2875-2876	?	h1[19]	*[19]	
+
+#Text=Absolutely.
+34-1	2877-2887	Absolutely	p[20]	*[20]	
+34-2	2887-2888	.	p[20]	*[20]	
+
+#Text=Here’s a focused description of the most visually salient elements of the map you’ve provided (which centers on the Saint-Nazaire estuary area): 🔝 Most Visually Salient Elements 1.
+35-1	2889-2893	Here	p[20]	*[20]	
+35-2	2893-2894	’	p[20]	*[20]	
+35-3	2894-2895	s	p[20]	*[20]	
+35-4	2896-2897	a	p[20]	*[20]	
+35-5	2898-2905	focused	p[20]	*[20]	
+35-6	2906-2917	description	p[20]	*[20]	
+35-7	2918-2920	of	p[20]	*[20]	
+35-8	2921-2924	the	p[20]	*[20]	
+35-9	2925-2929	most	p[20]	*[20]	
+35-10	2930-2938	visually	p[20]	*[20]	
+35-11	2939-2946	salient	p[20]	*[20]	
+35-12	2947-2955	elements	p[20]	*[20]	
+35-13	2956-2958	of	p[20]	*[20]	
+35-14	2959-2962	the	p[20]	*[20]	
+35-15	2963-2966	map	p[20]	*[20]	
+35-16	2967-2970	you	p[20]	*[20]	
+35-17	2970-2971	’	p[20]	*[20]	
+35-18	2971-2973	ve	p[20]	*[20]	
+35-19	2974-2982	provided	p[20]	*[20]	
+35-20	2983-2984	(	p[20]	*[20]	
+35-21	2984-2989	which	p[20]	*[20]	
+35-22	2990-2997	centers	p[20]	*[20]	
+35-23	2998-3000	on	p[20]	*[20]	
+35-24	3001-3004	the	p[20]	*[20]	
+35-25	3005-3018	Saint-Nazaire	p[20]	*[20]	
+35-26	3019-3026	estuary	p[20]	*[20]	
+35-27	3027-3031	area	p[20]	*[20]	
+35-28	3031-3032	)	p[20]	*[20]	
+35-29	3032-3033	:	p[20]	*[20]	
+35-30	3034-3036	🔝	h2[21]	*[21]	
+35-31	3037-3041	Most	h2[21]	*[21]	
+35-32	3042-3050	Visually	h2[21]	*[21]	
+35-33	3051-3058	Salient	h2[21]	*[21]	
+35-34	3059-3067	Elements	h2[21]	*[21]	
+35-35	3068-3069	1	h3[22]	*[22]	
+35-36	3069-3070	.	h3[22]	*[22]	
+
+#Text=Loire Estuary and Atlantic Ocean (Water Features)  Dominant visual element: the wide expanse of the Loire River estuary, rendered in light blue, and the Atlantic Ocean below in a darker blue.
+36-1	3071-3076	Loire	h3[22]	*[22]	
+36-2	3077-3084	Estuary	h3[22]	*[22]	
+36-3	3085-3088	and	h3[22]	*[22]	
+36-4	3089-3097	Atlantic	h3[22]	*[22]	
+36-5	3098-3103	Ocean	h3[22]	*[22]	
+36-6	3104-3105	(	h3[22]	*[22]	
+36-7	3105-3110	Water	h3[22]	*[22]	
+36-8	3111-3119	Features	h3[22]	*[22]	
+36-9	3119-3120	)	h3[22]	*[22]	
+36-10	3122-3130	Dominant	_	_	
+36-11	3131-3137	visual	_	_	
+36-12	3138-3145	element	_	_	
+36-13	3145-3146	:	_	_	
+36-14	3147-3150	the	_	_	
+36-15	3151-3155	wide	_	_	
+36-16	3156-3163	expanse	_	_	
+36-17	3164-3166	of	_	_	
+36-18	3167-3170	the	_	_	
+36-19	3171-3176	Loire	_	_	
+36-20	3177-3182	River	_	_	
+36-21	3183-3190	estuary	_	_	
+36-22	3190-3191	,	_	_	
+36-23	3192-3200	rendered	_	_	
+36-24	3201-3203	in	_	_	
+36-25	3204-3209	light	_	_	
+36-26	3210-3214	blue	_	_	
+36-27	3214-3215	,	_	_	
+36-28	3216-3219	and	_	_	
+36-29	3220-3223	the	_	_	
+36-30	3224-3232	Atlantic	_	_	
+36-31	3233-3238	Ocean	_	_	
+36-32	3239-3244	below	_	_	
+36-33	3245-3247	in	_	_	
+36-34	3248-3249	a	_	_	
+36-35	3250-3256	darker	_	_	
+36-36	3257-3261	blue	_	_	
+36-37	3261-3262	.	_	_	
+
+#Text=Blue dotted textures indicate tidal flats or shallow zones, drawing the eye due to their patterned density and large area.  2.
+37-1	3263-3267	Blue	_	_	
+37-2	3268-3274	dotted	_	_	
+37-3	3275-3283	textures	_	_	
+37-4	3284-3292	indicate	_	_	
+37-5	3293-3298	tidal	_	_	
+37-6	3299-3304	flats	_	_	
+37-7	3305-3307	or	_	_	
+37-8	3308-3315	shallow	_	_	
+37-9	3316-3321	zones	_	_	
+37-10	3321-3322	,	_	_	
+37-11	3323-3330	drawing	_	_	
+37-12	3331-3334	the	_	_	
+37-13	3335-3338	eye	_	_	
+37-14	3339-3342	due	_	_	
+37-15	3343-3345	to	_	_	
+37-16	3346-3351	their	_	_	
+37-17	3352-3361	patterned	_	_	
+37-18	3362-3369	density	_	_	
+37-19	3370-3373	and	_	_	
+37-20	3374-3379	large	_	_	
+37-21	3380-3384	area	_	_	
+37-22	3384-3385	.	_	_	
+37-23	3387-3388	2	h3[23]	*[23]	
+37-24	3388-3389	.	h3[23]	*[23]	
+
+#Text=Urban Area of Saint-Nazaire  Shown in light beige, with a dense and structured yellow road network, the city of Saint-Nazaire stands out as a major urban center.
+38-1	3390-3395	Urban	h3[23]	*[23]	
+38-2	3396-3400	Area	h3[23]	*[23]	
+38-3	3401-3403	of	h3[23]	*[23]	
+38-4	3404-3417	Saint-Nazaire	h3[23]	*[23]	
+38-5	3419-3424	Shown	_	_	
+38-6	3425-3427	in	_	_	
+38-7	3428-3433	light	_	_	
+38-8	3434-3439	beige	_	_	
+38-9	3439-3440	,	_	_	
+38-10	3441-3445	with	_	_	
+38-11	3446-3447	a	_	_	
+38-12	3448-3453	dense	_	_	
+38-13	3454-3457	and	_	_	
+38-14	3458-3468	structured	_	_	
+38-15	3469-3475	yellow	_	_	
+38-16	3476-3480	road	_	_	
+38-17	3481-3488	network	_	_	
+38-18	3488-3489	,	_	_	
+38-19	3490-3493	the	_	_	
+38-20	3494-3498	city	_	_	
+38-21	3499-3501	of	_	_	
+38-22	3502-3515	Saint-Nazaire	_	_	
+38-23	3516-3522	stands	_	_	
+38-24	3523-3526	out	_	_	
+38-25	3527-3529	as	_	_	
+38-26	3530-3531	a	_	_	
+38-27	3532-3537	major	_	_	
+38-28	3538-3543	urban	_	_	
+38-29	3544-3550	center	_	_	
+38-30	3550-3551	.	_	_	
+
+#Text=It is clearly labeled in bold black text (“ST-NAZAIRE”), reinforcing its prominence.  3.
+39-1	3552-3554	It	_	_	
+39-2	3555-3557	is	_	_	
+39-3	3558-3565	clearly	_	_	
+39-4	3566-3573	labeled	_	_	
+39-5	3574-3576	in	_	_	
+39-6	3577-3581	bold	_	_	
+39-7	3582-3587	black	_	_	
+39-8	3588-3592	text	_	_	
+39-9	3593-3594	(	_	_	
+39-10	3594-3595	“	_	_	
+39-11	3595-3605	ST-NAZAIRE	_	_	
+39-12	3605-3606	”	_	_	
+39-13	3606-3607	)	_	_	
+39-14	3607-3608	,	_	_	
+39-15	3609-3620	reinforcing	_	_	
+39-16	3621-3624	its	_	_	
+39-17	3625-3635	prominence	_	_	
+39-18	3635-3636	.	_	_	
+39-19	3638-3639	3	h3[24]	*[24]	
+39-20	3639-3640	.	h3[24]	*[24]	
+
+#Text=Major Transportation Infrastructure  A thick orange line curves across the northern bank, visually representing a major highway or expressway.
+40-1	3641-3646	Major	h3[24]	*[24]	
+40-2	3647-3661	Transportation	h3[24]	*[24]	
+40-3	3662-3676	Infrastructure	h3[24]	*[24]	
+40-4	3678-3679	A	_	_	
+40-5	3680-3685	thick	_	_	
+40-6	3686-3692	orange	_	_	
+40-7	3693-3697	line	_	_	
+40-8	3698-3704	curves	_	_	
+40-9	3705-3711	across	_	_	
+40-10	3712-3715	the	_	_	
+40-11	3716-3724	northern	_	_	
+40-12	3725-3729	bank	_	_	
+40-13	3729-3730	,	_	_	
+40-14	3731-3739	visually	_	_	
+40-15	3740-3752	representing	_	_	
+40-16	3753-3754	a	_	_	
+40-17	3755-3760	major	_	_	
+40-18	3761-3768	highway	_	_	
+40-19	3769-3771	or	_	_	
+40-20	3772-3782	expressway	_	_	
+40-21	3782-3783	.	_	_	
+
+#Text=The bridge connecting Saint-Nazaire to Saint-Brevin-les-Pins is especially salient, acting as a key cross-river connection.  4.
+41-1	3784-3787	The	_	_	
+41-2	3788-3794	bridge	_	_	
+41-3	3795-3805	connecting	_	_	
+41-4	3806-3819	Saint-Nazaire	_	_	
+41-5	3820-3822	to	_	_	
+41-6	3823-3844	Saint-Brevin-les-Pins	_	_	
+41-7	3845-3847	is	_	_	
+41-8	3848-3858	especially	_	_	
+41-9	3859-3866	salient	_	_	
+41-10	3866-3867	,	_	_	
+41-11	3868-3874	acting	_	_	
+41-12	3875-3877	as	_	_	
+41-13	3878-3879	a	_	_	
+41-14	3880-3883	key	_	_	
+41-15	3884-3895	cross-river	_	_	
+41-16	3896-3906	connection	_	_	
+41-17	3906-3907	.	_	_	
+41-18	3909-3910	4	h3[25]	*[25]	
+41-19	3910-3911	.	h3[25]	*[25]	
+
+#Text=Contrast Between Urban and Rural Areas  Urbanized areas (e.g.
+42-1	3912-3920	Contrast	h3[25]	*[25]	
+42-2	3921-3928	Between	h3[25]	*[25]	
+42-3	3929-3934	Urban	h3[25]	*[25]	
+42-4	3935-3938	and	h3[25]	*[25]	
+42-5	3939-3944	Rural	h3[25]	*[25]	
+42-6	3945-3950	Areas	h3[25]	*[25]	
+42-7	3952-3961	Urbanized	_	_	
+42-8	3962-3967	areas	_	_	
+42-9	3968-3969	(	_	_	
+42-10	3969-3972	e.g	_	_	
+42-11	3972-3973	.	_	_	
+
+#Text=Saint-Nazaire, Trignac, St-Brevin-l’Océan) are shaded and structured.
+43-1	3974-3987	Saint-Nazaire	_	_	
+43-2	3987-3988	,	_	_	
+43-3	3989-3996	Trignac	_	_	
+43-4	3996-3997	,	_	_	
+43-5	3998-4009	St-Brevin-l	_	_	
+43-6	4009-4010	’	_	_	
+43-7	4010-4015	Océan	_	_	
+43-8	4015-4016	)	_	_	
+43-9	4017-4020	are	_	_	
+43-10	4021-4027	shaded	_	_	
+43-11	4028-4031	and	_	_	
+43-12	4032-4042	structured	_	_	
+43-13	4042-4043	.	_	_	
+
+#Text=In contrast, the rural areas (white background, sparse road networks) make the urban zones more visually distinct.  5.
+44-1	4044-4046	In	_	_	
+44-2	4047-4055	contrast	_	_	
+44-3	4055-4056	,	_	_	
+44-4	4057-4060	the	_	_	
+44-5	4061-4066	rural	_	_	
+44-6	4067-4072	areas	_	_	
+44-7	4073-4074	(	_	_	
+44-8	4074-4079	white	_	_	
+44-9	4080-4090	background	_	_	
+44-10	4090-4091	,	_	_	
+44-11	4092-4098	sparse	_	_	
+44-12	4099-4103	road	_	_	
+44-13	4104-4112	networks	_	_	
+44-14	4112-4113	)	_	_	
+44-15	4114-4118	make	_	_	
+44-16	4119-4122	the	_	_	
+44-17	4123-4128	urban	_	_	
+44-18	4129-4134	zones	_	_	
+44-19	4135-4139	more	_	_	
+44-20	4140-4148	visually	_	_	
+44-21	4149-4157	distinct	_	_	
+44-22	4157-4158	.	_	_	
+44-23	4160-4161	5	h3[26]	*[26]	
+44-24	4161-4162	.	h3[26]	*[26]	
+
+#Text=Place Labels  Large, bold, black uppercase labels for towns and cities (e.g., “ST-NAZAIRE”, “ST-BREVIN-LES-PINS”) stand out immediately.
+45-1	4163-4168	Place	h3[26]	*[26]	
+45-2	4169-4175	Labels	h3[26]	*[26]	
+45-3	4177-4182	Large	_	_	
+45-4	4182-4183	,	_	_	
+45-5	4184-4188	bold	_	_	
+45-6	4188-4189	,	_	_	
+45-7	4190-4195	black	_	_	
+45-8	4196-4205	uppercase	_	_	
+45-9	4206-4212	labels	_	_	
+45-10	4213-4216	for	_	_	
+45-11	4217-4222	towns	_	_	
+45-12	4223-4226	and	_	_	
+45-13	4227-4233	cities	_	_	
+45-14	4234-4235	(	_	_	
+45-15	4235-4238	e.g	_	_	
+45-16	4238-4239	.	_	_	
+45-17	4239-4240	,	_	_	
+45-18	4241-4242	“	_	_	
+45-19	4242-4252	ST-NAZAIRE	_	_	
+45-20	4252-4253	”	_	_	
+45-21	4253-4254	,	_	_	
+45-22	4255-4256	“	_	_	
+45-23	4256-4274	ST-BREVIN-LES-PINS	_	_	
+45-24	4274-4275	”	_	_	
+45-25	4275-4276	)	_	_	
+45-26	4277-4282	stand	_	_	
+45-27	4283-4286	out	_	_	
+45-28	4287-4298	immediately	_	_	
+45-29	4298-4299	.	_	_	
+
+#Text=These anchor the viewer’s understanding of location and spatial structure
+46-1	4300-4305	These	_	_	
+46-2	4306-4312	anchor	_	_	
+46-3	4313-4316	the	_	_	
+46-4	4317-4323	viewer	_	_	
+46-5	4323-4324	’	_	_	
+46-6	4324-4325	s	_	_	
+46-7	4326-4339	understanding	_	_	
+46-8	4340-4342	of	_	_	
+46-9	4343-4351	location	_	_	
+46-10	4352-4355	and	_	_	
+46-11	4356-4363	spatial	_	_	
+46-12	4364-4373	structure	_	_	
+
+#Text=.
+47-1	4373-4374	.	_	_	
+
+#Text=🧭 Summary of Visual Hierarchy  Hydrography (Loire estuary and ocean) – largest and most contrasting feature.
+48-1	4376-4378	🧭	h2[27]	*[27]	
+48-2	4379-4386	Summary	h2[27]	*[27]	
+48-3	4387-4389	of	h2[27]	*[27]	
+48-4	4390-4396	Visual	h2[27]	*[27]	
+48-5	4397-4406	Hierarchy	h2[27]	*[27]	
+48-6	4408-4419	Hydrography	_	_	
+48-7	4420-4421	(	_	_	
+48-8	4421-4426	Loire	_	_	
+48-9	4427-4434	estuary	_	_	
+48-10	4435-4438	and	_	_	
+48-11	4439-4444	ocean	_	_	
+48-12	4444-4445	)	_	_	
+48-13	4446-4447	–	_	_	
+48-14	4448-4455	largest	_	_	
+48-15	4456-4459	and	_	_	
+48-16	4460-4464	most	_	_	
+48-17	4465-4476	contrasting	_	_	
+48-18	4477-4484	feature	_	_	
+48-19	4484-4485	.	_	_	
+
+#Text=Urban fabric of Saint-Nazaire – dense, structured, and bold-labeled.
+49-1	4486-4491	Urban	_	_	
+49-2	4492-4498	fabric	_	_	
+49-3	4499-4501	of	_	_	
+49-4	4502-4515	Saint-Nazaire	_	_	
+49-5	4516-4517	–	_	_	
+49-6	4518-4523	dense	_	_	
+49-7	4523-4524	,	_	_	
+49-8	4525-4535	structured	_	_	
+49-9	4535-4536	,	_	_	
+49-10	4537-4540	and	_	_	
+49-11	4541-4553	bold-labeled	_	_	
+49-12	4553-4554	.	_	_	
+
+#Text=Major roads and bridge – visually reinforced by color and thickness.
+50-1	4555-4560	Major	_	_	
+50-2	4561-4566	roads	_	_	
+50-3	4567-4570	and	_	_	
+50-4	4571-4577	bridge	_	_	
+50-5	4578-4579	–	_	_	
+50-6	4580-4588	visually	_	_	
+50-7	4589-4599	reinforced	_	_	
+50-8	4600-4602	by	_	_	
+50-9	4603-4608	color	_	_	
+50-10	4609-4612	and	_	_	
+50-11	4613-4622	thickness	_	_	
+50-12	4622-4623	.	_	_	
+
+#Text=Text labels – provide anchoring context and contribute to salience.
+51-1	4624-4628	Text	_	_	
+51-2	4629-4635	labels	_	_	
+51-3	4636-4637	–	_	_	
+51-4	4638-4645	provide	_	_	
+51-5	4646-4655	anchoring	_	_	
+51-6	4656-4663	context	_	_	
+51-7	4664-4667	and	_	_	
+51-8	4668-4678	contribute	_	_	
+51-9	4679-4681	to	_	_	
+51-10	4682-4690	salience	_	_	
+51-11	4690-4691	.	_	_	
+
+#Text=Patterned estuary zones – add visual texture and geographical nuance.
+52-1	4692-4701	Patterned	_	_	
+52-2	4702-4709	estuary	_	_	
+52-3	4710-4715	zones	_	_	
+52-4	4716-4717	–	_	_	
+52-5	4718-4721	add	_	_	
+52-6	4722-4728	visual	_	_	
+52-7	4729-4736	texture	_	_	
+52-8	4737-4740	and	_	_	
+52-9	4741-4753	geographical	_	_	
+52-10	4754-4760	nuance	_	_	
+52-11	4760-4761	.	_	_	
+
+#Text=Would you like an analysis of how this salience shifts across scales, or how symbolization here supports readability and orientation?
+53-1	4763-4768	Would	p[28]	*[28]	
+53-2	4769-4772	you	p[28]	*[28]	
+53-3	4773-4777	like	p[28]	*[28]	
+53-4	4778-4780	an	p[28]	*[28]	
+53-5	4781-4789	analysis	p[28]	*[28]	
+53-6	4790-4792	of	p[28]	*[28]	
+53-7	4793-4796	how	p[28]	*[28]	
+53-8	4797-4801	this	p[28]	*[28]	
+53-9	4802-4810	salience	p[28]	*[28]	
+53-10	4811-4817	shifts	p[28]	*[28]	
+53-11	4818-4824	across	p[28]	*[28]	
+53-12	4825-4831	scales	p[28]	*[28]	
+53-13	4831-4832	,	p[28]	*[28]	
+53-14	4833-4835	or	p[28]	*[28]	
+53-15	4836-4839	how	p[28]	*[28]	
+53-16	4840-4853	symbolization	p[28]	*[28]	
+53-17	4854-4858	here	p[28]	*[28]	
+53-18	4859-4867	supports	p[28]	*[28]	
+53-19	4868-4879	readability	p[28]	*[28]	
+53-20	4880-4883	and	p[28]	*[28]	
+53-21	4884-4895	orientation	p[28]	*[28]	
+53-22	4895-4896	?	p[28]	*[28]	
+
+#Text=Anchors summary  Loire estuary (Loire River estuary) Atlantic Ocean Saint-Nazaire (ST-NAZAIRE) Trignac Saint-Brevin-les-Pins (ST-BREVIN-LES-PINS / St-Brevin-l’Océan) Bridge connecting Saint-Nazaire to Saint-Brevin-les-Pins (non-named) Major highway / expressway (thick orange line) (non-named) Tidal flats / shallow zones (blue dotted textures) (non-named) Port / industrial areas near Saint-Nazaire and Donges (non-named) Urban fabric / built-up area of Saint-Nazaire (non-named)
+54-1	4897-4904	Anchors	h1[29]	*[29]	
+54-2	4905-4912	summary	h1[29]	*[29]	
+54-3	4914-4919	Loire	_	_	
+54-4	4920-4927	estuary	_	_	
+54-5	4928-4929	(	_	_	
+54-6	4929-4934	Loire	_	_	
+54-7	4935-4940	River	_	_	
+54-8	4941-4948	estuary	_	_	
+54-9	4948-4949	)	_	_	
+54-10	4950-4958	Atlantic	_	_	
+54-11	4959-4964	Ocean	_	_	
+54-12	4965-4978	Saint-Nazaire	_	_	
+54-13	4979-4980	(	_	_	
+54-14	4980-4990	ST-NAZAIRE	_	_	
+54-15	4990-4991	)	_	_	
+54-16	4992-4999	Trignac	_	_	
+54-17	5000-5021	Saint-Brevin-les-Pins	_	_	
+54-18	5022-5023	(	_	_	
+54-19	5023-5041	ST-BREVIN-LES-PINS	_	_	
+54-20	5042-5043	/	_	_	
+54-21	5044-5055	St-Brevin-l	_	_	
+54-22	5055-5056	’	_	_	
+54-23	5056-5061	Océan	_	_	
+54-24	5061-5062	)	_	_	
+54-25	5063-5069	Bridge	_	_	
+54-26	5070-5080	connecting	_	_	
+54-27	5081-5094	Saint-Nazaire	_	_	
+54-28	5095-5097	to	_	_	
+54-29	5098-5119	Saint-Brevin-les-Pins	_	_	
+54-30	5120-5121	(	_	_	
+54-31	5121-5130	non-named	_	_	
+54-32	5130-5131	)	_	_	
+54-33	5132-5137	Major	_	_	
+54-34	5138-5145	highway	_	_	
+54-35	5146-5147	/	_	_	
+54-36	5148-5158	expressway	_	_	
+54-37	5159-5160	(	_	_	
+54-38	5160-5165	thick	_	_	
+54-39	5166-5172	orange	_	_	
+54-40	5173-5177	line	_	_	
+54-41	5177-5178	)	_	_	
+54-42	5179-5180	(	_	_	
+54-43	5180-5189	non-named	_	_	
+54-44	5189-5190	)	_	_	
+54-45	5191-5196	Tidal	_	_	
+54-46	5197-5202	flats	_	_	
+54-47	5203-5204	/	_	_	
+54-48	5205-5212	shallow	_	_	
+54-49	5213-5218	zones	_	_	
+54-50	5219-5220	(	_	_	
+54-51	5220-5224	blue	_	_	
+54-52	5225-5231	dotted	_	_	
+54-53	5232-5240	textures	_	_	
+54-54	5240-5241	)	_	_	
+54-55	5242-5243	(	_	_	
+54-56	5243-5252	non-named	_	_	
+54-57	5252-5253	)	_	_	
+54-58	5254-5258	Port	_	_	
+54-59	5259-5260	/	_	_	
+54-60	5261-5271	industrial	_	_	
+54-61	5272-5277	areas	_	_	
+54-62	5278-5282	near	_	_	
+54-63	5283-5296	Saint-Nazaire	_	_	
+54-64	5297-5300	and	_	_	
+54-65	5301-5307	Donges	_	_	
+54-66	5308-5309	(	_	_	
+54-67	5309-5318	non-named	_	_	
+54-68	5318-5319	)	_	_	
+54-69	5320-5325	Urban	_	_	
+54-70	5326-5332	fabric	_	_	
+54-71	5333-5334	/	_	_	
+54-72	5335-5343	built-up	_	_	
+54-73	5344-5348	area	_	_	
+54-74	5349-5351	of	_	_	
+54-75	5352-5365	Saint-Nazaire	_	_	
+54-76	5366-5367	(	_	_	
+54-77	5367-5376	non-named	_	_	
+54-78	5376-5377	)	_	_	

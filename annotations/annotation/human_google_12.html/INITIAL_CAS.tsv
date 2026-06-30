@@ -1,0 +1,228 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	
+1-2	4-7	you	h1[1]	*[1]	
+1-3	8-16	describe	h1[1]	*[1]	
+1-4	17-20	the	h1[1]	*[1]	
+1-5	21-28	content	h1[1]	*[1]	
+1-6	29-31	of	h1[1]	*[1]	
+1-7	32-36	this	h1[1]	*[1]	
+1-8	37-40	map	h1[1]	*[1]	
+1-9	40-41	?	h1[1]	*[1]	
+
+#Text=We can see a small part of an American state.
+2-1	42-44	We	p[2]	*[2]	
+2-2	45-48	can	p[2]	*[2]	
+2-3	49-52	see	p[2]	*[2]	
+2-4	53-54	a	p[2]	*[2]	
+2-5	55-60	small	p[2]	*[2]	
+2-6	61-65	part	p[2]	*[2]	
+2-7	66-68	of	p[2]	*[2]	
+2-8	69-71	an	p[2]	*[2]	
+2-9	72-80	American	p[2]	*[2]	
+2-10	81-86	state	p[2]	*[2]	
+2-11	86-87	.	p[2]	*[2]	
+
+#Text=There are two large lakes in the middle, Lake Mendota and Lake Monona.
+3-1	88-93	There	p[2]	*[2]	
+3-2	94-97	are	p[2]	*[2]	
+3-3	98-101	two	p[2]	*[2]	
+3-4	102-107	large	p[2]	*[2]	
+3-5	108-113	lakes	p[2]	*[2]	
+3-6	114-116	in	p[2]	*[2]	
+3-7	117-120	the	p[2]	*[2]	
+3-8	121-127	middle	p[2]	*[2]	
+3-9	127-128	,	p[2]	*[2]	
+3-10	129-133	Lake	p[2]	*[2]	
+3-11	134-141	Mendota	p[2]	*[2]	
+3-12	142-145	and	p[2]	*[2]	
+3-13	146-150	Lake	p[2]	*[2]	
+3-14	151-157	Monona	p[2]	*[2]	
+3-15	157-158	.	p[2]	*[2]	
+
+#Text=It looks like a fishing area to the north.
+4-1	159-161	It	p[2]	*[2]	
+4-2	162-167	looks	p[2]	*[2]	
+4-3	168-172	like	p[2]	*[2]	
+4-4	173-174	a	p[2]	*[2]	
+4-5	175-182	fishing	p[2]	*[2]	
+4-6	183-187	area	p[2]	*[2]	
+4-7	188-190	to	p[2]	*[2]	
+4-8	191-194	the	p[2]	*[2]	
+4-9	195-200	north	p[2]	*[2]	
+4-10	200-201	.	p[2]	*[2]	
+
+#Text=There is a university to the west and a hiking trail to the south.
+5-1	202-207	There	p[2]	*[2]	
+5-2	208-210	is	p[2]	*[2]	
+5-3	211-212	a	p[2]	*[2]	
+5-4	213-223	university	p[2]	*[2]	
+5-5	224-226	to	p[2]	*[2]	
+5-6	227-230	the	p[2]	*[2]	
+5-7	231-235	west	p[2]	*[2]	
+5-8	236-239	and	p[2]	*[2]	
+5-9	240-241	a	p[2]	*[2]	
+5-10	242-248	hiking	p[2]	*[2]	
+5-11	249-254	trail	p[2]	*[2]	
+5-12	255-257	to	p[2]	*[2]	
+5-13	258-261	the	p[2]	*[2]	
+5-14	262-267	south	p[2]	*[2]	
+5-15	267-268	.	p[2]	*[2]	
+
+#Text=There is a lot of green, so it is a wooded area.
+6-1	269-274	There	p[2]	*[2]	
+6-2	275-277	is	p[2]	*[2]	
+6-3	278-279	a	p[2]	*[2]	
+6-4	280-283	lot	p[2]	*[2]	
+6-5	284-286	of	p[2]	*[2]	
+6-6	287-292	green	p[2]	*[2]	
+6-7	292-293	,	p[2]	*[2]	
+6-8	294-296	so	p[2]	*[2]	
+6-9	297-299	it	p[2]	*[2]	
+6-10	300-302	is	p[2]	*[2]	
+6-11	303-304	a	p[2]	*[2]	
+6-12	305-311	wooded	p[2]	*[2]	
+6-13	312-316	area	p[2]	*[2]	
+6-14	316-317	.	p[2]	*[2]	
+
+#Text=Further to the east, there is a slightly more urban area next to Lake Monona with roads and major highways.
+7-1	318-325	Further	p[2]	*[2]	
+7-2	326-328	to	p[2]	*[2]	
+7-3	329-332	the	p[2]	*[2]	
+7-4	333-337	east	p[2]	*[2]	
+7-5	337-338	,	p[2]	*[2]	
+7-6	339-344	there	p[2]	*[2]	
+7-7	345-347	is	p[2]	*[2]	
+7-8	348-349	a	p[2]	*[2]	
+7-9	350-358	slightly	p[2]	*[2]	
+7-10	359-363	more	p[2]	*[2]	
+7-11	364-369	urban	p[2]	*[2]	
+7-12	370-374	area	p[2]	*[2]	
+7-13	375-379	next	p[2]	*[2]	
+7-14	380-382	to	p[2]	*[2]	
+7-15	383-387	Lake	p[2]	*[2]	
+7-16	388-394	Monona	p[2]	*[2]	
+7-17	395-399	with	p[2]	*[2]	
+7-18	400-405	roads	p[2]	*[2]	
+7-19	406-409	and	p[2]	*[2]	
+7-20	410-415	major	p[2]	*[2]	
+7-21	416-424	highways	p[2]	*[2]	
+7-22	424-425	.	p[2]	*[2]	
+
+#Text=There is a botanical garden above the lake.
+8-1	426-431	There	p[2]	*[2]	
+8-2	432-434	is	p[2]	*[2]	
+8-3	435-436	a	p[2]	*[2]	
+8-4	437-446	botanical	p[2]	*[2]	
+8-5	447-453	garden	p[2]	*[2]	
+8-6	454-459	above	p[2]	*[2]	
+8-7	460-463	the	p[2]	*[2]	
+8-8	464-468	lake	p[2]	*[2]	
+8-9	468-469	.	p[2]	*[2]	
+
+#Text=It looks like a map from a search engine for tourists looking for accommodation, as we can see a well-rated hotel.
+9-1	470-472	It	p[2]	*[2]	
+9-2	473-478	looks	p[2]	*[2]	
+9-3	479-483	like	p[2]	*[2]	
+9-4	484-485	a	p[2]	*[2]	
+9-5	486-489	map	p[2]	*[2]	
+9-6	490-494	from	p[2]	*[2]	
+9-7	495-496	a	p[2]	*[2]	
+9-8	497-503	search	p[2]	*[2]	
+9-9	504-510	engine	p[2]	*[2]	
+9-10	511-514	for	p[2]	*[2]	
+9-11	515-523	tourists	p[2]	*[2]	
+9-12	524-531	looking	p[2]	*[2]	
+9-13	532-535	for	p[2]	*[2]	
+9-14	536-549	accommodation	p[2]	*[2]	
+9-15	549-550	,	p[2]	*[2]	
+9-16	551-553	as	p[2]	*[2]	
+9-17	554-556	we	p[2]	*[2]	
+9-18	557-560	can	p[2]	*[2]	
+9-19	561-564	see	p[2]	*[2]	
+9-20	565-566	a	p[2]	*[2]	
+9-21	567-577	well-rated	p[2]	*[2]	
+9-22	578-583	hotel	p[2]	*[2]	
+9-23	583-584	.	p[2]	*[2]	
+
+#Text=There is an airport to the north and perhaps a hospital to the northeast.
+10-1	585-590	There	p[2]	*[2]	
+10-2	591-593	is	p[2]	*[2]	
+10-3	594-596	an	p[2]	*[2]	
+10-4	597-604	airport	p[2]	*[2]	
+10-5	605-607	to	p[2]	*[2]	
+10-6	608-611	the	p[2]	*[2]	
+10-7	612-617	north	p[2]	*[2]	
+10-8	618-621	and	p[2]	*[2]	
+10-9	622-629	perhaps	p[2]	*[2]	
+10-10	630-631	a	p[2]	*[2]	
+10-11	632-640	hospital	p[2]	*[2]	
+10-12	641-643	to	p[2]	*[2]	
+10-13	644-647	the	p[2]	*[2]	
+10-14	648-657	northeast	p[2]	*[2]	
+10-15	657-658	.	p[2]	*[2]	
+
+#Text=Anchors summary  Lake Mendota Lake Monona fishing area (north) university (west) hiking trail (south) wooded/forested area (abundant green) urban area east of Lake Monona with major roads botanical garden (above the lake) well-rated hotel (tourist lodging) airport (north) hospital (possible, northeast)
+11-1	659-666	Anchors	h1[3]	*[3]	
+11-2	667-674	summary	h1[3]	*[3]	
+11-3	676-680	Lake	_	_	
+11-4	681-688	Mendota	_	_	
+11-5	689-693	Lake	_	_	
+11-6	694-700	Monona	_	_	
+11-7	701-708	fishing	_	_	
+11-8	709-713	area	_	_	
+11-9	714-715	(	_	_	
+11-10	715-720	north	_	_	
+11-11	720-721	)	_	_	
+11-12	722-732	university	_	_	
+11-13	733-734	(	_	_	
+11-14	734-738	west	_	_	
+11-15	738-739	)	_	_	
+11-16	740-746	hiking	_	_	
+11-17	747-752	trail	_	_	
+11-18	753-754	(	_	_	
+11-19	754-759	south	_	_	
+11-20	759-760	)	_	_	
+11-21	761-767	wooded	_	_	
+11-22	767-768	/	_	_	
+11-23	768-776	forested	_	_	
+11-24	777-781	area	_	_	
+11-25	782-783	(	_	_	
+11-26	783-791	abundant	_	_	
+11-27	792-797	green	_	_	
+11-28	797-798	)	_	_	
+11-29	799-804	urban	_	_	
+11-30	805-809	area	_	_	
+11-31	810-814	east	_	_	
+11-32	815-817	of	_	_	
+11-33	818-822	Lake	_	_	
+11-34	823-829	Monona	_	_	
+11-35	830-834	with	_	_	
+11-36	835-840	major	_	_	
+11-37	841-846	roads	_	_	
+11-38	847-856	botanical	_	_	
+11-39	857-863	garden	_	_	
+11-40	864-865	(	_	_	
+11-41	865-870	above	_	_	
+11-42	871-874	the	_	_	
+11-43	875-879	lake	_	_	
+11-44	879-880	)	_	_	
+11-45	881-891	well-rated	_	_	
+11-46	892-897	hotel	_	_	
+11-47	898-899	(	_	_	
+11-48	899-906	tourist	_	_	
+11-49	907-914	lodging	_	_	
+11-50	914-915	)	_	_	
+11-51	916-923	airport	_	_	
+11-52	924-925	(	_	_	
+11-53	925-930	north	_	_	
+11-54	930-931	)	_	_	
+11-55	932-940	hospital	_	_	
+11-56	941-942	(	_	_	
+11-57	942-950	possible	_	_	
+11-58	950-951	,	_	_	
+11-59	952-961	northeast	_	_	
+11-60	961-962	)	_	_	

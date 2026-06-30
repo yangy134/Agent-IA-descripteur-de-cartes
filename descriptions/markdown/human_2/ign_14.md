@@ -1,0 +1,6 @@
+# Can you describe the content of this map?
+
+Map of the city of Nantes with the Île de Nantes in the center, surrounded by the two arms of the Loire River and the two parts of Nantes (mainly the right bank and the left bank). Extensive road network with several bridges crossing the Loire (seven north of the island and four south of the island). There is also an extensive rail network with the train station located in the city center, to the north. The railway tracks are located in the northeast corner of the map. Trains therefore arrive at the station from the east and depart in the opposite direction. Tram lines connect the different neighborhoods, from north to south and from northeast to southwest. In the southern part of Nantes, the names of the neighborhoods are indicated, from Trentemoult to La Gibraye (from west to east). On the right bank of the Loire, we can clearly see a tributary that should flow into the Loire, coming from the north, but it disappears and reappears further south, after passing under the buildings and the station. On the left bank, another tributary flows into the Loire. A bridge crosses it. Downstream from the Île de Nantes, two maritime routes can be seen, representing the shuttle routes used by residents of the right bank to reach the Île de Nantes.
+
+# Anchors summary
+

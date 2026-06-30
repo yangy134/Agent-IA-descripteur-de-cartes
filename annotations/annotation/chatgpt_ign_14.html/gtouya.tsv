@@ -1,0 +1,1269 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=Absolutely!
+2-1	42-52	Absolutely	p[2]	*[2]	_	
+2-2	52-53	!	p[2]	*[2]	_	
+
+#Text=Here's a description of the content and visually salient elements of the map you just shared: 🗺️ Map Overview This is a detailed topographic map of central Nantes, France, covering the islands on the Loire River, including Île de Nantes and parts of Trentemoult, Beaulieu, and Malakoff.
+3-1	54-60	Here's	p[2]	*[2]	_	
+3-2	61-62	a	p[2]	*[2]	_	
+3-3	63-74	description	p[2]	*[2]	_	
+3-4	75-77	of	p[2]	*[2]	_	
+3-5	78-81	the	p[2]	*[2]	_	
+3-6	82-89	content	p[2]	*[2]	_	
+3-7	90-93	and	p[2]	*[2]	_	
+3-8	94-102	visually	p[2]	*[2]	_	
+3-9	103-110	salient	p[2]	*[2]	_	
+3-10	111-119	elements	p[2]	*[2]	_	
+3-11	120-122	of	p[2]	*[2]	_	
+3-12	123-126	the	p[2]	*[2]	_	
+3-13	127-130	map	p[2]	*[2]	_	
+3-14	131-134	you	p[2]	*[2]	_	
+3-15	135-139	just	p[2]	*[2]	_	
+3-16	140-146	shared	p[2]	*[2]	_	
+3-17	146-147	:	p[2]	*[2]	_	
+3-18	148-151	🗺️	h2[3]	*[3]	_	
+3-19	152-155	Map	h2[3]	*[3]	_	
+3-20	156-164	Overview	h2[3]	*[3]	_	
+3-21	165-169	This	p[4]	*[4]	_	
+3-22	170-172	is	p[4]	*[4]	_	
+3-23	173-174	a	p[4]	*[4]	_	
+3-24	175-183	detailed	p[4]	*[4]	_	
+3-25	184-195	topographic	p[4]	*[4]	_	
+3-26	196-199	map	p[4]	*[4]	_	
+3-27	200-202	of	p[4]	*[4]	_	
+3-28	203-210	central	p[4]	*[4]	_	
+3-29	211-217	Nantes	p[4]	*[4]	toponym[53]	
+3-30	217-218	,	p[4]	*[4]	toponym[53]	
+3-31	219-225	France	p[4]	*[4]	toponym[53]	
+3-32	225-226	,	p[4]	*[4]	_	
+3-33	227-235	covering	p[4]	*[4]	spatial relation	
+3-34	236-239	the	p[4]	*[4]	_	
+3-35	240-247	islands	p[4]	*[4]	_	
+3-36	248-250	on	p[4]	*[4]	_	
+3-37	251-254	the	p[4]	*[4]	_	
+3-38	255-260	Loire	p[4]	*[4]	toponym[54]	
+3-39	261-266	River	p[4]	*[4]	toponym[54]	
+3-40	266-267	,	p[4]	*[4]	_	
+3-41	268-277	including	p[4]	*[4]	_	
+3-42	278-281	Île	p[4]	*[4]	toponym[55]	
+3-43	282-284	de	p[4]	*[4]	toponym[55]	
+3-44	285-291	Nantes	p[4]	*[4]	toponym[55]	
+3-45	292-295	and	p[4]	*[4]	_	
+3-46	296-301	parts	p[4]	*[4]	spatial relation[56]	
+3-47	302-304	of	p[4]	*[4]	spatial relation[56]	
+3-48	305-316	Trentemoult	p[4]	*[4]	toponym	
+3-49	316-317	,	p[4]	*[4]	_	
+3-50	318-326	Beaulieu	p[4]	*[4]	toponym	
+3-51	326-327	,	p[4]	*[4]	_	
+3-52	328-331	and	p[4]	*[4]	_	
+3-53	332-340	Malakoff	p[4]	*[4]	toponym	
+3-54	340-341	.	p[4]	*[4]	_	
+
+#Text=The map is drawn in a modern IGN-inspired style, blending clarity with rich urban detail. 🔝 Most Visually Salient Elements 🌊 1.
+4-1	342-345	The	p[4]	*[4]	_	
+4-2	346-349	map	p[4]	*[4]	_	
+4-3	350-352	is	p[4]	*[4]	_	
+4-4	353-358	drawn	p[4]	*[4]	_	
+4-5	359-361	in	p[4]	*[4]	_	
+4-6	362-363	a	p[4]	*[4]	_	
+4-7	364-370	modern	p[4]	*[4]	_	
+4-8	371-383	IGN-inspired	p[4]	*[4]	_	
+4-9	384-389	style	p[4]	*[4]	_	
+4-10	389-390	,	p[4]	*[4]	_	
+4-11	391-399	blending	p[4]	*[4]	_	
+4-12	400-407	clarity	p[4]	*[4]	_	
+4-13	408-412	with	p[4]	*[4]	_	
+4-14	413-417	rich	p[4]	*[4]	_	
+4-15	418-423	urban	p[4]	*[4]	_	
+4-16	424-430	detail	p[4]	*[4]	_	
+4-17	430-431	.	p[4]	*[4]	_	
+4-18	432-434	🔝	h2[5]	*[5]	_	
+4-19	435-439	Most	h2[5]	*[5]	_	
+4-20	440-448	Visually	h2[5]	*[5]	_	
+4-21	449-456	Salient	h2[5]	*[5]	_	
+4-22	457-465	Elements	h2[5]	*[5]	_	
+4-23	466-468	🌊	h3[6]	*[6]	_	
+4-24	469-470	1	h3[6]	*[6]	_	
+4-25	470-471	.	h3[6]	*[6]	_	
+
+#Text=The Loire River and Its Branches  The dominant feature of the map is the Loire River, shown in light blue, cutting across the map from west to east.
+5-1	472-475	The	h3[6]	*[6]	_	
+5-2	476-481	Loire	h3[6]	*[6]	toponym[57]	
+5-3	482-487	River	h3[6]	*[6]	toponym[57]	
+5-4	488-491	and	h3[6]	*[6]	_	
+5-5	492-495	Its	h3[6]	*[6]	_	
+5-6	496-504	Branches	h3[6]	*[6]	_	
+5-7	506-509	The	p[7]	*[7]	_	
+5-8	510-518	dominant	p[7]	*[7]	_	
+5-9	519-526	feature	p[7]	*[7]	_	
+5-10	527-529	of	p[7]	*[7]	_	
+5-11	530-533	the	p[7]	*[7]	_	
+5-12	534-537	map	p[7]	*[7]	_	
+5-13	538-540	is	p[7]	*[7]	_	
+5-14	541-544	the	p[7]	*[7]	_	
+5-15	545-550	Loire	p[7]	*[7]	toponym[58]	
+5-16	551-556	River	p[7]	*[7]	toponym[58]	
+5-17	556-557	,	p[7]	*[7]	_	
+5-18	558-563	shown	p[7]	*[7]	_	
+5-19	564-566	in	p[7]	*[7]	_	
+5-20	567-572	light	p[7]	*[7]	_	
+5-21	573-577	blue	p[7]	*[7]	_	
+5-22	577-578	,	p[7]	*[7]	_	
+5-23	579-586	cutting	p[7]	*[7]	spatial relation[59]	
+5-24	587-593	across	p[7]	*[7]	spatial relation[59]	
+5-25	594-597	the	p[7]	*[7]	_	
+5-26	598-601	map	p[7]	*[7]	_	
+5-27	602-606	from	p[7]	*[7]	spatial relation[60]	
+5-28	607-611	west	p[7]	*[7]	spatial relation[60]	
+5-29	612-614	to	p[7]	*[7]	spatial relation[60]	
+5-30	615-619	east	p[7]	*[7]	spatial relation[60]	
+5-31	619-620	.	p[7]	*[7]	_	
+
+#Text=It splits into several branches, forming:  Île de Nantes (central island) La Haute Île, La Basse Île, Île Forget, etc.
+6-1	621-623	It	p[8]	*[8]	_	
+6-2	624-630	splits	p[8]	*[8]	_	
+6-3	631-635	into	p[8]	*[8]	_	
+6-4	636-643	several	p[8]	*[8]	_	
+6-5	644-652	branches	p[8]	*[8]	_	
+6-6	652-653	,	p[8]	*[8]	_	
+6-7	654-661	forming	p[8]	*[8]	_	
+6-8	661-662	:	p[8]	*[8]	_	
+6-9	664-667	Île	_	_	toponym[61]	
+6-10	668-670	de	_	_	toponym[61]	
+6-11	671-677	Nantes	_	_	toponym[61]	
+6-12	678-679	(	_	_	_	
+6-13	679-686	central	_	_	_	
+6-14	687-693	island	_	_	_	
+6-15	693-694	)	_	_	_	
+6-16	695-697	La	_	_	toponym[62]	
+6-17	698-703	Haute	_	_	toponym[62]	
+6-18	704-707	Île	_	_	toponym[62]	
+6-19	707-708	,	_	_	_	
+6-20	709-711	La	_	_	toponym[63]	
+6-21	712-717	Basse	_	_	toponym[63]	
+6-22	718-721	Île	_	_	toponym[63]	
+6-23	721-722	,	_	_	_	
+6-24	723-726	Île	_	_	toponym[64]	
+6-25	727-733	Forget	_	_	toponym[64]	
+6-26	733-734	,	_	_	_	
+6-27	735-738	etc	_	_	_	
+6-28	738-739	.	_	_	_	
+
+#Text=The labeling of "la Loire", "la Loire Neuve", and other branches increases their salience
+7-1	741-744	The	p[9]	*[9]	_	
+7-2	745-753	labeling	p[9]	*[9]	_	
+7-3	754-756	of	p[9]	*[9]	_	
+7-4	757-758	"	p[9]	*[9]	_	
+7-5	758-760	la	p[9]	*[9]	toponym[65]	
+7-6	761-766	Loire	p[9]	*[9]	toponym[65]	
+7-7	766-767	"	p[9]	*[9]	_	
+7-8	767-768	,	p[9]	*[9]	_	
+7-9	769-770	"	p[9]	*[9]	_	
+7-10	770-772	la	p[9]	*[9]	toponym[66]	
+7-11	773-778	Loire	p[9]	*[9]	toponym[66]	
+7-12	779-784	Neuve	p[9]	*[9]	toponym[66]	
+7-13	784-785	"	p[9]	*[9]	_	
+7-14	785-786	,	p[9]	*[9]	_	
+7-15	787-790	and	p[9]	*[9]	_	
+7-16	791-796	other	p[9]	*[9]	_	
+7-17	797-805	branches	p[9]	*[9]	_	
+7-18	806-815	increases	p[9]	*[9]	_	
+7-19	816-821	their	p[9]	*[9]	_	
+7-20	822-830	salience	p[9]	*[9]	_	
+
+#Text=.
+8-1	830-831	.	p[9]	*[9]	_	
+
+#Text=🏙️ 2.
+9-1	833-836	🏙️	h3[10]	*[10]	_	
+9-2	837-838	2	h3[10]	*[10]	_	
+9-3	838-839	.	h3[10]	*[10]	_	
+
+#Text=Île de Nantes  Central on the map, this large island is shaded with white and light grey blocks, denoting mixed-use urban areas.
+10-1	840-843	Île	h3[10]	*[10]	toponym[67]	
+10-2	844-846	de	h3[10]	*[10]	toponym[67]	
+10-3	847-853	Nantes	h3[10]	*[10]	toponym[67]	
+10-4	855-862	Central	p[11]	*[11]	_	
+10-5	863-865	on	p[11]	*[11]	_	
+10-6	866-869	the	p[11]	*[11]	_	
+10-7	870-873	map	p[11]	*[11]	_	
+10-8	873-874	,	p[11]	*[11]	_	
+10-9	875-879	this	p[11]	*[11]	_	
+10-10	880-885	large	p[11]	*[11]	_	
+10-11	886-892	island	p[11]	*[11]	_	
+10-12	893-895	is	p[11]	*[11]	_	
+10-13	896-902	shaded	p[11]	*[11]	_	
+10-14	903-907	with	p[11]	*[11]	_	
+10-15	908-913	white	p[11]	*[11]	_	
+10-16	914-917	and	p[11]	*[11]	_	
+10-17	918-923	light	p[11]	*[11]	_	
+10-18	924-928	grey	p[11]	*[11]	_	
+10-19	929-935	blocks	p[11]	*[11]	_	
+10-20	935-936	,	p[11]	*[11]	_	
+10-21	937-945	denoting	p[11]	*[11]	_	
+10-22	946-955	mixed-use	p[11]	*[11]	_	
+10-23	956-961	urban	p[11]	*[11]	_	
+10-24	962-967	areas	p[11]	*[11]	_	
+10-25	967-968	.	p[11]	*[11]	_	
+
+#Text=It features:  Industrial and port zones (western half) Urban development areas (central and east)  Distinct grid patterns and building outlines make it stand out from the more organic surrounding neighborhoods
+11-1	969-971	It	p[12]	*[12]	_	
+11-2	972-980	features	p[12]	*[12]	_	
+11-3	980-981	:	p[12]	*[12]	_	
+11-4	983-993	Industrial	_	_	_	
+11-5	994-997	and	_	_	_	
+11-6	998-1002	port	_	_	_	
+11-7	1003-1008	zones	_	_	_	
+11-8	1009-1010	(	_	_	_	
+11-9	1010-1017	western	_	_	spatial relation[68]	
+11-10	1018-1022	half	_	_	spatial relation[68]	
+11-11	1022-1023	)	_	_	_	
+11-12	1024-1029	Urban	_	_	_	
+11-13	1030-1041	development	_	_	_	
+11-14	1042-1047	areas	_	_	_	
+11-15	1048-1049	(	_	_	_	
+11-16	1049-1056	central	_	_	spatial relation[69]	
+11-17	1057-1060	and	_	_	spatial relation[69]	
+11-18	1061-1065	east	_	_	spatial relation[69]	
+11-19	1065-1066	)	_	_	_	
+11-20	1068-1076	Distinct	p[13]	*[13]	_	
+11-21	1077-1081	grid	p[13]	*[13]	_	
+11-22	1082-1090	patterns	p[13]	*[13]	_	
+11-23	1091-1094	and	p[13]	*[13]	_	
+11-24	1095-1103	building	p[13]	*[13]	_	
+11-25	1104-1112	outlines	p[13]	*[13]	_	
+11-26	1113-1117	make	p[13]	*[13]	_	
+11-27	1118-1120	it	p[13]	*[13]	_	
+11-28	1121-1126	stand	p[13]	*[13]	_	
+11-29	1127-1130	out	p[13]	*[13]	_	
+11-30	1131-1135	from	p[13]	*[13]	_	
+11-31	1136-1139	the	p[13]	*[13]	_	
+11-32	1140-1144	more	p[13]	*[13]	_	
+11-33	1145-1152	organic	p[13]	*[13]	_	
+11-34	1153-1164	surrounding	p[13]	*[13]	_	
+11-35	1165-1178	neighborhoods	p[13]	*[13]	_	
+
+#Text=.
+12-1	1178-1179	.	p[13]	*[13]	_	
+
+#Text=🌉 3.
+13-1	1181-1183	🌉	h3[14]	*[14]	_	
+13-2	1184-1185	3	h3[14]	*[14]	_	
+13-3	1185-1186	.	h3[14]	*[14]	_	
+
+#Text=Bridges and Road Network  Numerous yellow roads and bridges crisscross the river, especially:  Pont Anne-de-Bretagne Pont Haudaudine Pont Willy-Brandt  These routes create visual anchors and connectivity across water bodies
+14-1	1187-1194	Bridges	h3[14]	*[14]	_	
+14-2	1195-1198	and	h3[14]	*[14]	_	
+14-3	1199-1203	Road	h3[14]	*[14]	_	
+14-4	1204-1211	Network	h3[14]	*[14]	_	
+14-5	1213-1221	Numerous	p[15]	*[15]	_	
+14-6	1222-1228	yellow	p[15]	*[15]	_	
+14-7	1229-1234	roads	p[15]	*[15]	_	
+14-8	1235-1238	and	p[15]	*[15]	_	
+14-9	1239-1246	bridges	p[15]	*[15]	_	
+14-10	1247-1257	crisscross	p[15]	*[15]	spatial relation	
+14-11	1258-1261	the	p[15]	*[15]	_	
+14-12	1262-1267	river	p[15]	*[15]	_	
+14-13	1267-1268	,	p[15]	*[15]	_	
+14-14	1269-1279	especially	p[15]	*[15]	_	
+14-15	1279-1280	:	p[15]	*[15]	_	
+14-16	1282-1286	Pont	_	_	toponym[70]	
+14-17	1287-1303	Anne-de-Bretagne	_	_	toponym[70]	
+14-18	1304-1308	Pont	_	_	toponym[71]	
+14-19	1309-1319	Haudaudine	_	_	toponym[71]	
+14-20	1320-1324	Pont	_	_	toponym[72]	
+14-21	1325-1337	Willy-Brandt	_	_	toponym[72]	
+14-22	1339-1344	These	p[16]	*[16]	_	
+14-23	1345-1351	routes	p[16]	*[16]	_	
+14-24	1352-1358	create	p[16]	*[16]	_	
+14-25	1359-1365	visual	p[16]	*[16]	_	
+14-26	1366-1373	anchors	p[16]	*[16]	_	
+14-27	1374-1377	and	p[16]	*[16]	_	
+14-28	1378-1390	connectivity	p[16]	*[16]	_	
+14-29	1391-1397	across	p[16]	*[16]	spatial relation	
+14-30	1398-1403	water	p[16]	*[16]	_	
+14-31	1404-1410	bodies	p[16]	*[16]	_	
+
+#Text=.
+15-1	1410-1411	.	p[16]	*[16]	_	
+
+#Text=🟨 4.
+16-1	1413-1415	🟨	h3[17]	*[17]	_	
+16-2	1416-1417	4	h3[17]	*[17]	_	
+16-3	1417-1418	.	h3[17]	*[17]	_	
+
+#Text=Main Roads and Urban Structure  Yellow lines denote primary roads, weaving through the map and organizing urban space.
+17-1	1419-1423	Main	h3[17]	*[17]	_	
+17-2	1424-1429	Roads	h3[17]	*[17]	_	
+17-3	1430-1433	and	h3[17]	*[17]	_	
+17-4	1434-1439	Urban	h3[17]	*[17]	_	
+17-5	1440-1449	Structure	h3[17]	*[17]	_	
+17-6	1451-1457	Yellow	_	_	_	
+17-7	1458-1463	lines	_	_	_	
+17-8	1464-1470	denote	_	_	_	
+17-9	1471-1478	primary	_	_	_	
+17-10	1479-1484	roads	_	_	_	
+17-11	1484-1485	,	_	_	_	
+17-12	1486-1493	weaving	_	_	spatial relation[73]	
+17-13	1494-1501	through	_	_	spatial relation[73]	
+17-14	1502-1505	the	_	_	_	
+17-15	1506-1509	map	_	_	_	
+17-16	1510-1513	and	_	_	_	
+17-17	1514-1524	organizing	_	_	_	
+17-18	1525-1530	urban	_	_	_	
+17-19	1531-1536	space	_	_	_	
+17-20	1536-1537	.	_	_	_	
+
+#Text=Key neighborhoods like Malakoff, Beaulieu, Saint-Jacques, and Trentemoult are structured around this network
+18-1	1538-1541	Key	_	_	_	
+18-2	1542-1555	neighborhoods	_	_	_	
+18-3	1556-1560	like	_	_	_	
+18-4	1561-1569	Malakoff	_	_	toponym	
+18-5	1569-1570	,	_	_	_	
+18-6	1571-1579	Beaulieu	_	_	toponym	
+18-7	1579-1580	,	_	_	_	
+18-8	1581-1594	Saint-Jacques	_	_	toponym	
+18-9	1594-1595	,	_	_	_	
+18-10	1596-1599	and	_	_	_	
+18-11	1600-1611	Trentemoult	_	_	toponym	
+18-12	1612-1615	are	_	_	_	
+18-13	1616-1626	structured	_	_	_	
+18-14	1627-1633	around	_	_	spatial relation	
+18-15	1634-1638	this	_	_	_	
+18-16	1639-1646	network	_	_	_	
+
+#Text=.
+19-1	1646-1647	.	_	_	_	
+
+#Text=🚉 5.
+20-1	1649-1651	🚉	h3[18]	*[18]	_	
+20-2	1652-1653	5	h3[18]	*[18]	_	
+20-3	1653-1654	.	h3[18]	*[18]	_	
+
+#Text=Rail Infrastructure  At the top of the map, a rail yard and station complex is visible with:  Multiple black rail lines Curved tracks Clearly marked transport hub near la Mahautière   🟪 6.
+21-1	1655-1659	Rail	h3[18]	*[18]	_	
+21-2	1660-1674	Infrastructure	h3[18]	*[18]	_	
+21-3	1676-1678	At	p[19]	*[19]	spatial relation[74]	
+21-4	1679-1682	the	p[19]	*[19]	spatial relation[74]	
+21-5	1683-1686	top	p[19]	*[19]	spatial relation[74]	
+21-6	1687-1689	of	p[19]	*[19]	spatial relation[74]	
+21-7	1690-1693	the	p[19]	*[19]	_	
+21-8	1694-1697	map	p[19]	*[19]	_	
+21-9	1697-1698	,	p[19]	*[19]	_	
+21-10	1699-1700	a	p[19]	*[19]	_	
+21-11	1701-1705	rail	p[19]	*[19]	_	
+21-12	1706-1710	yard	p[19]	*[19]	_	
+21-13	1711-1714	and	p[19]	*[19]	_	
+21-14	1715-1722	station	p[19]	*[19]	_	
+21-15	1723-1730	complex	p[19]	*[19]	_	
+21-16	1731-1733	is	p[19]	*[19]	_	
+21-17	1734-1741	visible	p[19]	*[19]	_	
+21-18	1742-1746	with	p[19]	*[19]	_	
+21-19	1746-1747	:	p[19]	*[19]	_	
+21-20	1749-1757	Multiple	_	_	_	
+21-21	1758-1763	black	_	_	_	
+21-22	1764-1768	rail	_	_	_	
+21-23	1769-1774	lines	_	_	_	
+21-24	1775-1781	Curved	_	_	_	
+21-25	1782-1788	tracks	_	_	_	
+21-26	1789-1796	Clearly	_	_	_	
+21-27	1797-1803	marked	_	_	_	
+21-28	1804-1813	transport	_	_	_	
+21-29	1814-1817	hub	_	_	_	
+21-30	1818-1822	near	_	_	spatial relation	
+21-31	1823-1825	la	_	_	toponym[75]	
+21-32	1826-1836	Mahautière	_	_	toponym[75]	
+21-33	1839-1841	🟪	h3[20]	*[20]	_	
+21-34	1842-1843	6	h3[20]	*[20]	_	
+21-35	1843-1844	.	h3[20]	*[20]	_	
+
+#Text=Public and Industrial Facilities  Scattered across the map are colored blocks (purple, grey, etc.) representing:  Public facilities Industrial or port buildings Cultural or educational institutions   🏘️ 7.
+22-1	1845-1851	Public	h3[20]	*[20]	_	
+22-2	1852-1855	and	h3[20]	*[20]	_	
+22-3	1856-1866	Industrial	h3[20]	*[20]	_	
+22-4	1867-1877	Facilities	h3[20]	*[20]	_	
+22-5	1879-1888	Scattered	p[21]	*[21]	spatial relation[76]	
+22-6	1889-1895	across	p[21]	*[21]	spatial relation[76]	
+22-7	1896-1899	the	p[21]	*[21]	_	
+22-8	1900-1903	map	p[21]	*[21]	_	
+22-9	1904-1907	are	p[21]	*[21]	_	
+22-10	1908-1915	colored	p[21]	*[21]	_	
+22-11	1916-1922	blocks	p[21]	*[21]	_	
+22-12	1923-1924	(	p[21]	*[21]	_	
+22-13	1924-1930	purple	p[21]	*[21]	_	
+22-14	1930-1931	,	p[21]	*[21]	_	
+22-15	1932-1936	grey	p[21]	*[21]	_	
+22-16	1936-1937	,	p[21]	*[21]	_	
+22-17	1938-1941	etc	p[21]	*[21]	_	
+22-18	1941-1942	.	p[21]	*[21]	_	
+22-19	1942-1943	)	p[21]	*[21]	_	
+22-20	1944-1956	representing	p[21]	*[21]	_	
+22-21	1956-1957	:	p[21]	*[21]	_	
+22-22	1959-1965	Public	_	_	_	
+22-23	1966-1976	facilities	_	_	_	
+22-24	1977-1987	Industrial	_	_	_	
+22-25	1988-1990	or	_	_	_	
+22-26	1991-1995	port	_	_	_	
+22-27	1996-2005	buildings	_	_	_	
+22-28	2006-2014	Cultural	_	_	_	
+22-29	2015-2017	or	_	_	_	
+22-30	2018-2029	educational	_	_	_	
+22-31	2030-2042	institutions	_	_	_	
+22-32	2045-2048	🏘️	h3[22]	*[22]	_	
+22-33	2049-2050	7	h3[22]	*[22]	_	
+22-34	2050-2051	.	h3[22]	*[22]	_	
+
+#Text=Named Neighborhoods  Residential zones are clearly labeled:  le Petit Rocher, la Fonderie, Portchais, le Douet, la Joliverie, etc.
+23-1	2052-2057	Named	h3[22]	*[22]	_	
+23-2	2058-2071	Neighborhoods	h3[22]	*[22]	_	
+23-3	2073-2084	Residential	p[23]	*[23]	_	
+23-4	2085-2090	zones	p[23]	*[23]	_	
+23-5	2091-2094	are	p[23]	*[23]	_	
+23-6	2095-2102	clearly	p[23]	*[23]	_	
+23-7	2103-2110	labeled	p[23]	*[23]	_	
+23-8	2110-2111	:	p[23]	*[23]	_	
+23-9	2113-2115	le	_	_	toponym[77]	
+23-10	2116-2121	Petit	_	_	toponym[77]	
+23-11	2122-2128	Rocher	_	_	toponym[77]	
+23-12	2128-2129	,	_	_	_	
+23-13	2130-2132	la	_	_	toponym[78]	
+23-14	2133-2141	Fonderie	_	_	toponym[78]	
+23-15	2141-2142	,	_	_	_	
+23-16	2143-2152	Portchais	_	_	toponym	
+23-17	2152-2153	,	_	_	_	
+23-18	2154-2156	le	_	_	toponym[79]	
+23-19	2157-2162	Douet	_	_	toponym[79]	
+23-20	2162-2163	,	_	_	_	
+23-21	2164-2166	la	_	_	toponym[80]	
+23-22	2167-2176	Joliverie	_	_	toponym[80]	
+23-23	2176-2177	,	_	_	_	
+23-24	2178-2181	etc	_	_	_	
+23-25	2181-2182	.	_	_	_	
+
+#Text=Their labels give strong geographic anchoring and semantic structure
+24-1	2184-2189	Their	p[24]	*[24]	_	
+24-2	2190-2196	labels	p[24]	*[24]	_	
+24-3	2197-2201	give	p[24]	*[24]	_	
+24-4	2202-2208	strong	p[24]	*[24]	_	
+24-5	2209-2219	geographic	p[24]	*[24]	_	
+24-6	2220-2229	anchoring	p[24]	*[24]	_	
+24-7	2230-2233	and	p[24]	*[24]	_	
+24-8	2234-2242	semantic	p[24]	*[24]	_	
+24-9	2243-2252	structure	p[24]	*[24]	_	
+
+#Text=.
+25-1	2252-2253	.	p[24]	*[24]	_	
+
+#Text=🔁 Visual Hierarchy  Water (blue) dominates the structure and flow of the map.
+26-1	2255-2257	🔁	h2[25]	*[25]	_	
+26-2	2258-2264	Visual	h2[25]	*[25]	_	
+26-3	2265-2274	Hierarchy	h2[25]	*[25]	_	
+26-4	2276-2281	Water	_	_	_	
+26-5	2282-2283	(	_	_	_	
+26-6	2283-2287	blue	_	_	_	
+26-7	2287-2288	)	_	_	_	
+26-8	2289-2298	dominates	_	_	_	
+26-9	2299-2302	the	_	_	_	
+26-10	2303-2312	structure	_	_	_	
+26-11	2313-2316	and	_	_	_	
+26-12	2317-2321	flow	_	_	_	
+26-13	2322-2324	of	_	_	_	
+26-14	2325-2328	the	_	_	_	
+26-15	2329-2332	map	_	_	_	
+26-16	2332-2333	.	_	_	_	
+
+#Text=Bridges and roads (yellow) highlight infrastructure and movement.
+27-1	2334-2341	Bridges	_	_	_	
+27-2	2342-2345	and	_	_	_	
+27-3	2346-2351	roads	_	_	_	
+27-4	2352-2353	(	_	_	_	
+27-5	2353-2359	yellow	_	_	_	
+27-6	2359-2360	)	_	_	_	
+27-7	2361-2370	highlight	_	_	_	
+27-8	2371-2385	infrastructure	_	_	_	
+27-9	2386-2389	and	_	_	_	
+27-10	2390-2398	movement	_	_	_	
+27-11	2398-2399	.	_	_	_	
+
+#Text=White/gray blocks denote high-density urban activity.
+28-1	2400-2405	White	_	_	_	
+28-2	2405-2406	/	_	_	_	
+28-3	2406-2410	gray	_	_	_	
+28-4	2411-2417	blocks	_	_	_	
+28-5	2418-2424	denote	_	_	_	
+28-6	2425-2437	high-density	_	_	_	
+28-7	2438-2443	urban	_	_	_	
+28-8	2444-2452	activity	_	_	_	
+28-9	2452-2453	.	_	_	_	
+
+#Text=Green zones are minimal but visible at the periphery (parks, riverbanks).
+29-1	2454-2459	Green	_	_	_	
+29-2	2460-2465	zones	_	_	_	
+29-3	2466-2469	are	_	_	_	
+29-4	2470-2477	minimal	_	_	_	
+29-5	2478-2481	but	_	_	_	
+29-6	2482-2489	visible	_	_	_	
+29-7	2490-2492	at	_	_	spatial relation[81]	
+29-8	2493-2496	the	_	_	spatial relation[81]	
+29-9	2497-2506	periphery	_	_	spatial relation[81]	
+29-10	2507-2508	(	_	_	_	
+29-11	2508-2513	parks	_	_	_	
+29-12	2513-2514	,	_	_	_	
+29-13	2515-2525	riverbanks	_	_	_	
+29-14	2525-2526	)	_	_	_	
+29-15	2526-2527	.	_	_	_	
+
+#Text=Would you like a comparison between this urban-scale map and the previous park or monument-focused maps (e.g., Château des Ducs de Bretagne)?
+30-1	2529-2534	Would	p[26]	*[26]	_	
+30-2	2535-2538	you	p[26]	*[26]	_	
+30-3	2539-2543	like	p[26]	*[26]	_	
+30-4	2544-2545	a	p[26]	*[26]	_	
+30-5	2546-2556	comparison	p[26]	*[26]	_	
+30-6	2557-2564	between	p[26]	*[26]	_	
+30-7	2565-2569	this	p[26]	*[26]	_	
+30-8	2570-2581	urban-scale	p[26]	*[26]	_	
+30-9	2582-2585	map	p[26]	*[26]	_	
+30-10	2586-2589	and	p[26]	*[26]	_	
+30-11	2590-2593	the	p[26]	*[26]	_	
+30-12	2594-2602	previous	p[26]	*[26]	_	
+30-13	2603-2607	park	p[26]	*[26]	_	
+30-14	2608-2610	or	p[26]	*[26]	_	
+30-15	2611-2627	monument-focused	p[26]	*[26]	_	
+30-16	2628-2632	maps	p[26]	*[26]	_	
+30-17	2633-2634	(	p[26]	*[26]	_	
+30-18	2634-2637	e.g	p[26]	*[26]	_	
+30-19	2637-2638	.	p[26]	*[26]	_	
+30-20	2638-2639	,	p[26]	*[26]	_	
+30-21	2640-2647	Château	p[26]	*[26]	_	
+30-22	2648-2651	des	p[26]	*[26]	_	
+30-23	2652-2656	Ducs	p[26]	*[26]	_	
+30-24	2657-2659	de	p[26]	*[26]	_	
+30-25	2660-2668	Bretagne	p[26]	*[26]	_	
+30-26	2668-2669	)	p[26]	*[26]	_	
+30-27	2669-2670	?	p[26]	*[26]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+31-1	2671-2674	Can	h1[27]	*[27]	_	
+31-2	2675-2678	you	h1[27]	*[27]	_	
+31-3	2679-2687	describe	h1[27]	*[27]	_	
+31-4	2688-2691	the	h1[27]	*[27]	_	
+31-5	2692-2696	most	h1[27]	*[27]	_	
+31-6	2697-2705	visually	h1[27]	*[27]	_	
+31-7	2706-2713	salient	h1[27]	*[27]	_	
+31-8	2714-2722	elements	h1[27]	*[27]	_	
+31-9	2723-2725	of	h1[27]	*[27]	_	
+31-10	2726-2729	the	h1[27]	*[27]	_	
+31-11	2730-2733	map	h1[27]	*[27]	_	
+31-12	2733-2734	?	h1[27]	*[27]	_	
+
+#Text=Certainly!
+32-1	2735-2744	Certainly	p[28]	*[28]	_	
+32-2	2744-2745	!	p[28]	*[28]	_	
+
+#Text=Here’s a detailed description of the most visually salient elements of the map you've just shared: 🗺️ Map Overview This is a mid-scale topographic map of central Nantes, France, with an emphasis on the Loire River and the surrounding urban landscape.
+33-1	2746-2750	Here	p[28]	*[28]	_	
+33-2	2750-2751	’	p[28]	*[28]	_	
+33-3	2751-2752	s	p[28]	*[28]	_	
+33-4	2753-2754	a	p[28]	*[28]	_	
+33-5	2755-2763	detailed	p[28]	*[28]	_	
+33-6	2764-2775	description	p[28]	*[28]	_	
+33-7	2776-2778	of	p[28]	*[28]	_	
+33-8	2779-2782	the	p[28]	*[28]	_	
+33-9	2783-2787	most	p[28]	*[28]	_	
+33-10	2788-2796	visually	p[28]	*[28]	_	
+33-11	2797-2804	salient	p[28]	*[28]	_	
+33-12	2805-2813	elements	p[28]	*[28]	_	
+33-13	2814-2816	of	p[28]	*[28]	_	
+33-14	2817-2820	the	p[28]	*[28]	_	
+33-15	2821-2824	map	p[28]	*[28]	_	
+33-16	2825-2831	you've	p[28]	*[28]	_	
+33-17	2832-2836	just	p[28]	*[28]	_	
+33-18	2837-2843	shared	p[28]	*[28]	_	
+33-19	2843-2844	:	p[28]	*[28]	_	
+33-20	2845-2848	🗺️	h2[29]	*[29]	_	
+33-21	2849-2852	Map	h2[29]	*[29]	_	
+33-22	2853-2861	Overview	h2[29]	*[29]	_	
+33-23	2862-2866	This	p[30]	*[30]	_	
+33-24	2867-2869	is	p[30]	*[30]	_	
+33-25	2870-2871	a	p[30]	*[30]	_	
+33-26	2872-2881	mid-scale	p[30]	*[30]	_	
+33-27	2882-2893	topographic	p[30]	*[30]	_	
+33-28	2894-2897	map	p[30]	*[30]	_	
+33-29	2898-2900	of	p[30]	*[30]	_	
+33-30	2901-2908	central	p[30]	*[30]	_	
+33-31	2909-2915	Nantes	p[30]	*[30]	_	
+33-32	2915-2916	,	p[30]	*[30]	_	
+33-33	2917-2923	France	p[30]	*[30]	_	
+33-34	2923-2924	,	p[30]	*[30]	_	
+33-35	2925-2929	with	p[30]	*[30]	_	
+33-36	2930-2932	an	p[30]	*[30]	_	
+33-37	2933-2941	emphasis	p[30]	*[30]	_	
+33-38	2942-2944	on	p[30]	*[30]	_	
+33-39	2945-2948	the	p[30]	*[30]	_	
+33-40	2949-2954	Loire	p[30]	*[30]	_	
+33-41	2955-2960	River	p[30]	*[30]	_	
+33-42	2961-2964	and	p[30]	*[30]	_	
+33-43	2965-2968	the	p[30]	*[30]	_	
+33-44	2969-2980	surrounding	p[30]	*[30]	_	
+33-45	2981-2986	urban	p[30]	*[30]	_	
+33-46	2987-2996	landscape	p[30]	*[30]	_	
+33-47	2996-2997	.	p[30]	*[30]	_	
+
+#Text=The map combines colorful vector symbols, labeling, and layered geographic information, in a style reminiscent of IGN (Institut Géographique National). 🔝 Most Visually Salient Elements 🌊 1.
+34-1	2998-3001	The	p[30]	*[30]	_	
+34-2	3002-3005	map	p[30]	*[30]	_	
+34-3	3006-3014	combines	p[30]	*[30]	_	
+34-4	3015-3023	colorful	p[30]	*[30]	_	
+34-5	3024-3030	vector	p[30]	*[30]	_	
+34-6	3031-3038	symbols	p[30]	*[30]	_	
+34-7	3038-3039	,	p[30]	*[30]	_	
+34-8	3040-3048	labeling	p[30]	*[30]	_	
+34-9	3048-3049	,	p[30]	*[30]	_	
+34-10	3050-3053	and	p[30]	*[30]	_	
+34-11	3054-3061	layered	p[30]	*[30]	_	
+34-12	3062-3072	geographic	p[30]	*[30]	_	
+34-13	3073-3084	information	p[30]	*[30]	_	
+34-14	3084-3085	,	p[30]	*[30]	_	
+34-15	3086-3088	in	p[30]	*[30]	_	
+34-16	3089-3090	a	p[30]	*[30]	_	
+34-17	3091-3096	style	p[30]	*[30]	_	
+34-18	3097-3108	reminiscent	p[30]	*[30]	_	
+34-19	3109-3111	of	p[30]	*[30]	_	
+34-20	3112-3115	IGN	p[30]	*[30]	_	
+34-21	3116-3117	(	p[30]	*[30]	_	
+34-22	3117-3125	Institut	p[30]	*[30]	_	
+34-23	3126-3138	Géographique	p[30]	*[30]	_	
+34-24	3139-3147	National	p[30]	*[30]	_	
+34-25	3147-3148	)	p[30]	*[30]	_	
+34-26	3148-3149	.	p[30]	*[30]	_	
+34-27	3150-3152	🔝	h2[31]	*[31]	_	
+34-28	3153-3157	Most	h2[31]	*[31]	_	
+34-29	3158-3166	Visually	h2[31]	*[31]	_	
+34-30	3167-3174	Salient	h2[31]	*[31]	_	
+34-31	3175-3183	Elements	h2[31]	*[31]	_	
+34-32	3184-3186	🌊	h3[32]	*[32]	_	
+34-33	3187-3188	1	h3[32]	*[32]	_	
+34-34	3188-3189	.	h3[32]	*[32]	_	
+
+#Text=The Loire River  Most dominant visual element: a broad, light-blue waterway labeled “la Loire”.
+35-1	3190-3193	The	h3[32]	*[32]	_	
+35-2	3194-3199	Loire	h3[32]	*[32]	_	
+35-3	3200-3205	River	h3[32]	*[32]	_	
+35-4	3207-3211	Most	_	_	_	
+35-5	3212-3220	dominant	_	_	_	
+35-6	3221-3227	visual	_	_	_	
+35-7	3228-3235	element	_	_	_	
+35-8	3235-3236	:	_	_	_	
+35-9	3237-3238	a	_	_	_	
+35-10	3239-3244	broad	_	_	_	
+35-11	3244-3245	,	_	_	_	
+35-12	3246-3256	light-blue	_	_	_	
+35-13	3257-3265	waterway	_	_	_	
+35-14	3266-3273	labeled	_	_	_	
+35-15	3274-3275	“	_	_	_	
+35-16	3275-3277	la	_	_	_	
+35-17	3278-3283	Loire	_	_	_	
+35-18	3283-3284	”	_	_	_	
+35-19	3284-3285	.	_	_	_	
+
+#Text=The river splits into different arms (e.g.
+36-1	3286-3289	The	_	_	_	
+36-2	3290-3295	river	_	_	_	
+36-3	3296-3302	splits	_	_	_	
+36-4	3303-3307	into	_	_	_	
+36-5	3308-3317	different	_	_	_	
+36-6	3318-3322	arms	_	_	_	
+36-7	3323-3324	(	_	_	_	
+36-8	3324-3327	e.g	_	_	_	
+36-9	3327-3328	.	_	_	_	
+
+#Text=“la Loire Neuve”, “la Pointe de l’île”), shaping the geography of the area.
+37-1	3329-3330	“	_	_	_	
+37-2	3330-3332	la	_	_	_	
+37-3	3333-3338	Loire	_	_	_	
+37-4	3339-3344	Neuve	_	_	_	
+37-5	3344-3345	”	_	_	_	
+37-6	3345-3346	,	_	_	_	
+37-7	3347-3348	“	_	_	_	
+37-8	3348-3350	la	_	_	_	
+37-9	3351-3357	Pointe	_	_	_	
+37-10	3358-3360	de	_	_	_	
+37-11	3361-3362	l	_	_	_	
+37-12	3362-3363	’	_	_	_	
+37-13	3363-3366	île	_	_	_	
+37-14	3366-3367	”	_	_	_	
+37-15	3367-3368	)	_	_	_	
+37-16	3368-3369	,	_	_	_	
+37-17	3370-3377	shaping	_	_	_	
+37-18	3378-3381	the	_	_	_	
+37-19	3382-3391	geography	_	_	_	
+37-20	3392-3394	of	_	_	_	
+37-21	3395-3398	the	_	_	_	
+37-22	3399-3403	area	_	_	_	
+37-23	3403-3404	.	_	_	_	
+
+#Text=Water is rendered in a uniform blue tone, creating high contrast with surrounding land and infrastructure
+38-1	3405-3410	Water	_	_	_	
+38-2	3411-3413	is	_	_	_	
+38-3	3414-3422	rendered	_	_	_	
+38-4	3423-3425	in	_	_	_	
+38-5	3426-3427	a	_	_	_	
+38-6	3428-3435	uniform	_	_	_	
+38-7	3436-3440	blue	_	_	_	
+38-8	3441-3445	tone	_	_	_	
+38-9	3445-3446	,	_	_	_	
+38-10	3447-3455	creating	_	_	_	
+38-11	3456-3460	high	_	_	_	
+38-12	3461-3469	contrast	_	_	_	
+38-13	3470-3474	with	_	_	_	
+38-14	3475-3486	surrounding	_	_	_	
+38-15	3487-3491	land	_	_	_	
+38-16	3492-3495	and	_	_	_	
+38-17	3496-3510	infrastructure	_	_	_	
+
+#Text=.
+39-1	3510-3511	.	_	_	_	
+
+#Text=🏝️ 2.
+40-1	3513-3516	🏝️	h3[33]	*[33]	_	
+40-2	3517-3518	2	h3[33]	*[33]	_	
+40-3	3518-3519	.	h3[33]	*[33]	_	
+
+#Text=Islands and Waterfront Districts  Several islands stand out, notably:  Île de Nantes (central, densely structured) La Haute Île, La Basse Île, and Île Forget  These areas are outlined by river channels and dense road networks, with large white blocks suggesting industrial or institutional zones
+41-1	3520-3527	Islands	h3[33]	*[33]	_	
+41-2	3528-3531	and	h3[33]	*[33]	_	
+41-3	3532-3542	Waterfront	h3[33]	*[33]	_	
+41-4	3543-3552	Districts	h3[33]	*[33]	_	
+41-5	3554-3561	Several	p[34]	*[34]	_	
+41-6	3562-3569	islands	p[34]	*[34]	_	
+41-7	3570-3575	stand	p[34]	*[34]	_	
+41-8	3576-3579	out	p[34]	*[34]	_	
+41-9	3579-3580	,	p[34]	*[34]	_	
+41-10	3581-3588	notably	p[34]	*[34]	_	
+41-11	3588-3589	:	p[34]	*[34]	_	
+41-12	3591-3594	Île	_	_	_	
+41-13	3595-3597	de	_	_	_	
+41-14	3598-3604	Nantes	_	_	_	
+41-15	3605-3606	(	_	_	_	
+41-16	3606-3613	central	_	_	_	
+41-17	3613-3614	,	_	_	_	
+41-18	3615-3622	densely	_	_	_	
+41-19	3623-3633	structured	_	_	_	
+41-20	3633-3634	)	_	_	_	
+41-21	3635-3637	La	_	_	_	
+41-22	3638-3643	Haute	_	_	_	
+41-23	3644-3647	Île	_	_	_	
+41-24	3647-3648	,	_	_	_	
+41-25	3649-3651	La	_	_	_	
+41-26	3652-3657	Basse	_	_	_	
+41-27	3658-3661	Île	_	_	_	
+41-28	3661-3662	,	_	_	_	
+41-29	3663-3666	and	_	_	_	
+41-30	3667-3670	Île	_	_	_	
+41-31	3671-3677	Forget	_	_	_	
+41-32	3679-3684	These	p[35]	*[35]	_	
+41-33	3685-3690	areas	p[35]	*[35]	_	
+41-34	3691-3694	are	p[35]	*[35]	_	
+41-35	3695-3703	outlined	p[35]	*[35]	_	
+41-36	3704-3706	by	p[35]	*[35]	_	
+41-37	3707-3712	river	p[35]	*[35]	_	
+41-38	3713-3721	channels	p[35]	*[35]	_	
+41-39	3722-3725	and	p[35]	*[35]	_	
+41-40	3726-3731	dense	p[35]	*[35]	_	
+41-41	3732-3736	road	p[35]	*[35]	_	
+41-42	3737-3745	networks	p[35]	*[35]	_	
+41-43	3745-3746	,	p[35]	*[35]	_	
+41-44	3747-3751	with	p[35]	*[35]	_	
+41-45	3752-3757	large	p[35]	*[35]	_	
+41-46	3758-3763	white	p[35]	*[35]	_	
+41-47	3764-3770	blocks	p[35]	*[35]	_	
+41-48	3771-3781	suggesting	p[35]	*[35]	_	
+41-49	3782-3792	industrial	p[35]	*[35]	_	
+41-50	3793-3795	or	p[35]	*[35]	_	
+41-51	3796-3809	institutional	p[35]	*[35]	_	
+41-52	3810-3815	zones	p[35]	*[35]	_	
+
+#Text=.
+42-1	3815-3816	.	p[35]	*[35]	_	
+
+#Text=🟡 3.
+43-1	3818-3820	🟡	h3[36]	*[36]	_	
+43-2	3821-3822	3	h3[36]	*[36]	_	
+43-3	3822-3823	.	h3[36]	*[36]	_	
+
+#Text=Road Network and Bridges  Primary roads are shown in bright yellow, making them immediately noticeable.
+44-1	3824-3828	Road	h3[36]	*[36]	_	
+44-2	3829-3836	Network	h3[36]	*[36]	_	
+44-3	3837-3840	and	h3[36]	*[36]	_	
+44-4	3841-3848	Bridges	h3[36]	*[36]	_	
+44-5	3850-3857	Primary	p[37]	*[37]	_	
+44-6	3858-3863	roads	p[37]	*[37]	_	
+44-7	3864-3867	are	p[37]	*[37]	_	
+44-8	3868-3873	shown	p[37]	*[37]	_	
+44-9	3874-3876	in	p[37]	*[37]	_	
+44-10	3877-3883	bright	p[37]	*[37]	_	
+44-11	3884-3890	yellow	p[37]	*[37]	_	
+44-12	3890-3891	,	p[37]	*[37]	_	
+44-13	3892-3898	making	p[37]	*[37]	_	
+44-14	3899-3903	them	p[37]	*[37]	_	
+44-15	3904-3915	immediately	p[37]	*[37]	_	
+44-16	3916-3926	noticeable	p[37]	*[37]	_	
+44-17	3926-3927	.	p[37]	*[37]	_	
+
+#Text=These roads form a clear grid on the islands and radiate out into the mainland.
+45-1	3929-3934	These	_	_	_	
+45-2	3935-3940	roads	_	_	_	
+45-3	3941-3945	form	_	_	_	
+45-4	3946-3947	a	_	_	_	
+45-5	3948-3953	clear	_	_	_	
+45-6	3954-3958	grid	_	_	_	
+45-7	3959-3961	on	_	_	_	
+45-8	3962-3965	the	_	_	_	
+45-9	3966-3973	islands	_	_	_	
+45-10	3974-3977	and	_	_	_	
+45-11	3978-3985	radiate	_	_	_	
+45-12	3986-3989	out	_	_	_	
+45-13	3990-3994	into	_	_	_	
+45-14	3995-3998	the	_	_	_	
+45-15	3999-4007	mainland	_	_	_	
+45-16	4007-4008	.	_	_	_	
+
+#Text=Bridges (e.g.
+46-1	4010-4017	Bridges	p[38]	*[38]	_	
+46-2	4018-4019	(	p[38]	*[38]	_	
+46-3	4019-4022	e.g	p[38]	*[38]	_	
+46-4	4022-4023	.	p[38]	*[38]	_	
+
+#Text=Pont Anne-de-Bretagne, Pont Haudaudine) visually connect the north and south banks across the Loire
+47-1	4024-4028	Pont	p[38]	*[38]	_	
+47-2	4029-4045	Anne-de-Bretagne	p[38]	*[38]	_	
+47-3	4045-4046	,	p[38]	*[38]	_	
+47-4	4047-4051	Pont	p[38]	*[38]	_	
+47-5	4052-4062	Haudaudine	p[38]	*[38]	_	
+47-6	4062-4063	)	p[38]	*[38]	_	
+47-7	4064-4072	visually	p[38]	*[38]	_	
+47-8	4073-4080	connect	p[38]	*[38]	_	
+47-9	4081-4084	the	p[38]	*[38]	_	
+47-10	4085-4090	north	p[38]	*[38]	_	
+47-11	4091-4094	and	p[38]	*[38]	_	
+47-12	4095-4100	south	p[38]	*[38]	_	
+47-13	4101-4106	banks	p[38]	*[38]	_	
+47-14	4107-4113	across	p[38]	*[38]	_	
+47-15	4114-4117	the	p[38]	*[38]	_	
+47-16	4118-4123	Loire	p[38]	*[38]	_	
+
+#Text=.
+48-1	4123-4124	.	p[38]	*[38]	_	
+
+#Text=🏙️ 4.
+49-1	4126-4129	🏙️	h3[39]	*[39]	_	
+49-2	4130-4131	4	h3[39]	*[39]	_	
+49-3	4131-4132	.	h3[39]	*[39]	_	
+
+#Text=Urban Density and Building Structure  Densely packed building footprints in a light beige or gray tone dominate the northern and southern urban fabric.
+50-1	4133-4138	Urban	h3[39]	*[39]	_	
+50-2	4139-4146	Density	h3[39]	*[39]	_	
+50-3	4147-4150	and	h3[39]	*[39]	_	
+50-4	4151-4159	Building	h3[39]	*[39]	_	
+50-5	4160-4169	Structure	h3[39]	*[39]	_	
+50-6	4171-4178	Densely	p[40]	*[40]	_	
+50-7	4179-4185	packed	p[40]	*[40]	_	
+50-8	4186-4194	building	p[40]	*[40]	_	
+50-9	4195-4205	footprints	p[40]	*[40]	_	
+50-10	4206-4208	in	p[40]	*[40]	_	
+50-11	4209-4210	a	p[40]	*[40]	_	
+50-12	4211-4216	light	p[40]	*[40]	_	
+50-13	4217-4222	beige	p[40]	*[40]	_	
+50-14	4223-4225	or	p[40]	*[40]	_	
+50-15	4226-4230	gray	p[40]	*[40]	_	
+50-16	4231-4235	tone	p[40]	*[40]	_	
+50-17	4236-4244	dominate	p[40]	*[40]	_	
+50-18	4245-4248	the	p[40]	*[40]	_	
+50-19	4249-4257	northern	p[40]	*[40]	_	
+50-20	4258-4261	and	p[40]	*[40]	_	
+50-21	4262-4270	southern	p[40]	*[40]	_	
+50-22	4271-4276	urban	p[40]	*[40]	_	
+50-23	4277-4283	fabric	p[40]	*[40]	_	
+50-24	4283-4284	.	p[40]	*[40]	_	
+
+#Text=Different shading differentiates zones:  Light gray for dense residential or mixed-use areas White for more specialized or institutional buildings (e.g., in Beaulieu or la Fonderie)   🚆 5.
+51-1	4285-4294	Different	p[41]	*[41]	_	
+51-2	4295-4302	shading	p[41]	*[41]	_	
+51-3	4303-4317	differentiates	p[41]	*[41]	_	
+51-4	4318-4323	zones	p[41]	*[41]	_	
+51-5	4323-4324	:	p[41]	*[41]	_	
+51-6	4326-4331	Light	_	_	_	
+51-7	4332-4336	gray	_	_	_	
+51-8	4337-4340	for	_	_	_	
+51-9	4341-4346	dense	_	_	_	
+51-10	4347-4358	residential	_	_	_	
+51-11	4359-4361	or	_	_	_	
+51-12	4362-4371	mixed-use	_	_	_	
+51-13	4372-4377	areas	_	_	_	
+51-14	4378-4383	White	_	_	_	
+51-15	4384-4387	for	_	_	_	
+51-16	4388-4392	more	_	_	_	
+51-17	4393-4404	specialized	_	_	_	
+51-18	4405-4407	or	_	_	_	
+51-19	4408-4421	institutional	_	_	_	
+51-20	4422-4431	buildings	_	_	_	
+51-21	4432-4433	(	_	_	_	
+51-22	4433-4436	e.g	_	_	_	
+51-23	4436-4437	.	_	_	_	
+51-24	4437-4438	,	_	_	_	
+51-25	4439-4441	in	_	_	_	
+51-26	4442-4450	Beaulieu	_	_	_	
+51-27	4451-4453	or	_	_	_	
+51-28	4454-4456	la	_	_	_	
+51-29	4457-4465	Fonderie	_	_	_	
+51-30	4465-4466	)	_	_	_	
+51-31	4469-4471	🚆	h3[42]	*[42]	_	
+51-32	4472-4473	5	h3[42]	*[42]	_	
+51-33	4473-4474	.	h3[42]	*[42]	_	
+
+#Text=Railway Infrastructure  At the top of the map, a prominent railway network cuts across the scene:  Curved black tracks, labeled stops like la Mahautière Multiple train lines and rail yards are depicted, creating a distinctive visual texture   🟪 6.
+52-1	4475-4482	Railway	h3[42]	*[42]	_	
+52-2	4483-4497	Infrastructure	h3[42]	*[42]	_	
+52-3	4499-4501	At	p[43]	*[43]	_	
+52-4	4502-4505	the	p[43]	*[43]	_	
+52-5	4506-4509	top	p[43]	*[43]	_	
+52-6	4510-4512	of	p[43]	*[43]	_	
+52-7	4513-4516	the	p[43]	*[43]	_	
+52-8	4517-4520	map	p[43]	*[43]	_	
+52-9	4520-4521	,	p[43]	*[43]	_	
+52-10	4522-4523	a	p[43]	*[43]	_	
+52-11	4524-4533	prominent	p[43]	*[43]	_	
+52-12	4534-4541	railway	p[43]	*[43]	_	
+52-13	4542-4549	network	p[43]	*[43]	_	
+52-14	4550-4554	cuts	p[43]	*[43]	_	
+52-15	4555-4561	across	p[43]	*[43]	_	
+52-16	4562-4565	the	p[43]	*[43]	_	
+52-17	4566-4571	scene	p[43]	*[43]	_	
+52-18	4571-4572	:	p[43]	*[43]	_	
+52-19	4574-4580	Curved	_	_	_	
+52-20	4581-4586	black	_	_	_	
+52-21	4587-4593	tracks	_	_	_	
+52-22	4593-4594	,	_	_	_	
+52-23	4595-4602	labeled	_	_	_	
+52-24	4603-4608	stops	_	_	_	
+52-25	4609-4613	like	_	_	_	
+52-26	4614-4616	la	_	_	_	
+52-27	4617-4627	Mahautière	_	_	_	
+52-28	4628-4636	Multiple	_	_	_	
+52-29	4637-4642	train	_	_	_	
+52-30	4643-4648	lines	_	_	_	
+52-31	4649-4652	and	_	_	_	
+52-32	4653-4657	rail	_	_	_	
+52-33	4658-4663	yards	_	_	_	
+52-34	4664-4667	are	_	_	_	
+52-35	4668-4676	depicted	_	_	_	
+52-36	4676-4677	,	_	_	_	
+52-37	4678-4686	creating	_	_	_	
+52-38	4687-4688	a	_	_	_	
+52-39	4689-4700	distinctive	_	_	_	
+52-40	4701-4707	visual	_	_	_	
+52-41	4708-4715	texture	_	_	_	
+52-42	4718-4720	🟪	h3[44]	*[44]	_	
+52-43	4721-4722	6	h3[44]	*[44]	_	
+52-44	4722-4723	.	h3[44]	*[44]	_	
+
+#Text=Landmark Zones (Facilities & Institutions)  Distinct blocks in purple or gray denote:  Public buildings Industrial facilities Cultural complexes  Found on both banks of the Loire, especially concentrated in Île de Nantes and Beaulieu
+53-1	4724-4732	Landmark	h3[44]	*[44]	_	
+53-2	4733-4738	Zones	h3[44]	*[44]	_	
+53-3	4739-4740	(	h3[44]	*[44]	_	
+53-4	4740-4750	Facilities	h3[44]	*[44]	_	
+53-5	4751-4752	&	h3[44]	*[44]	_	
+53-6	4753-4765	Institutions	h3[44]	*[44]	_	
+53-7	4765-4766	)	h3[44]	*[44]	_	
+53-8	4768-4776	Distinct	p[45]	*[45]	_	
+53-9	4777-4783	blocks	p[45]	*[45]	_	
+53-10	4784-4786	in	p[45]	*[45]	_	
+53-11	4787-4793	purple	p[45]	*[45]	_	
+53-12	4794-4796	or	p[45]	*[45]	_	
+53-13	4797-4801	gray	p[45]	*[45]	_	
+53-14	4802-4808	denote	p[45]	*[45]	_	
+53-15	4808-4809	:	p[45]	*[45]	_	
+53-16	4811-4817	Public	_	_	_	
+53-17	4818-4827	buildings	_	_	_	
+53-18	4828-4838	Industrial	_	_	_	
+53-19	4839-4849	facilities	_	_	_	
+53-20	4850-4858	Cultural	_	_	_	
+53-21	4859-4868	complexes	_	_	_	
+53-22	4870-4875	Found	p[46]	*[46]	_	
+53-23	4876-4878	on	p[46]	*[46]	_	
+53-24	4879-4883	both	p[46]	*[46]	_	
+53-25	4884-4889	banks	p[46]	*[46]	_	
+53-26	4890-4892	of	p[46]	*[46]	_	
+53-27	4893-4896	the	p[46]	*[46]	_	
+53-28	4897-4902	Loire	p[46]	*[46]	_	
+53-29	4902-4903	,	p[46]	*[46]	_	
+53-30	4904-4914	especially	p[46]	*[46]	_	
+53-31	4915-4927	concentrated	p[46]	*[46]	_	
+53-32	4928-4930	in	p[46]	*[46]	_	
+53-33	4931-4934	Île	p[46]	*[46]	_	
+53-34	4935-4937	de	p[46]	*[46]	_	
+53-35	4938-4944	Nantes	p[46]	*[46]	_	
+53-36	4945-4948	and	p[46]	*[46]	_	
+53-37	4949-4957	Beaulieu	p[46]	*[46]	_	
+
+#Text=.
+54-1	4957-4958	.	p[46]	*[46]	_	
+
+#Text=🏘️ 7.
+55-1	4960-4963	🏘️	h3[47]	*[47]	_	
+55-2	4964-4965	7	h3[47]	*[47]	_	
+55-3	4965-4966	.	h3[47]	*[47]	_	
+
+#Text=Neighborhood Names and Labels  Numerous neighborhoods are labeled in a soft, unobtrusive black text:  Beaulieu, Portchais, Malakoff, la Fonderie, Saint-Jacques, etc.
+56-1	4967-4979	Neighborhood	h3[47]	*[47]	_	
+56-2	4980-4985	Names	h3[47]	*[47]	_	
+56-3	4986-4989	and	h3[47]	*[47]	_	
+56-4	4990-4996	Labels	h3[47]	*[47]	_	
+56-5	4998-5006	Numerous	p[48]	*[48]	_	
+56-6	5007-5020	neighborhoods	p[48]	*[48]	_	
+56-7	5021-5024	are	p[48]	*[48]	_	
+56-8	5025-5032	labeled	p[48]	*[48]	_	
+56-9	5033-5035	in	p[48]	*[48]	_	
+56-10	5036-5037	a	p[48]	*[48]	_	
+56-11	5038-5042	soft	p[48]	*[48]	_	
+56-12	5042-5043	,	p[48]	*[48]	_	
+56-13	5044-5055	unobtrusive	p[48]	*[48]	_	
+56-14	5056-5061	black	p[48]	*[48]	_	
+56-15	5062-5066	text	p[48]	*[48]	_	
+56-16	5066-5067	:	p[48]	*[48]	_	
+56-17	5069-5077	Beaulieu	_	_	_	
+56-18	5077-5078	,	_	_	_	
+56-19	5079-5088	Portchais	_	_	_	
+56-20	5088-5089	,	_	_	_	
+56-21	5090-5098	Malakoff	_	_	_	
+56-22	5098-5099	,	_	_	_	
+56-23	5100-5102	la	_	_	_	
+56-24	5103-5111	Fonderie	_	_	_	
+56-25	5111-5112	,	_	_	_	
+56-26	5113-5126	Saint-Jacques	_	_	_	
+56-27	5126-5127	,	_	_	_	
+56-28	5128-5131	etc	_	_	_	
+56-29	5131-5132	.	_	_	_	
+
+#Text=These textual elements structure the map semantically and visually without cluttering
+57-1	5134-5139	These	p[49]	*[49]	_	
+57-2	5140-5147	textual	p[49]	*[49]	_	
+57-3	5148-5156	elements	p[49]	*[49]	_	
+57-4	5157-5166	structure	p[49]	*[49]	_	
+57-5	5167-5170	the	p[49]	*[49]	_	
+57-6	5171-5174	map	p[49]	*[49]	_	
+57-7	5175-5187	semantically	p[49]	*[49]	_	
+57-8	5188-5191	and	p[49]	*[49]	_	
+57-9	5192-5200	visually	p[49]	*[49]	_	
+57-10	5201-5208	without	p[49]	*[49]	_	
+57-11	5209-5219	cluttering	p[49]	*[49]	_	
+
+#Text=.
+58-1	5219-5220	.	p[49]	*[49]	_	
+
+#Text=🔁 Overall Visual Hierarchy  Blue (water) + Yellow (roads) dominate the map's visual rhythm.
+59-1	5222-5224	🔁	h2[50]	*[50]	_	
+59-2	5225-5232	Overall	h2[50]	*[50]	_	
+59-3	5233-5239	Visual	h2[50]	*[50]	_	
+59-4	5240-5249	Hierarchy	h2[50]	*[50]	_	
+59-5	5251-5255	Blue	_	_	_	
+59-6	5256-5257	(	_	_	_	
+59-7	5257-5262	water	_	_	_	
+59-8	5262-5263	)	_	_	_	
+59-9	5264-5265	+	_	_	_	
+59-10	5266-5272	Yellow	_	_	_	
+59-11	5273-5274	(	_	_	_	
+59-12	5274-5279	roads	_	_	_	
+59-13	5279-5280	)	_	_	_	
+59-14	5281-5289	dominate	_	_	_	
+59-15	5290-5293	the	_	_	_	
+59-16	5294-5299	map's	_	_	_	
+59-17	5300-5306	visual	_	_	_	
+59-18	5307-5313	rhythm	_	_	_	
+59-19	5313-5314	.	_	_	_	
+
+#Text=Large white blocks interrupt the flow to indicate high-importance zones (ports, institutions).
+60-1	5315-5320	Large	_	_	_	
+60-2	5321-5326	white	_	_	_	
+60-3	5327-5333	blocks	_	_	_	
+60-4	5334-5343	interrupt	_	_	_	
+60-5	5344-5347	the	_	_	_	
+60-6	5348-5352	flow	_	_	_	
+60-7	5353-5355	to	_	_	_	
+60-8	5356-5364	indicate	_	_	_	
+60-9	5365-5380	high-importance	_	_	_	
+60-10	5381-5386	zones	_	_	_	
+60-11	5387-5388	(	_	_	_	
+60-12	5388-5393	ports	_	_	_	
+60-13	5393-5394	,	_	_	_	
+60-14	5395-5407	institutions	_	_	_	
+60-15	5407-5408	)	_	_	_	
+60-16	5408-5409	.	_	_	_	
+
+#Text=Dark lines (rails) and purple/gray facilities add finer structure.
+61-1	5410-5414	Dark	_	_	_	
+61-2	5415-5420	lines	_	_	_	
+61-3	5421-5422	(	_	_	_	
+61-4	5422-5427	rails	_	_	_	
+61-5	5427-5428	)	_	_	_	
+61-6	5429-5432	and	_	_	_	
+61-7	5433-5439	purple	_	_	_	
+61-8	5439-5440	/	_	_	_	
+61-9	5440-5444	gray	_	_	_	
+61-10	5445-5455	facilities	_	_	_	
+61-11	5456-5459	add	_	_	_	
+61-12	5460-5465	finer	_	_	_	
+61-13	5466-5475	structure	_	_	_	
+61-14	5475-5476	.	_	_	_	
+
+#Text=Text labels help orient the reader while remaining visually balanced.
+62-1	5477-5481	Text	_	_	_	
+62-2	5482-5488	labels	_	_	_	
+62-3	5489-5493	help	_	_	_	
+62-4	5494-5500	orient	_	_	_	
+62-5	5501-5504	the	_	_	_	
+62-6	5505-5511	reader	_	_	_	
+62-7	5512-5517	while	_	_	_	
+62-8	5518-5527	remaining	_	_	_	
+62-9	5528-5536	visually	_	_	_	
+62-10	5537-5545	balanced	_	_	_	
+62-11	5545-5546	.	_	_	_	
+
+#Text=Would you like me to compare this with one of the earlier maps to explore how abstraction or detail shifts across scales?
+63-1	5548-5553	Would	p[51]	*[51]	_	
+63-2	5554-5557	you	p[51]	*[51]	_	
+63-3	5558-5562	like	p[51]	*[51]	_	
+63-4	5563-5565	me	p[51]	*[51]	_	
+63-5	5566-5568	to	p[51]	*[51]	_	
+63-6	5569-5576	compare	p[51]	*[51]	_	
+63-7	5577-5581	this	p[51]	*[51]	_	
+63-8	5582-5586	with	p[51]	*[51]	_	
+63-9	5587-5590	one	p[51]	*[51]	_	
+63-10	5591-5593	of	p[51]	*[51]	_	
+63-11	5594-5597	the	p[51]	*[51]	_	
+63-12	5598-5605	earlier	p[51]	*[51]	_	
+63-13	5606-5610	maps	p[51]	*[51]	_	
+63-14	5611-5613	to	p[51]	*[51]	_	
+63-15	5614-5621	explore	p[51]	*[51]	_	
+63-16	5622-5625	how	p[51]	*[51]	_	
+63-17	5626-5637	abstraction	p[51]	*[51]	_	
+63-18	5638-5640	or	p[51]	*[51]	_	
+63-19	5641-5647	detail	p[51]	*[51]	_	
+63-20	5648-5654	shifts	p[51]	*[51]	_	
+63-21	5655-5661	across	p[51]	*[51]	_	
+63-22	5662-5668	scales	p[51]	*[51]	_	
+63-23	5668-5669	?	p[51]	*[51]	_	
+
+#Text=Anchors summary  la Loire la Loire Neuve la Pointe de l’île Île de Nantes La Haute Île La Basse Île Île Forget Pont Anne-de-Bretagne Pont Haudaudine Primary roads (bright yellow) Bridges (general) Densely packed building footprints (light beige/gray) Large white blocks (industrial/institutional zones) Railway network / curved black tracks la Mahautière (rail stop) Rail yards / multiple train lines Purple/gray blocks (public buildings, industrial facilities, cultural complexes) Waterfront districts Beaulieu Portchais Malakoff la Fonderie Saint-Jacques
+64-1	5670-5677	Anchors	h1[52]	*[52]	_	
+64-2	5678-5685	summary	h1[52]	*[52]	_	
+64-3	5687-5689	la	_	_	_	
+64-4	5690-5695	Loire	_	_	_	
+64-5	5696-5698	la	_	_	_	
+64-6	5699-5704	Loire	_	_	_	
+64-7	5705-5710	Neuve	_	_	_	
+64-8	5711-5713	la	_	_	_	
+64-9	5714-5720	Pointe	_	_	_	
+64-10	5721-5723	de	_	_	_	
+64-11	5724-5725	l	_	_	_	
+64-12	5725-5726	’	_	_	_	
+64-13	5726-5729	île	_	_	_	
+64-14	5730-5733	Île	_	_	_	
+64-15	5734-5736	de	_	_	_	
+64-16	5737-5743	Nantes	_	_	_	
+64-17	5744-5746	La	_	_	_	
+64-18	5747-5752	Haute	_	_	_	
+64-19	5753-5756	Île	_	_	_	
+64-20	5757-5759	La	_	_	_	
+64-21	5760-5765	Basse	_	_	_	
+64-22	5766-5769	Île	_	_	_	
+64-23	5770-5773	Île	_	_	_	
+64-24	5774-5780	Forget	_	_	_	
+64-25	5781-5785	Pont	_	_	_	
+64-26	5786-5802	Anne-de-Bretagne	_	_	_	
+64-27	5803-5807	Pont	_	_	_	
+64-28	5808-5818	Haudaudine	_	_	_	
+64-29	5819-5826	Primary	_	_	_	
+64-30	5827-5832	roads	_	_	_	
+64-31	5833-5834	(	_	_	_	
+64-32	5834-5840	bright	_	_	_	
+64-33	5841-5847	yellow	_	_	_	
+64-34	5847-5848	)	_	_	_	
+64-35	5849-5856	Bridges	_	_	_	
+64-36	5857-5858	(	_	_	_	
+64-37	5858-5865	general	_	_	_	
+64-38	5865-5866	)	_	_	_	
+64-39	5867-5874	Densely	_	_	_	
+64-40	5875-5881	packed	_	_	_	
+64-41	5882-5890	building	_	_	_	
+64-42	5891-5901	footprints	_	_	_	
+64-43	5902-5903	(	_	_	_	
+64-44	5903-5908	light	_	_	_	
+64-45	5909-5914	beige	_	_	_	
+64-46	5914-5915	/	_	_	_	
+64-47	5915-5919	gray	_	_	_	
+64-48	5919-5920	)	_	_	_	
+64-49	5921-5926	Large	_	_	_	
+64-50	5927-5932	white	_	_	_	
+64-51	5933-5939	blocks	_	_	_	
+64-52	5940-5941	(	_	_	_	
+64-53	5941-5951	industrial	_	_	_	
+64-54	5951-5952	/	_	_	_	
+64-55	5952-5965	institutional	_	_	_	
+64-56	5966-5971	zones	_	_	_	
+64-57	5971-5972	)	_	_	_	
+64-58	5973-5980	Railway	_	_	_	
+64-59	5981-5988	network	_	_	_	
+64-60	5989-5990	/	_	_	_	
+64-61	5991-5997	curved	_	_	_	
+64-62	5998-6003	black	_	_	_	
+64-63	6004-6010	tracks	_	_	_	
+64-64	6011-6013	la	_	_	_	
+64-65	6014-6024	Mahautière	_	_	_	
+64-66	6025-6026	(	_	_	_	
+64-67	6026-6030	rail	_	_	_	
+64-68	6031-6035	stop	_	_	_	
+64-69	6035-6036	)	_	_	_	
+64-70	6037-6041	Rail	_	_	_	
+64-71	6042-6047	yards	_	_	_	
+64-72	6048-6049	/	_	_	_	
+64-73	6050-6058	multiple	_	_	_	
+64-74	6059-6064	train	_	_	_	
+64-75	6065-6070	lines	_	_	_	
+64-76	6071-6077	Purple	_	_	_	
+64-77	6077-6078	/	_	_	_	
+64-78	6078-6082	gray	_	_	_	
+64-79	6083-6089	blocks	_	_	_	
+64-80	6090-6091	(	_	_	_	
+64-81	6091-6097	public	_	_	_	
+64-82	6098-6107	buildings	_	_	_	
+64-83	6107-6108	,	_	_	_	
+64-84	6109-6119	industrial	_	_	_	
+64-85	6120-6130	facilities	_	_	_	
+64-86	6130-6131	,	_	_	_	
+64-87	6132-6140	cultural	_	_	_	
+64-88	6141-6150	complexes	_	_	_	
+64-89	6150-6151	)	_	_	_	
+64-90	6152-6162	Waterfront	_	_	_	
+64-91	6163-6172	districts	_	_	_	
+64-92	6173-6181	Beaulieu	_	_	_	
+64-93	6182-6191	Portchais	_	_	_	
+64-94	6192-6200	Malakoff	_	_	_	
+64-95	6201-6203	la	_	_	_	
+64-96	6204-6212	Fonderie	_	_	_	
+64-97	6213-6226	Saint-Jacques	_	_	_	

@@ -1,0 +1,577 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=Here’s a description of the content shown in the black and white map: Overall:  The map depicts a portion of Central Park in New York City.
+2-1	42-46	Here	p[2]	*[2]	_	
+2-2	46-47	’	p[2]	*[2]	_	
+2-3	47-48	s	p[2]	*[2]	_	
+2-4	49-50	a	p[2]	*[2]	_	
+2-5	51-62	description	p[2]	*[2]	_	
+2-6	63-65	of	p[2]	*[2]	_	
+2-7	66-69	the	p[2]	*[2]	_	
+2-8	70-77	content	p[2]	*[2]	_	
+2-9	78-83	shown	p[2]	*[2]	_	
+2-10	84-86	in	p[2]	*[2]	_	
+2-11	87-90	the	p[2]	*[2]	_	
+2-12	91-96	black	p[2]	*[2]	_	
+2-13	97-100	and	p[2]	*[2]	_	
+2-14	101-106	white	p[2]	*[2]	_	
+2-15	107-110	map	p[2]	*[2]	_	
+2-16	110-111	:	p[2]	*[2]	_	
+2-17	112-119	Overall	p[3]	*[3]	_	
+2-18	119-120	:	p[3]	*[3]	_	
+2-19	122-125	The	_	_	_	
+2-20	126-129	map	_	_	_	
+2-21	130-137	depicts	_	_	_	
+2-22	138-139	a	_	_	_	
+2-23	140-147	portion	_	_	_	
+2-24	148-150	of	_	_	_	
+2-25	151-158	Central	_	_	toponym[11]	
+2-26	159-163	Park	_	_	toponym[11]	
+2-27	164-166	in	_	_	spatial relation	
+2-28	167-170	New	_	_	toponym[12]	
+2-29	171-175	York	_	_	toponym[12]	
+2-30	176-180	City	_	_	toponym[12]	
+2-31	180-181	.	_	_	_	
+
+#Text=It’s presented in a grayscale or black and white style, with the streets and park features rendered in varying shades of gray.
+3-1	182-184	It	_	_	_	
+3-2	184-185	’	_	_	_	
+3-3	185-186	s	_	_	_	
+3-4	187-196	presented	_	_	_	
+3-5	197-199	in	_	_	_	
+3-6	200-201	a	_	_	_	
+3-7	202-211	grayscale	_	_	_	
+3-8	212-214	or	_	_	_	
+3-9	215-220	black	_	_	_	
+3-10	221-224	and	_	_	_	
+3-11	225-230	white	_	_	_	
+3-12	231-236	style	_	_	_	
+3-13	236-237	,	_	_	_	
+3-14	238-242	with	_	_	_	
+3-15	243-246	the	_	_	_	
+3-16	247-254	streets	_	_	_	
+3-17	255-258	and	_	_	_	
+3-18	259-263	park	_	_	_	
+3-19	264-272	features	_	_	_	
+3-20	273-281	rendered	_	_	_	
+3-21	282-284	in	_	_	_	
+3-22	285-292	varying	_	_	_	
+3-23	293-299	shades	_	_	_	
+3-24	300-302	of	_	_	_	
+3-25	303-307	gray	_	_	_	
+3-26	307-308	.	_	_	_	
+
+#Text=Key Features:  The Lake (Central Park): A large, irregularly shaped body of water dominates the center of the map.
+4-1	310-313	Key	p[4]	*[4]	_	
+4-2	314-322	Features	p[4]	*[4]	_	
+4-3	322-323	:	p[4]	*[4]	_	
+4-4	325-328	The	_	_	toponym[13]	
+4-5	329-333	Lake	_	_	toponym[13]	
+4-6	334-335	(	_	_	toponym[13]	
+4-7	335-342	Central	_	_	toponym[13]	
+4-8	343-347	Park	_	_	toponym[13]	
+4-9	347-348	)	_	_	toponym[13]	
+4-10	348-349	:	_	_	_	
+4-11	350-351	A	_	_	_	
+4-12	352-357	large	_	_	_	
+4-13	357-358	,	_	_	_	
+4-14	359-370	irregularly	_	_	_	
+4-15	371-377	shaped	_	_	_	
+4-16	378-382	body	_	_	_	
+4-17	383-385	of	_	_	_	
+4-18	386-391	water	_	_	_	
+4-19	392-401	dominates	_	_	_	
+4-20	402-405	the	_	_	_	
+4-21	406-412	center	_	_	spatial relation	
+4-22	413-415	of	_	_	_	
+4-23	416-419	the	_	_	_	
+4-24	420-423	map	_	_	_	
+4-25	423-424	.	_	_	_	
+
+#Text=It’s clearly identified as “The Lake.”
+5-1	425-427	It	_	_	_	
+5-2	427-428	’	_	_	_	
+5-3	428-429	s	_	_	_	
+5-4	430-437	clearly	_	_	_	
+5-5	438-448	identified	_	_	_	
+5-6	449-451	as	_	_	_	
+5-7	452-453	“	_	_	_	
+5-8	453-456	The	_	_	toponym[14]	
+5-9	457-461	Lake	_	_	toponym[14]	
+5-10	461-462	.	_	_	_	
+5-11	462-463	”	_	_	_	
+
+#Text=Bow Bridge: A distinctive arched bridge spans the lake, easily recognizable by its shape.
+6-1	464-467	Bow	_	_	toponym[15]	
+6-2	468-474	Bridge	_	_	toponym[15]	
+6-3	474-475	:	_	_	_	
+6-4	476-477	A	_	_	_	
+6-5	478-489	distinctive	_	_	_	
+6-6	490-496	arched	_	_	_	
+6-7	497-503	bridge	_	_	_	
+6-8	504-509	spans	_	_	spatial relation	
+6-9	510-513	the	_	_	_	
+6-10	514-518	lake	_	_	_	
+6-11	518-519	,	_	_	_	
+6-12	520-526	easily	_	_	_	
+6-13	527-539	recognizable	_	_	_	
+6-14	540-542	by	_	_	_	
+6-15	543-546	its	_	_	_	
+6-16	547-552	shape	_	_	_	
+6-17	552-553	.	_	_	_	
+
+#Text=Cherry Hill Fountain: A fountain is marked within the park, labeled “Cherry Hill Fountain.”
+7-1	554-560	Cherry	_	_	toponym[16]	
+7-2	561-565	Hill	_	_	toponym[16]	
+7-3	566-574	Fountain	_	_	toponym[16]	
+7-4	574-575	:	_	_	_	
+7-5	576-577	A	_	_	_	
+7-6	578-586	fountain	_	_	_	
+7-7	587-589	is	_	_	_	
+7-8	590-596	marked	_	_	_	
+7-9	597-603	within	_	_	spatial relation	
+7-10	604-607	the	_	_	_	
+7-11	608-612	park	_	_	_	
+7-12	612-613	,	_	_	_	
+7-13	614-621	labeled	_	_	_	
+7-14	622-623	“	_	_	_	
+7-15	623-629	Cherry	_	_	toponym[17]	
+7-16	630-634	Hill	_	_	toponym[17]	
+7-17	635-643	Fountain	_	_	toponym[17]	
+7-18	643-644	.	_	_	_	
+7-19	644-645	”	_	_	_	
+
+#Text=Bethesda Fountain: Another fountain is present, identified as “Bethesda Fountain.”
+8-1	646-654	Bethesda	_	_	toponym[18]	
+8-2	655-663	Fountain	_	_	toponym[18]	
+8-3	663-664	:	_	_	_	
+8-4	665-672	Another	_	_	_	
+8-5	673-681	fountain	_	_	_	
+8-6	682-684	is	_	_	_	
+8-7	685-692	present	_	_	_	
+8-8	692-693	,	_	_	_	
+8-9	694-704	identified	_	_	_	
+8-10	705-707	as	_	_	_	
+8-11	708-709	“	_	_	_	
+8-12	709-717	Bethesda	_	_	toponym[19]	
+8-13	718-726	Fountain	_	_	toponym[19]	
+8-14	726-727	.	_	_	_	
+8-15	727-728	”	_	_	_	
+
+#Text=Streets & Grid: The surrounding area shows a dense grid of streets characteristic of Manhattan.
+9-1	729-736	Streets	_	_	_	
+9-2	737-738	&	_	_	_	
+9-3	739-743	Grid	_	_	_	
+9-4	743-744	:	_	_	_	
+9-5	745-748	The	_	_	_	
+9-6	749-760	surrounding	_	_	_	
+9-7	761-765	area	_	_	_	
+9-8	766-771	shows	_	_	_	
+9-9	772-773	a	_	_	_	
+9-10	774-779	dense	_	_	_	
+9-11	780-784	grid	_	_	_	
+9-12	785-787	of	_	_	_	
+9-13	788-795	streets	_	_	_	
+9-14	796-810	characteristic	_	_	_	
+9-15	811-813	of	_	_	_	
+9-16	814-823	Manhattan	_	_	toponym	
+9-17	823-824	.	_	_	_	
+
+#Text=Street names are visible, such as 72nd Street, 79th Street Transverse, Central Park West, and Upper East Side.
+10-1	825-831	Street	_	_	_	
+10-2	832-837	names	_	_	_	
+10-3	838-841	are	_	_	_	
+10-4	842-849	visible	_	_	_	
+10-5	849-850	,	_	_	_	
+10-6	851-855	such	_	_	_	
+10-7	856-858	as	_	_	_	
+10-8	859-863	72nd	_	_	toponym[20]	
+10-9	864-870	Street	_	_	toponym[20]	
+10-10	870-871	,	_	_	_	
+10-11	872-876	79th	_	_	toponym[21]	
+10-12	877-883	Street	_	_	toponym[21]	
+10-13	884-894	Transverse	_	_	toponym[21]	
+10-14	894-895	,	_	_	_	
+10-15	896-903	Central	_	_	toponym[22]	
+10-16	904-908	Park	_	_	toponym[22]	
+10-17	909-913	West	_	_	toponym[22]	
+10-18	913-914	,	_	_	_	
+10-19	915-918	and	_	_	_	
+10-20	919-924	Upper	_	_	toponym[23]	
+10-21	925-929	East	_	_	toponym[23]	
+10-22	930-934	Side	_	_	toponym[23]	
+10-23	934-935	.	_	_	_	
+
+#Text=Park Boundaries: The edges of the park are clearly defined by the surrounding streets, creating a visual boundary.
+11-1	936-940	Park	_	_	_	
+11-2	941-951	Boundaries	_	_	_	
+11-3	951-952	:	_	_	_	
+11-4	953-956	The	_	_	_	
+11-5	957-962	edges	_	_	spatial relation	
+11-6	963-965	of	_	_	_	
+11-7	966-969	the	_	_	_	
+11-8	970-974	park	_	_	_	
+11-9	975-978	are	_	_	_	
+11-10	979-986	clearly	_	_	_	
+11-11	987-994	defined	_	_	_	
+11-12	995-997	by	_	_	_	
+11-13	998-1001	the	_	_	_	
+11-14	1002-1013	surrounding	_	_	spatial relation	
+11-15	1014-1021	streets	_	_	_	
+11-16	1021-1022	,	_	_	_	
+11-17	1023-1031	creating	_	_	_	
+11-18	1032-1033	a	_	_	_	
+11-19	1034-1040	visual	_	_	_	
+11-20	1041-1049	boundary	_	_	_	
+11-21	1049-1050	.	_	_	_	
+
+#Text=Overall Impression: The map provides a detailed view of the central area of Central Park, highlighting its major landmarks and their relationship to the surrounding urban grid.
+12-1	1052-1059	Overall	p[5]	*[5]	_	
+12-2	1060-1070	Impression	p[5]	*[5]	_	
+12-3	1070-1071	:	p[5]	*[5]	_	
+12-4	1072-1075	The	p[6]	*[6]	_	
+12-5	1076-1079	map	p[6]	*[6]	_	
+12-6	1080-1088	provides	p[6]	*[6]	_	
+12-7	1089-1090	a	p[6]	*[6]	_	
+12-8	1091-1099	detailed	p[6]	*[6]	_	
+12-9	1100-1104	view	p[6]	*[6]	_	
+12-10	1105-1107	of	p[6]	*[6]	_	
+12-11	1108-1111	the	p[6]	*[6]	_	
+12-12	1112-1119	central	p[6]	*[6]	spatial relation	
+12-13	1120-1124	area	p[6]	*[6]	_	
+12-14	1125-1127	of	p[6]	*[6]	_	
+12-15	1128-1135	Central	p[6]	*[6]	toponym[24]	
+12-16	1136-1140	Park	p[6]	*[6]	toponym[24]	
+12-17	1140-1141	,	p[6]	*[6]	_	
+12-18	1142-1154	highlighting	p[6]	*[6]	_	
+12-19	1155-1158	its	p[6]	*[6]	_	
+12-20	1159-1164	major	p[6]	*[6]	_	
+12-21	1165-1174	landmarks	p[6]	*[6]	_	
+12-22	1175-1178	and	p[6]	*[6]	_	
+12-23	1179-1184	their	p[6]	*[6]	_	
+12-24	1185-1197	relationship	p[6]	*[6]	_	
+12-25	1198-1200	to	p[6]	*[6]	_	
+12-26	1201-1204	the	p[6]	*[6]	_	
+12-27	1205-1216	surrounding	p[6]	*[6]	spatial relation	
+12-28	1217-1222	urban	p[6]	*[6]	_	
+12-29	1223-1227	grid	p[6]	*[6]	_	
+12-30	1227-1228	.	p[6]	*[6]	_	
+
+#Text=The black and white style emphasizes the layout and spatial arrangement of features rather than color or visual detail.
+13-1	1229-1232	The	p[6]	*[6]	_	
+13-2	1233-1238	black	p[6]	*[6]	_	
+13-3	1239-1242	and	p[6]	*[6]	_	
+13-4	1243-1248	white	p[6]	*[6]	_	
+13-5	1249-1254	style	p[6]	*[6]	_	
+13-6	1255-1265	emphasizes	p[6]	*[6]	_	
+13-7	1266-1269	the	p[6]	*[6]	_	
+13-8	1270-1276	layout	p[6]	*[6]	_	
+13-9	1277-1280	and	p[6]	*[6]	_	
+13-10	1281-1288	spatial	p[6]	*[6]	_	
+13-11	1289-1300	arrangement	p[6]	*[6]	_	
+13-12	1301-1303	of	p[6]	*[6]	_	
+13-13	1304-1312	features	p[6]	*[6]	_	
+13-14	1313-1319	rather	p[6]	*[6]	_	
+13-15	1320-1324	than	p[6]	*[6]	_	
+13-16	1325-1330	color	p[6]	*[6]	_	
+13-17	1331-1333	or	p[6]	*[6]	_	
+13-18	1334-1340	visual	p[6]	*[6]	_	
+13-19	1341-1347	detail	p[6]	*[6]	_	
+13-20	1347-1348	.	p[6]	*[6]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+14-1	1349-1352	Can	h1[7]	*[7]	_	
+14-2	1353-1356	you	h1[7]	*[7]	_	
+14-3	1357-1365	describe	h1[7]	*[7]	_	
+14-4	1366-1369	the	h1[7]	*[7]	_	
+14-5	1370-1374	most	h1[7]	*[7]	_	
+14-6	1375-1383	visually	h1[7]	*[7]	_	
+14-7	1384-1391	salient	h1[7]	*[7]	_	
+14-8	1392-1400	elements	h1[7]	*[7]	_	
+14-9	1401-1403	of	h1[7]	*[7]	_	
+14-10	1404-1407	the	h1[7]	*[7]	_	
+14-11	1408-1411	map	h1[7]	*[7]	_	
+14-12	1411-1412	?	h1[7]	*[7]	_	
+
+#Text=Here’s a description of the most visually salient elements in the provided map:  The Pond (The Lake): The most prominent feature is a large, irregularly shaped body of water.
+15-1	1413-1417	Here	p[8]	*[8]	_	
+15-2	1417-1418	’	p[8]	*[8]	_	
+15-3	1418-1419	s	p[8]	*[8]	_	
+15-4	1420-1421	a	p[8]	*[8]	_	
+15-5	1422-1433	description	p[8]	*[8]	_	
+15-6	1434-1436	of	p[8]	*[8]	_	
+15-7	1437-1440	the	p[8]	*[8]	_	
+15-8	1441-1445	most	p[8]	*[8]	_	
+15-9	1446-1454	visually	p[8]	*[8]	_	
+15-10	1455-1462	salient	p[8]	*[8]	_	
+15-11	1463-1471	elements	p[8]	*[8]	_	
+15-12	1472-1474	in	p[8]	*[8]	_	
+15-13	1475-1478	the	p[8]	*[8]	_	
+15-14	1479-1487	provided	p[8]	*[8]	_	
+15-15	1488-1491	map	p[8]	*[8]	_	
+15-16	1491-1492	:	p[8]	*[8]	_	
+15-17	1494-1497	The	_	_	_	
+15-18	1498-1502	Pond	_	_	_	
+15-19	1503-1504	(	_	_	_	
+15-20	1504-1507	The	_	_	_	
+15-21	1508-1512	Lake	_	_	_	
+15-22	1512-1513	)	_	_	_	
+15-23	1513-1514	:	_	_	_	
+15-24	1515-1518	The	_	_	_	
+15-25	1519-1523	most	_	_	_	
+15-26	1524-1533	prominent	_	_	_	
+15-27	1534-1541	feature	_	_	_	
+15-28	1542-1544	is	_	_	_	
+15-29	1545-1546	a	_	_	_	
+15-30	1547-1552	large	_	_	_	
+15-31	1552-1553	,	_	_	_	
+15-32	1554-1565	irregularly	_	_	_	
+15-33	1566-1572	shaped	_	_	_	
+15-34	1573-1577	body	_	_	_	
+15-35	1578-1580	of	_	_	_	
+15-36	1581-1586	water	_	_	_	
+15-37	1586-1587	.	_	_	_	
+
+#Text=It dominates the central portion of the image and immediately draws the eye due to its size and contrast against the surrounding area.
+16-1	1588-1590	It	_	_	_	
+16-2	1591-1600	dominates	_	_	_	
+16-3	1601-1604	the	_	_	_	
+16-4	1605-1612	central	_	_	_	
+16-5	1613-1620	portion	_	_	_	
+16-6	1621-1623	of	_	_	_	
+16-7	1624-1627	the	_	_	_	
+16-8	1628-1633	image	_	_	_	
+16-9	1634-1637	and	_	_	_	
+16-10	1638-1649	immediately	_	_	_	
+16-11	1650-1655	draws	_	_	_	
+16-12	1656-1659	the	_	_	_	
+16-13	1660-1663	eye	_	_	_	
+16-14	1664-1667	due	_	_	_	
+16-15	1668-1670	to	_	_	_	
+16-16	1671-1674	its	_	_	_	
+16-17	1675-1679	size	_	_	_	
+16-18	1680-1683	and	_	_	_	
+16-19	1684-1692	contrast	_	_	_	
+16-20	1693-1700	against	_	_	_	
+16-21	1701-1704	the	_	_	_	
+16-22	1705-1716	surrounding	_	_	_	
+16-23	1717-1721	area	_	_	_	
+16-24	1721-1722	.	_	_	_	
+
+#Text=Central Park Grid: The map is overlaid with a dense grid of streets, characteristic of the Manhattan street layout.
+17-1	1723-1730	Central	_	_	_	
+17-2	1731-1735	Park	_	_	_	
+17-3	1736-1740	Grid	_	_	_	
+17-4	1740-1741	:	_	_	_	
+17-5	1742-1745	The	_	_	_	
+17-6	1746-1749	map	_	_	_	
+17-7	1750-1752	is	_	_	_	
+17-8	1753-1761	overlaid	_	_	_	
+17-9	1762-1766	with	_	_	_	
+17-10	1767-1768	a	_	_	_	
+17-11	1769-1774	dense	_	_	_	
+17-12	1775-1779	grid	_	_	_	
+17-13	1780-1782	of	_	_	_	
+17-14	1783-1790	streets	_	_	_	
+17-15	1790-1791	,	_	_	_	
+17-16	1792-1806	characteristic	_	_	_	
+17-17	1807-1809	of	_	_	_	
+17-18	1810-1813	the	_	_	_	
+17-19	1814-1823	Manhattan	_	_	_	
+17-20	1824-1830	street	_	_	_	
+17-21	1831-1837	layout	_	_	_	
+17-22	1837-1838	.	_	_	_	
+
+#Text=This creates a strong visual texture and provides context for the location.
+18-1	1839-1843	This	_	_	_	
+18-2	1844-1851	creates	_	_	_	
+18-3	1852-1853	a	_	_	_	
+18-4	1854-1860	strong	_	_	_	
+18-5	1861-1867	visual	_	_	_	
+18-6	1868-1875	texture	_	_	_	
+18-7	1876-1879	and	_	_	_	
+18-8	1880-1888	provides	_	_	_	
+18-9	1889-1896	context	_	_	_	
+18-10	1897-1900	for	_	_	_	
+18-11	1901-1904	the	_	_	_	
+18-12	1905-1913	location	_	_	_	
+18-13	1913-1914	.	_	_	_	
+
+#Text=Cherry Hill Fountain: A smaller, distinct shape within the park is labeled “Cherry Hill Fountain.”
+19-1	1915-1921	Cherry	_	_	_	
+19-2	1922-1926	Hill	_	_	_	
+19-3	1927-1935	Fountain	_	_	_	
+19-4	1935-1936	:	_	_	_	
+19-5	1937-1938	A	_	_	_	
+19-6	1939-1946	smaller	_	_	_	
+19-7	1946-1947	,	_	_	_	
+19-8	1948-1956	distinct	_	_	_	
+19-9	1957-1962	shape	_	_	_	
+19-10	1963-1969	within	_	_	_	
+19-11	1970-1973	the	_	_	_	
+19-12	1974-1978	park	_	_	_	
+19-13	1979-1981	is	_	_	_	
+19-14	1982-1989	labeled	_	_	_	
+19-15	1990-1991	“	_	_	_	
+19-16	1991-1997	Cherry	_	_	_	
+19-17	1998-2002	Hill	_	_	_	
+19-18	2003-2011	Fountain	_	_	_	
+19-19	2011-2012	.	_	_	_	
+19-20	2012-2013	”	_	_	_	
+
+#Text=Bethesda Fountain: Another distinct shape within the park is labeled “Bethesda Fountain.”
+20-1	2014-2022	Bethesda	_	_	_	
+20-2	2023-2031	Fountain	_	_	_	
+20-3	2031-2032	:	_	_	_	
+20-4	2033-2040	Another	_	_	_	
+20-5	2041-2049	distinct	_	_	_	
+20-6	2050-2055	shape	_	_	_	
+20-7	2056-2062	within	_	_	_	
+20-8	2063-2066	the	_	_	_	
+20-9	2067-2071	park	_	_	_	
+20-10	2072-2074	is	_	_	_	
+20-11	2075-2082	labeled	_	_	_	
+20-12	2083-2084	“	_	_	_	
+20-13	2084-2092	Bethesda	_	_	_	
+20-14	2093-2101	Fountain	_	_	_	
+20-15	2101-2102	.	_	_	_	
+20-16	2102-2103	”	_	_	_	
+
+#Text=Street Names: The map includes street names, which are visible as light-colored text against the dark background.
+21-1	2104-2110	Street	_	_	_	
+21-2	2111-2116	Names	_	_	_	
+21-3	2116-2117	:	_	_	_	
+21-4	2118-2121	The	_	_	_	
+21-5	2122-2125	map	_	_	_	
+21-6	2126-2134	includes	_	_	_	
+21-7	2135-2141	street	_	_	_	
+21-8	2142-2147	names	_	_	_	
+21-9	2147-2148	,	_	_	_	
+21-10	2149-2154	which	_	_	_	
+21-11	2155-2158	are	_	_	_	
+21-12	2159-2166	visible	_	_	_	
+21-13	2167-2169	as	_	_	_	
+21-14	2170-2183	light-colored	_	_	_	
+21-15	2184-2188	text	_	_	_	
+21-16	2189-2196	against	_	_	_	
+21-17	2197-2200	the	_	_	_	
+21-18	2201-2205	dark	_	_	_	
+21-19	2206-2216	background	_	_	_	
+21-20	2216-2217	.	_	_	_	
+
+#Text=Transverse Streets: The map includes transverse streets, which are visible as light-colored text against the dark background.
+22-1	2218-2228	Transverse	_	_	_	
+22-2	2229-2236	Streets	_	_	_	
+22-3	2236-2237	:	_	_	_	
+22-4	2238-2241	The	_	_	_	
+22-5	2242-2245	map	_	_	_	
+22-6	2246-2254	includes	_	_	_	
+22-7	2255-2265	transverse	_	_	_	
+22-8	2266-2273	streets	_	_	_	
+22-9	2273-2274	,	_	_	_	
+22-10	2275-2280	which	_	_	_	
+22-11	2281-2284	are	_	_	_	
+22-12	2285-2292	visible	_	_	_	
+22-13	2293-2295	as	_	_	_	
+22-14	2296-2309	light-colored	_	_	_	
+22-15	2310-2314	text	_	_	_	
+22-16	2315-2322	against	_	_	_	
+22-17	2323-2326	the	_	_	_	
+22-18	2327-2331	dark	_	_	_	
+22-19	2332-2342	background	_	_	_	
+22-20	2342-2343	.	_	_	_	
+
+#Text=Overall, the map is dominated by the large body of water within Central Park and the grid-like street pattern surrounding it.
+23-1	2345-2352	Overall	p[9]	*[9]	_	
+23-2	2352-2353	,	p[9]	*[9]	_	
+23-3	2354-2357	the	p[9]	*[9]	_	
+23-4	2358-2361	map	p[9]	*[9]	_	
+23-5	2362-2364	is	p[9]	*[9]	_	
+23-6	2365-2374	dominated	p[9]	*[9]	_	
+23-7	2375-2377	by	p[9]	*[9]	_	
+23-8	2378-2381	the	p[9]	*[9]	_	
+23-9	2382-2387	large	p[9]	*[9]	_	
+23-10	2388-2392	body	p[9]	*[9]	_	
+23-11	2393-2395	of	p[9]	*[9]	_	
+23-12	2396-2401	water	p[9]	*[9]	_	
+23-13	2402-2408	within	p[9]	*[9]	_	
+23-14	2409-2416	Central	p[9]	*[9]	_	
+23-15	2417-2421	Park	p[9]	*[9]	_	
+23-16	2422-2425	and	p[9]	*[9]	_	
+23-17	2426-2429	the	p[9]	*[9]	_	
+23-18	2430-2439	grid-like	p[9]	*[9]	_	
+23-19	2440-2446	street	p[9]	*[9]	_	
+23-20	2447-2454	pattern	p[9]	*[9]	_	
+23-21	2455-2466	surrounding	p[9]	*[9]	_	
+23-22	2467-2469	it	p[9]	*[9]	_	
+23-23	2469-2470	.	p[9]	*[9]	_	
+
+#Text=Anchors summary  The Pond (The Lake) — named landmark Cherry Hill Fountain — named landmark Bethesda Fountain — named landmark Central Park grid (street grid / park layout) — non-named feature Street names (visible text labels) — non-named feature Transverse streets (park transverses) — non-named feature
+24-1	2471-2478	Anchors	h1[10]	*[10]	_	
+24-2	2479-2486	summary	h1[10]	*[10]	_	
+24-3	2488-2491	The	_	_	_	
+24-4	2492-2496	Pond	_	_	_	
+24-5	2497-2498	(	_	_	_	
+24-6	2498-2501	The	_	_	_	
+24-7	2502-2506	Lake	_	_	_	
+24-8	2506-2507	)	_	_	_	
+24-9	2508-2509	—	_	_	_	
+24-10	2510-2515	named	_	_	_	
+24-11	2516-2524	landmark	_	_	_	
+24-12	2525-2531	Cherry	_	_	_	
+24-13	2532-2536	Hill	_	_	_	
+24-14	2537-2545	Fountain	_	_	_	
+24-15	2546-2547	—	_	_	_	
+24-16	2548-2553	named	_	_	_	
+24-17	2554-2562	landmark	_	_	_	
+24-18	2563-2571	Bethesda	_	_	_	
+24-19	2572-2580	Fountain	_	_	_	
+24-20	2581-2582	—	_	_	_	
+24-21	2583-2588	named	_	_	_	
+24-22	2589-2597	landmark	_	_	_	
+24-23	2598-2605	Central	_	_	_	
+24-24	2606-2610	Park	_	_	_	
+24-25	2611-2615	grid	_	_	_	
+24-26	2616-2617	(	_	_	_	
+24-27	2617-2623	street	_	_	_	
+24-28	2624-2628	grid	_	_	_	
+24-29	2629-2630	/	_	_	_	
+24-30	2631-2635	park	_	_	_	
+24-31	2636-2642	layout	_	_	_	
+24-32	2642-2643	)	_	_	_	
+24-33	2644-2645	—	_	_	_	
+24-34	2646-2655	non-named	_	_	_	
+24-35	2656-2663	feature	_	_	_	
+24-36	2664-2670	Street	_	_	_	
+24-37	2671-2676	names	_	_	_	
+24-38	2677-2678	(	_	_	_	
+24-39	2678-2685	visible	_	_	_	
+24-40	2686-2690	text	_	_	_	
+24-41	2691-2697	labels	_	_	_	
+24-42	2697-2698	)	_	_	_	
+24-43	2699-2700	—	_	_	_	
+24-44	2701-2710	non-named	_	_	_	
+24-45	2711-2718	feature	_	_	_	
+24-46	2719-2729	Transverse	_	_	_	
+24-47	2730-2737	streets	_	_	_	
+24-48	2738-2739	(	_	_	_	
+24-49	2739-2743	park	_	_	_	
+24-50	2744-2755	transverses	_	_	_	
+24-51	2755-2756	)	_	_	_	
+24-52	2757-2758	—	_	_	_	
+24-53	2759-2768	non-named	_	_	_	
+24-54	2769-2776	feature	_	_	_	

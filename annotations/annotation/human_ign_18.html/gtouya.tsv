@@ -1,0 +1,204 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=This is a map showing how to get to the Château des Ducs de Bretagne, with the main routes to get there, either via Rue Premion, Rue des États, or Rue Rodier.
+2-1	42-46	This	p[2]	*[2]	_	
+2-2	47-49	is	p[2]	*[2]	_	
+2-3	50-51	a	p[2]	*[2]	_	
+2-4	52-55	map	p[2]	*[2]	_	
+2-5	56-63	showing	p[2]	*[2]	_	
+2-6	64-67	how	p[2]	*[2]	_	
+2-7	68-70	to	p[2]	*[2]	_	
+2-8	71-74	get	p[2]	*[2]	_	
+2-9	75-77	to	p[2]	*[2]	_	
+2-10	78-81	the	p[2]	*[2]	_	
+2-11	82-89	Château	p[2]	*[2]	toponym[4]	
+2-12	90-93	des	p[2]	*[2]	toponym[4]	
+2-13	94-98	Ducs	p[2]	*[2]	toponym[4]	
+2-14	99-101	de	p[2]	*[2]	toponym[4]	
+2-15	102-110	Bretagne	p[2]	*[2]	toponym[4]	
+2-16	110-111	,	p[2]	*[2]	_	
+2-17	112-116	with	p[2]	*[2]	_	
+2-18	117-120	the	p[2]	*[2]	_	
+2-19	121-125	main	p[2]	*[2]	_	
+2-20	126-132	routes	p[2]	*[2]	_	
+2-21	133-135	to	p[2]	*[2]	spatial relation[5]	
+2-22	136-139	get	p[2]	*[2]	spatial relation[5]	
+2-23	140-145	there	p[2]	*[2]	spatial relation[5]	
+2-24	145-146	,	p[2]	*[2]	_	
+2-25	147-153	either	p[2]	*[2]	_	
+2-26	154-157	via	p[2]	*[2]	_	
+2-27	158-161	Rue	p[2]	*[2]	toponym[6]	
+2-28	162-169	Premion	p[2]	*[2]	toponym[6]	
+2-29	169-170	,	p[2]	*[2]	_	
+2-30	171-174	Rue	p[2]	*[2]	toponym[7]	
+2-31	175-178	des	p[2]	*[2]	toponym[7]	
+2-32	179-184	États	p[2]	*[2]	toponym[7]	
+2-33	184-185	,	p[2]	*[2]	_	
+2-34	186-188	or	p[2]	*[2]	_	
+2-35	189-192	Rue	p[2]	*[2]	toponym[8]	
+2-36	193-199	Rodier	p[2]	*[2]	toponym[8]	
+2-37	199-200	.	p[2]	*[2]	_	
+
+#Text=There are several ways to get there.
+3-1	201-206	There	p[2]	*[2]	_	
+3-2	207-210	are	p[2]	*[2]	_	
+3-3	211-218	several	p[2]	*[2]	_	
+3-4	219-223	ways	p[2]	*[2]	_	
+3-5	224-226	to	p[2]	*[2]	_	
+3-6	227-230	get	p[2]	*[2]	_	
+3-7	231-236	there	p[2]	*[2]	_	
+3-8	236-237	.	p[2]	*[2]	_	
+
+#Text=It is There are several access points.
+4-1	238-240	It	p[2]	*[2]	_	
+4-2	241-243	is	p[2]	*[2]	_	
+4-3	244-249	There	p[2]	*[2]	_	
+4-4	250-253	are	p[2]	*[2]	_	
+4-5	254-261	several	p[2]	*[2]	_	
+4-6	262-268	access	p[2]	*[2]	_	
+4-7	269-275	points	p[2]	*[2]	_	
+4-8	275-276	.	p[2]	*[2]	_	
+
+#Text=It is surely also accessible via Place de la Duchesse.
+5-1	277-279	It	p[2]	*[2]	_	
+5-2	280-282	is	p[2]	*[2]	_	
+5-3	283-289	surely	p[2]	*[2]	_	
+5-4	290-294	also	p[2]	*[2]	_	
+5-5	295-305	accessible	p[2]	*[2]	_	
+5-6	306-309	via	p[2]	*[2]	_	
+5-7	310-315	Place	p[2]	*[2]	toponym[9]	
+5-8	316-318	de	p[2]	*[2]	toponym[9]	
+5-9	319-321	la	p[2]	*[2]	toponym[9]	
+5-10	322-330	Duchesse	p[2]	*[2]	toponym[9]	
+5-11	330-331	.	p[2]	*[2]	_	
+
+#Text=It is a castle with dotted lines, which I assume are footpaths, and large roads in the southeast marked in yellow, which are probably expressways or major avenues.
+6-1	332-334	It	p[2]	*[2]	_	
+6-2	335-337	is	p[2]	*[2]	_	
+6-3	338-339	a	p[2]	*[2]	_	
+6-4	340-346	castle	p[2]	*[2]	_	
+6-5	347-351	with	p[2]	*[2]	_	
+6-6	352-358	dotted	p[2]	*[2]	_	
+6-7	359-364	lines	p[2]	*[2]	_	
+6-8	364-365	,	p[2]	*[2]	_	
+6-9	366-371	which	p[2]	*[2]	_	
+6-10	372-373	I	p[2]	*[2]	_	
+6-11	374-380	assume	p[2]	*[2]	_	
+6-12	381-384	are	p[2]	*[2]	_	
+6-13	385-394	footpaths	p[2]	*[2]	_	
+6-14	394-395	,	p[2]	*[2]	_	
+6-15	396-399	and	p[2]	*[2]	_	
+6-16	400-405	large	p[2]	*[2]	_	
+6-17	406-411	roads	p[2]	*[2]	_	
+6-18	412-414	in	p[2]	*[2]	spatial relation[10]	
+6-19	415-418	the	p[2]	*[2]	spatial relation[10]	
+6-20	419-428	southeast	p[2]	*[2]	spatial relation[10]	
+6-21	429-435	marked	p[2]	*[2]	_	
+6-22	436-438	in	p[2]	*[2]	_	
+6-23	439-445	yellow	p[2]	*[2]	_	
+6-24	445-446	,	p[2]	*[2]	_	
+6-25	447-452	which	p[2]	*[2]	_	
+6-26	453-456	are	p[2]	*[2]	_	
+6-27	457-465	probably	p[2]	*[2]	_	
+6-28	466-477	expressways	p[2]	*[2]	_	
+6-29	478-480	or	p[2]	*[2]	_	
+6-30	481-486	major	p[2]	*[2]	_	
+6-31	487-494	avenues	p[2]	*[2]	_	
+6-32	494-495	.	p[2]	*[2]	_	
+
+#Text=A tourist map for getting to this castle, which is surrounded by water.
+7-1	496-497	A	p[2]	*[2]	_	
+7-2	498-505	tourist	p[2]	*[2]	_	
+7-3	506-509	map	p[2]	*[2]	_	
+7-4	510-513	for	p[2]	*[2]	_	
+7-5	514-521	getting	p[2]	*[2]	_	
+7-6	522-524	to	p[2]	*[2]	_	
+7-7	525-529	this	p[2]	*[2]	_	
+7-8	530-536	castle	p[2]	*[2]	_	
+7-9	536-537	,	p[2]	*[2]	_	
+7-10	538-543	which	p[2]	*[2]	_	
+7-11	544-546	is	p[2]	*[2]	_	
+7-12	547-557	surrounded	p[2]	*[2]	_	
+7-13	558-560	by	p[2]	*[2]	_	
+7-14	561-566	water	p[2]	*[2]	_	
+7-15	566-567	.	p[2]	*[2]	_	
+
+#Text=Anchors summary  Château des Ducs de Bretagne Rue Premion Rue des États Rue Rodier Place de la Duchesse Chemins en pointillé (chemins piétons) Grands axes au sud‑est en jaune (voies rapides / grandes avenues) Plan bordé d’eau (ruisseau/ rivière / douves — corps d’eau non nommé) Plusieurs accès / axes d’accès
+8-1	568-575	Anchors	h1[3]	*[3]	_	
+8-2	576-583	summary	h1[3]	*[3]	_	
+8-3	585-592	Château	_	_	_	
+8-4	593-596	des	_	_	_	
+8-5	597-601	Ducs	_	_	_	
+8-6	602-604	de	_	_	_	
+8-7	605-613	Bretagne	_	_	_	
+8-8	614-617	Rue	_	_	_	
+8-9	618-625	Premion	_	_	_	
+8-10	626-629	Rue	_	_	_	
+8-11	630-633	des	_	_	_	
+8-12	634-639	États	_	_	_	
+8-13	640-643	Rue	_	_	_	
+8-14	644-650	Rodier	_	_	_	
+8-15	651-656	Place	_	_	_	
+8-16	657-659	de	_	_	_	
+8-17	660-662	la	_	_	_	
+8-18	663-671	Duchesse	_	_	_	
+8-19	672-679	Chemins	_	_	_	
+8-20	680-682	en	_	_	_	
+8-21	683-692	pointillé	_	_	_	
+8-22	693-694	(	_	_	_	
+8-23	694-701	chemins	_	_	_	
+8-24	702-709	piétons	_	_	_	
+8-25	709-710	)	_	_	_	
+8-26	711-717	Grands	_	_	_	
+8-27	718-722	axes	_	_	_	
+8-28	723-725	au	_	_	_	
+8-29	726-733	sud‑est	_	_	_	
+8-30	734-736	en	_	_	_	
+8-31	737-742	jaune	_	_	_	
+8-32	743-744	(	_	_	_	
+8-33	744-749	voies	_	_	_	
+8-34	750-757	rapides	_	_	_	
+8-35	758-759	/	_	_	_	
+8-36	760-767	grandes	_	_	_	
+8-37	768-775	avenues	_	_	_	
+8-38	775-776	)	_	_	_	
+8-39	777-781	Plan	_	_	_	
+8-40	782-787	bordé	_	_	_	
+8-41	788-789	d	_	_	_	
+8-42	789-790	’	_	_	_	
+8-43	790-793	eau	_	_	_	
+8-44	794-795	(	_	_	_	
+8-45	795-803	ruisseau	_	_	_	
+8-46	803-804	/	_	_	_	
+8-47	805-812	rivière	_	_	_	
+8-48	813-814	/	_	_	_	
+8-49	815-821	douves	_	_	_	
+8-50	822-823	—	_	_	_	
+8-51	824-829	corps	_	_	_	
+8-52	830-831	d	_	_	_	
+8-53	831-832	’	_	_	_	
+8-54	832-835	eau	_	_	_	
+8-55	836-839	non	_	_	_	
+8-56	840-845	nommé	_	_	_	
+8-57	845-846	)	_	_	_	
+8-58	847-856	Plusieurs	_	_	_	
+8-59	857-862	accès	_	_	_	
+8-60	863-864	/	_	_	_	
+8-61	865-869	axes	_	_	_	
+8-62	870-871	d	_	_	_	
+8-63	871-872	’	_	_	_	
+8-64	872-877	accès	_	_	_	

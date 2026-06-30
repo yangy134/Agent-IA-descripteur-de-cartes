@@ -1,0 +1,3529 @@
+{
+  "name" : "gtouya - Map descriptions",
+  "slug" : "gtouya",
+  "description" : null,
+  "mode" : "ANNOTATION",
+  "version" : 1,
+  "source_documents" : [ {
+    "name" : "chatgpt_dark_16.html",
+    "format" : "htmldoc",
+    "state" : "CURATION_IN_PROGRESS",
+    "state_updated" : 1772699997506,
+    "timestamp" : null,
+    "created" : 1764761259871,
+    "updated" : 1772699997706
+  }, {
+    "name" : "chatgpt_google_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764761942536,
+    "timestamp" : null,
+    "created" : 1764761259960,
+    "updated" : 1764761942537
+  }, {
+    "name" : "chatgpt_google_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764762233151,
+    "timestamp" : null,
+    "created" : 1764761260108,
+    "updated" : 1764762233151
+  }, {
+    "name" : "chatgpt_google_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764765336545,
+    "timestamp" : null,
+    "created" : 1764761260280,
+    "updated" : 1764765336545
+  }, {
+    "name" : "chatgpt_google_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764765630309,
+    "timestamp" : null,
+    "created" : 1764761260318,
+    "updated" : 1764765630309
+  }, {
+    "name" : "chatgpt_ign_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764765800550,
+    "timestamp" : null,
+    "created" : 1764761260362,
+    "updated" : 1764765800550
+  }, {
+    "name" : "chatgpt_ign_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764766770464,
+    "timestamp" : null,
+    "created" : 1764761260410,
+    "updated" : 1764766770464
+  }, {
+    "name" : "chatgpt_ign_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764767405463,
+    "timestamp" : null,
+    "created" : 1764761260459,
+    "updated" : 1764767405464
+  }, {
+    "name" : "chatgpt_ign_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764767626901,
+    "timestamp" : null,
+    "created" : 1764761260527,
+    "updated" : 1764767626902
+  }, {
+    "name" : "chatgpt_no_label_17.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764767776772,
+    "timestamp" : null,
+    "created" : 1764761260643,
+    "updated" : 1764767776772
+  }, {
+    "name" : "chatgpt_osm_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764767952775,
+    "timestamp" : null,
+    "created" : 1764761260747,
+    "updated" : 1764767952775
+  }, {
+    "name" : "chatgpt_osm_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764768298877,
+    "timestamp" : null,
+    "created" : 1764761260823,
+    "updated" : 1764768298878
+  }, {
+    "name" : "chatgpt_osm_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764768516626,
+    "timestamp" : null,
+    "created" : 1764761260887,
+    "updated" : 1764768516627
+  }, {
+    "name" : "chatgpt_osm_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764768711587,
+    "timestamp" : null,
+    "created" : 1764761260929,
+    "updated" : 1764768711587
+  }, {
+    "name" : "chatgpt_rotated_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764768878532,
+    "timestamp" : null,
+    "created" : 1764761260979,
+    "updated" : 1764768878532
+  }, {
+    "name" : "claude_dark_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764692929144,
+    "timestamp" : null,
+    "created" : 1764686993630,
+    "updated" : 1764692929144
+  }, {
+    "name" : "claude_google_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764693162358,
+    "timestamp" : null,
+    "created" : 1764686993673,
+    "updated" : 1764693162358
+  }, {
+    "name" : "claude_google_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764693420338,
+    "timestamp" : null,
+    "created" : 1764686993785,
+    "updated" : 1764693420339
+  }, {
+    "name" : "claude_google_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764693580784,
+    "timestamp" : null,
+    "created" : 1764686993846,
+    "updated" : 1764693580784
+  }, {
+    "name" : "claude_google_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764693801030,
+    "timestamp" : null,
+    "created" : 1764686993904,
+    "updated" : 1764693801031
+  }, {
+    "name" : "claude_ign_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764695618152,
+    "timestamp" : null,
+    "created" : 1764686993982,
+    "updated" : 1764695618153
+  }, {
+    "name" : "claude_ign_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764758380423,
+    "timestamp" : null,
+    "created" : 1764686994069,
+    "updated" : 1764758380424
+  }, {
+    "name" : "claude_ign_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764758577666,
+    "timestamp" : null,
+    "created" : 1764686994142,
+    "updated" : 1764758577667
+  }, {
+    "name" : "claude_ign_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764758832077,
+    "timestamp" : null,
+    "created" : 1764686994251,
+    "updated" : 1764758832077
+  }, {
+    "name" : "claude_no_label_17.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764758997519,
+    "timestamp" : null,
+    "created" : 1764686994378,
+    "updated" : 1764758997519
+  }, {
+    "name" : "claude_osm_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764759103450,
+    "timestamp" : null,
+    "created" : 1764686994436,
+    "updated" : 1764759103451
+  }, {
+    "name" : "claude_osm_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764760404565,
+    "timestamp" : null,
+    "created" : 1764686994490,
+    "updated" : 1764760404565
+  }, {
+    "name" : "claude_osm_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764760675833,
+    "timestamp" : null,
+    "created" : 1764686994550,
+    "updated" : 1764760675833
+  }, {
+    "name" : "claude_osm_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764760841242,
+    "timestamp" : null,
+    "created" : 1764686994615,
+    "updated" : 1764760841242
+  }, {
+    "name" : "claude_rotated_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764761115652,
+    "timestamp" : null,
+    "created" : 1764686994649,
+    "updated" : 1764761115653
+  }, {
+    "name" : "deepseek_dark_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764769071862,
+    "timestamp" : null,
+    "created" : 1764761466510,
+    "updated" : 1764769071862
+  }, {
+    "name" : "deepseek_google_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764769080921,
+    "timestamp" : null,
+    "created" : 1764761466527,
+    "updated" : 1764769080922
+  }, {
+    "name" : "deepseek_google_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764776176164,
+    "timestamp" : null,
+    "created" : 1764761466557,
+    "updated" : 1764776176165
+  }, {
+    "name" : "deepseek_google_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764776335555,
+    "timestamp" : null,
+    "created" : 1764761466589,
+    "updated" : 1764776335555
+  }, {
+    "name" : "deepseek_google_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764776338084,
+    "timestamp" : null,
+    "created" : 1764761466630,
+    "updated" : 1764776338084
+  }, {
+    "name" : "deepseek_ign_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764776447614,
+    "timestamp" : null,
+    "created" : 1764761466672,
+    "updated" : 1764776447614
+  }, {
+    "name" : "deepseek_ign_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764776654249,
+    "timestamp" : null,
+    "created" : 1764761466709,
+    "updated" : 1764776654250
+  }, {
+    "name" : "deepseek_ign_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764776820606,
+    "timestamp" : null,
+    "created" : 1764761466785,
+    "updated" : 1764776820606
+  }, {
+    "name" : "deepseek_ign_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764776822519,
+    "timestamp" : null,
+    "created" : 1764761466875,
+    "updated" : 1764776822520
+  }, {
+    "name" : "deepseek_no_label_17.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764778368565,
+    "timestamp" : null,
+    "created" : 1764761466925,
+    "updated" : 1764778368566
+  }, {
+    "name" : "deepseek_osm_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764778370099,
+    "timestamp" : null,
+    "created" : 1764761466967,
+    "updated" : 1764778370100
+  }, {
+    "name" : "deepseek_osm_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764778891031,
+    "timestamp" : null,
+    "created" : 1764761467012,
+    "updated" : 1764778891032
+  }, {
+    "name" : "deepseek_osm_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764779237153,
+    "timestamp" : null,
+    "created" : 1764761467086,
+    "updated" : 1764779237153
+  }, {
+    "name" : "deepseek_osm_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764779238610,
+    "timestamp" : null,
+    "created" : 1764761467135,
+    "updated" : 1764779238610
+  }, {
+    "name" : "deepseek_rotated_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764779239775,
+    "timestamp" : null,
+    "created" : 1764761467186,
+    "updated" : 1764779239775
+  }, {
+    "name" : "gemini-dark_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772704153514,
+    "timestamp" : null,
+    "created" : 1772701004992,
+    "updated" : 1772704153515
+  }, {
+    "name" : "gemini-google_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772704535950,
+    "timestamp" : null,
+    "created" : 1772701005924,
+    "updated" : 1772704535951
+  }, {
+    "name" : "gemini-google_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772705778018,
+    "timestamp" : null,
+    "created" : 1772701006539,
+    "updated" : 1772705778019
+  }, {
+    "name" : "gemini-google_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772706111290,
+    "timestamp" : null,
+    "created" : 1772701006591,
+    "updated" : 1772706111291
+  }, {
+    "name" : "gemini-google_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772706516667,
+    "timestamp" : null,
+    "created" : 1772701006753,
+    "updated" : 1772706516667
+  }, {
+    "name" : "gemini-ign_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772706748839,
+    "timestamp" : null,
+    "created" : 1772701006826,
+    "updated" : 1772706748840
+  }, {
+    "name" : "gemini-ign_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772707229459,
+    "timestamp" : null,
+    "created" : 1772701006884,
+    "updated" : 1772707229460
+  }, {
+    "name" : "gemini-ign_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772707521988,
+    "timestamp" : null,
+    "created" : 1772701006967,
+    "updated" : 1772707521988
+  }, {
+    "name" : "gemini-ign_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772707792523,
+    "timestamp" : null,
+    "created" : 1772701007037,
+    "updated" : 1772707792523
+  }, {
+    "name" : "gemini-no_label_17.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772708050075,
+    "timestamp" : null,
+    "created" : 1772701007124,
+    "updated" : 1772708050076
+  }, {
+    "name" : "gemini-osm_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772708202234,
+    "timestamp" : null,
+    "created" : 1772701007171,
+    "updated" : 1772708202235
+  }, {
+    "name" : "gemini-osm_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772708527893,
+    "timestamp" : null,
+    "created" : 1772701007232,
+    "updated" : 1772708527894
+  }, {
+    "name" : "gemini-osm_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772708774587,
+    "timestamp" : null,
+    "created" : 1772701007340,
+    "updated" : 1772708774587
+  }, {
+    "name" : "gemini-osm_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772709084859,
+    "timestamp" : null,
+    "created" : 1772701007398,
+    "updated" : 1772709084859
+  }, {
+    "name" : "gemini-rotated_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772709315801,
+    "timestamp" : null,
+    "created" : 1772701007422,
+    "updated" : 1772709315802
+  }, {
+    "name" : "gemma3-12b-dark_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772716596564,
+    "timestamp" : null,
+    "created" : 1772701008078,
+    "updated" : 1772716596564
+  }, {
+    "name" : "gemma3-12b-google_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772716918582,
+    "timestamp" : null,
+    "created" : 1772701008116,
+    "updated" : 1772716918583
+  }, {
+    "name" : "gemma3-12b-google_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772717104937,
+    "timestamp" : null,
+    "created" : 1772701008137,
+    "updated" : 1772717104937
+  }, {
+    "name" : "gemma3-12b-google_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772717741812,
+    "timestamp" : null,
+    "created" : 1772701008162,
+    "updated" : 1772717741813
+  }, {
+    "name" : "gemma3-12b-google_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772718080076,
+    "timestamp" : null,
+    "created" : 1772701008329,
+    "updated" : 1772718080077
+  }, {
+    "name" : "gemma3-12b-ign_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772718191811,
+    "timestamp" : null,
+    "created" : 1772701008376,
+    "updated" : 1772718191812
+  }, {
+    "name" : "gemma3-12b-ign_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772718301243,
+    "timestamp" : null,
+    "created" : 1772701008412,
+    "updated" : 1772718301243
+  }, {
+    "name" : "gemma3-12b-ign_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772718381640,
+    "timestamp" : null,
+    "created" : 1772701008459,
+    "updated" : 1772718381640
+  }, {
+    "name" : "gemma3-12b-ign_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772718470874,
+    "timestamp" : null,
+    "created" : 1772701008505,
+    "updated" : 1772718470874
+  }, {
+    "name" : "gemma3-12b-no_label_17.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772718579844,
+    "timestamp" : null,
+    "created" : 1772701008546,
+    "updated" : 1772718579844
+  }, {
+    "name" : "gemma3-12b-osm_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772718665379,
+    "timestamp" : null,
+    "created" : 1772701008573,
+    "updated" : 1772718665380
+  }, {
+    "name" : "gemma3-12b-osm_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772718792376,
+    "timestamp" : null,
+    "created" : 1772701008596,
+    "updated" : 1772718792376
+  }, {
+    "name" : "gemma3-12b-osm_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772718918726,
+    "timestamp" : null,
+    "created" : 1772701008620,
+    "updated" : 1772718918726
+  }, {
+    "name" : "gemma3-12b-osm_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772719116381,
+    "timestamp" : null,
+    "created" : 1772701008654,
+    "updated" : 1772719116381
+  }, {
+    "name" : "gemma3-12b-rotated_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772719289643,
+    "timestamp" : null,
+    "created" : 1772701008680,
+    "updated" : 1772719289644
+  }, {
+    "name" : "gemma3-4b-dark_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772710431345,
+    "timestamp" : null,
+    "created" : 1772701007445,
+    "updated" : 1772710431346
+  }, {
+    "name" : "gemma3-4b-google_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772712379626,
+    "timestamp" : null,
+    "created" : 1772701007466,
+    "updated" : 1772712379627
+  }, {
+    "name" : "gemma3-4b-google_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772712737981,
+    "timestamp" : null,
+    "created" : 1772701007517,
+    "updated" : 1772712737982
+  }, {
+    "name" : "gemma3-4b-google_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772712863484,
+    "timestamp" : null,
+    "created" : 1772701007557,
+    "updated" : 1772712863484
+  }, {
+    "name" : "gemma3-4b-google_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772713027050,
+    "timestamp" : null,
+    "created" : 1772701007602,
+    "updated" : 1772713027051
+  }, {
+    "name" : "gemma3-4b-ign_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772713131400,
+    "timestamp" : null,
+    "created" : 1772701007626,
+    "updated" : 1772713131401
+  }, {
+    "name" : "gemma3-4b-ign_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772713353748,
+    "timestamp" : null,
+    "created" : 1772701007651,
+    "updated" : 1772713353748
+  }, {
+    "name" : "gemma3-4b-ign_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772713483500,
+    "timestamp" : null,
+    "created" : 1772701007801,
+    "updated" : 1772713483501
+  }, {
+    "name" : "gemma3-4b-ign_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772713636839,
+    "timestamp" : null,
+    "created" : 1772701007830,
+    "updated" : 1772713636840
+  }, {
+    "name" : "gemma3-4b-no_label_17.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772713717925,
+    "timestamp" : null,
+    "created" : 1772701007853,
+    "updated" : 1772713717925
+  }, {
+    "name" : "gemma3-4b-osm_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772713798627,
+    "timestamp" : null,
+    "created" : 1772701007888,
+    "updated" : 1772713798628
+  }, {
+    "name" : "gemma3-4b-osm_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772714031910,
+    "timestamp" : null,
+    "created" : 1772701007941,
+    "updated" : 1772714031910
+  }, {
+    "name" : "gemma3-4b-osm_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772714148106,
+    "timestamp" : null,
+    "created" : 1772701007962,
+    "updated" : 1772714148106
+  }, {
+    "name" : "gemma3-4b-osm_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772714241981,
+    "timestamp" : null,
+    "created" : 1772701007983,
+    "updated" : 1772714241982
+  }, {
+    "name" : "gemma3-4b-rotated_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772714360782,
+    "timestamp" : null,
+    "created" : 1772701008007,
+    "updated" : 1772714360782
+  }, {
+    "name" : "human_2_dark_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1767783290868,
+    "timestamp" : null,
+    "created" : 1767783144774,
+    "updated" : 1767783290895
+  }, {
+    "name" : "human_2_google_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1767783434719,
+    "timestamp" : null,
+    "created" : 1767783150198,
+    "updated" : 1767783434720
+  }, {
+    "name" : "human_2_google_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1767785969631,
+    "timestamp" : null,
+    "created" : 1767783150656,
+    "updated" : 1767785969632
+  }, {
+    "name" : "human_2_google_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1767786562184,
+    "timestamp" : null,
+    "created" : 1767783151085,
+    "updated" : 1767786562184
+  }, {
+    "name" : "human_2_google_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1767786714912,
+    "timestamp" : null,
+    "created" : 1767783151237,
+    "updated" : 1767786714913
+  }, {
+    "name" : "human_2_ign_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1767786821091,
+    "timestamp" : null,
+    "created" : 1767783151646,
+    "updated" : 1767786821091
+  }, {
+    "name" : "human_2_ign_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1767787106261,
+    "timestamp" : null,
+    "created" : 1767783151703,
+    "updated" : 1767787106261
+  }, {
+    "name" : "human_2_ign_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1767787363904,
+    "timestamp" : null,
+    "created" : 1767783152165,
+    "updated" : 1767787363905
+  }, {
+    "name" : "human_2_ign_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1767787504614,
+    "timestamp" : null,
+    "created" : 1767783152342,
+    "updated" : 1767787504615
+  }, {
+    "name" : "human_2_no_label_17.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1767791284193,
+    "timestamp" : null,
+    "created" : 1767783152938,
+    "updated" : 1767791284193
+  }, {
+    "name" : "human_2_osm_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1767791441150,
+    "timestamp" : null,
+    "created" : 1767783153153,
+    "updated" : 1767791441150
+  }, {
+    "name" : "human_2_osm_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1767791689865,
+    "timestamp" : null,
+    "created" : 1767783153302,
+    "updated" : 1767791689866
+  }, {
+    "name" : "human_2_osm_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1767792060482,
+    "timestamp" : null,
+    "created" : 1767783153541,
+    "updated" : 1767792060483
+  }, {
+    "name" : "human_2_osm_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1767792136324,
+    "timestamp" : null,
+    "created" : 1767783153572,
+    "updated" : 1767792136324
+  }, {
+    "name" : "human_2_rotated_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1767792263216,
+    "timestamp" : null,
+    "created" : 1767783153781,
+    "updated" : 1767792263216
+  }, {
+    "name" : "human_dark_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764780813263,
+    "timestamp" : null,
+    "created" : 1764779275484,
+    "updated" : 1764780813263
+  }, {
+    "name" : "human_google_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764780877523,
+    "timestamp" : null,
+    "created" : 1764779275571,
+    "updated" : 1764780877524
+  }, {
+    "name" : "human_google_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764836781990,
+    "timestamp" : null,
+    "created" : 1764779275661,
+    "updated" : 1764836782034
+  }, {
+    "name" : "human_google_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764836924387,
+    "timestamp" : null,
+    "created" : 1764779275707,
+    "updated" : 1764836924388
+  }, {
+    "name" : "human_google_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764836969097,
+    "timestamp" : null,
+    "created" : 1764779275748,
+    "updated" : 1764836969097
+  }, {
+    "name" : "human_ign_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764837027675,
+    "timestamp" : null,
+    "created" : 1764779275795,
+    "updated" : 1764837027676
+  }, {
+    "name" : "human_ign_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764837083437,
+    "timestamp" : null,
+    "created" : 1764779275829,
+    "updated" : 1764837083437
+  }, {
+    "name" : "human_ign_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764837160229,
+    "timestamp" : null,
+    "created" : 1764779275875,
+    "updated" : 1764837160232
+  }, {
+    "name" : "human_ign_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764837493935,
+    "timestamp" : null,
+    "created" : 1764779275921,
+    "updated" : 1764837493936
+  }, {
+    "name" : "human_no_label_17.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764837567055,
+    "timestamp" : null,
+    "created" : 1764779276012,
+    "updated" : 1764837567056
+  }, {
+    "name" : "human_osm_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764837601013,
+    "timestamp" : null,
+    "created" : 1764779276047,
+    "updated" : 1764837601014
+  }, {
+    "name" : "human_osm_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764837633442,
+    "timestamp" : null,
+    "created" : 1764779276071,
+    "updated" : 1764837633443
+  }, {
+    "name" : "human_osm_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764837714704,
+    "timestamp" : null,
+    "created" : 1764779276123,
+    "updated" : 1764837714704
+  }, {
+    "name" : "human_osm_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764838206885,
+    "timestamp" : null,
+    "created" : 1764779276168,
+    "updated" : 1764838206885
+  }, {
+    "name" : "human_rotated_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764838283478,
+    "timestamp" : null,
+    "created" : 1764779276209,
+    "updated" : 1764838283479
+  }, {
+    "name" : "llama-3.2-11b-dark_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720069009,
+    "timestamp" : null,
+    "created" : 1772701008841,
+    "updated" : 1772720069009
+  }, {
+    "name" : "llama-3.2-11b-google_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720089559,
+    "timestamp" : null,
+    "created" : 1772701008887,
+    "updated" : 1772720089559
+  }, {
+    "name" : "llama-3.2-11b-google_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720152083,
+    "timestamp" : null,
+    "created" : 1772701008932,
+    "updated" : 1772720152084
+  }, {
+    "name" : "llama-3.2-11b-google_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720215818,
+    "timestamp" : null,
+    "created" : 1772701008960,
+    "updated" : 1772720215819
+  }, {
+    "name" : "llama-3.2-11b-google_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720264254,
+    "timestamp" : null,
+    "created" : 1772701009011,
+    "updated" : 1772720264254
+  }, {
+    "name" : "llama-3.2-11b-ign_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720299323,
+    "timestamp" : null,
+    "created" : 1772701009037,
+    "updated" : 1772720299323
+  }, {
+    "name" : "llama-3.2-11b-ign_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720346628,
+    "timestamp" : null,
+    "created" : 1772701009090,
+    "updated" : 1772720346629
+  }, {
+    "name" : "llama-3.2-11b-ign_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720377298,
+    "timestamp" : null,
+    "created" : 1772701009149,
+    "updated" : 1772720377298
+  }, {
+    "name" : "llama-3.2-11b-ign_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720399974,
+    "timestamp" : null,
+    "created" : 1772701009182,
+    "updated" : 1772720399974
+  }, {
+    "name" : "llama-3.2-11b-no_label_17.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720431511,
+    "timestamp" : null,
+    "created" : 1772701009245,
+    "updated" : 1772720431511
+  }, {
+    "name" : "llama-3.2-11b-osm_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720457652,
+    "timestamp" : null,
+    "created" : 1772701009288,
+    "updated" : 1772720457653
+  }, {
+    "name" : "llama-3.2-11b-osm_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720499430,
+    "timestamp" : null,
+    "created" : 1772701009319,
+    "updated" : 1772720499430
+  }, {
+    "name" : "llama-3.2-11b-osm_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720531127,
+    "timestamp" : null,
+    "created" : 1772701009358,
+    "updated" : 1772720531128
+  }, {
+    "name" : "llama-3.2-11b-osm_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720559478,
+    "timestamp" : null,
+    "created" : 1772701009408,
+    "updated" : 1772720559479
+  }, {
+    "name" : "llama-3.2-11b-rotated_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720576828,
+    "timestamp" : null,
+    "created" : 1772701009425,
+    "updated" : 1772720576828
+  }, {
+    "name" : "mistral_dark_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764679084084,
+    "timestamp" : null,
+    "created" : 1764673501127,
+    "updated" : 1764679084085
+  }, {
+    "name" : "mistral_google_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764679364983,
+    "timestamp" : null,
+    "created" : 1764673501585,
+    "updated" : 1764679364984
+  }, {
+    "name" : "mistral_google_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764681954892,
+    "timestamp" : null,
+    "created" : 1764673501729,
+    "updated" : 1764681954892
+  }, {
+    "name" : "mistral_google_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764682242848,
+    "timestamp" : null,
+    "created" : 1764673501833,
+    "updated" : 1764682242848
+  }, {
+    "name" : "mistral_google_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764683017756,
+    "timestamp" : null,
+    "created" : 1764673502010,
+    "updated" : 1764683017756
+  }, {
+    "name" : "mistral_ign_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764683296645,
+    "timestamp" : null,
+    "created" : 1764673502166,
+    "updated" : 1764683296645
+  }, {
+    "name" : "mistral_ign_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764683624740,
+    "timestamp" : null,
+    "created" : 1764673502288,
+    "updated" : 1764683624740
+  }, {
+    "name" : "mistral_ign_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764683866473,
+    "timestamp" : null,
+    "created" : 1764673502419,
+    "updated" : 1764683866473
+  }, {
+    "name" : "mistral_ign_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764684102238,
+    "timestamp" : null,
+    "created" : 1764673502535,
+    "updated" : 1764684102238
+  }, {
+    "name" : "mistral_no_label_17.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764684303501,
+    "timestamp" : null,
+    "created" : 1764673502608,
+    "updated" : 1764684303501
+  }, {
+    "name" : "mistral_osm_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764685250217,
+    "timestamp" : null,
+    "created" : 1764673502697,
+    "updated" : 1764685250217
+  }, {
+    "name" : "mistral_osm_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764685928992,
+    "timestamp" : null,
+    "created" : 1764673502806,
+    "updated" : 1764685928992
+  }, {
+    "name" : "mistral_osm_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764686111747,
+    "timestamp" : null,
+    "created" : 1764673503113,
+    "updated" : 1764686111748
+  }, {
+    "name" : "mistral_osm_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764686392584,
+    "timestamp" : null,
+    "created" : 1764673503331,
+    "updated" : 1764686392585
+  }, {
+    "name" : "mistral_rotated_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1764686566798,
+    "timestamp" : null,
+    "created" : 1764673503406,
+    "updated" : 1764686566798
+  }, {
+    "name" : "qwen2.5-7b-dark_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720656326,
+    "timestamp" : null,
+    "created" : 1772701009443,
+    "updated" : 1772720656327
+  }, {
+    "name" : "qwen2.5-7b-google_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720764355,
+    "timestamp" : null,
+    "created" : 1772701009470,
+    "updated" : 1772720764355
+  }, {
+    "name" : "qwen2.5-7b-google_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772720896839,
+    "timestamp" : null,
+    "created" : 1772701009492,
+    "updated" : 1772720896839
+  }, {
+    "name" : "qwen2.5-7b-google_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772721072217,
+    "timestamp" : null,
+    "created" : 1772701009521,
+    "updated" : 1772721072217
+  }, {
+    "name" : "qwen2.5-7b-google_18.html",
+    "format" : "htmldoc",
+    "state" : "NEW",
+    "state_updated" : 1772701009587,
+    "timestamp" : null,
+    "created" : 1772701009587,
+    "updated" : 1772701009587
+  }, {
+    "name" : "qwen2.5-7b-ign_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772721435744,
+    "timestamp" : null,
+    "created" : 1772701009638,
+    "updated" : 1772721435745
+  }, {
+    "name" : "qwen2.5-7b-ign_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772721530567,
+    "timestamp" : null,
+    "created" : 1772701009681,
+    "updated" : 1772721530567
+  }, {
+    "name" : "qwen2.5-7b-ign_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772721683966,
+    "timestamp" : null,
+    "created" : 1772701009987,
+    "updated" : 1772721683967
+  }, {
+    "name" : "qwen2.5-7b-ign_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772721767561,
+    "timestamp" : null,
+    "created" : 1772701010009,
+    "updated" : 1772721767562
+  }, {
+    "name" : "qwen2.5-7b-no_label_17.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772721865555,
+    "timestamp" : null,
+    "created" : 1772701010038,
+    "updated" : 1772721865555
+  }, {
+    "name" : "qwen2.5-7b-osm_12.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772721908980,
+    "timestamp" : null,
+    "created" : 1772701010090,
+    "updated" : 1772721908981
+  }, {
+    "name" : "qwen2.5-7b-osm_14.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772721972008,
+    "timestamp" : null,
+    "created" : 1772701010109,
+    "updated" : 1772721972008
+  }, {
+    "name" : "qwen2.5-7b-osm_16.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772722025481,
+    "timestamp" : null,
+    "created" : 1772701010129,
+    "updated" : 1772722025482
+  }, {
+    "name" : "qwen2.5-7b-osm_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772722088292,
+    "timestamp" : null,
+    "created" : 1772701010162,
+    "updated" : 1772722088293
+  }, {
+    "name" : "qwen2.5-7b-rotated_18.html",
+    "format" : "htmldoc",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "state_updated" : 1772722186325,
+    "timestamp" : null,
+    "created" : 1772701010186,
+    "updated" : 1772722186326
+  } ],
+  "annotation_documents" : [ {
+    "name" : "chatgpt_dark_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1764842113791,
+    "state_updated" : 1764842113791,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764842113664,
+    "updated" : 1764842113793
+  }, {
+    "name" : "chatgpt_ign_14.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1764842136427,
+    "state_updated" : 1764842136427,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764842136379,
+    "updated" : 1764842136427
+  }, {
+    "name" : "chatgpt_dark_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764761939685,
+    "state_updated" : 1764842589645,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764761621641,
+    "updated" : 1764842589645
+  }, {
+    "name" : "chatgpt_google_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764762218572,
+    "state_updated" : 1764842930508,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764761942496,
+    "updated" : 1764842930508
+  }, {
+    "name" : "chatgpt_google_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764762743753,
+    "state_updated" : 1764842933223,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764762233112,
+    "updated" : 1764842933223
+  }, {
+    "name" : "chatgpt_google_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764765624377,
+    "state_updated" : 1764842935205,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764765336508,
+    "updated" : 1764842935206
+  }, {
+    "name" : "chatgpt_google_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764765793354,
+    "state_updated" : 1764842938909,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764765630273,
+    "updated" : 1764842938909
+  }, {
+    "name" : "chatgpt_ign_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764766756989,
+    "state_updated" : 1764842940957,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764765800513,
+    "updated" : 1764842940958
+  }, {
+    "name" : "chatgpt_ign_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764767397013,
+    "state_updated" : 1764842943859,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764766770378,
+    "updated" : 1764842943860
+  }, {
+    "name" : "chatgpt_ign_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764767594733,
+    "state_updated" : 1764842945768,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764767405425,
+    "updated" : 1764842945768
+  }, {
+    "name" : "chatgpt_ign_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764767751278,
+    "state_updated" : 1764842947629,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764767626808,
+    "updated" : 1764842947629
+  }, {
+    "name" : "chatgpt_no_label_17.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764767928381,
+    "state_updated" : 1764842949469,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764767776732,
+    "updated" : 1764842949469
+  }, {
+    "name" : "chatgpt_osm_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764768294445,
+    "state_updated" : 1764842951625,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764767952739,
+    "updated" : 1764842951625
+  }, {
+    "name" : "chatgpt_osm_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764768512245,
+    "state_updated" : 1764842953369,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764768298842,
+    "updated" : 1764842953369
+  }, {
+    "name" : "chatgpt_osm_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764768708890,
+    "state_updated" : 1764842955282,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764768516591,
+    "updated" : 1764842955282
+  }, {
+    "name" : "chatgpt_osm_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764768875509,
+    "state_updated" : 1764842957112,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764768711552,
+    "updated" : 1764842957112
+  }, {
+    "name" : "chatgpt_rotated_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764769035619,
+    "state_updated" : 1764842958996,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764768878497,
+    "updated" : 1764842958996
+  }, {
+    "name" : "claude_dark_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764693153325,
+    "state_updated" : 1764842961506,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764692929079,
+    "updated" : 1764842961506
+  }, {
+    "name" : "claude_google_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764693413606,
+    "state_updated" : 1764842963464,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764693162323,
+    "updated" : 1764842963464
+  }, {
+    "name" : "claude_google_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764693574197,
+    "state_updated" : 1764842965317,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764693420258,
+    "updated" : 1764842965317
+  }, {
+    "name" : "claude_google_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764693793311,
+    "state_updated" : 1764842967133,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764693580749,
+    "updated" : 1764842967133
+  }, {
+    "name" : "claude_google_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764695082169,
+    "state_updated" : 1764842968827,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764693800997,
+    "updated" : 1764842968827
+  }, {
+    "name" : "claude_ign_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764695780387,
+    "state_updated" : 1764842970566,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764695618095,
+    "updated" : 1764842970566
+  }, {
+    "name" : "claude_ign_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764758560505,
+    "state_updated" : 1764842972201,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764758380319,
+    "updated" : 1764842972201
+  }, {
+    "name" : "claude_ign_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764758774390,
+    "state_updated" : 1764842974242,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764758577627,
+    "updated" : 1764842974242
+  }, {
+    "name" : "claude_ign_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764758980657,
+    "state_updated" : 1764842976053,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764758831970,
+    "updated" : 1764842976054
+  }, {
+    "name" : "claude_no_label_17.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764759081601,
+    "state_updated" : 1764842978101,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764758997486,
+    "updated" : 1764842978101
+  }, {
+    "name" : "claude_osm_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764759320072,
+    "state_updated" : 1764842979912,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764759103391,
+    "updated" : 1764842979912
+  }, {
+    "name" : "claude_osm_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764760558438,
+    "state_updated" : 1764842981934,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764760404530,
+    "updated" : 1764842981934
+  }, {
+    "name" : "claude_osm_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764760831327,
+    "state_updated" : 1764842983727,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764760675794,
+    "updated" : 1764842983727
+  }, {
+    "name" : "claude_osm_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764761112251,
+    "state_updated" : 1764842985597,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764760841201,
+    "updated" : 1764842985597
+  }, {
+    "name" : "claude_rotated_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764761205809,
+    "state_updated" : 1764842987312,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764761115620,
+    "updated" : 1764842987313
+  }, {
+    "name" : "deepseek_dark_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764769071839,
+    "state_updated" : 1764842989241,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764769071785,
+    "updated" : 1764842989241
+  }, {
+    "name" : "deepseek_google_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764769080912,
+    "state_updated" : 1764842993782,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764769080885,
+    "updated" : 1764842993782
+  }, {
+    "name" : "deepseek_google_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764776311174,
+    "state_updated" : 1764842995567,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764776176131,
+    "updated" : 1764842995567
+  }, {
+    "name" : "deepseek_google_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764776335547,
+    "state_updated" : 1764842997977,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764776335516,
+    "updated" : 1764842997977
+  }, {
+    "name" : "deepseek_google_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764776428597,
+    "state_updated" : 1764842999776,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764776338051,
+    "updated" : 1764842999776
+  }, {
+    "name" : "deepseek_ign_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764776617832,
+    "state_updated" : 1764843001483,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764776447572,
+    "updated" : 1764843001483
+  }, {
+    "name" : "deepseek_ign_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764776797205,
+    "state_updated" : 1764843003309,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764776654214,
+    "updated" : 1764843003310
+  }, {
+    "name" : "deepseek_ign_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764776820598,
+    "state_updated" : 1764843005089,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764776820575,
+    "updated" : 1764843005089
+  }, {
+    "name" : "deepseek_ign_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764778355412,
+    "state_updated" : 1764843006798,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764776822486,
+    "updated" : 1764843006798
+  }, {
+    "name" : "deepseek_no_label_17.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764778368557,
+    "state_updated" : 1764843008796,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764778368535,
+    "updated" : 1764843008796
+  }, {
+    "name" : "deepseek_osm_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764778886483,
+    "state_updated" : 1764843010981,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764778370065,
+    "updated" : 1764843010981
+  }, {
+    "name" : "deepseek_osm_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764779224384,
+    "state_updated" : 1764843013013,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764778890975,
+    "updated" : 1764843013013
+  }, {
+    "name" : "deepseek_osm_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764779237144,
+    "state_updated" : 1764843014839,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764779237123,
+    "updated" : 1764843014839
+  }, {
+    "name" : "deepseek_osm_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764779238600,
+    "state_updated" : 1764843016848,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764779238575,
+    "updated" : 1764843016848
+  }, {
+    "name" : "deepseek_rotated_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764779239766,
+    "state_updated" : 1764843018678,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764779239745,
+    "updated" : 1764843018678
+  }, {
+    "name" : "human_dark_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764780867334,
+    "state_updated" : 1764843020236,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764780813227,
+    "updated" : 1764843020236
+  }, {
+    "name" : "human_google_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764780979667,
+    "state_updated" : 1764843021789,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764780877492,
+    "updated" : 1764843021789
+  }, {
+    "name" : "human_google_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764836915974,
+    "state_updated" : 1764843023531,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764836777828,
+    "updated" : 1764843023531
+  }, {
+    "name" : "human_google_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764836967368,
+    "state_updated" : 1764843025209,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764836924315,
+    "updated" : 1764843025209
+  }, {
+    "name" : "human_google_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764837025342,
+    "state_updated" : 1764843027052,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764836969018,
+    "updated" : 1764843027053
+  }, {
+    "name" : "human_ign_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764837070064,
+    "state_updated" : 1764843028914,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764837027614,
+    "updated" : 1764843028914
+  }, {
+    "name" : "human_ign_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764837154839,
+    "state_updated" : 1764843030813,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764837083334,
+    "updated" : 1764843030813
+  }, {
+    "name" : "human_ign_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764837492103,
+    "state_updated" : 1764843032773,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764837160093,
+    "updated" : 1764843032773
+  }, {
+    "name" : "human_ign_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764837560648,
+    "state_updated" : 1764843034713,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764837493884,
+    "updated" : 1764843034715
+  }, {
+    "name" : "human_no_label_17.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764837588515,
+    "state_updated" : 1764843036374,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764837566988,
+    "updated" : 1764843036374
+  }, {
+    "name" : "human_osm_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764837625281,
+    "state_updated" : 1764843037825,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764837600961,
+    "updated" : 1764843037825
+  }, {
+    "name" : "human_osm_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764837706406,
+    "state_updated" : 1764843039473,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764837633381,
+    "updated" : 1764843039473
+  }, {
+    "name" : "human_osm_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764838202089,
+    "state_updated" : 1764843040918,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764837714525,
+    "updated" : 1764843040918
+  }, {
+    "name" : "human_osm_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764838278059,
+    "state_updated" : 1764843042615,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764838206835,
+    "updated" : 1764843042615
+  }, {
+    "name" : "human_rotated_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764838351417,
+    "state_updated" : 1764843044096,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764838283430,
+    "updated" : 1764843044096
+  }, {
+    "name" : "mistral_dark_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764679354275,
+    "state_updated" : 1764843045962,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764679083603,
+    "updated" : 1764843045963
+  }, {
+    "name" : "mistral_google_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764681921899,
+    "state_updated" : 1764843048440,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764679364786,
+    "updated" : 1764843048440
+  }, {
+    "name" : "mistral_google_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764682211166,
+    "state_updated" : 1764843052890,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764681954829,
+    "updated" : 1764843052890
+  }, {
+    "name" : "mistral_google_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764683004226,
+    "state_updated" : 1764843054979,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764682242670,
+    "updated" : 1764843054979
+  }, {
+    "name" : "mistral_google_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764683282396,
+    "state_updated" : 1764843056545,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764683017707,
+    "updated" : 1764843056545
+  }, {
+    "name" : "mistral_ign_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764683619980,
+    "state_updated" : 1764843058008,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764683296516,
+    "updated" : 1764843058008
+  }, {
+    "name" : "mistral_ign_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764683862692,
+    "state_updated" : 1764843059556,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764683624703,
+    "updated" : 1764843059556
+  }, {
+    "name" : "mistral_ign_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764684082678,
+    "state_updated" : 1764843061650,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764683866425,
+    "updated" : 1764843061650
+  }, {
+    "name" : "mistral_ign_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764684295378,
+    "state_updated" : 1764843063188,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764684102201,
+    "updated" : 1764843063188
+  }, {
+    "name" : "mistral_no_label_17.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764685218963,
+    "state_updated" : 1764843064873,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764684303462,
+    "updated" : 1764843064873
+  }, {
+    "name" : "mistral_osm_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764685924682,
+    "state_updated" : 1764843066688,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764685250180,
+    "updated" : 1764843066688
+  }, {
+    "name" : "mistral_osm_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764686108893,
+    "state_updated" : 1764843068894,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764685928954,
+    "updated" : 1764843068894
+  }, {
+    "name" : "mistral_osm_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764686390888,
+    "state_updated" : 1764843070588,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764686111710,
+    "updated" : 1764843070588
+  }, {
+    "name" : "mistral_osm_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764686534693,
+    "state_updated" : 1764843072376,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764686392549,
+    "updated" : 1764843072377
+  }, {
+    "name" : "mistral_rotated_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1764686887102,
+    "state_updated" : 1764843074479,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1764686566760,
+    "updated" : 1764843074480
+  }, {
+    "name" : "human_2_dark_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1767783395079,
+    "state_updated" : 1767783426383,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1767783290388,
+    "updated" : 1767783426384
+  }, {
+    "name" : "human_2_google_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1767783703008,
+    "state_updated" : 1767783710462,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1767783434611,
+    "updated" : 1767783710462
+  }, {
+    "name" : "human_2_google_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1767786556888,
+    "state_updated" : 1767786560268,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1767785969495,
+    "updated" : 1767786560269
+  }, {
+    "name" : "human_2_google_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1767786694781,
+    "state_updated" : 1767786709277,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1767786562133,
+    "updated" : 1767786709277
+  }, {
+    "name" : "human_2_google_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1767786807997,
+    "state_updated" : 1767786818925,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1767786714871,
+    "updated" : 1767786818926
+  }, {
+    "name" : "human_2_ign_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1767787099109,
+    "state_updated" : 1767787103253,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1767786820941,
+    "updated" : 1767787103253
+  }, {
+    "name" : "human_2_ign_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1767787348124,
+    "state_updated" : 1767787353195,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1767787106218,
+    "updated" : 1767787353196
+  }, {
+    "name" : "human_2_ign_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1767787500160,
+    "state_updated" : 1767787502737,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1767787363865,
+    "updated" : 1767787502738
+  }, {
+    "name" : "human_2_ign_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1767791280705,
+    "state_updated" : 1767791282895,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1767787504575,
+    "updated" : 1767791282895
+  }, {
+    "name" : "human_2_no_label_17.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1767791434707,
+    "state_updated" : 1767791439938,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1767791284127,
+    "updated" : 1767791439938
+  }, {
+    "name" : "human_2_osm_12.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1767791679481,
+    "state_updated" : 1767791687040,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1767791441113,
+    "updated" : 1767791687040
+  }, {
+    "name" : "human_2_osm_14.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1767792012419,
+    "state_updated" : 1767792058251,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1767791689830,
+    "updated" : 1767792058251
+  }, {
+    "name" : "human_2_osm_16.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1767792098498,
+    "state_updated" : 1767792134914,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1767792060446,
+    "updated" : 1767792134914
+  }, {
+    "name" : "human_2_osm_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1767792255566,
+    "state_updated" : 1767792258102,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1767792136287,
+    "updated" : 1767792258102
+  }, {
+    "name" : "human_2_rotated_18.html",
+    "user" : "gtouya",
+    "state" : "FINISHED",
+    "timestamp" : 1767792402735,
+    "state_updated" : 1767792404641,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1767792263178,
+    "updated" : 1767792404641
+  }, {
+    "name" : "chatgpt_ign_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1770812172100,
+    "state_updated" : 1770812172100,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1770812171851,
+    "updated" : 1770812172115
+  }, {
+    "name" : "gemini-dark_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772704433919,
+    "state_updated" : 1772704153453,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772704153368,
+    "updated" : 1772704433922
+  }, {
+    "name" : "gemini-google_12.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772705456762,
+    "state_updated" : 1772704535898,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772704535822,
+    "updated" : 1772705456765
+  }, {
+    "name" : "gemini-google_14.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772706095863,
+    "state_updated" : 1772705777985,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772705777907,
+    "updated" : 1772706095866
+  }, {
+    "name" : "gemini-google_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772706503880,
+    "state_updated" : 1772706111275,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772706111175,
+    "updated" : 1772706503883
+  }, {
+    "name" : "gemini-google_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772706731711,
+    "state_updated" : 1772706516652,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772706516615,
+    "updated" : 1772706731714
+  }, {
+    "name" : "gemini-ign_12.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772707209606,
+    "state_updated" : 1772706748826,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772706748792,
+    "updated" : 1772707209608
+  }, {
+    "name" : "gemini-ign_14.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772707500898,
+    "state_updated" : 1772707229438,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772707229404,
+    "updated" : 1772707500901
+  }, {
+    "name" : "gemini-ign_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772707750832,
+    "state_updated" : 1772707521975,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772707521941,
+    "updated" : 1772707750834
+  }, {
+    "name" : "gemini-ign_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772708035954,
+    "state_updated" : 1772707792470,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772707792438,
+    "updated" : 1772708035957
+  }, {
+    "name" : "gemini-no_label_17.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772708172604,
+    "state_updated" : 1772708050059,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772708050027,
+    "updated" : 1772708172606
+  }, {
+    "name" : "gemini-osm_12.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772708518524,
+    "state_updated" : 1772708202173,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772708202133,
+    "updated" : 1772708518527
+  }, {
+    "name" : "gemini-osm_14.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772708758571,
+    "state_updated" : 1772708527809,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772708527778,
+    "updated" : 1772708758573
+  }, {
+    "name" : "gemini-osm_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772709062568,
+    "state_updated" : 1772708774453,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772708774412,
+    "updated" : 1772709062570
+  }, {
+    "name" : "gemini-osm_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772709305741,
+    "state_updated" : 1772709084847,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772709084806,
+    "updated" : 1772709305744
+  }, {
+    "name" : "gemini-rotated_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772709662536,
+    "state_updated" : 1772709315735,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772709315702,
+    "updated" : 1772709662539
+  }, {
+    "name" : "gemma3-4b-dark_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772712348177,
+    "state_updated" : 1772710431269,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772710431241,
+    "updated" : 1772712348179
+  }, {
+    "name" : "gemma3-4b-google_12.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772712726946,
+    "state_updated" : 1772712379615,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772712379584,
+    "updated" : 1772712726949
+  }, {
+    "name" : "gemma3-4b-google_14.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772712852838,
+    "state_updated" : 1772712737857,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772712737828,
+    "updated" : 1772712852840
+  }, {
+    "name" : "gemma3-4b-google_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772713016854,
+    "state_updated" : 1772712863406,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772712863376,
+    "updated" : 1772713016857
+  }, {
+    "name" : "gemma3-4b-google_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772713119025,
+    "state_updated" : 1772713027040,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772713027009,
+    "updated" : 1772713119027
+  }, {
+    "name" : "gemma3-4b-ign_12.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772713346090,
+    "state_updated" : 1772713131384,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772713131310,
+    "updated" : 1772713346093
+  }, {
+    "name" : "gemma3-4b-ign_14.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772713476400,
+    "state_updated" : 1772713353737,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772713353693,
+    "updated" : 1772713476403
+  }, {
+    "name" : "gemma3-4b-ign_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772713621259,
+    "state_updated" : 1772713483487,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772713483452,
+    "updated" : 1772713621262
+  }, {
+    "name" : "gemma3-4b-ign_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772713709861,
+    "state_updated" : 1772713636827,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772713636793,
+    "updated" : 1772713709864
+  }, {
+    "name" : "gemma3-4b-no_label_17.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772713781536,
+    "state_updated" : 1772713717913,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772713717883,
+    "updated" : 1772713781540
+  }, {
+    "name" : "gemma3-4b-osm_12.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772714024368,
+    "state_updated" : 1772713798614,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772713798581,
+    "updated" : 1772714024371
+  }, {
+    "name" : "gemma3-4b-osm_14.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772714134118,
+    "state_updated" : 1772714031899,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772714031869,
+    "updated" : 1772714134121
+  }, {
+    "name" : "gemma3-4b-osm_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772714231420,
+    "state_updated" : 1772714148072,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772714148021,
+    "updated" : 1772714231423
+  }, {
+    "name" : "gemma3-4b-osm_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772714352465,
+    "state_updated" : 1772714241969,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772714241938,
+    "updated" : 1772714352467
+  }, {
+    "name" : "gemma3-4b-rotated_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772714478868,
+    "state_updated" : 1772714360768,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772714360715,
+    "updated" : 1772714478933
+  }, {
+    "name" : "gemma3-12b-dark_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772716906935,
+    "state_updated" : 1772716596552,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772716596472,
+    "updated" : 1772716906937
+  }, {
+    "name" : "gemma3-12b-google_12.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772717084758,
+    "state_updated" : 1772716918571,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772716918542,
+    "updated" : 1772717084760
+  }, {
+    "name" : "gemma3-12b-google_14.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772717731861,
+    "state_updated" : 1772717104926,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772717104897,
+    "updated" : 1772717731864
+  }, {
+    "name" : "gemma3-12b-google_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772718073021,
+    "state_updated" : 1772717741748,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772717741720,
+    "updated" : 1772718073023
+  }, {
+    "name" : "gemma3-12b-google_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772718175733,
+    "state_updated" : 1772718080065,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772718080037,
+    "updated" : 1772718175735
+  }, {
+    "name" : "gemma3-12b-ign_12.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772718283154,
+    "state_updated" : 1772718191800,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772718191771,
+    "updated" : 1772718283157
+  }, {
+    "name" : "gemma3-12b-ign_14.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772718373401,
+    "state_updated" : 1772718301232,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772718301201,
+    "updated" : 1772718373404
+  }, {
+    "name" : "gemma3-12b-ign_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772718451701,
+    "state_updated" : 1772718381592,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772718381563,
+    "updated" : 1772718451704
+  }, {
+    "name" : "gemma3-12b-ign_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772718571477,
+    "state_updated" : 1772718470863,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772718470835,
+    "updated" : 1772718571480
+  }, {
+    "name" : "gemma3-12b-no_label_17.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772718656023,
+    "state_updated" : 1772718579832,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772718579803,
+    "updated" : 1772718656025
+  }, {
+    "name" : "gemma3-12b-osm_12.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772718782622,
+    "state_updated" : 1772718665368,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772718665339,
+    "updated" : 1772718782624
+  }, {
+    "name" : "gemma3-12b-osm_14.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772718902927,
+    "state_updated" : 1772718792309,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772718792277,
+    "updated" : 1772718902930
+  }, {
+    "name" : "gemma3-12b-osm_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772719106513,
+    "state_updated" : 1772718918715,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772718918686,
+    "updated" : 1772719106515
+  }, {
+    "name" : "gemma3-12b-osm_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772719282227,
+    "state_updated" : 1772719116370,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772719116341,
+    "updated" : 1772719282229
+  }, {
+    "name" : "gemma3-12b-rotated_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772719502723,
+    "state_updated" : 1772719289633,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772719289605,
+    "updated" : 1772719502726
+  }, {
+    "name" : "llama-3.2-11b-dark_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720068924,
+    "state_updated" : 1772720068924,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720068896,
+    "updated" : 1772720068925
+  }, {
+    "name" : "llama-3.2-11b-google_12.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720144833,
+    "state_updated" : 1772720089548,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720089522,
+    "updated" : 1772720144835
+  }, {
+    "name" : "llama-3.2-11b-google_14.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720207920,
+    "state_updated" : 1772720152072,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720152044,
+    "updated" : 1772720207923
+  }, {
+    "name" : "llama-3.2-11b-google_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720259042,
+    "state_updated" : 1772720215808,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720215782,
+    "updated" : 1772720259044
+  }, {
+    "name" : "llama-3.2-11b-google_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720273444,
+    "state_updated" : 1772720264242,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720264215,
+    "updated" : 1772720273446
+  }, {
+    "name" : "llama-3.2-11b-ign_12.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720339130,
+    "state_updated" : 1772720299313,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720299288,
+    "updated" : 1772720339132
+  }, {
+    "name" : "llama-3.2-11b-ign_14.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720367894,
+    "state_updated" : 1772720346618,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720346591,
+    "updated" : 1772720367896
+  }, {
+    "name" : "llama-3.2-11b-ign_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720377287,
+    "state_updated" : 1772720377287,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720377243,
+    "updated" : 1772720377288
+  }, {
+    "name" : "llama-3.2-11b-ign_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720399964,
+    "state_updated" : 1772720399964,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720399938,
+    "updated" : 1772720399964
+  }, {
+    "name" : "llama-3.2-11b-no_label_17.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720449945,
+    "state_updated" : 1772720431500,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720431475,
+    "updated" : 1772720449948
+  }, {
+    "name" : "llama-3.2-11b-osm_12.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720493063,
+    "state_updated" : 1772720457642,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720457614,
+    "updated" : 1772720493066
+  }, {
+    "name" : "llama-3.2-11b-osm_14.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720516128,
+    "state_updated" : 1772720499419,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720499394,
+    "updated" : 1772720516131
+  }, {
+    "name" : "llama-3.2-11b-osm_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720537235,
+    "state_updated" : 1772720531117,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720531090,
+    "updated" : 1772720537238
+  }, {
+    "name" : "llama-3.2-11b-osm_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720559468,
+    "state_updated" : 1772720559468,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720559443,
+    "updated" : 1772720559469
+  }, {
+    "name" : "llama-3.2-11b-rotated_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720576812,
+    "state_updated" : 1772720576812,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720576758,
+    "updated" : 1772720576814
+  }, {
+    "name" : "qwen2.5-7b-dark_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720757802,
+    "state_updated" : 1772720656315,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720656285,
+    "updated" : 1772720757805
+  }, {
+    "name" : "qwen2.5-7b-google_12.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772720891989,
+    "state_updated" : 1772720764344,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720764315,
+    "updated" : 1772720891991
+  }, {
+    "name" : "qwen2.5-7b-google_14.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772721065579,
+    "state_updated" : 1772720896828,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772720896799,
+    "updated" : 1772721065581
+  }, {
+    "name" : "qwen2.5-7b-google_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772721218346,
+    "state_updated" : 1772721072204,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772721072174,
+    "updated" : 1772721218353
+  }, {
+    "name" : "chatgpt_google_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772721424691,
+    "state_updated" : 1772721224445,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772721224416,
+    "updated" : 1772721424693
+  }, {
+    "name" : "qwen2.5-7b-ign_12.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772721517708,
+    "state_updated" : 1772721435733,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772721435707,
+    "updated" : 1772721517710
+  }, {
+    "name" : "qwen2.5-7b-ign_14.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772721678349,
+    "state_updated" : 1772721530556,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772721530528,
+    "updated" : 1772721678351
+  }, {
+    "name" : "qwen2.5-7b-ign_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772721751392,
+    "state_updated" : 1772721683955,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772721683928,
+    "updated" : 1772721751394
+  }, {
+    "name" : "qwen2.5-7b-ign_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772721859710,
+    "state_updated" : 1772721767551,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772721767525,
+    "updated" : 1772721859712
+  }, {
+    "name" : "qwen2.5-7b-no_label_17.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772721897655,
+    "state_updated" : 1772721865522,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772721865434,
+    "updated" : 1772721897658
+  }, {
+    "name" : "qwen2.5-7b-osm_12.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772721963420,
+    "state_updated" : 1772721908969,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772721908942,
+    "updated" : 1772721963422
+  }, {
+    "name" : "qwen2.5-7b-osm_14.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772722016649,
+    "state_updated" : 1772721971995,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772721971967,
+    "updated" : 1772722016651
+  }, {
+    "name" : "qwen2.5-7b-osm_16.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772722081404,
+    "state_updated" : 1772722025470,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772722025440,
+    "updated" : 1772722081407
+  }, {
+    "name" : "qwen2.5-7b-osm_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772722178341,
+    "state_updated" : 1772722088278,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772722088250,
+    "updated" : 1772722178344
+  }, {
+    "name" : "qwen2.5-7b-rotated_18.html",
+    "user" : "admin",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1772722365858,
+    "state_updated" : 1772722186314,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1772722186287,
+    "updated" : 1772722365860
+  } ],
+  "project_permissions" : [ {
+    "level" : "ADMIN",
+    "user" : "admin"
+  }, {
+    "level" : "CURATOR",
+    "user" : "admin"
+  }, {
+    "level" : "USER",
+    "user" : "admin"
+  }, {
+    "level" : "ADMIN",
+    "user" : "gtouya"
+  }, {
+    "level" : "CURATOR",
+    "user" : "gtouya"
+  }, {
+    "level" : "USER",
+    "user" : "gtouya"
+  } ],
+  "tag_sets" : [ {
+    "name" : "Relation labels",
+    "description" : "Relation labels",
+    "language" : "en",
+    "tags" : [ ],
+    "create_tag" : true
+  }, {
+    "name" : "Span labels",
+    "description" : "Span labels",
+    "language" : "en",
+    "tags" : [ ],
+    "create_tag" : true
+  }, {
+    "name" : "Tags",
+    "description" : null,
+    "language" : "en",
+    "tags" : [ {
+      "tag_name" : "spatial relation",
+      "tag_description" : null
+    }, {
+      "tag_name" : "toponym",
+      "tag_description" : null
+    } ],
+    "create_tag" : false
+  } ],
+  "layers" : [ {
+    "name" : "webanno.custom.Annotation",
+    "features" : [ {
+      "name" : "Annotation",
+      "tag_set" : {
+        "name" : "Tags",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Annotation",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"editorType\":\"COMBOBOX\",\"collapsedRows\":1,\"expandedRows\":1,\"retainSuggestionInfo\":false,\"rolesSeeingSuggestionInfo\":[\"CURATOR\"]}",
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Annotation",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[{\"color\":\"#ef2121\",\"pattern\":\"toponym\"},{\"color\":\"#42e028\",\"pattern\":\"spatial relation\"}]}}"
+  }, {
+    "name" : "custom.Relation",
+    "features" : [ {
+      "name" : "label",
+      "tag_set" : {
+        "name" : "Relation labels",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Label",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Relation label",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Governor",
+      "tag_set" : null,
+      "uiName" : "Source",
+      "type" : "rel-source:custom.Span",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Dependent",
+      "tag_set" : null,
+      "uiName" : "Target",
+      "type" : "rel-target:custom.Span",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : null,
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Relation",
+    "type" : "relation",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "custom.Span"
+    },
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "custom.Span",
+    "features" : [ {
+      "name" : "label",
+      "tag_set" : {
+        "name" : "Span labels",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "Label",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Span label",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "Span",
+    "type" : "span",
+    "description" : null,
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "OVERLAP_ONLY",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "features" : [ ],
+    "uiName" : "Token",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : true,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "CHARACTERS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : false,
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  } ],
+  "disableExport" : true,
+  "script_direction" : "LTR",
+  "created" : 1764673301481,
+  "updated" : 1764679087551,
+  "state" : "ANNOTATION_IN_PROGRESS",
+  "state_updated" : 1764679087546,
+  "anonymous_curation" : false,
+  "application_name" : "INCEpTION",
+  "application_version" : "39.6",
+  "default-preferences" : [ {
+    "name" : "annotation/editor",
+    "traits" : "{\"defaultEditor\":null,\"preferencesAccessAllowed\":true}"
+  }, {
+    "name" : "annotation/editor/annotation-sidebar/manager",
+    "traits" : "{\"pinnedGroups\":[]}"
+  }, {
+    "name" : "annotation/editor/brat/manager",
+    "traits" : "{\"changingScriptDirectionAllowed\":false,\"defaultPageSize\":10}"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":null,\"expanded\":false}"
+  }, {
+    "name" : "annotation/navigation",
+    "traits" : "{\"finishedDocumentsSkippedByNavigation\":false}"
+  }, {
+    "name" : "annotation/search",
+    "traits" : "{\"caseSensitiveDocumentText\":false,\"caseSensitiveFeatureValues\":true}"
+  } ],
+  "knowledge_bases" : [ ],
+  "external_search" : [ ],
+  "curation_workflow" : {
+    "mergeStrategy" : "completeAgreementNonStacked",
+    "mergeStrategyTraits" : null
+  },
+  "project_users" : [ ],
+  "recommenders" : [ {
+    "alwaysSelected" : false,
+    "enabled" : true,
+    "feature" : "label",
+    "layerName" : "custom.Span",
+    "maxRecommendations" : 3,
+    "name" : "Generic span recommender",
+    "skipEvaluation" : false,
+    "statesIgnoredForTraining" : [ ],
+    "threshold" : 0.0,
+    "tool" : "de.tudarmstadt.ukp.inception.recommendation.imls.stringmatch.StringMatchingRecommender",
+    "traits" : null
+  } ],
+  "learning_records" : [ ],
+  "gazeteers" : [ ],
+  "workload_manager" : {
+    "traits" : null,
+    "type" : "matrix"
+  },
+  "user-preferences" : [ {
+    "name" : "annotation/layers",
+    "traits" : "{\"layerColoringStrategy\":{\"2\":\"GRAY\",\"3\":\"STATIC_PASTELLE\",\"4\":\"STATIC_PASTELLE\",\"5\":\"STATIC_PASTELLE\"},\"readonlyLayerColoringStrategy\":\"LEGACY\",\"hiddenLayers\":[],\"hiddenFeatures\":[],\"hiddenFeatureValues\":{}}",
+    "user" : "gtouya"
+  }, {
+    "name" : "annotation/layout",
+    "traits" : "{\"sidebarSizeLeft\":20,\"sidebarSizeRight\":20}",
+    "user" : "gtouya"
+  }, {
+    "name" : "client-side/annotation/apache-annotator-editor",
+    "traits" : "{\"showLabels\":false,\"showAggregatedLabels\":true,\"showEmptyHighlights\":false,\"showDocumentStructure\":false,\"showImages\":true,\"showTables\":true,\"documentStructureWidth\":0.2}",
+    "user" : "gtouya"
+  }, {
+    "name" : "client-side/annotation/annotation-browser-sidebar",
+    "traits" : "{\"mode\":\"by-label\",\"sortByScore\":true,\"recommendationsFirst\":false}",
+    "user" : "gtouya"
+  }, {
+    "name" : "annotation/layers",
+    "traits" : "{\"layerColoringStrategy\":{\"2\":\"GRAY\",\"3\":\"STATIC_PASTELLE\",\"4\":\"STATIC_PASTELLE\",\"5\":\"STATIC_PASTELLE\"},\"readonlyLayerColoringStrategy\":\"LEGACY\",\"hiddenLayers\":[],\"hiddenFeatures\":[],\"hiddenFeatureValues\":{}}",
+    "user" : "admin"
+  }, {
+    "name" : "annotation/layout",
+    "traits" : "{\"sidebarSizeLeft\":20,\"sidebarSizeRight\":20}",
+    "user" : "admin"
+  }, {
+    "name" : "client-side/annotation/annotation-browser-sidebar",
+    "traits" : "{\"mode\":\"by-label\",\"sortByScore\":true,\"recommendationsFirst\":false}",
+    "user" : "admin"
+  }, {
+    "name" : "client-side/annotation/apache-annotator-editor",
+    "traits" : "{\"showLabels\":false,\"showAggregatedLabels\":true,\"showEmptyHighlights\":false,\"showDocumentStructure\":false,\"showImages\":true,\"showTables\":true,\"documentStructureWidth\":0.2}",
+    "user" : "admin"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"layerVisibilitySidebarFactory\",\"expanded\":true}",
+    "user" : "gtouya"
+  }, {
+    "name" : "annotation/navigation",
+    "traits" : "{\"finishedDocumentsSkippedByNavigation\":false}",
+    "user" : "admin"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"layerVisibilitySidebarFactory\",\"expanded\":true}",
+    "user" : "admin"
+  } ]
+}

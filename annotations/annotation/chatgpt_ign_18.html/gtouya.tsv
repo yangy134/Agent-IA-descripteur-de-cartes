@@ -1,0 +1,884 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=This is a large-scale topographic map (detailed local view) centered on the Château des Ducs de Bretagne in Nantes, France.
+2-1	42-46	This	p[2]	*[2]	_	
+2-2	47-49	is	p[2]	*[2]	_	
+2-3	50-51	a	p[2]	*[2]	_	
+2-4	52-63	large-scale	p[2]	*[2]	_	
+2-5	64-75	topographic	p[2]	*[2]	_	
+2-6	76-79	map	p[2]	*[2]	_	
+2-7	80-81	(	p[2]	*[2]	_	
+2-8	81-89	detailed	p[2]	*[2]	_	
+2-9	90-95	local	p[2]	*[2]	_	
+2-10	96-100	view	p[2]	*[2]	_	
+2-11	100-101	)	p[2]	*[2]	_	
+2-12	102-110	centered	p[2]	*[2]	_	
+2-13	111-113	on	p[2]	*[2]	_	
+2-14	114-117	the	p[2]	*[2]	_	
+2-15	118-125	Château	p[2]	*[2]	toponym[27]	
+2-16	126-129	des	p[2]	*[2]	toponym[27]	
+2-17	130-134	Ducs	p[2]	*[2]	toponym[27]	
+2-18	135-137	de	p[2]	*[2]	toponym[27]	
+2-19	138-146	Bretagne	p[2]	*[2]	toponym[27]	
+2-20	147-149	in	p[2]	*[2]	spatial relation	
+2-21	150-156	Nantes	p[2]	*[2]	toponym[28]	
+2-22	156-157	,	p[2]	*[2]	toponym[28]	
+2-23	158-164	France	p[2]	*[2]	toponym[28]	
+2-24	164-165	.	p[2]	*[2]	_	
+
+#Text=Here's a breakdown of its main content and structure: 🏰 Central Landmark: Château des Ducs de Bretagne  Represented in gray and purple tones, the castle's walls and buildings are highly prominent.
+3-1	166-172	Here's	p[2]	*[2]	_	
+3-2	173-174	a	p[2]	*[2]	_	
+3-3	175-184	breakdown	p[2]	*[2]	_	
+3-4	185-187	of	p[2]	*[2]	_	
+3-5	188-191	its	p[2]	*[2]	_	
+3-6	192-196	main	p[2]	*[2]	_	
+3-7	197-204	content	p[2]	*[2]	_	
+3-8	205-208	and	p[2]	*[2]	_	
+3-9	209-218	structure	p[2]	*[2]	_	
+3-10	218-219	:	p[2]	*[2]	_	
+3-11	220-222	🏰	h2[3]	*[3]	_	
+3-12	223-230	Central	h2[3]	*[3]	_	
+3-13	231-239	Landmark	h2[3]	*[3]	_	
+3-14	239-240	:	h2[3]	*[3]	_	
+3-15	241-248	Château	h2[3]	*[3]	toponym[29]	
+3-16	249-252	des	h2[3]	*[3]	toponym[29]	
+3-17	253-257	Ducs	h2[3]	*[3]	toponym[29]	
+3-18	258-260	de	h2[3]	*[3]	toponym[29]	
+3-19	261-269	Bretagne	h2[3]	*[3]	toponym[29]	
+3-20	271-282	Represented	_	_	_	
+3-21	283-285	in	_	_	_	
+3-22	286-290	gray	_	_	_	
+3-23	291-294	and	_	_	_	
+3-24	295-301	purple	_	_	_	
+3-25	302-307	tones	_	_	_	
+3-26	307-308	,	_	_	_	
+3-27	309-312	the	_	_	_	
+3-28	313-321	castle's	_	_	_	
+3-29	322-327	walls	_	_	_	
+3-30	328-331	and	_	_	_	
+3-31	332-341	buildings	_	_	_	
+3-32	342-345	are	_	_	_	
+3-33	346-352	highly	_	_	_	
+3-34	353-362	prominent	_	_	_	
+3-35	362-363	.	_	_	_	
+
+#Text=The moat surrounding it is filled with light blue, emphasizing the water element.
+4-1	364-367	The	_	_	_	
+4-2	368-372	moat	_	_	_	
+4-3	373-384	surrounding	_	_	spatial relation	
+4-4	385-387	it	_	_	_	
+4-5	388-390	is	_	_	_	
+4-6	391-397	filled	_	_	_	
+4-7	398-402	with	_	_	_	
+4-8	403-408	light	_	_	_	
+4-9	409-413	blue	_	_	_	
+4-10	413-414	,	_	_	_	
+4-11	415-426	emphasizing	_	_	_	
+4-12	427-430	the	_	_	_	
+4-13	431-436	water	_	_	_	
+4-14	437-444	element	_	_	_	
+4-15	444-445	.	_	_	_	
+
+#Text=The name “Château des Ducs de Bretagne” is clearly labeled inside
+5-1	446-449	The	_	_	_	
+5-2	450-454	name	_	_	_	
+5-3	455-456	“	_	_	_	
+5-4	456-463	Château	_	_	toponym[30]	
+5-5	464-467	des	_	_	toponym[30]	
+5-6	468-472	Ducs	_	_	toponym[30]	
+5-7	473-475	de	_	_	toponym[30]	
+5-8	476-484	Bretagne	_	_	toponym[30]	
+5-9	484-485	”	_	_	_	
+5-10	486-488	is	_	_	_	
+5-11	489-496	clearly	_	_	_	
+5-12	497-504	labeled	_	_	_	
+5-13	505-511	inside	_	_	spatial relation	
+
+#Text=.
+6-1	511-512	.	_	_	_	
+
+#Text=🟦 Water Features  The moat around the château is a continuous, highly visible light blue shape, enhancing spatial separation and visual hierarchy
+7-1	514-516	🟦	h2[4]	*[4]	_	
+7-2	517-522	Water	h2[4]	*[4]	_	
+7-3	523-531	Features	h2[4]	*[4]	_	
+7-4	533-536	The	_	_	_	
+7-5	537-541	moat	_	_	_	
+7-6	542-548	around	_	_	_	
+7-7	549-552	the	_	_	_	
+7-8	553-560	château	_	_	_	
+7-9	561-563	is	_	_	_	
+7-10	564-565	a	_	_	_	
+7-11	566-576	continuous	_	_	_	
+7-12	576-577	,	_	_	_	
+7-13	578-584	highly	_	_	_	
+7-14	585-592	visible	_	_	_	
+7-15	593-598	light	_	_	_	
+7-16	599-603	blue	_	_	_	
+7-17	604-609	shape	_	_	_	
+7-18	609-610	,	_	_	_	
+7-19	611-620	enhancing	_	_	_	
+7-20	621-628	spatial	_	_	_	
+7-21	629-639	separation	_	_	_	
+7-22	640-643	and	_	_	_	
+7-23	644-650	visual	_	_	_	
+7-24	651-660	hierarchy	_	_	_	
+
+#Text=.
+8-1	660-661	.	_	_	_	
+
+#Text=🟡 Place de la Duchesse Anne  This rectangular area east of the castle is highlighted in a pale yellow shade.
+9-1	663-665	🟡	h2[5]	*[5]	_	
+9-2	666-671	Place	h2[5]	*[5]	toponym[31]	
+9-3	672-674	de	h2[5]	*[5]	toponym[31]	
+9-4	675-677	la	h2[5]	*[5]	toponym[31]	
+9-5	678-686	Duchesse	h2[5]	*[5]	toponym[31]	
+9-6	687-691	Anne	h2[5]	*[5]	toponym[31]	
+9-7	693-697	This	_	_	_	
+9-8	698-709	rectangular	_	_	_	
+9-9	710-714	area	_	_	_	
+9-10	715-719	east	_	_	spatial relation[32]	
+9-11	720-722	of	_	_	spatial relation[32]	
+9-12	723-726	the	_	_	spatial relation[32]	
+9-13	727-733	castle	_	_	_	
+9-14	734-736	is	_	_	_	
+9-15	737-748	highlighted	_	_	_	
+9-16	749-751	in	_	_	_	
+9-17	752-753	a	_	_	_	
+9-18	754-758	pale	_	_	_	
+9-19	759-765	yellow	_	_	_	
+9-20	766-771	shade	_	_	_	
+9-21	771-772	.	_	_	_	
+
+#Text=It contains garden elements and walkways and is bordered by dashed red-brown lines, likely indicating paths or fencing
+10-1	773-775	It	_	_	_	
+10-2	776-784	contains	_	_	spatial relation	
+10-3	785-791	garden	_	_	_	
+10-4	792-800	elements	_	_	_	
+10-5	801-804	and	_	_	_	
+10-6	805-813	walkways	_	_	_	
+10-7	814-817	and	_	_	_	
+10-8	818-820	is	_	_	_	
+10-9	821-829	bordered	_	_	spatial relation	
+10-10	830-832	by	_	_	_	
+10-11	833-839	dashed	_	_	_	
+10-12	840-849	red-brown	_	_	_	
+10-13	850-855	lines	_	_	_	
+10-14	855-856	,	_	_	_	
+10-15	857-863	likely	_	_	_	
+10-16	864-874	indicating	_	_	_	
+10-17	875-880	paths	_	_	_	
+10-18	881-883	or	_	_	_	
+10-19	884-891	fencing	_	_	_	
+
+#Text=.
+11-1	891-892	.	_	_	_	
+
+#Text=🛣️ Surrounding Streets  Roads are labeled and depicted with solid grey and white outlines:  Rue Premion to the north Rue des États to the west Pont de la Rotonde with roundabout features to the southeast  Directional arrows and curved yellow paths represent traffic flow and road structure
+12-1	894-897	🛣️	h2[6]	*[6]	_	
+12-2	898-909	Surrounding	h2[6]	*[6]	_	
+12-3	910-917	Streets	h2[6]	*[6]	_	
+12-4	919-924	Roads	p[7]	*[7]	_	
+12-5	925-928	are	p[7]	*[7]	_	
+12-6	929-936	labeled	p[7]	*[7]	_	
+12-7	937-940	and	p[7]	*[7]	_	
+12-8	941-949	depicted	p[7]	*[7]	_	
+12-9	950-954	with	p[7]	*[7]	_	
+12-10	955-960	solid	p[7]	*[7]	_	
+12-11	961-965	grey	p[7]	*[7]	_	
+12-12	966-969	and	p[7]	*[7]	_	
+12-13	970-975	white	p[7]	*[7]	_	
+12-14	976-984	outlines	p[7]	*[7]	_	
+12-15	984-985	:	p[7]	*[7]	_	
+12-16	987-990	Rue	_	_	toponym[33]	
+12-17	991-998	Premion	_	_	toponym[33]	
+12-18	999-1001	to	_	_	spatial relation[34]	
+12-19	1002-1005	the	_	_	spatial relation[34]	
+12-20	1006-1011	north	_	_	spatial relation[34]	
+12-21	1012-1015	Rue	_	_	toponym[35]	
+12-22	1016-1019	des	_	_	toponym[35]	
+12-23	1020-1025	États	_	_	toponym[35]	
+12-24	1026-1028	to	_	_	spatial relation[36]	
+12-25	1029-1032	the	_	_	spatial relation[36]	
+12-26	1033-1037	west	_	_	spatial relation[36]	
+12-27	1038-1042	Pont	_	_	toponym[37]	
+12-28	1043-1045	de	_	_	toponym[37]	
+12-29	1046-1048	la	_	_	toponym[37]	
+12-30	1049-1056	Rotonde	_	_	toponym[37]	
+12-31	1057-1061	with	_	_	_	
+12-32	1062-1072	roundabout	_	_	_	
+12-33	1073-1081	features	_	_	_	
+12-34	1082-1084	to	_	_	spatial relation[38]	
+12-35	1085-1088	the	_	_	spatial relation[38]	
+12-36	1089-1098	southeast	_	_	spatial relation[38]	
+12-37	1100-1111	Directional	p[8]	*[8]	_	
+12-38	1112-1118	arrows	p[8]	*[8]	_	
+12-39	1119-1122	and	p[8]	*[8]	_	
+12-40	1123-1129	curved	p[8]	*[8]	_	
+12-41	1130-1136	yellow	p[8]	*[8]	_	
+12-42	1137-1142	paths	p[8]	*[8]	_	
+12-43	1143-1152	represent	p[8]	*[8]	_	
+12-44	1153-1160	traffic	p[8]	*[8]	_	
+12-45	1161-1165	flow	p[8]	*[8]	_	
+12-46	1166-1169	and	p[8]	*[8]	_	
+12-47	1170-1174	road	p[8]	*[8]	_	
+12-48	1175-1184	structure	p[8]	*[8]	_	
+
+#Text=.
+13-1	1184-1185	.	p[8]	*[8]	_	
+
+#Text=🏘️ Buildings and Urban Texture  Buildings are drawn in a tan color, with block numbers (e.g., 13, 15, 23) visible, reflecting precise parcel-level detail
+14-1	1187-1190	🏘️	h2[9]	*[9]	_	
+14-2	1191-1200	Buildings	h2[9]	*[9]	_	
+14-3	1201-1204	and	h2[9]	*[9]	_	
+14-4	1205-1210	Urban	h2[9]	*[9]	_	
+14-5	1211-1218	Texture	h2[9]	*[9]	_	
+14-6	1220-1229	Buildings	_	_	_	
+14-7	1230-1233	are	_	_	_	
+14-8	1234-1239	drawn	_	_	_	
+14-9	1240-1242	in	_	_	_	
+14-10	1243-1244	a	_	_	_	
+14-11	1245-1248	tan	_	_	_	
+14-12	1249-1254	color	_	_	_	
+14-13	1254-1255	,	_	_	_	
+14-14	1256-1260	with	_	_	_	
+14-15	1261-1266	block	_	_	_	
+14-16	1267-1274	numbers	_	_	_	
+14-17	1275-1276	(	_	_	_	
+14-18	1276-1279	e.g	_	_	_	
+14-19	1279-1280	.	_	_	_	
+14-20	1280-1281	,	_	_	_	
+14-21	1282-1284	13	_	_	toponym	
+14-22	1284-1285	,	_	_	_	
+14-23	1286-1288	15	_	_	toponym	
+14-24	1288-1289	,	_	_	_	
+14-25	1290-1292	23	_	_	toponym	
+14-26	1292-1293	)	_	_	_	
+14-27	1294-1301	visible	_	_	_	
+14-28	1301-1302	,	_	_	_	
+14-29	1303-1313	reflecting	_	_	_	
+14-30	1314-1321	precise	_	_	_	
+14-31	1322-1334	parcel-level	_	_	_	
+14-32	1335-1341	detail	_	_	_	
+
+#Text=.
+15-1	1341-1342	.	_	_	_	
+
+#Text=🔴 Pathways and Boundaries  Dotted red-brown lines trace walking paths, property boundaries, or pedestrian routes
+16-1	1344-1346	🔴	h2[10]	*[10]	_	
+16-2	1347-1355	Pathways	h2[10]	*[10]	_	
+16-3	1356-1359	and	h2[10]	*[10]	_	
+16-4	1360-1370	Boundaries	h2[10]	*[10]	_	
+16-5	1372-1378	Dotted	_	_	_	
+16-6	1379-1388	red-brown	_	_	_	
+16-7	1389-1394	lines	_	_	_	
+16-8	1395-1400	trace	_	_	_	
+16-9	1401-1408	walking	_	_	_	
+16-10	1409-1414	paths	_	_	_	
+16-11	1414-1415	,	_	_	_	
+16-12	1416-1424	property	_	_	_	
+16-13	1425-1435	boundaries	_	_	_	
+16-14	1435-1436	,	_	_	_	
+16-15	1437-1439	or	_	_	_	
+16-16	1440-1450	pedestrian	_	_	_	
+16-17	1451-1457	routes	_	_	_	
+
+#Text=.
+17-1	1457-1458	.	_	_	_	
+
+#Text=🔄 Cartographic Style  This map is more abstract and symbolic than OSM basemaps, using clean lines, selective coloring, and clearly structured symbols to emphasize urban layout, pedestrian access, and landmark heritage.
+18-1	1460-1462	🔄	h2[11]	*[11]	_	
+18-2	1463-1475	Cartographic	h2[11]	*[11]	_	
+18-3	1476-1481	Style	h2[11]	*[11]	_	
+18-4	1483-1487	This	_	_	_	
+18-5	1488-1491	map	_	_	_	
+18-6	1492-1494	is	_	_	_	
+18-7	1495-1499	more	_	_	_	
+18-8	1500-1508	abstract	_	_	_	
+18-9	1509-1512	and	_	_	_	
+18-10	1513-1521	symbolic	_	_	_	
+18-11	1522-1526	than	_	_	_	
+18-12	1527-1530	OSM	_	_	_	
+18-13	1531-1539	basemaps	_	_	_	
+18-14	1539-1540	,	_	_	_	
+18-15	1541-1546	using	_	_	_	
+18-16	1547-1552	clean	_	_	_	
+18-17	1553-1558	lines	_	_	_	
+18-18	1558-1559	,	_	_	_	
+18-19	1560-1569	selective	_	_	_	
+18-20	1570-1578	coloring	_	_	_	
+18-21	1578-1579	,	_	_	_	
+18-22	1580-1583	and	_	_	_	
+18-23	1584-1591	clearly	_	_	_	
+18-24	1592-1602	structured	_	_	_	
+18-25	1603-1610	symbols	_	_	_	
+18-26	1611-1613	to	_	_	_	
+18-27	1614-1623	emphasize	_	_	_	
+18-28	1624-1629	urban	_	_	_	
+18-29	1630-1636	layout	_	_	_	
+18-30	1636-1637	,	_	_	_	
+18-31	1638-1648	pedestrian	_	_	_	
+18-32	1649-1655	access	_	_	_	
+18-33	1655-1656	,	_	_	_	
+18-34	1657-1660	and	_	_	_	
+18-35	1661-1669	landmark	_	_	_	
+18-36	1670-1678	heritage	_	_	_	
+18-37	1678-1679	.	_	_	_	
+
+#Text=In summary, the map provides a detailed architectural and pedestrian overview of the castle and its immediate urban environment, highlighting water features, access paths, adjacent roads, and historical structures with clear symbology and color coding.
+19-1	1681-1683	In	p[12]	*[12]	_	
+19-2	1684-1691	summary	p[12]	*[12]	_	
+19-3	1691-1692	,	p[12]	*[12]	_	
+19-4	1693-1696	the	p[12]	*[12]	_	
+19-5	1697-1700	map	p[12]	*[12]	_	
+19-6	1701-1709	provides	p[12]	*[12]	_	
+19-7	1710-1711	a	p[12]	*[12]	_	
+19-8	1712-1720	detailed	p[12]	*[12]	_	
+19-9	1721-1734	architectural	p[12]	*[12]	_	
+19-10	1735-1738	and	p[12]	*[12]	_	
+19-11	1739-1749	pedestrian	p[12]	*[12]	_	
+19-12	1750-1758	overview	p[12]	*[12]	_	
+19-13	1759-1761	of	p[12]	*[12]	_	
+19-14	1762-1765	the	p[12]	*[12]	_	
+19-15	1766-1772	castle	p[12]	*[12]	_	
+19-16	1773-1776	and	p[12]	*[12]	_	
+19-17	1777-1780	its	p[12]	*[12]	_	
+19-18	1781-1790	immediate	p[12]	*[12]	_	
+19-19	1791-1796	urban	p[12]	*[12]	_	
+19-20	1797-1808	environment	p[12]	*[12]	_	
+19-21	1808-1809	,	p[12]	*[12]	_	
+19-22	1810-1822	highlighting	p[12]	*[12]	_	
+19-23	1823-1828	water	p[12]	*[12]	_	
+19-24	1829-1837	features	p[12]	*[12]	_	
+19-25	1837-1838	,	p[12]	*[12]	_	
+19-26	1839-1845	access	p[12]	*[12]	_	
+19-27	1846-1851	paths	p[12]	*[12]	_	
+19-28	1851-1852	,	p[12]	*[12]	_	
+19-29	1853-1861	adjacent	p[12]	*[12]	_	
+19-30	1862-1867	roads	p[12]	*[12]	_	
+19-31	1867-1868	,	p[12]	*[12]	_	
+19-32	1869-1872	and	p[12]	*[12]	_	
+19-33	1873-1883	historical	p[12]	*[12]	_	
+19-34	1884-1894	structures	p[12]	*[12]	_	
+19-35	1895-1899	with	p[12]	*[12]	_	
+19-36	1900-1905	clear	p[12]	*[12]	_	
+19-37	1906-1915	symbology	p[12]	*[12]	_	
+19-38	1916-1919	and	p[12]	*[12]	_	
+19-39	1920-1925	color	p[12]	*[12]	_	
+19-40	1926-1932	coding	p[12]	*[12]	_	
+19-41	1932-1933	.	p[12]	*[12]	_	
+
+#Text=Would you like an analysis of how this compares in visual salience to the OpenStreetMap versions at other scales?
+20-1	1934-1939	Would	p[13]	*[13]	_	
+20-2	1940-1943	you	p[13]	*[13]	_	
+20-3	1944-1948	like	p[13]	*[13]	_	
+20-4	1949-1951	an	p[13]	*[13]	_	
+20-5	1952-1960	analysis	p[13]	*[13]	_	
+20-6	1961-1963	of	p[13]	*[13]	_	
+20-7	1964-1967	how	p[13]	*[13]	_	
+20-8	1968-1972	this	p[13]	*[13]	_	
+20-9	1973-1981	compares	p[13]	*[13]	_	
+20-10	1982-1984	in	p[13]	*[13]	_	
+20-11	1985-1991	visual	p[13]	*[13]	_	
+20-12	1992-2000	salience	p[13]	*[13]	_	
+20-13	2001-2003	to	p[13]	*[13]	_	
+20-14	2004-2007	the	p[13]	*[13]	_	
+20-15	2008-2021	OpenStreetMap	p[13]	*[13]	_	
+20-16	2022-2030	versions	p[13]	*[13]	_	
+20-17	2031-2033	at	p[13]	*[13]	_	
+20-18	2034-2039	other	p[13]	*[13]	_	
+20-19	2040-2046	scales	p[13]	*[13]	_	
+20-20	2046-2047	?	p[13]	*[13]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+21-1	2048-2051	Can	h1[14]	*[14]	_	
+21-2	2052-2055	you	h1[14]	*[14]	_	
+21-3	2056-2064	describe	h1[14]	*[14]	_	
+21-4	2065-2068	the	h1[14]	*[14]	_	
+21-5	2069-2073	most	h1[14]	*[14]	_	
+21-6	2074-2082	visually	h1[14]	*[14]	_	
+21-7	2083-2090	salient	h1[14]	*[14]	_	
+21-8	2091-2099	elements	h1[14]	*[14]	_	
+21-9	2100-2102	of	h1[14]	*[14]	_	
+21-10	2103-2106	the	h1[14]	*[14]	_	
+21-11	2107-2110	map	h1[14]	*[14]	_	
+21-12	2110-2111	?	h1[14]	*[14]	_	
+
+#Text=Certainly.
+22-1	2112-2121	Certainly	p[15]	*[15]	_	
+22-2	2121-2122	.	p[15]	*[15]	_	
+
+#Text=The most visually salient elements of the map you provided are: 🔲 1.
+23-1	2123-2126	The	p[15]	*[15]	_	
+23-2	2127-2131	most	p[15]	*[15]	_	
+23-3	2132-2140	visually	p[15]	*[15]	_	
+23-4	2141-2148	salient	p[15]	*[15]	_	
+23-5	2149-2157	elements	p[15]	*[15]	_	
+23-6	2158-2160	of	p[15]	*[15]	_	
+23-7	2161-2164	the	p[15]	*[15]	_	
+23-8	2165-2168	map	p[15]	*[15]	_	
+23-9	2169-2172	you	p[15]	*[15]	_	
+23-10	2173-2181	provided	p[15]	*[15]	_	
+23-11	2182-2185	are	p[15]	*[15]	_	
+23-12	2185-2186	:	p[15]	*[15]	_	
+23-13	2187-2189	🔲	h2[16]	*[16]	_	
+23-14	2190-2191	1	h2[16]	*[16]	_	
+23-15	2191-2192	.	h2[16]	*[16]	_	
+
+#Text=Château des Ducs de Bretagne  Dark grey and purple structures dominate the center, immediately drawing attention.
+24-1	2193-2200	Château	h2[16]	*[16]	_	
+24-2	2201-2204	des	h2[16]	*[16]	_	
+24-3	2205-2209	Ducs	h2[16]	*[16]	_	
+24-4	2210-2212	de	h2[16]	*[16]	_	
+24-5	2213-2221	Bretagne	h2[16]	*[16]	_	
+24-6	2223-2227	Dark	_	_	_	
+24-7	2228-2232	grey	_	_	_	
+24-8	2233-2236	and	_	_	_	
+24-9	2237-2243	purple	_	_	_	
+24-10	2244-2254	structures	_	_	_	
+24-11	2255-2263	dominate	_	_	_	
+24-12	2264-2267	the	_	_	_	
+24-13	2268-2274	center	_	_	_	
+24-14	2274-2275	,	_	_	_	
+24-15	2276-2287	immediately	_	_	_	
+24-16	2288-2295	drawing	_	_	_	
+24-17	2296-2305	attention	_	_	_	
+24-18	2305-2306	.	_	_	_	
+
+#Text=The irregular geometric shape and large area coverage enhance its prominence.
+25-1	2307-2310	The	_	_	_	
+25-2	2311-2320	irregular	_	_	_	
+25-3	2321-2330	geometric	_	_	_	
+25-4	2331-2336	shape	_	_	_	
+25-5	2337-2340	and	_	_	_	
+25-6	2341-2346	large	_	_	_	
+25-7	2347-2351	area	_	_	_	
+25-8	2352-2360	coverage	_	_	_	
+25-9	2361-2368	enhance	_	_	_	
+25-10	2369-2372	its	_	_	_	
+25-11	2373-2383	prominence	_	_	_	
+25-12	2383-2384	.	_	_	_	
+
+#Text=The label “Château des Ducs de Bretagne” is placed within the central complex, reinforcing its identity and importance
+26-1	2385-2388	The	_	_	_	
+26-2	2389-2394	label	_	_	_	
+26-3	2395-2396	“	_	_	_	
+26-4	2396-2403	Château	_	_	_	
+26-5	2404-2407	des	_	_	_	
+26-6	2408-2412	Ducs	_	_	_	
+26-7	2413-2415	de	_	_	_	
+26-8	2416-2424	Bretagne	_	_	_	
+26-9	2424-2425	”	_	_	_	
+26-10	2426-2428	is	_	_	_	
+26-11	2429-2435	placed	_	_	_	
+26-12	2436-2442	within	_	_	_	
+26-13	2443-2446	the	_	_	_	
+26-14	2447-2454	central	_	_	_	
+26-15	2455-2462	complex	_	_	_	
+26-16	2462-2463	,	_	_	_	
+26-17	2464-2475	reinforcing	_	_	_	
+26-18	2476-2479	its	_	_	_	
+26-19	2480-2488	identity	_	_	_	
+26-20	2489-2492	and	_	_	_	
+26-21	2493-2503	importance	_	_	_	
+
+#Text=.
+27-1	2503-2504	.	_	_	_	
+
+#Text=🟦 2.
+28-1	2506-2508	🟦	h2[17]	*[17]	_	
+28-2	2509-2510	2	h2[17]	*[17]	_	
+28-3	2510-2511	.	h2[17]	*[17]	_	
+
+#Text=Moat / Water Features  The light blue moat encircling the castle stands out distinctly against the neutral background.
+29-1	2512-2516	Moat	h2[17]	*[17]	_	
+29-2	2517-2518	/	h2[17]	*[17]	_	
+29-3	2519-2524	Water	h2[17]	*[17]	_	
+29-4	2525-2533	Features	h2[17]	*[17]	_	
+29-5	2535-2538	The	_	_	_	
+29-6	2539-2544	light	_	_	_	
+29-7	2545-2549	blue	_	_	_	
+29-8	2550-2554	moat	_	_	_	
+29-9	2555-2565	encircling	_	_	_	
+29-10	2566-2569	the	_	_	_	
+29-11	2570-2576	castle	_	_	_	
+29-12	2577-2583	stands	_	_	_	
+29-13	2584-2587	out	_	_	_	
+29-14	2588-2598	distinctly	_	_	_	
+29-15	2599-2606	against	_	_	_	
+29-16	2607-2610	the	_	_	_	
+29-17	2611-2618	neutral	_	_	_	
+29-18	2619-2629	background	_	_	_	
+29-19	2629-2630	.	_	_	_	
+
+#Text=Its closed loop form adds to the visual coherence and salience of the château area
+30-1	2631-2634	Its	_	_	_	
+30-2	2635-2641	closed	_	_	_	
+30-3	2642-2646	loop	_	_	_	
+30-4	2647-2651	form	_	_	_	
+30-5	2652-2656	adds	_	_	_	
+30-6	2657-2659	to	_	_	_	
+30-7	2660-2663	the	_	_	_	
+30-8	2664-2670	visual	_	_	_	
+30-9	2671-2680	coherence	_	_	_	
+30-10	2681-2684	and	_	_	_	
+30-11	2685-2693	salience	_	_	_	
+30-12	2694-2696	of	_	_	_	
+30-13	2697-2700	the	_	_	_	
+30-14	2701-2708	château	_	_	_	
+30-15	2709-2713	area	_	_	_	
+
+#Text=.
+31-1	2713-2714	.	_	_	_	
+
+#Text=🟨 3.
+32-1	2716-2718	🟨	h2[18]	*[18]	_	
+32-2	2719-2720	3	h2[18]	*[18]	_	
+32-3	2720-2721	.	h2[18]	*[18]	_	
+
+#Text=Place de la Duchesse Anne  Shaded in pale yellow and positioned to the east of the castle, this area forms a secondary focal point.
+33-1	2722-2727	Place	h2[18]	*[18]	_	
+33-2	2728-2730	de	h2[18]	*[18]	_	
+33-3	2731-2733	la	h2[18]	*[18]	_	
+33-4	2734-2742	Duchesse	h2[18]	*[18]	_	
+33-5	2743-2747	Anne	h2[18]	*[18]	_	
+33-6	2749-2755	Shaded	_	_	_	
+33-7	2756-2758	in	_	_	_	
+33-8	2759-2763	pale	_	_	_	
+33-9	2764-2770	yellow	_	_	_	
+33-10	2771-2774	and	_	_	_	
+33-11	2775-2785	positioned	_	_	_	
+33-12	2786-2788	to	_	_	_	
+33-13	2789-2792	the	_	_	_	
+33-14	2793-2797	east	_	_	_	
+33-15	2798-2800	of	_	_	_	
+33-16	2801-2804	the	_	_	_	
+33-17	2805-2811	castle	_	_	_	
+33-18	2811-2812	,	_	_	_	
+33-19	2813-2817	this	_	_	_	
+33-20	2818-2822	area	_	_	_	
+33-21	2823-2828	forms	_	_	_	
+33-22	2829-2830	a	_	_	_	
+33-23	2831-2840	secondary	_	_	_	
+33-24	2841-2846	focal	_	_	_	
+33-25	2847-2852	point	_	_	_	
+33-26	2852-2853	.	_	_	_	
+
+#Text=The outlined oval structure and surrounding dashed paths increase its visual complexity
+34-1	2854-2857	The	_	_	_	
+34-2	2858-2866	outlined	_	_	_	
+34-3	2867-2871	oval	_	_	_	
+34-4	2872-2881	structure	_	_	_	
+34-5	2882-2885	and	_	_	_	
+34-6	2886-2897	surrounding	_	_	_	
+34-7	2898-2904	dashed	_	_	_	
+34-8	2905-2910	paths	_	_	_	
+34-9	2911-2919	increase	_	_	_	
+34-10	2920-2923	its	_	_	_	
+34-11	2924-2930	visual	_	_	_	
+34-12	2931-2941	complexity	_	_	_	
+
+#Text=.
+35-1	2941-2942	.	_	_	_	
+
+#Text=🔁 4.
+36-1	2944-2946	🔁	h2[19]	*[19]	_	
+36-2	2947-2948	4	h2[19]	*[19]	_	
+36-3	2948-2949	.	h2[19]	*[19]	_	
+
+#Text=Roads and Roundabout  The yellow road system at the bottom right, particularly the circular roundabout (Pont de la Rotonde), is striking due to:  Its bold color Smooth curves contrasting with the angular building forms Directional arrows and traffic flow lines adding dynamic visual interest   🟥 5.
+37-1	2950-2955	Roads	h2[19]	*[19]	_	
+37-2	2956-2959	and	h2[19]	*[19]	_	
+37-3	2960-2970	Roundabout	h2[19]	*[19]	_	
+37-4	2972-2975	The	p[20]	*[20]	_	
+37-5	2976-2982	yellow	p[20]	*[20]	_	
+37-6	2983-2987	road	p[20]	*[20]	_	
+37-7	2988-2994	system	p[20]	*[20]	_	
+37-8	2995-2997	at	p[20]	*[20]	_	
+37-9	2998-3001	the	p[20]	*[20]	_	
+37-10	3002-3008	bottom	p[20]	*[20]	_	
+37-11	3009-3014	right	p[20]	*[20]	_	
+37-12	3014-3015	,	p[20]	*[20]	_	
+37-13	3016-3028	particularly	p[20]	*[20]	_	
+37-14	3029-3032	the	p[20]	*[20]	_	
+37-15	3033-3041	circular	p[20]	*[20]	_	
+37-16	3042-3052	roundabout	p[20]	*[20]	_	
+37-17	3053-3054	(	p[20]	*[20]	_	
+37-18	3054-3058	Pont	p[20]	*[20]	_	
+37-19	3059-3061	de	p[20]	*[20]	_	
+37-20	3062-3064	la	p[20]	*[20]	_	
+37-21	3065-3072	Rotonde	p[20]	*[20]	_	
+37-22	3072-3073	)	p[20]	*[20]	_	
+37-23	3073-3074	,	p[20]	*[20]	_	
+37-24	3075-3077	is	p[20]	*[20]	_	
+37-25	3078-3086	striking	p[20]	*[20]	_	
+37-26	3087-3090	due	p[20]	*[20]	_	
+37-27	3091-3093	to	p[20]	*[20]	_	
+37-28	3093-3094	:	p[20]	*[20]	_	
+37-29	3096-3099	Its	_	_	_	
+37-30	3100-3104	bold	_	_	_	
+37-31	3105-3110	color	_	_	_	
+37-32	3111-3117	Smooth	_	_	_	
+37-33	3118-3124	curves	_	_	_	
+37-34	3125-3136	contrasting	_	_	_	
+37-35	3137-3141	with	_	_	_	
+37-36	3142-3145	the	_	_	_	
+37-37	3146-3153	angular	_	_	_	
+37-38	3154-3162	building	_	_	_	
+37-39	3163-3168	forms	_	_	_	
+37-40	3169-3180	Directional	_	_	_	
+37-41	3181-3187	arrows	_	_	_	
+37-42	3188-3191	and	_	_	_	
+37-43	3192-3199	traffic	_	_	_	
+37-44	3200-3204	flow	_	_	_	
+37-45	3205-3210	lines	_	_	_	
+37-46	3211-3217	adding	_	_	_	
+37-47	3218-3225	dynamic	_	_	_	
+37-48	3226-3232	visual	_	_	_	
+37-49	3233-3241	interest	_	_	_	
+37-50	3244-3246	🟥	h2[21]	*[21]	_	
+37-51	3247-3248	5	h2[21]	*[21]	_	
+37-52	3248-3249	.	h2[21]	*[21]	_	
+
+#Text=Dotted Paths and Boundaries  The brown-red dashed lines indicating footpaths or borders stand out due to their density and repetition, especially around the château and gardens
+38-1	3250-3256	Dotted	h2[21]	*[21]	_	
+38-2	3257-3262	Paths	h2[21]	*[21]	_	
+38-3	3263-3266	and	h2[21]	*[21]	_	
+38-4	3267-3277	Boundaries	h2[21]	*[21]	_	
+38-5	3279-3282	The	_	_	_	
+38-6	3283-3292	brown-red	_	_	_	
+38-7	3293-3299	dashed	_	_	_	
+38-8	3300-3305	lines	_	_	_	
+38-9	3306-3316	indicating	_	_	_	
+38-10	3317-3326	footpaths	_	_	_	
+38-11	3327-3329	or	_	_	_	
+38-12	3330-3337	borders	_	_	_	
+38-13	3338-3343	stand	_	_	_	
+38-14	3344-3347	out	_	_	_	
+38-15	3348-3351	due	_	_	_	
+38-16	3352-3354	to	_	_	_	
+38-17	3355-3360	their	_	_	_	
+38-18	3361-3368	density	_	_	_	
+38-19	3369-3372	and	_	_	_	
+38-20	3373-3383	repetition	_	_	_	
+38-21	3383-3384	,	_	_	_	
+38-22	3385-3395	especially	_	_	_	
+38-23	3396-3402	around	_	_	_	
+38-24	3403-3406	the	_	_	_	
+38-25	3407-3414	château	_	_	_	
+38-26	3415-3418	and	_	_	_	
+38-27	3419-3426	gardens	_	_	_	
+
+#Text=.
+39-1	3426-3427	.	_	_	_	
+
+#Text=📦 6.
+40-1	3429-3431	📦	h2[22]	*[22]	_	
+40-2	3432-3433	6	h2[22]	*[22]	_	
+40-3	3433-3434	.	h2[22]	*[22]	_	
+
+#Text=Contrast of Built vs.
+41-1	3435-3443	Contrast	h2[22]	*[22]	_	
+41-2	3444-3446	of	h2[22]	*[22]	_	
+41-3	3447-3452	Built	h2[22]	*[22]	_	
+41-4	3453-3455	vs	h2[22]	*[22]	_	
+41-5	3455-3456	.	h2[22]	*[22]	_	
+
+#Text=Open Space  The contrast between tightly packed tan urban blocks and open white space within the castle grounds and garden areas helps emphasize:  Monumentality Accessibility Historic separation from the urban fabric   In summary, the combination of color (gray, blue, yellow), shape complexity (moat, roundabout), and symbolic density makes the castle, moat, traffic system, and pedestrian areas the most visually dominant features on this map.
+42-1	3457-3461	Open	h2[22]	*[22]	_	
+42-2	3462-3467	Space	h2[22]	*[22]	_	
+42-3	3469-3472	The	p[23]	*[23]	_	
+42-4	3473-3481	contrast	p[23]	*[23]	_	
+42-5	3482-3489	between	p[23]	*[23]	_	
+42-6	3490-3497	tightly	p[23]	*[23]	_	
+42-7	3498-3504	packed	p[23]	*[23]	_	
+42-8	3505-3508	tan	p[23]	*[23]	_	
+42-9	3509-3514	urban	p[23]	*[23]	_	
+42-10	3515-3521	blocks	p[23]	*[23]	_	
+42-11	3522-3525	and	p[23]	*[23]	_	
+42-12	3526-3530	open	p[23]	*[23]	_	
+42-13	3531-3536	white	p[23]	*[23]	_	
+42-14	3537-3542	space	p[23]	*[23]	_	
+42-15	3543-3549	within	p[23]	*[23]	_	
+42-16	3550-3553	the	p[23]	*[23]	_	
+42-17	3554-3560	castle	p[23]	*[23]	_	
+42-18	3561-3568	grounds	p[23]	*[23]	_	
+42-19	3569-3572	and	p[23]	*[23]	_	
+42-20	3573-3579	garden	p[23]	*[23]	_	
+42-21	3580-3585	areas	p[23]	*[23]	_	
+42-22	3586-3591	helps	p[23]	*[23]	_	
+42-23	3592-3601	emphasize	p[23]	*[23]	_	
+42-24	3601-3602	:	p[23]	*[23]	_	
+42-25	3604-3617	Monumentality	_	_	_	
+42-26	3618-3631	Accessibility	_	_	_	
+42-27	3632-3640	Historic	_	_	_	
+42-28	3641-3651	separation	_	_	_	
+42-29	3652-3656	from	_	_	_	
+42-30	3657-3660	the	_	_	_	
+42-31	3661-3666	urban	_	_	_	
+42-32	3667-3673	fabric	_	_	_	
+42-33	3676-3678	In	p[24]	*[24]	_	
+42-34	3679-3686	summary	p[24]	*[24]	_	
+42-35	3686-3687	,	p[24]	*[24]	_	
+42-36	3688-3691	the	p[24]	*[24]	_	
+42-37	3692-3703	combination	p[24]	*[24]	_	
+42-38	3704-3706	of	p[24]	*[24]	_	
+42-39	3707-3712	color	p[24]	*[24]	_	
+42-40	3713-3714	(	p[24]	*[24]	_	
+42-41	3714-3718	gray	p[24]	*[24]	_	
+42-42	3718-3719	,	p[24]	*[24]	_	
+42-43	3720-3724	blue	p[24]	*[24]	_	
+42-44	3724-3725	,	p[24]	*[24]	_	
+42-45	3726-3732	yellow	p[24]	*[24]	_	
+42-46	3732-3733	)	p[24]	*[24]	_	
+42-47	3733-3734	,	p[24]	*[24]	_	
+42-48	3735-3740	shape	p[24]	*[24]	_	
+42-49	3741-3751	complexity	p[24]	*[24]	_	
+42-50	3752-3753	(	p[24]	*[24]	_	
+42-51	3753-3757	moat	p[24]	*[24]	_	
+42-52	3757-3758	,	p[24]	*[24]	_	
+42-53	3759-3769	roundabout	p[24]	*[24]	_	
+42-54	3769-3770	)	p[24]	*[24]	_	
+42-55	3770-3771	,	p[24]	*[24]	_	
+42-56	3772-3775	and	p[24]	*[24]	_	
+42-57	3776-3784	symbolic	p[24]	*[24]	_	
+42-58	3785-3792	density	p[24]	*[24]	_	
+42-59	3793-3798	makes	p[24]	*[24]	_	
+42-60	3799-3802	the	p[24]	*[24]	_	
+42-61	3803-3809	castle	p[24]	*[24]	_	
+42-62	3809-3810	,	p[24]	*[24]	_	
+42-63	3811-3815	moat	p[24]	*[24]	_	
+42-64	3815-3816	,	p[24]	*[24]	_	
+42-65	3817-3824	traffic	p[24]	*[24]	_	
+42-66	3825-3831	system	p[24]	*[24]	_	
+42-67	3831-3832	,	p[24]	*[24]	_	
+42-68	3833-3836	and	p[24]	*[24]	_	
+42-69	3837-3847	pedestrian	p[24]	*[24]	_	
+42-70	3848-3853	areas	p[24]	*[24]	_	
+42-71	3854-3857	the	p[24]	*[24]	_	
+42-72	3858-3862	most	p[24]	*[24]	_	
+42-73	3863-3871	visually	p[24]	*[24]	_	
+42-74	3872-3880	dominant	p[24]	*[24]	_	
+42-75	3881-3889	features	p[24]	*[24]	_	
+42-76	3890-3892	on	p[24]	*[24]	_	
+42-77	3893-3897	this	p[24]	*[24]	_	
+42-78	3898-3901	map	p[24]	*[24]	_	
+42-79	3901-3902	.	p[24]	*[24]	_	
+
+#Text=Would you like a side-by-side comparison of this map with one of the OSM maps you showed earlier?
+43-1	3903-3908	Would	p[25]	*[25]	_	
+43-2	3909-3912	you	p[25]	*[25]	_	
+43-3	3913-3917	like	p[25]	*[25]	_	
+43-4	3918-3919	a	p[25]	*[25]	_	
+43-5	3920-3932	side-by-side	p[25]	*[25]	_	
+43-6	3933-3943	comparison	p[25]	*[25]	_	
+43-7	3944-3946	of	p[25]	*[25]	_	
+43-8	3947-3951	this	p[25]	*[25]	_	
+43-9	3952-3955	map	p[25]	*[25]	_	
+43-10	3956-3960	with	p[25]	*[25]	_	
+43-11	3961-3964	one	p[25]	*[25]	_	
+43-12	3965-3967	of	p[25]	*[25]	_	
+43-13	3968-3971	the	p[25]	*[25]	_	
+43-14	3972-3975	OSM	p[25]	*[25]	_	
+43-15	3976-3980	maps	p[25]	*[25]	_	
+43-16	3981-3984	you	p[25]	*[25]	_	
+43-17	3985-3991	showed	p[25]	*[25]	_	
+43-18	3992-3999	earlier	p[25]	*[25]	_	
+43-19	3999-4000	?	p[25]	*[25]	_	
+
+#Text=Anchors summary  Château des Ducs de Bretagne (named) Moat / water feature surrounding the château (non-named) Place de la Duchesse Anne (named) Roads and roundabout (yellow road system) (non-named) Pont de la Rotonde (roundabout name) (named) Dotted paths and boundaries (red-brown dashed lines) (non-named) Contrast of built vs. open space (urban blocks vs. castle/gardens) (non-named)
+44-1	4001-4008	Anchors	h1[26]	*[26]	_	
+44-2	4009-4016	summary	h1[26]	*[26]	_	
+44-3	4018-4025	Château	_	_	_	
+44-4	4026-4029	des	_	_	_	
+44-5	4030-4034	Ducs	_	_	_	
+44-6	4035-4037	de	_	_	_	
+44-7	4038-4046	Bretagne	_	_	_	
+44-8	4047-4048	(	_	_	_	
+44-9	4048-4053	named	_	_	_	
+44-10	4053-4054	)	_	_	_	
+44-11	4055-4059	Moat	_	_	_	
+44-12	4060-4061	/	_	_	_	
+44-13	4062-4067	water	_	_	_	
+44-14	4068-4075	feature	_	_	_	
+44-15	4076-4087	surrounding	_	_	_	
+44-16	4088-4091	the	_	_	_	
+44-17	4092-4099	château	_	_	_	
+44-18	4100-4101	(	_	_	_	
+44-19	4101-4110	non-named	_	_	_	
+44-20	4110-4111	)	_	_	_	
+44-21	4112-4117	Place	_	_	_	
+44-22	4118-4120	de	_	_	_	
+44-23	4121-4123	la	_	_	_	
+44-24	4124-4132	Duchesse	_	_	_	
+44-25	4133-4137	Anne	_	_	_	
+44-26	4138-4139	(	_	_	_	
+44-27	4139-4144	named	_	_	_	
+44-28	4144-4145	)	_	_	_	
+44-29	4146-4151	Roads	_	_	_	
+44-30	4152-4155	and	_	_	_	
+44-31	4156-4166	roundabout	_	_	_	
+44-32	4167-4168	(	_	_	_	
+44-33	4168-4174	yellow	_	_	_	
+44-34	4175-4179	road	_	_	_	
+44-35	4180-4186	system	_	_	_	
+44-36	4186-4187	)	_	_	_	
+44-37	4188-4189	(	_	_	_	
+44-38	4189-4198	non-named	_	_	_	
+44-39	4198-4199	)	_	_	_	
+44-40	4200-4204	Pont	_	_	_	
+44-41	4205-4207	de	_	_	_	
+44-42	4208-4210	la	_	_	_	
+44-43	4211-4218	Rotonde	_	_	_	
+44-44	4219-4220	(	_	_	_	
+44-45	4220-4230	roundabout	_	_	_	
+44-46	4231-4235	name	_	_	_	
+44-47	4235-4236	)	_	_	_	
+44-48	4237-4238	(	_	_	_	
+44-49	4238-4243	named	_	_	_	
+44-50	4243-4244	)	_	_	_	
+44-51	4245-4251	Dotted	_	_	_	
+44-52	4252-4257	paths	_	_	_	
+44-53	4258-4261	and	_	_	_	
+44-54	4262-4272	boundaries	_	_	_	
+44-55	4273-4274	(	_	_	_	
+44-56	4274-4283	red-brown	_	_	_	
+44-57	4284-4290	dashed	_	_	_	
+44-58	4291-4296	lines	_	_	_	
+44-59	4296-4297	)	_	_	_	
+44-60	4298-4299	(	_	_	_	
+44-61	4299-4308	non-named	_	_	_	
+44-62	4308-4309	)	_	_	_	
+44-63	4310-4318	Contrast	_	_	_	
+44-64	4319-4321	of	_	_	_	
+44-65	4322-4327	built	_	_	_	
+44-66	4328-4330	vs	_	_	_	
+44-67	4330-4331	.	_	_	_	
+44-68	4332-4336	open	_	_	_	
+44-69	4337-4342	space	_	_	_	
+44-70	4343-4344	(	_	_	_	
+44-71	4344-4349	urban	_	_	_	
+44-72	4350-4356	blocks	_	_	_	
+44-73	4357-4359	vs	_	_	_	
+44-74	4359-4360	.	_	_	_	
+44-75	4361-4367	castle	_	_	_	
+44-76	4367-4368	/	_	_	_	
+44-77	4368-4375	gardens	_	_	_	
+44-78	4375-4376	)	_	_	_	
+44-79	4377-4378	(	_	_	_	
+44-80	4378-4387	non-named	_	_	_	
+44-81	4387-4388	)	_	_	_	

@@ -1,0 +1,454 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=The image is a map of Central Park in New York City.
+2-1	42-45	The	p[2]	*[2]	_	
+2-2	46-51	image	p[2]	*[2]	_	
+2-3	52-54	is	p[2]	*[2]	_	
+2-4	55-56	a	p[2]	*[2]	_	
+2-5	57-60	map	p[2]	*[2]	_	
+2-6	61-63	of	p[2]	*[2]	_	
+2-7	64-71	Central	p[2]	*[2]	toponym[22]	
+2-8	72-76	Park	p[2]	*[2]	toponym[22]	
+2-9	77-79	in	p[2]	*[2]	spatial relation	
+2-10	80-83	New	p[2]	*[2]	toponym[23]	
+2-11	84-88	York	p[2]	*[2]	toponym[23]	
+2-12	89-93	City	p[2]	*[2]	toponym[23]	
+2-13	93-94	.	p[2]	*[2]	_	
+
+#Text=Here are the key features visible on the map:  The Lake: A large body of water located in the center of the park.
+3-1	95-99	Here	p[2]	*[2]	_	
+3-2	100-103	are	p[2]	*[2]	_	
+3-3	104-107	the	p[2]	*[2]	_	
+3-4	108-111	key	p[2]	*[2]	_	
+3-5	112-120	features	p[2]	*[2]	_	
+3-6	121-128	visible	p[2]	*[2]	_	
+3-7	129-131	on	p[2]	*[2]	_	
+3-8	132-135	the	p[2]	*[2]	_	
+3-9	136-139	map	p[2]	*[2]	_	
+3-10	139-140	:	p[2]	*[2]	_	
+3-11	142-145	The	p[3]	*[3]	toponym[24]	
+3-12	146-150	Lake	p[3]	*[3]	toponym[24]	
+3-13	150-151	:	p[3]	*[3]	_	
+3-14	152-153	A	p[3]	*[3]	_	
+3-15	154-159	large	p[3]	*[3]	_	
+3-16	160-164	body	p[3]	*[3]	_	
+3-17	165-167	of	p[3]	*[3]	_	
+3-18	168-173	water	p[3]	*[3]	_	
+3-19	174-181	located	p[3]	*[3]	_	
+3-20	182-184	in	p[3]	*[3]	spatial relation[25]	
+3-21	185-188	the	p[3]	*[3]	spatial relation[25]	
+3-22	189-195	center	p[3]	*[3]	spatial relation[25]	
+3-23	196-198	of	p[3]	*[3]	spatial relation[25]	
+3-24	199-202	the	p[3]	*[3]	_	
+3-25	203-207	park	p[3]	*[3]	_	
+3-26	207-208	.	p[3]	*[3]	_	
+
+#Text=Cherry Hill Fountain: Located south of The Lake.
+4-1	209-215	Cherry	p[4]	*[4]	toponym[26]	
+4-2	216-220	Hill	p[4]	*[4]	toponym[26]	
+4-3	221-229	Fountain	p[4]	*[4]	toponym[26]	
+4-4	229-230	:	p[4]	*[4]	_	
+4-5	231-238	Located	p[4]	*[4]	_	
+4-6	239-244	south	p[4]	*[4]	spatial relation[27]	
+4-7	245-247	of	p[4]	*[4]	spatial relation[27]	
+4-8	248-251	The	p[4]	*[4]	toponym[28]	
+4-9	252-256	Lake	p[4]	*[4]	toponym[28]	
+4-10	256-257	.	p[4]	*[4]	_	
+
+#Text=Bethesda Fountain: Situated further south of Cherry Hill Fountain.
+5-1	258-266	Bethesda	p[5]	*[5]	toponym[29]	
+5-2	267-275	Fountain	p[5]	*[5]	toponym[29]	
+5-3	275-276	:	p[5]	*[5]	_	
+5-4	277-285	Situated	p[5]	*[5]	spatial relation[30]	
+5-5	286-293	further	p[5]	*[5]	spatial relation[30]	
+5-6	294-299	south	p[5]	*[5]	spatial relation[30]	
+5-7	300-302	of	p[5]	*[5]	spatial relation[30]	
+5-8	303-309	Cherry	p[5]	*[5]	toponym[31]	
+5-9	310-314	Hill	p[5]	*[5]	toponym[31]	
+5-10	315-323	Fountain	p[5]	*[5]	toponym[31]	
+5-11	323-324	.	p[5]	*[5]	_	
+
+#Text=Azalea Pond: A smaller body of water located east of The Lake.
+6-1	325-331	Azalea	p[6]	*[6]	toponym[32]	
+6-2	332-336	Pond	p[6]	*[6]	toponym[32]	
+6-3	336-337	:	p[6]	*[6]	_	
+6-4	338-339	A	p[6]	*[6]	_	
+6-5	340-347	smaller	p[6]	*[6]	_	
+6-6	348-352	body	p[6]	*[6]	_	
+6-7	353-355	of	p[6]	*[6]	_	
+6-8	356-361	water	p[6]	*[6]	_	
+6-9	362-369	located	p[6]	*[6]	spatial relation[33]	
+6-10	370-374	east	p[6]	*[6]	spatial relation[33]	
+6-11	375-377	of	p[6]	*[6]	spatial relation[33]	
+6-12	378-381	The	p[6]	*[6]	toponym[34]	
+6-13	382-386	Lake	p[6]	*[6]	toponym[34]	
+6-14	386-387	.	p[6]	*[6]	_	
+
+#Text=Surrounding Streets: The map shows the streets surrounding Central Park, including:   Central Park West on the west side. 5th Avenue on the east side.
+7-1	388-399	Surrounding	p[7]	*[7]	_	
+7-2	400-407	Streets	p[7]	*[7]	_	
+7-3	407-408	:	p[7]	*[7]	_	
+7-4	409-412	The	p[7]	*[7]	_	
+7-5	413-416	map	p[7]	*[7]	_	
+7-6	417-422	shows	p[7]	*[7]	_	
+7-7	423-426	the	p[7]	*[7]	_	
+7-8	427-434	streets	p[7]	*[7]	_	
+7-9	435-446	surrounding	p[7]	*[7]	spatial relation	
+7-10	447-454	Central	p[7]	*[7]	toponym[35]	
+7-11	455-459	Park	p[7]	*[7]	toponym[35]	
+7-12	459-460	,	p[7]	*[7]	_	
+7-13	461-470	including	p[7]	*[7]	_	
+7-14	470-471	:	p[7]	*[7]	_	
+7-15	474-481	Central	p[8]	*[8]	toponym[36]	
+7-16	482-486	Park	p[8]	*[8]	toponym[36]	
+7-17	487-491	West	p[8]	*[8]	toponym[36]	
+7-18	492-494	on	p[8]	*[8]	spatial relation[37]	
+7-19	495-498	the	p[8]	*[8]	spatial relation[37]	
+7-20	499-503	west	p[8]	*[8]	spatial relation[37]	
+7-21	504-508	side	p[8]	*[8]	spatial relation[37]	
+7-22	508-509	.	p[8]	*[8]	_	
+7-23	510-513	5th	p[9]	*[9]	toponym[38]	
+7-24	514-520	Avenue	p[9]	*[9]	toponym[38]	
+7-25	521-523	on	p[9]	*[9]	spatial relation[39]	
+7-26	524-527	the	p[9]	*[9]	spatial relation[39]	
+7-27	528-532	east	p[9]	*[9]	spatial relation[39]	
+7-28	533-537	side	p[9]	*[9]	spatial relation[39]	
+7-29	537-538	.	p[9]	*[9]	_	
+
+#Text=West 72nd Street and West 79th Street on the west side.
+8-1	539-543	West	p[10]	*[10]	toponym[40]	
+8-2	544-548	72nd	p[10]	*[10]	toponym[40]	
+8-3	549-555	Street	p[10]	*[10]	toponym[40]	
+8-4	556-559	and	p[10]	*[10]	_	
+8-5	560-564	West	p[10]	*[10]	toponym[41]	
+8-6	565-569	79th	p[10]	*[10]	toponym[41]	
+8-7	570-576	Street	p[10]	*[10]	toponym[41]	
+8-8	577-579	on	p[10]	*[10]	spatial relation[42]	
+8-9	580-583	the	p[10]	*[10]	spatial relation[42]	
+8-10	584-588	west	p[10]	*[10]	spatial relation[42]	
+8-11	589-593	side	p[10]	*[10]	spatial relation[42]	
+8-12	593-594	.	p[10]	*[10]	_	
+
+#Text=West 66th Street and East 79th Street Transverse cutting through the park.
+9-1	595-599	West	p[11]	*[11]	toponym[43]	
+9-2	600-604	66th	p[11]	*[11]	toponym[43]	
+9-3	605-611	Street	p[11]	*[11]	toponym[43]	
+9-4	612-615	and	p[11]	*[11]	_	
+9-5	616-620	East	p[11]	*[11]	toponym[44]	
+9-6	621-625	79th	p[11]	*[11]	toponym[44]	
+9-7	626-632	Street	p[11]	*[11]	toponym[44]	
+9-8	633-643	Transverse	p[11]	*[11]	toponym[44]	
+9-9	644-651	cutting	p[11]	*[11]	spatial relation[45]	
+9-10	652-659	through	p[11]	*[11]	spatial relation[45]	
+9-11	660-663	the	p[11]	*[11]	_	
+9-12	664-668	park	p[11]	*[11]	_	
+9-13	668-669	.	p[11]	*[11]	_	
+
+#Text=East 72nd Street on the east side.
+10-1	670-674	East	p[12]	*[12]	toponym[46]	
+10-2	675-679	72nd	p[12]	*[12]	toponym[46]	
+10-3	680-686	Street	p[12]	*[12]	toponym[46]	
+10-4	687-689	on	p[12]	*[12]	spatial relation[47]	
+10-5	690-693	the	p[12]	*[12]	spatial relation[47]	
+10-6	694-698	east	p[12]	*[12]	spatial relation[47]	
+10-7	699-703	side	p[12]	*[12]	spatial relation[47]	
+10-8	703-704	.	p[12]	*[12]	_	
+
+#Text=The map provides a clear layout of the central portion of Central Park, highlighting some of its notable landmarks and water features.
+11-1	706-709	The	p[13]	*[13]	_	
+11-2	710-713	map	p[13]	*[13]	_	
+11-3	714-722	provides	p[13]	*[13]	_	
+11-4	723-724	a	p[13]	*[13]	_	
+11-5	725-730	clear	p[13]	*[13]	_	
+11-6	731-737	layout	p[13]	*[13]	_	
+11-7	738-740	of	p[13]	*[13]	_	
+11-8	741-744	the	p[13]	*[13]	_	
+11-9	745-752	central	p[13]	*[13]	_	
+11-10	753-760	portion	p[13]	*[13]	_	
+11-11	761-763	of	p[13]	*[13]	_	
+11-12	764-771	Central	p[13]	*[13]	toponym[48]	
+11-13	772-776	Park	p[13]	*[13]	toponym[48]	
+11-14	776-777	,	p[13]	*[13]	_	
+11-15	778-790	highlighting	p[13]	*[13]	_	
+11-16	791-795	some	p[13]	*[13]	_	
+11-17	796-798	of	p[13]	*[13]	_	
+11-18	799-802	its	p[13]	*[13]	_	
+11-19	803-810	notable	p[13]	*[13]	_	
+11-20	811-820	landmarks	p[13]	*[13]	_	
+11-21	821-824	and	p[13]	*[13]	_	
+11-22	825-830	water	p[13]	*[13]	_	
+11-23	831-839	features	p[13]	*[13]	_	
+11-24	839-840	.	p[13]	*[13]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+12-1	841-844	Can	h1[14]	*[14]	_	
+12-2	845-848	you	h1[14]	*[14]	_	
+12-3	849-857	describe	h1[14]	*[14]	_	
+12-4	858-861	the	h1[14]	*[14]	_	
+12-5	862-866	most	h1[14]	*[14]	_	
+12-6	867-875	visually	h1[14]	*[14]	_	
+12-7	876-883	salient	h1[14]	*[14]	_	
+12-8	884-892	elements	h1[14]	*[14]	_	
+12-9	893-895	of	h1[14]	*[14]	_	
+12-10	896-899	the	h1[14]	*[14]	_	
+12-11	900-903	map	h1[14]	*[14]	_	
+12-12	903-904	?	h1[14]	*[14]	_	
+
+#Text=The most visually salient elements of the map are:  The Lake: This is the most prominent feature on the map due to its size and central location.
+13-1	905-908	The	p[15]	*[15]	_	
+13-2	909-913	most	p[15]	*[15]	_	
+13-3	914-922	visually	p[15]	*[15]	_	
+13-4	923-930	salient	p[15]	*[15]	_	
+13-5	931-939	elements	p[15]	*[15]	_	
+13-6	940-942	of	p[15]	*[15]	_	
+13-7	943-946	the	p[15]	*[15]	_	
+13-8	947-950	map	p[15]	*[15]	_	
+13-9	951-954	are	p[15]	*[15]	_	
+13-10	954-955	:	p[15]	*[15]	_	
+13-11	957-960	The	p[16]	*[16]	_	
+13-12	961-965	Lake	p[16]	*[16]	_	
+13-13	965-966	:	p[16]	*[16]	_	
+13-14	967-971	This	p[16]	*[16]	_	
+13-15	972-974	is	p[16]	*[16]	_	
+13-16	975-978	the	p[16]	*[16]	_	
+13-17	979-983	most	p[16]	*[16]	_	
+13-18	984-993	prominent	p[16]	*[16]	_	
+13-19	994-1001	feature	p[16]	*[16]	_	
+13-20	1002-1004	on	p[16]	*[16]	_	
+13-21	1005-1008	the	p[16]	*[16]	_	
+13-22	1009-1012	map	p[16]	*[16]	_	
+13-23	1013-1016	due	p[16]	*[16]	_	
+13-24	1017-1019	to	p[16]	*[16]	_	
+13-25	1020-1023	its	p[16]	*[16]	_	
+13-26	1024-1028	size	p[16]	*[16]	_	
+13-27	1029-1032	and	p[16]	*[16]	_	
+13-28	1033-1040	central	p[16]	*[16]	_	
+13-29	1041-1049	location	p[16]	*[16]	_	
+13-30	1049-1050	.	p[16]	*[16]	_	
+
+#Text=It occupies a significant portion of the map’s area and is easily noticeable.
+14-1	1051-1053	It	p[16]	*[16]	_	
+14-2	1054-1062	occupies	p[16]	*[16]	_	
+14-3	1063-1064	a	p[16]	*[16]	_	
+14-4	1065-1076	significant	p[16]	*[16]	_	
+14-5	1077-1084	portion	p[16]	*[16]	_	
+14-6	1085-1087	of	p[16]	*[16]	_	
+14-7	1088-1091	the	p[16]	*[16]	_	
+14-8	1092-1095	map	p[16]	*[16]	_	
+14-9	1095-1096	’	p[16]	*[16]	_	
+14-10	1096-1097	s	p[16]	*[16]	_	
+14-11	1098-1102	area	p[16]	*[16]	_	
+14-12	1103-1106	and	p[16]	*[16]	_	
+14-13	1107-1109	is	p[16]	*[16]	_	
+14-14	1110-1116	easily	p[16]	*[16]	_	
+14-15	1117-1127	noticeable	p[16]	*[16]	_	
+14-16	1127-1128	.	p[16]	*[16]	_	
+
+#Text=Cherry Hill Fountain and Bethesda Fountain: These are labeled points of interest that stand out due to their textual markings on the map.
+15-1	1129-1135	Cherry	p[17]	*[17]	_	
+15-2	1136-1140	Hill	p[17]	*[17]	_	
+15-3	1141-1149	Fountain	p[17]	*[17]	_	
+15-4	1150-1153	and	p[17]	*[17]	_	
+15-5	1154-1162	Bethesda	p[17]	*[17]	_	
+15-6	1163-1171	Fountain	p[17]	*[17]	_	
+15-7	1171-1172	:	p[17]	*[17]	_	
+15-8	1173-1178	These	p[17]	*[17]	_	
+15-9	1179-1182	are	p[17]	*[17]	_	
+15-10	1183-1190	labeled	p[17]	*[17]	_	
+15-11	1191-1197	points	p[17]	*[17]	_	
+15-12	1198-1200	of	p[17]	*[17]	_	
+15-13	1201-1209	interest	p[17]	*[17]	_	
+15-14	1210-1214	that	p[17]	*[17]	_	
+15-15	1215-1220	stand	p[17]	*[17]	_	
+15-16	1221-1224	out	p[17]	*[17]	_	
+15-17	1225-1228	due	p[17]	*[17]	_	
+15-18	1229-1231	to	p[17]	*[17]	_	
+15-19	1232-1237	their	p[17]	*[17]	_	
+15-20	1238-1245	textual	p[17]	*[17]	_	
+15-21	1246-1254	markings	p[17]	*[17]	_	
+15-22	1255-1257	on	p[17]	*[17]	_	
+15-23	1258-1261	the	p[17]	*[17]	_	
+15-24	1262-1265	map	p[17]	*[17]	_	
+15-25	1265-1266	.	p[17]	*[17]	_	
+
+#Text=They are located near The Lake, adding to their visual prominence.
+16-1	1267-1271	They	p[17]	*[17]	_	
+16-2	1272-1275	are	p[17]	*[17]	_	
+16-3	1276-1283	located	p[17]	*[17]	_	
+16-4	1284-1288	near	p[17]	*[17]	_	
+16-5	1289-1292	The	p[17]	*[17]	_	
+16-6	1293-1297	Lake	p[17]	*[17]	_	
+16-7	1297-1298	,	p[17]	*[17]	_	
+16-8	1299-1305	adding	p[17]	*[17]	_	
+16-9	1306-1308	to	p[17]	*[17]	_	
+16-10	1309-1314	their	p[17]	*[17]	_	
+16-11	1315-1321	visual	p[17]	*[17]	_	
+16-12	1322-1332	prominence	p[17]	*[17]	_	
+16-13	1332-1333	.	p[17]	*[17]	_	
+
+#Text=Azalea Pond: Although smaller than The Lake, it is still a noticeable water feature on the map, especially due to its distinct shape and positioning.
+17-1	1334-1340	Azalea	p[18]	*[18]	_	
+17-2	1341-1345	Pond	p[18]	*[18]	_	
+17-3	1345-1346	:	p[18]	*[18]	_	
+17-4	1347-1355	Although	p[18]	*[18]	_	
+17-5	1356-1363	smaller	p[18]	*[18]	_	
+17-6	1364-1368	than	p[18]	*[18]	_	
+17-7	1369-1372	The	p[18]	*[18]	_	
+17-8	1373-1377	Lake	p[18]	*[18]	_	
+17-9	1377-1378	,	p[18]	*[18]	_	
+17-10	1379-1381	it	p[18]	*[18]	_	
+17-11	1382-1384	is	p[18]	*[18]	_	
+17-12	1385-1390	still	p[18]	*[18]	_	
+17-13	1391-1392	a	p[18]	*[18]	_	
+17-14	1393-1403	noticeable	p[18]	*[18]	_	
+17-15	1404-1409	water	p[18]	*[18]	_	
+17-16	1410-1417	feature	p[18]	*[18]	_	
+17-17	1418-1420	on	p[18]	*[18]	_	
+17-18	1421-1424	the	p[18]	*[18]	_	
+17-19	1425-1428	map	p[18]	*[18]	_	
+17-20	1428-1429	,	p[18]	*[18]	_	
+17-21	1430-1440	especially	p[18]	*[18]	_	
+17-22	1441-1444	due	p[18]	*[18]	_	
+17-23	1445-1447	to	p[18]	*[18]	_	
+17-24	1448-1451	its	p[18]	*[18]	_	
+17-25	1452-1460	distinct	p[18]	*[18]	_	
+17-26	1461-1466	shape	p[18]	*[18]	_	
+17-27	1467-1470	and	p[18]	*[18]	_	
+17-28	1471-1482	positioning	p[18]	*[18]	_	
+17-29	1482-1483	.	p[18]	*[18]	_	
+
+#Text=Street Grid: The surrounding streets, such as Central Park West and 5th Avenue, form a clear grid pattern around the park, providing a structured backdrop to the natural features within the park.
+18-1	1484-1490	Street	p[19]	*[19]	_	
+18-2	1491-1495	Grid	p[19]	*[19]	_	
+18-3	1495-1496	:	p[19]	*[19]	_	
+18-4	1497-1500	The	p[19]	*[19]	_	
+18-5	1501-1512	surrounding	p[19]	*[19]	_	
+18-6	1513-1520	streets	p[19]	*[19]	_	
+18-7	1520-1521	,	p[19]	*[19]	_	
+18-8	1522-1526	such	p[19]	*[19]	_	
+18-9	1527-1529	as	p[19]	*[19]	_	
+18-10	1530-1537	Central	p[19]	*[19]	_	
+18-11	1538-1542	Park	p[19]	*[19]	_	
+18-12	1543-1547	West	p[19]	*[19]	_	
+18-13	1548-1551	and	p[19]	*[19]	_	
+18-14	1552-1555	5th	p[19]	*[19]	_	
+18-15	1556-1562	Avenue	p[19]	*[19]	_	
+18-16	1562-1563	,	p[19]	*[19]	_	
+18-17	1564-1568	form	p[19]	*[19]	_	
+18-18	1569-1570	a	p[19]	*[19]	_	
+18-19	1571-1576	clear	p[19]	*[19]	_	
+18-20	1577-1581	grid	p[19]	*[19]	_	
+18-21	1582-1589	pattern	p[19]	*[19]	_	
+18-22	1590-1596	around	p[19]	*[19]	_	
+18-23	1597-1600	the	p[19]	*[19]	_	
+18-24	1601-1605	park	p[19]	*[19]	_	
+18-25	1605-1606	,	p[19]	*[19]	_	
+18-26	1607-1616	providing	p[19]	*[19]	_	
+18-27	1617-1618	a	p[19]	*[19]	_	
+18-28	1619-1629	structured	p[19]	*[19]	_	
+18-29	1630-1638	backdrop	p[19]	*[19]	_	
+18-30	1639-1641	to	p[19]	*[19]	_	
+18-31	1642-1645	the	p[19]	*[19]	_	
+18-32	1646-1653	natural	p[19]	*[19]	_	
+18-33	1654-1662	features	p[19]	*[19]	_	
+18-34	1663-1669	within	p[19]	*[19]	_	
+18-35	1670-1673	the	p[19]	*[19]	_	
+18-36	1674-1678	park	p[19]	*[19]	_	
+18-37	1678-1679	.	p[19]	*[19]	_	
+
+#Text=These elements are visually salient because they are either large, centrally located, or distinctly labeled, making them focal points on the map.
+19-1	1681-1686	These	p[20]	*[20]	_	
+19-2	1687-1695	elements	p[20]	*[20]	_	
+19-3	1696-1699	are	p[20]	*[20]	_	
+19-4	1700-1708	visually	p[20]	*[20]	_	
+19-5	1709-1716	salient	p[20]	*[20]	_	
+19-6	1717-1724	because	p[20]	*[20]	_	
+19-7	1725-1729	they	p[20]	*[20]	_	
+19-8	1730-1733	are	p[20]	*[20]	_	
+19-9	1734-1740	either	p[20]	*[20]	_	
+19-10	1741-1746	large	p[20]	*[20]	_	
+19-11	1746-1747	,	p[20]	*[20]	_	
+19-12	1748-1757	centrally	p[20]	*[20]	_	
+19-13	1758-1765	located	p[20]	*[20]	_	
+19-14	1765-1766	,	p[20]	*[20]	_	
+19-15	1767-1769	or	p[20]	*[20]	_	
+19-16	1770-1780	distinctly	p[20]	*[20]	_	
+19-17	1781-1788	labeled	p[20]	*[20]	_	
+19-18	1788-1789	,	p[20]	*[20]	_	
+19-19	1790-1796	making	p[20]	*[20]	_	
+19-20	1797-1801	them	p[20]	*[20]	_	
+19-21	1802-1807	focal	p[20]	*[20]	_	
+19-22	1808-1814	points	p[20]	*[20]	_	
+19-23	1815-1817	on	p[20]	*[20]	_	
+19-24	1818-1821	the	p[20]	*[20]	_	
+19-25	1822-1825	map	p[20]	*[20]	_	
+19-26	1825-1826	.	p[20]	*[20]	_	
+
+#Text=Anchors summary  The Lake Cherry Hill Fountain Bethesda Fountain Azalea Pond Street grid / surrounding streets (Central Park West; 5th Avenue; West 72nd Street; West 79th Street; West 66th Street; East 79th Street Transverse; East 72nd Street) Labeled points of interest / textual map labels
+20-1	1827-1834	Anchors	h1[21]	*[21]	_	
+20-2	1835-1842	summary	h1[21]	*[21]	_	
+20-3	1844-1847	The	_	_	_	
+20-4	1848-1852	Lake	_	_	_	
+20-5	1853-1859	Cherry	_	_	_	
+20-6	1860-1864	Hill	_	_	_	
+20-7	1865-1873	Fountain	_	_	_	
+20-8	1874-1882	Bethesda	_	_	_	
+20-9	1883-1891	Fountain	_	_	_	
+20-10	1892-1898	Azalea	_	_	_	
+20-11	1899-1903	Pond	_	_	_	
+20-12	1904-1910	Street	_	_	_	
+20-13	1911-1915	grid	_	_	_	
+20-14	1916-1917	/	_	_	_	
+20-15	1918-1929	surrounding	_	_	_	
+20-16	1930-1937	streets	_	_	_	
+20-17	1938-1939	(	_	_	_	
+20-18	1939-1946	Central	_	_	_	
+20-19	1947-1951	Park	_	_	_	
+20-20	1952-1956	West	_	_	_	
+20-21	1956-1957	;	_	_	_	
+20-22	1958-1961	5th	_	_	_	
+20-23	1962-1968	Avenue	_	_	_	
+20-24	1968-1969	;	_	_	_	
+20-25	1970-1974	West	_	_	_	
+20-26	1975-1979	72nd	_	_	_	
+20-27	1980-1986	Street	_	_	_	
+20-28	1986-1987	;	_	_	_	
+20-29	1988-1992	West	_	_	_	
+20-30	1993-1997	79th	_	_	_	
+20-31	1998-2004	Street	_	_	_	
+20-32	2004-2005	;	_	_	_	
+20-33	2006-2010	West	_	_	_	
+20-34	2011-2015	66th	_	_	_	
+20-35	2016-2022	Street	_	_	_	
+20-36	2022-2023	;	_	_	_	
+20-37	2024-2028	East	_	_	_	
+20-38	2029-2033	79th	_	_	_	
+20-39	2034-2040	Street	_	_	_	
+20-40	2041-2051	Transverse	_	_	_	
+20-41	2051-2052	;	_	_	_	
+20-42	2053-2057	East	_	_	_	
+20-43	2058-2062	72nd	_	_	_	
+20-44	2063-2069	Street	_	_	_	
+20-45	2069-2070	)	_	_	_	
+20-46	2071-2078	Labeled	_	_	_	
+20-47	2079-2085	points	_	_	_	
+20-48	2086-2088	of	_	_	_	
+20-49	2089-2097	interest	_	_	_	
+20-50	2098-2099	/	_	_	_	
+20-51	2100-2107	textual	_	_	_	
+20-52	2108-2111	map	_	_	_	
+20-53	2112-2118	labels	_	_	_	

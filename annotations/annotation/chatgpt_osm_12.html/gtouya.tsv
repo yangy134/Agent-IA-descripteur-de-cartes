@@ -1,0 +1,996 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=This map shows the region surrounding Santander, a coastal city in northern Spain.
+2-1	42-46	This	p[2]	*[2]	_	
+2-2	47-50	map	p[2]	*[2]	_	
+2-3	51-56	shows	p[2]	*[2]	_	
+2-4	57-60	the	p[2]	*[2]	_	
+2-5	61-67	region	p[2]	*[2]	_	
+2-6	68-79	surrounding	p[2]	*[2]	toponym	
+2-7	80-89	Santander	p[2]	*[2]	toponym	
+2-8	89-90	,	p[2]	*[2]	_	
+2-9	91-92	a	p[2]	*[2]	_	
+2-10	93-100	coastal	p[2]	*[2]	_	
+2-11	101-105	city	p[2]	*[2]	_	
+2-12	106-108	in	p[2]	*[2]	_	
+2-13	109-117	northern	p[2]	*[2]	spatial relation	
+2-14	118-123	Spain	p[2]	*[2]	toponym	
+2-15	123-124	.	p[2]	*[2]	_	
+
+#Text=Here's a breakdown of its key content and visual structure: 🗺️ General Context  Geographic Scope: The map covers the Bay of Santander, surrounding towns, and road networks.
+3-1	125-131	Here's	p[2]	*[2]	_	
+3-2	132-133	a	p[2]	*[2]	_	
+3-3	134-143	breakdown	p[2]	*[2]	_	
+3-4	144-146	of	p[2]	*[2]	_	
+3-5	147-150	its	p[2]	*[2]	_	
+3-6	151-154	key	p[2]	*[2]	_	
+3-7	155-162	content	p[2]	*[2]	_	
+3-8	163-166	and	p[2]	*[2]	_	
+3-9	167-173	visual	p[2]	*[2]	_	
+3-10	174-183	structure	p[2]	*[2]	_	
+3-11	183-184	:	p[2]	*[2]	_	
+3-12	185-188	🗺️	h2[3]	*[3]	_	
+3-13	189-196	General	h2[3]	*[3]	_	
+3-14	197-204	Context	h2[3]	*[3]	_	
+3-15	206-216	Geographic	_	_	_	
+3-16	217-222	Scope	_	_	_	
+3-17	222-223	:	_	_	_	
+3-18	224-227	The	_	_	_	
+3-19	228-231	map	_	_	_	
+3-20	232-238	covers	_	_	_	
+3-21	239-242	the	_	_	_	
+3-22	243-246	Bay	_	_	toponym[22]	
+3-23	247-249	of	_	_	toponym[22]	
+3-24	250-259	Santander	_	_	toponym[22]	
+3-25	259-260	,	_	_	_	
+3-26	261-272	surrounding	_	_	spatial relation	
+3-27	273-278	towns	_	_	_	
+3-28	278-279	,	_	_	_	
+3-29	280-283	and	_	_	_	
+3-30	284-288	road	_	_	_	
+3-31	289-297	networks	_	_	_	
+3-32	297-298	.	_	_	_	
+
+#Text=Orientation: North is at the top.
+4-1	299-310	Orientation	_	_	_	
+4-2	310-311	:	_	_	_	
+4-3	312-317	North	_	_	_	
+4-4	318-320	is	_	_	_	
+4-5	321-323	at	_	_	_	
+4-6	324-327	the	_	_	_	
+4-7	328-331	top	_	_	_	
+4-8	331-332	.	_	_	_	
+
+#Text=The Cantabrian Sea borders the map to the north
+5-1	333-336	The	_	_	_	
+5-2	337-347	Cantabrian	_	_	toponym[23]	
+5-3	348-351	Sea	_	_	toponym[23]	
+5-4	352-359	borders	_	_	spatial relation	
+5-5	360-363	the	_	_	_	
+5-6	364-367	map	_	_	_	
+5-7	368-370	to	_	_	spatial relation[24]	
+5-8	371-374	the	_	_	spatial relation[24]	
+5-9	375-380	north	_	_	spatial relation[24]	
+
+#Text=.
+6-1	380-381	.	_	_	_	
+
+#Text=🏙️ Urban and Suburban Areas  Santander is prominently placed near the center, along the coast, marked by dense road networks and urban labels.
+7-1	383-386	🏙️	h2[4]	*[4]	_	
+7-2	387-392	Urban	h2[4]	*[4]	_	
+7-3	393-396	and	h2[4]	*[4]	_	
+7-4	397-405	Suburban	h2[4]	*[4]	_	
+7-5	406-411	Areas	h2[4]	*[4]	_	
+7-6	413-422	Santander	_	_	toponym	
+7-7	423-425	is	_	_	_	
+7-8	426-437	prominently	_	_	_	
+7-9	438-444	placed	_	_	_	
+7-10	445-449	near	_	_	spatial relation	
+7-11	450-453	the	_	_	spatial relation[25]	
+7-12	454-460	center	_	_	spatial relation[25]	
+7-13	460-461	,	_	_	_	
+7-14	462-467	along	_	_	spatial relation[26]	
+7-15	468-471	the	_	_	spatial relation[26]	
+7-16	472-477	coast	_	_	spatial relation[26]	
+7-17	477-478	,	_	_	_	
+7-18	479-485	marked	_	_	_	
+7-19	486-488	by	_	_	_	
+7-20	489-494	dense	_	_	_	
+7-21	495-499	road	_	_	_	
+7-22	500-508	networks	_	_	_	
+7-23	509-512	and	_	_	_	
+7-24	513-518	urban	_	_	_	
+7-25	519-525	labels	_	_	_	
+7-26	525-526	.	_	_	_	
+
+#Text=Suburbs and towns like Camargo, Santa Cruz de Bezana, El Astillero, Solares, and San Román de la Llanilla surround the city
+8-1	527-534	Suburbs	_	_	_	
+8-2	535-538	and	_	_	_	
+8-3	539-544	towns	_	_	_	
+8-4	545-549	like	_	_	_	
+8-5	550-557	Camargo	_	_	toponym	
+8-6	557-558	,	_	_	_	
+8-7	559-564	Santa	_	_	toponym[27]	
+8-8	565-569	Cruz	_	_	toponym[27]	
+8-9	570-572	de	_	_	toponym[27]	
+8-10	573-579	Bezana	_	_	toponym[27]	
+8-11	579-580	,	_	_	_	
+8-12	581-583	El	_	_	toponym[28]	
+8-13	584-593	Astillero	_	_	toponym[28]	
+8-14	593-594	,	_	_	_	
+8-15	595-602	Solares	_	_	toponym	
+8-16	602-603	,	_	_	_	
+8-17	604-607	and	_	_	_	
+8-18	608-611	San	_	_	toponym[29]	
+8-19	612-617	Román	_	_	toponym[29]	
+8-20	618-620	de	_	_	toponym[29]	
+8-21	621-623	la	_	_	toponym[29]	
+8-22	624-632	Llanilla	_	_	toponym[29]	
+8-23	633-641	surround	_	_	spatial relation	
+8-24	642-645	the	_	_	_	
+8-25	646-650	city	_	_	_	
+
+#Text=.
+9-1	650-651	.	_	_	_	
+
+#Text=🌊 Coastal and Marine Features  The Bay of Santander dominates the northeast quadrant, with inlets and docks.
+10-1	653-655	🌊	h2[5]	*[5]	_	
+10-2	656-663	Coastal	h2[5]	*[5]	_	
+10-3	664-667	and	h2[5]	*[5]	_	
+10-4	668-674	Marine	h2[5]	*[5]	_	
+10-5	675-683	Features	h2[5]	*[5]	_	
+10-6	685-688	The	_	_	_	
+10-7	689-692	Bay	_	_	toponym[30]	
+10-8	693-695	of	_	_	toponym[30]	
+10-9	696-705	Santander	_	_	toponym[30]	
+10-10	706-715	dominates	_	_	_	
+10-11	716-719	the	_	_	spatial relation[31]	
+10-12	720-729	northeast	_	_	spatial relation[31]	
+10-13	730-738	quadrant	_	_	spatial relation[31]	
+10-14	738-739	,	_	_	_	
+10-15	740-744	with	_	_	_	
+10-16	745-751	inlets	_	_	_	
+10-17	752-755	and	_	_	_	
+10-18	756-761	docks	_	_	_	
+10-19	761-762	.	_	_	_	
+
+#Text=Dotted blue lines indicate ferry routes or marine boundaries.
+11-1	763-769	Dotted	_	_	_	
+11-2	770-774	blue	_	_	_	
+11-3	775-780	lines	_	_	_	
+11-4	781-789	indicate	_	_	_	
+11-5	790-795	ferry	_	_	_	
+11-6	796-802	routes	_	_	_	
+11-7	803-805	or	_	_	_	
+11-8	806-812	marine	_	_	_	
+11-9	813-823	boundaries	_	_	_	
+11-10	823-824	.	_	_	_	
+
+#Text=Coastal towns like Somo and Pedreña are shown on the eastern shore
+12-1	825-832	Coastal	_	_	_	
+12-2	833-838	towns	_	_	_	
+12-3	839-843	like	_	_	_	
+12-4	844-848	Somo	_	_	toponym	
+12-5	849-852	and	_	_	_	
+12-6	853-860	Pedreña	_	_	toponym	
+12-7	861-864	are	_	_	_	
+12-8	865-870	shown	_	_	_	
+12-9	871-873	on	_	_	spatial relation[32]	
+12-10	874-877	the	_	_	spatial relation[32]	
+12-11	878-885	eastern	_	_	spatial relation[32]	
+12-12	886-891	shore	_	_	spatial relation[32]	
+
+#Text=.
+13-1	891-892	.	_	_	_	
+
+#Text=🚗 Transportation  Major Roads: The A-67, S-10, and N-611 are highly visible in red and pink hues.
+14-1	894-896	🚗	h2[6]	*[6]	_	
+14-2	897-911	Transportation	h2[6]	*[6]	_	
+14-3	913-918	Major	_	_	_	
+14-4	919-924	Roads	_	_	_	
+14-5	924-925	:	_	_	_	
+14-6	926-929	The	_	_	_	
+14-7	930-931	A	_	_	toponym[33]	
+14-8	931-932	-	_	_	toponym[33]	
+14-9	932-934	67	_	_	toponym[33]	
+14-10	934-935	,	_	_	_	
+14-11	936-937	S	_	_	toponym[34]	
+14-12	937-938	-	_	_	toponym[34]	
+14-13	938-940	10	_	_	toponym[34]	
+14-14	940-941	,	_	_	_	
+14-15	942-945	and	_	_	_	
+14-16	946-947	N	_	_	toponym[35]	
+14-17	947-948	-	_	_	toponym[35]	
+14-18	948-951	611	_	_	toponym[35]	
+14-19	952-955	are	_	_	_	
+14-20	956-962	highly	_	_	_	
+14-21	963-970	visible	_	_	_	
+14-22	971-973	in	_	_	_	
+14-23	974-977	red	_	_	_	
+14-24	978-981	and	_	_	_	
+14-25	982-986	pink	_	_	_	
+14-26	987-991	hues	_	_	_	
+14-27	991-992	.	_	_	_	
+
+#Text=Their labels (e.g., 1, 3A, 10) make them prominent.
+15-1	993-998	Their	_	_	_	
+15-2	999-1005	labels	_	_	_	
+15-3	1006-1007	(	_	_	_	
+15-4	1007-1010	e.g	_	_	_	
+15-5	1010-1011	.	_	_	_	
+15-6	1011-1012	,	_	_	_	
+15-7	1013-1014	1	_	_	toponym	
+15-8	1014-1015	,	_	_	_	
+15-9	1016-1018	3A	_	_	toponym	
+15-10	1018-1019	,	_	_	_	
+15-11	1020-1022	10	_	_	toponym	
+15-12	1022-1023	)	_	_	_	
+15-13	1024-1028	make	_	_	_	
+15-14	1029-1033	them	_	_	_	
+15-15	1034-1043	prominent	_	_	_	
+15-16	1043-1044	.	_	_	_	
+
+#Text=Highway Junctions and interchanges are noticeable near El Astillero, Camargo, and Valdecilla.
+16-1	1045-1052	Highway	_	_	_	
+16-2	1053-1062	Junctions	_	_	_	
+16-3	1063-1066	and	_	_	_	
+16-4	1067-1079	interchanges	_	_	_	
+16-5	1080-1083	are	_	_	_	
+16-6	1084-1094	noticeable	_	_	_	
+16-7	1095-1099	near	_	_	_	
+16-8	1100-1102	El	_	_	toponym[36]	
+16-9	1103-1112	Astillero	_	_	toponym[36]	
+16-10	1112-1113	,	_	_	_	
+16-11	1114-1121	Camargo	_	_	toponym	
+16-12	1121-1122	,	_	_	_	
+16-13	1123-1126	and	_	_	_	
+16-14	1127-1137	Valdecilla	_	_	toponym	
+16-15	1137-1138	.	_	_	_	
+
+#Text=Railway lines (thin black lines) pass through key urban centers.
+17-1	1139-1146	Railway	_	_	_	
+17-2	1147-1152	lines	_	_	_	
+17-3	1153-1154	(	_	_	_	
+17-4	1154-1158	thin	_	_	_	
+17-5	1159-1164	black	_	_	_	
+17-6	1165-1170	lines	_	_	_	
+17-7	1170-1171	)	_	_	_	
+17-8	1172-1176	pass	_	_	spatial relation[37]	
+17-9	1177-1184	through	_	_	spatial relation[37]	
+17-10	1185-1188	key	_	_	_	
+17-11	1189-1194	urban	_	_	_	
+17-12	1195-1202	centers	_	_	_	
+17-13	1202-1203	.	_	_	_	
+
+#Text=Airport: A small airplane icon near Maliaño suggests the location of Santander Airport (SDR)
+18-1	1204-1211	Airport	_	_	_	
+18-2	1211-1212	:	_	_	_	
+18-3	1213-1214	A	_	_	_	
+18-4	1215-1220	small	_	_	_	
+18-5	1221-1229	airplane	_	_	_	
+18-6	1230-1234	icon	_	_	_	
+18-7	1235-1239	near	_	_	_	
+18-8	1240-1247	Maliaño	_	_	toponym	
+18-9	1248-1256	suggests	_	_	_	
+18-10	1257-1260	the	_	_	_	
+18-11	1261-1269	location	_	_	_	
+18-12	1270-1272	of	_	_	_	
+18-13	1273-1282	Santander	_	_	toponym[38]	
+18-14	1283-1290	Airport	_	_	toponym[38]	
+18-15	1291-1292	(	_	_	toponym[38]	
+18-16	1292-1295	SDR	_	_	toponym[38]	
+18-17	1295-1296	)	_	_	_	
+
+#Text=.
+19-1	1296-1297	.	_	_	_	
+
+#Text=🌳 Green Areas and Parks  The Macizo de Peña Cabarga natural area in the south (with a green mountain symbol) indicates higher terrain or protected parkland.
+20-1	1299-1301	🌳	h2[7]	*[7]	_	
+20-2	1302-1307	Green	h2[7]	*[7]	_	
+20-3	1308-1313	Areas	h2[7]	*[7]	_	
+20-4	1314-1317	and	h2[7]	*[7]	_	
+20-5	1318-1323	Parks	h2[7]	*[7]	_	
+20-6	1325-1328	The	_	_	_	
+20-7	1329-1335	Macizo	_	_	toponym[39]	
+20-8	1336-1338	de	_	_	toponym[39]	
+20-9	1339-1343	Peña	_	_	toponym[39]	
+20-10	1344-1351	Cabarga	_	_	toponym[39]	
+20-11	1352-1359	natural	_	_	_	
+20-12	1360-1364	area	_	_	_	
+20-13	1365-1367	in	_	_	spatial relation[40]	
+20-14	1368-1371	the	_	_	spatial relation[40]	
+20-15	1372-1377	south	_	_	spatial relation[40]	
+20-16	1378-1379	(	_	_	_	
+20-17	1379-1383	with	_	_	_	
+20-18	1384-1385	a	_	_	_	
+20-19	1386-1391	green	_	_	_	
+20-20	1392-1400	mountain	_	_	_	
+20-21	1401-1407	symbol	_	_	_	
+20-22	1407-1408	)	_	_	_	
+20-23	1409-1418	indicates	_	_	_	
+20-24	1419-1425	higher	_	_	_	
+20-25	1426-1433	terrain	_	_	_	
+20-26	1434-1436	or	_	_	_	
+20-27	1437-1446	protected	_	_	_	
+20-28	1447-1455	parkland	_	_	_	
+20-29	1455-1456	.	_	_	_	
+
+#Text=Widespread light green areas denote forest, parkland, or rural zones
+21-1	1457-1467	Widespread	_	_	_	
+21-2	1468-1473	light	_	_	_	
+21-3	1474-1479	green	_	_	_	
+21-4	1480-1485	areas	_	_	_	
+21-5	1486-1492	denote	_	_	_	
+21-6	1493-1499	forest	_	_	_	
+21-7	1499-1500	,	_	_	_	
+21-8	1501-1509	parkland	_	_	_	
+21-9	1509-1510	,	_	_	_	
+21-10	1511-1513	or	_	_	_	
+21-11	1514-1519	rural	_	_	_	
+21-12	1520-1525	zones	_	_	_	
+
+#Text=.
+22-1	1525-1526	.	_	_	_	
+
+#Text=🏞️ Topography and Water Bodies  A few elevation labels like Monte and Cueto hint at hilly terrain.
+23-1	1528-1531	🏞️	h2[8]	*[8]	_	
+23-2	1532-1542	Topography	h2[8]	*[8]	_	
+23-3	1543-1546	and	h2[8]	*[8]	_	
+23-4	1547-1552	Water	h2[8]	*[8]	_	
+23-5	1553-1559	Bodies	h2[8]	*[8]	_	
+23-6	1561-1562	A	_	_	_	
+23-7	1563-1566	few	_	_	_	
+23-8	1567-1576	elevation	_	_	_	
+23-9	1577-1583	labels	_	_	_	
+23-10	1584-1588	like	_	_	_	
+23-11	1589-1594	Monte	_	_	toponym	
+23-12	1595-1598	and	_	_	_	
+23-13	1599-1604	Cueto	_	_	toponym	
+23-14	1605-1609	hint	_	_	_	
+23-15	1610-1612	at	_	_	_	
+23-16	1613-1618	hilly	_	_	_	
+23-17	1619-1626	terrain	_	_	_	
+23-18	1626-1627	.	_	_	_	
+
+#Text=Rivers and small lakes are visible near El Astillero and Solares.
+24-1	1628-1634	Rivers	_	_	_	
+24-2	1635-1638	and	_	_	_	
+24-3	1639-1644	small	_	_	_	
+24-4	1645-1650	lakes	_	_	_	
+24-5	1651-1654	are	_	_	_	
+24-6	1655-1662	visible	_	_	_	
+24-7	1663-1667	near	_	_	_	
+24-8	1668-1670	El	_	_	toponym[41]	
+24-9	1671-1680	Astillero	_	_	toponym[41]	
+24-10	1681-1684	and	_	_	_	
+24-11	1685-1692	Solares	_	_	toponym	
+24-12	1692-1693	.	_	_	_	
+
+#Text=In summary, the map provides a regional view of the Santander metropolitan area, emphasizing transportation infrastructure, coastal geography, and a mix of urban and rural land use.
+25-1	1695-1697	In	p[9]	*[9]	_	
+25-2	1698-1705	summary	p[9]	*[9]	_	
+25-3	1705-1706	,	p[9]	*[9]	_	
+25-4	1707-1710	the	p[9]	*[9]	_	
+25-5	1711-1714	map	p[9]	*[9]	_	
+25-6	1715-1723	provides	p[9]	*[9]	_	
+25-7	1724-1725	a	p[9]	*[9]	_	
+25-8	1726-1734	regional	p[9]	*[9]	_	
+25-9	1735-1739	view	p[9]	*[9]	_	
+25-10	1740-1742	of	p[9]	*[9]	_	
+25-11	1743-1746	the	p[9]	*[9]	_	
+25-12	1747-1756	Santander	p[9]	*[9]	toponym	
+25-13	1757-1769	metropolitan	p[9]	*[9]	_	
+25-14	1770-1774	area	p[9]	*[9]	_	
+25-15	1774-1775	,	p[9]	*[9]	_	
+25-16	1776-1787	emphasizing	p[9]	*[9]	_	
+25-17	1788-1802	transportation	p[9]	*[9]	_	
+25-18	1803-1817	infrastructure	p[9]	*[9]	_	
+25-19	1817-1818	,	p[9]	*[9]	_	
+25-20	1819-1826	coastal	p[9]	*[9]	_	
+25-21	1827-1836	geography	p[9]	*[9]	_	
+25-22	1836-1837	,	p[9]	*[9]	_	
+25-23	1838-1841	and	p[9]	*[9]	_	
+25-24	1842-1843	a	p[9]	*[9]	_	
+25-25	1844-1847	mix	p[9]	*[9]	_	
+25-26	1848-1850	of	p[9]	*[9]	_	
+25-27	1851-1856	urban	p[9]	*[9]	_	
+25-28	1857-1860	and	p[9]	*[9]	_	
+25-29	1861-1866	rural	p[9]	*[9]	_	
+25-30	1867-1871	land	p[9]	*[9]	_	
+25-31	1872-1875	use	p[9]	*[9]	_	
+25-32	1875-1876	.	p[9]	*[9]	_	
+
+#Text=Would you like a comparative visual salience analysis like the previous maps?
+26-1	1877-1882	Would	p[10]	*[10]	_	
+26-2	1883-1886	you	p[10]	*[10]	_	
+26-3	1887-1891	like	p[10]	*[10]	_	
+26-4	1892-1893	a	p[10]	*[10]	_	
+26-5	1894-1905	comparative	p[10]	*[10]	_	
+26-6	1906-1912	visual	p[10]	*[10]	_	
+26-7	1913-1921	salience	p[10]	*[10]	_	
+26-8	1922-1930	analysis	p[10]	*[10]	_	
+26-9	1931-1935	like	p[10]	*[10]	_	
+26-10	1936-1939	the	p[10]	*[10]	_	
+26-11	1940-1948	previous	p[10]	*[10]	_	
+26-12	1949-1953	maps	p[10]	*[10]	_	
+26-13	1953-1954	?	p[10]	*[10]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+27-1	1955-1958	Can	h1[11]	*[11]	_	
+27-2	1959-1962	you	h1[11]	*[11]	_	
+27-3	1963-1971	describe	h1[11]	*[11]	_	
+27-4	1972-1975	the	h1[11]	*[11]	_	
+27-5	1976-1980	most	h1[11]	*[11]	_	
+27-6	1981-1989	visually	h1[11]	*[11]	_	
+27-7	1990-1997	salient	h1[11]	*[11]	_	
+27-8	1998-2006	elements	h1[11]	*[11]	_	
+27-9	2007-2009	of	h1[11]	*[11]	_	
+27-10	2010-2013	the	h1[11]	*[11]	_	
+27-11	2014-2017	map	h1[11]	*[11]	_	
+27-12	2017-2018	?	h1[11]	*[11]	_	
+
+#Text=Certainly.
+28-1	2019-2028	Certainly	p[12]	*[12]	_	
+28-2	2028-2029	.	p[12]	*[12]	_	
+
+#Text=Here are the most visually salient elements of the map of Santander and its surroundings: 🔴 1.
+29-1	2030-2034	Here	p[12]	*[12]	_	
+29-2	2035-2038	are	p[12]	*[12]	_	
+29-3	2039-2042	the	p[12]	*[12]	_	
+29-4	2043-2047	most	p[12]	*[12]	_	
+29-5	2048-2056	visually	p[12]	*[12]	_	
+29-6	2057-2064	salient	p[12]	*[12]	_	
+29-7	2065-2073	elements	p[12]	*[12]	_	
+29-8	2074-2076	of	p[12]	*[12]	_	
+29-9	2077-2080	the	p[12]	*[12]	_	
+29-10	2081-2084	map	p[12]	*[12]	_	
+29-11	2085-2087	of	p[12]	*[12]	_	
+29-12	2088-2097	Santander	p[12]	*[12]	_	
+29-13	2098-2101	and	p[12]	*[12]	_	
+29-14	2102-2105	its	p[12]	*[12]	_	
+29-15	2106-2118	surroundings	p[12]	*[12]	_	
+29-16	2118-2119	:	p[12]	*[12]	_	
+29-17	2120-2122	🔴	h2[13]	*[13]	_	
+29-18	2123-2124	1	h2[13]	*[13]	_	
+29-19	2124-2125	.	h2[13]	*[13]	_	
+
+#Text=Bold Red and Pink Roadways (Highways and Main Roads)  The A-67, S-10, and other major roads stand out immediately due to their vivid red and pink coloring and thicker line weight.
+30-1	2126-2130	Bold	h2[13]	*[13]	_	
+30-2	2131-2134	Red	h2[13]	*[13]	_	
+30-3	2135-2138	and	h2[13]	*[13]	_	
+30-4	2139-2143	Pink	h2[13]	*[13]	_	
+30-5	2144-2152	Roadways	h2[13]	*[13]	_	
+30-6	2153-2154	(	h2[13]	*[13]	_	
+30-7	2154-2162	Highways	h2[13]	*[13]	_	
+30-8	2163-2166	and	h2[13]	*[13]	_	
+30-9	2167-2171	Main	h2[13]	*[13]	_	
+30-10	2172-2177	Roads	h2[13]	*[13]	_	
+30-11	2177-2178	)	h2[13]	*[13]	_	
+30-12	2180-2183	The	_	_	_	
+30-13	2184-2185	A	_	_	_	
+30-14	2185-2186	-	_	_	_	
+30-15	2186-2188	67	_	_	_	
+30-16	2188-2189	,	_	_	_	
+30-17	2190-2191	S	_	_	_	
+30-18	2191-2192	-	_	_	_	
+30-19	2192-2194	10	_	_	_	
+30-20	2194-2195	,	_	_	_	
+30-21	2196-2199	and	_	_	_	
+30-22	2200-2205	other	_	_	_	
+30-23	2206-2211	major	_	_	_	
+30-24	2212-2217	roads	_	_	_	
+30-25	2218-2223	stand	_	_	_	
+30-26	2224-2227	out	_	_	_	
+30-27	2228-2239	immediately	_	_	_	
+30-28	2240-2243	due	_	_	_	
+30-29	2244-2246	to	_	_	_	
+30-30	2247-2252	their	_	_	_	
+30-31	2253-2258	vivid	_	_	_	
+30-32	2259-2262	red	_	_	_	
+30-33	2263-2266	and	_	_	_	
+30-34	2267-2271	pink	_	_	_	
+30-35	2272-2280	coloring	_	_	_	
+30-36	2281-2284	and	_	_	_	
+30-37	2285-2292	thicker	_	_	_	
+30-38	2293-2297	line	_	_	_	
+30-39	2298-2304	weight	_	_	_	
+30-40	2304-2305	.	_	_	_	
+
+#Text=They form a visually dominant network of arteries that structure the map.
+31-1	2306-2310	They	_	_	_	
+31-2	2311-2315	form	_	_	_	
+31-3	2316-2317	a	_	_	_	
+31-4	2318-2326	visually	_	_	_	
+31-5	2327-2335	dominant	_	_	_	
+31-6	2336-2343	network	_	_	_	
+31-7	2344-2346	of	_	_	_	
+31-8	2347-2355	arteries	_	_	_	
+31-9	2356-2360	that	_	_	_	
+31-10	2361-2370	structure	_	_	_	
+31-11	2371-2374	the	_	_	_	
+31-12	2375-2378	map	_	_	_	
+31-13	2378-2379	.	_	_	_	
+
+#Text=Their labels (numbers in red circles) enhance visibility
+32-1	2380-2385	Their	_	_	_	
+32-2	2386-2392	labels	_	_	_	
+32-3	2393-2394	(	_	_	_	
+32-4	2394-2401	numbers	_	_	_	
+32-5	2402-2404	in	_	_	_	
+32-6	2405-2408	red	_	_	_	
+32-7	2409-2416	circles	_	_	_	
+32-8	2416-2417	)	_	_	_	
+32-9	2418-2425	enhance	_	_	_	
+32-10	2426-2436	visibility	_	_	_	
+
+#Text=.
+33-1	2436-2437	.	_	_	_	
+
+#Text=🌊 2.
+34-1	2439-2441	🌊	h2[14]	*[14]	_	
+34-2	2442-2443	2	h2[14]	*[14]	_	
+34-3	2443-2444	.	h2[14]	*[14]	_	
+
+#Text=The Bay of Santander and Coastal Outline  The light blue water of the Bay of Santander is large and open, creating a strong contrast with the surrounding land.
+35-1	2445-2448	The	h2[14]	*[14]	_	
+35-2	2449-2452	Bay	h2[14]	*[14]	_	
+35-3	2453-2455	of	h2[14]	*[14]	_	
+35-4	2456-2465	Santander	h2[14]	*[14]	_	
+35-5	2466-2469	and	h2[14]	*[14]	_	
+35-6	2470-2477	Coastal	h2[14]	*[14]	_	
+35-7	2478-2485	Outline	h2[14]	*[14]	_	
+35-8	2487-2490	The	_	_	_	
+35-9	2491-2496	light	_	_	_	
+35-10	2497-2501	blue	_	_	_	
+35-11	2502-2507	water	_	_	_	
+35-12	2508-2510	of	_	_	_	
+35-13	2511-2514	the	_	_	_	
+35-14	2515-2518	Bay	_	_	_	
+35-15	2519-2521	of	_	_	_	
+35-16	2522-2531	Santander	_	_	_	
+35-17	2532-2534	is	_	_	_	
+35-18	2535-2540	large	_	_	_	
+35-19	2541-2544	and	_	_	_	
+35-20	2545-2549	open	_	_	_	
+35-21	2549-2550	,	_	_	_	
+35-22	2551-2559	creating	_	_	_	
+35-23	2560-2561	a	_	_	_	
+35-24	2562-2568	strong	_	_	_	
+35-25	2569-2577	contrast	_	_	_	
+35-26	2578-2582	with	_	_	_	
+35-27	2583-2586	the	_	_	_	
+35-28	2587-2598	surrounding	_	_	_	
+35-29	2599-2603	land	_	_	_	
+35-30	2603-2604	.	_	_	_	
+
+#Text=Dashed blue lines indicating ferry routes or maritime zones also catch the eye due to their pattern and color contrast
+36-1	2605-2611	Dashed	_	_	_	
+36-2	2612-2616	blue	_	_	_	
+36-3	2617-2622	lines	_	_	_	
+36-4	2623-2633	indicating	_	_	_	
+36-5	2634-2639	ferry	_	_	_	
+36-6	2640-2646	routes	_	_	_	
+36-7	2647-2649	or	_	_	_	
+36-8	2650-2658	maritime	_	_	_	
+36-9	2659-2664	zones	_	_	_	
+36-10	2665-2669	also	_	_	_	
+36-11	2670-2675	catch	_	_	_	
+36-12	2676-2679	the	_	_	_	
+36-13	2680-2683	eye	_	_	_	
+36-14	2684-2687	due	_	_	_	
+36-15	2688-2690	to	_	_	_	
+36-16	2691-2696	their	_	_	_	
+36-17	2697-2704	pattern	_	_	_	
+36-18	2705-2708	and	_	_	_	
+36-19	2709-2714	color	_	_	_	
+36-20	2715-2723	contrast	_	_	_	
+
+#Text=.
+37-1	2723-2724	.	_	_	_	
+
+#Text=🏙️ 3.
+38-1	2726-2729	🏙️	h2[15]	*[15]	_	
+38-2	2730-2731	3	h2[15]	*[15]	_	
+38-3	2731-2732	.	h2[15]	*[15]	_	
+
+#Text=Dense Urban Texture in Santander  The dense street network of Santander appears as a tight web of pale lines and blocks.
+39-1	2733-2738	Dense	h2[15]	*[15]	_	
+39-2	2739-2744	Urban	h2[15]	*[15]	_	
+39-3	2745-2752	Texture	h2[15]	*[15]	_	
+39-4	2753-2755	in	h2[15]	*[15]	_	
+39-5	2756-2765	Santander	h2[15]	*[15]	_	
+39-6	2767-2770	The	_	_	_	
+39-7	2771-2776	dense	_	_	_	
+39-8	2777-2783	street	_	_	_	
+39-9	2784-2791	network	_	_	_	
+39-10	2792-2794	of	_	_	_	
+39-11	2795-2804	Santander	_	_	_	
+39-12	2805-2812	appears	_	_	_	
+39-13	2813-2815	as	_	_	_	
+39-14	2816-2817	a	_	_	_	
+39-15	2818-2823	tight	_	_	_	
+39-16	2824-2827	web	_	_	_	
+39-17	2828-2830	of	_	_	_	
+39-18	2831-2835	pale	_	_	_	
+39-19	2836-2841	lines	_	_	_	
+39-20	2842-2845	and	_	_	_	
+39-21	2846-2852	blocks	_	_	_	
+39-22	2852-2853	.	_	_	_	
+
+#Text=It sharply contrasts with the looser road patterns of surrounding rural areas.
+40-1	2854-2856	It	_	_	_	
+40-2	2857-2864	sharply	_	_	_	
+40-3	2865-2874	contrasts	_	_	_	
+40-4	2875-2879	with	_	_	_	
+40-5	2880-2883	the	_	_	_	
+40-6	2884-2890	looser	_	_	_	
+40-7	2891-2895	road	_	_	_	
+40-8	2896-2904	patterns	_	_	_	
+40-9	2905-2907	of	_	_	_	
+40-10	2908-2919	surrounding	_	_	_	
+40-11	2920-2925	rural	_	_	_	
+40-12	2926-2931	areas	_	_	_	
+40-13	2931-2932	.	_	_	_	
+
+#Text=The city name “Santander” is prominent in bold, black text
+41-1	2933-2936	The	_	_	_	
+41-2	2937-2941	city	_	_	_	
+41-3	2942-2946	name	_	_	_	
+41-4	2947-2948	“	_	_	_	
+41-5	2948-2957	Santander	_	_	_	
+41-6	2957-2958	”	_	_	_	
+41-7	2959-2961	is	_	_	_	
+41-8	2962-2971	prominent	_	_	_	
+41-9	2972-2974	in	_	_	_	
+41-10	2975-2979	bold	_	_	_	
+41-11	2979-2980	,	_	_	_	
+41-12	2981-2986	black	_	_	_	
+41-13	2987-2991	text	_	_	_	
+
+#Text=.
+42-1	2991-2992	.	_	_	_	
+
+#Text=🛫 4.
+43-1	2994-2996	🛫	h2[16]	*[16]	_	
+43-2	2997-2998	4	h2[16]	*[16]	_	
+43-3	2998-2999	.	h2[16]	*[16]	_	
+
+#Text=The Airport Symbol  The airplane icon near Maliaño (center-left) immediately attracts attention because of its symbolic shape and uniqueness among mainly linear or textual elements
+44-1	3000-3003	The	h2[16]	*[16]	_	
+44-2	3004-3011	Airport	h2[16]	*[16]	_	
+44-3	3012-3018	Symbol	h2[16]	*[16]	_	
+44-4	3020-3023	The	_	_	_	
+44-5	3024-3032	airplane	_	_	_	
+44-6	3033-3037	icon	_	_	_	
+44-7	3038-3042	near	_	_	_	
+44-8	3043-3050	Maliaño	_	_	_	
+44-9	3051-3052	(	_	_	_	
+44-10	3052-3063	center-left	_	_	_	
+44-11	3063-3064	)	_	_	_	
+44-12	3065-3076	immediately	_	_	_	
+44-13	3077-3085	attracts	_	_	_	
+44-14	3086-3095	attention	_	_	_	
+44-15	3096-3103	because	_	_	_	
+44-16	3104-3106	of	_	_	_	
+44-17	3107-3110	its	_	_	_	
+44-18	3111-3119	symbolic	_	_	_	
+44-19	3120-3125	shape	_	_	_	
+44-20	3126-3129	and	_	_	_	
+44-21	3130-3140	uniqueness	_	_	_	
+44-22	3141-3146	among	_	_	_	
+44-23	3147-3153	mainly	_	_	_	
+44-24	3154-3160	linear	_	_	_	
+44-25	3161-3163	or	_	_	_	
+44-26	3164-3171	textual	_	_	_	
+44-27	3172-3180	elements	_	_	_	
+
+#Text=.
+45-1	3180-3181	.	_	_	_	
+
+#Text=🟩 5.
+46-1	3183-3185	🟩	h2[17]	*[17]	_	
+46-2	3186-3187	5	h2[17]	*[17]	_	
+46-3	3187-3188	.	h2[17]	*[17]	_	
+
+#Text=Large Green Areas (Natural Parks and Rural Zones)  Green-shaded regions, especially in the south (e.g., Macizo de Peña Cabarga) and west, stand out for their expanse and subtle texture.
+47-1	3189-3194	Large	h2[17]	*[17]	_	
+47-2	3195-3200	Green	h2[17]	*[17]	_	
+47-3	3201-3206	Areas	h2[17]	*[17]	_	
+47-4	3207-3208	(	h2[17]	*[17]	_	
+47-5	3208-3215	Natural	h2[17]	*[17]	_	
+47-6	3216-3221	Parks	h2[17]	*[17]	_	
+47-7	3222-3225	and	h2[17]	*[17]	_	
+47-8	3226-3231	Rural	h2[17]	*[17]	_	
+47-9	3232-3237	Zones	h2[17]	*[17]	_	
+47-10	3237-3238	)	h2[17]	*[17]	_	
+47-11	3240-3252	Green-shaded	_	_	_	
+47-12	3253-3260	regions	_	_	_	
+47-13	3260-3261	,	_	_	_	
+47-14	3262-3272	especially	_	_	_	
+47-15	3273-3275	in	_	_	_	
+47-16	3276-3279	the	_	_	_	
+47-17	3280-3285	south	_	_	_	
+47-18	3286-3287	(	_	_	_	
+47-19	3287-3290	e.g	_	_	_	
+47-20	3290-3291	.	_	_	_	
+47-21	3291-3292	,	_	_	_	
+47-22	3293-3299	Macizo	_	_	_	
+47-23	3300-3302	de	_	_	_	
+47-24	3303-3307	Peña	_	_	_	
+47-25	3308-3315	Cabarga	_	_	_	
+47-26	3315-3316	)	_	_	_	
+47-27	3317-3320	and	_	_	_	
+47-28	3321-3325	west	_	_	_	
+47-29	3325-3326	,	_	_	_	
+47-30	3327-3332	stand	_	_	_	
+47-31	3333-3336	out	_	_	_	
+47-32	3337-3340	for	_	_	_	
+47-33	3341-3346	their	_	_	_	
+47-34	3347-3354	expanse	_	_	_	
+47-35	3355-3358	and	_	_	_	
+47-36	3359-3365	subtle	_	_	_	
+47-37	3366-3373	texture	_	_	_	
+47-38	3373-3374	.	_	_	_	
+
+#Text=These areas provide visual balance to the densely developed coastal regions
+48-1	3375-3380	These	_	_	_	
+48-2	3381-3386	areas	_	_	_	
+48-3	3387-3394	provide	_	_	_	
+48-4	3395-3401	visual	_	_	_	
+48-5	3402-3409	balance	_	_	_	
+48-6	3410-3412	to	_	_	_	
+48-7	3413-3416	the	_	_	_	
+48-8	3417-3424	densely	_	_	_	
+48-9	3425-3434	developed	_	_	_	
+48-10	3435-3442	coastal	_	_	_	
+48-11	3443-3450	regions	_	_	_	
+
+#Text=.
+49-1	3450-3451	.	_	_	_	
+
+#Text=🟨 6.
+50-1	3453-3455	🟨	h2[18]	*[18]	_	
+50-2	3456-3457	6	h2[18]	*[18]	_	
+50-3	3457-3458	.	h2[18]	*[18]	_	
+
+#Text=Labeled Suburbs and Towns  Names of towns such as Camargo, Santa Cruz de Bezana, and El Astillero are distributed and use larger, bold fonts, aiding legibility and drawing the eye to population clusters.
+51-1	3459-3466	Labeled	h2[18]	*[18]	_	
+51-2	3467-3474	Suburbs	h2[18]	*[18]	_	
+51-3	3475-3478	and	h2[18]	*[18]	_	
+51-4	3479-3484	Towns	h2[18]	*[18]	_	
+51-5	3486-3491	Names	_	_	_	
+51-6	3492-3494	of	_	_	_	
+51-7	3495-3500	towns	_	_	_	
+51-8	3501-3505	such	_	_	_	
+51-9	3506-3508	as	_	_	_	
+51-10	3509-3516	Camargo	_	_	_	
+51-11	3516-3517	,	_	_	_	
+51-12	3518-3523	Santa	_	_	_	
+51-13	3524-3528	Cruz	_	_	_	
+51-14	3529-3531	de	_	_	_	
+51-15	3532-3538	Bezana	_	_	_	
+51-16	3538-3539	,	_	_	_	
+51-17	3540-3543	and	_	_	_	
+51-18	3544-3546	El	_	_	_	
+51-19	3547-3556	Astillero	_	_	_	
+51-20	3557-3560	are	_	_	_	
+51-21	3561-3572	distributed	_	_	_	
+51-22	3573-3576	and	_	_	_	
+51-23	3577-3580	use	_	_	_	
+51-24	3581-3587	larger	_	_	_	
+51-25	3587-3588	,	_	_	_	
+51-26	3589-3593	bold	_	_	_	
+51-27	3594-3599	fonts	_	_	_	
+51-28	3599-3600	,	_	_	_	
+51-29	3601-3607	aiding	_	_	_	
+51-30	3608-3618	legibility	_	_	_	
+51-31	3619-3622	and	_	_	_	
+51-32	3623-3630	drawing	_	_	_	
+51-33	3631-3634	the	_	_	_	
+51-34	3635-3638	eye	_	_	_	
+51-35	3639-3641	to	_	_	_	
+51-36	3642-3652	population	_	_	_	
+51-37	3653-3661	clusters	_	_	_	
+51-38	3661-3662	.	_	_	_	
+
+#Text=In summary, color intensity, symbol contrast, and spatial density are the main drivers of visual salience here: highways, coastlines, the urban core, and green zones dominate the viewer’s attention.
+52-1	3664-3666	In	p[19]	*[19]	_	
+52-2	3667-3674	summary	p[19]	*[19]	_	
+52-3	3674-3675	,	p[19]	*[19]	_	
+52-4	3676-3681	color	p[19]	*[19]	_	
+52-5	3682-3691	intensity	p[19]	*[19]	_	
+52-6	3691-3692	,	p[19]	*[19]	_	
+52-7	3693-3699	symbol	p[19]	*[19]	_	
+52-8	3700-3708	contrast	p[19]	*[19]	_	
+52-9	3708-3709	,	p[19]	*[19]	_	
+52-10	3710-3713	and	p[19]	*[19]	_	
+52-11	3714-3721	spatial	p[19]	*[19]	_	
+52-12	3722-3729	density	p[19]	*[19]	_	
+52-13	3730-3733	are	p[19]	*[19]	_	
+52-14	3734-3737	the	p[19]	*[19]	_	
+52-15	3738-3742	main	p[19]	*[19]	_	
+52-16	3743-3750	drivers	p[19]	*[19]	_	
+52-17	3751-3753	of	p[19]	*[19]	_	
+52-18	3754-3760	visual	p[19]	*[19]	_	
+52-19	3761-3769	salience	p[19]	*[19]	_	
+52-20	3770-3774	here	p[19]	*[19]	_	
+52-21	3774-3775	:	p[19]	*[19]	_	
+52-22	3776-3784	highways	p[19]	*[19]	_	
+52-23	3784-3785	,	p[19]	*[19]	_	
+52-24	3786-3796	coastlines	p[19]	*[19]	_	
+52-25	3796-3797	,	p[19]	*[19]	_	
+52-26	3798-3801	the	p[19]	*[19]	_	
+52-27	3802-3807	urban	p[19]	*[19]	_	
+52-28	3808-3812	core	p[19]	*[19]	_	
+52-29	3812-3813	,	p[19]	*[19]	_	
+52-30	3814-3817	and	p[19]	*[19]	_	
+52-31	3818-3823	green	p[19]	*[19]	_	
+52-32	3824-3829	zones	p[19]	*[19]	_	
+52-33	3830-3838	dominate	p[19]	*[19]	_	
+52-34	3839-3842	the	p[19]	*[19]	_	
+52-35	3843-3849	viewer	p[19]	*[19]	_	
+52-36	3849-3850	’	p[19]	*[19]	_	
+52-37	3850-3851	s	p[19]	*[19]	_	
+52-38	3852-3861	attention	p[19]	*[19]	_	
+52-39	3861-3862	.	p[19]	*[19]	_	
+
+#Text=Would you like a comparison of visual salience across the different map scales you've provided?
+53-1	3863-3868	Would	p[20]	*[20]	_	
+53-2	3869-3872	you	p[20]	*[20]	_	
+53-3	3873-3877	like	p[20]	*[20]	_	
+53-4	3878-3879	a	p[20]	*[20]	_	
+53-5	3880-3890	comparison	p[20]	*[20]	_	
+53-6	3891-3893	of	p[20]	*[20]	_	
+53-7	3894-3900	visual	p[20]	*[20]	_	
+53-8	3901-3909	salience	p[20]	*[20]	_	
+53-9	3910-3916	across	p[20]	*[20]	_	
+53-10	3917-3920	the	p[20]	*[20]	_	
+53-11	3921-3930	different	p[20]	*[20]	_	
+53-12	3931-3934	map	p[20]	*[20]	_	
+53-13	3935-3941	scales	p[20]	*[20]	_	
+53-14	3942-3948	you've	p[20]	*[20]	_	
+53-15	3949-3957	provided	p[20]	*[20]	_	
+53-16	3957-3958	?	p[20]	*[20]	_	
+
+#Text=Anchors summary  A-67 (major highway) S-10 (major highway) Bold red/pink roadways — major roads/highways (non-named) Bay of Santander (coastal bay) Dashed blue lines indicating ferry routes / maritime boundaries (non-named) Santander (city; dense urban street network) Dense urban texture / street network (non-named) Airplane icon near Maliaño — Santander Airport (SDR) (symbol / named location) Macizo de Peña Cabarga (natural area) Large green-shaded areas / natural parks / rural zones (non-named) Camargo (town/suburb) Santa Cruz de Bezana (town) El Astillero (town) Labeled suburbs and towns (non-named)
+54-1	3959-3966	Anchors	h1[21]	*[21]	_	
+54-2	3967-3974	summary	h1[21]	*[21]	_	
+54-3	3976-3977	A	_	_	_	
+54-4	3977-3978	-	_	_	_	
+54-5	3978-3980	67	_	_	_	
+54-6	3981-3982	(	_	_	_	
+54-7	3982-3987	major	_	_	_	
+54-8	3988-3995	highway	_	_	_	
+54-9	3995-3996	)	_	_	_	
+54-10	3997-3998	S	_	_	_	
+54-11	3998-3999	-	_	_	_	
+54-12	3999-4001	10	_	_	_	
+54-13	4002-4003	(	_	_	_	
+54-14	4003-4008	major	_	_	_	
+54-15	4009-4016	highway	_	_	_	
+54-16	4016-4017	)	_	_	_	
+54-17	4018-4022	Bold	_	_	_	
+54-18	4023-4026	red	_	_	_	
+54-19	4026-4027	/	_	_	_	
+54-20	4027-4031	pink	_	_	_	
+54-21	4032-4040	roadways	_	_	_	
+54-22	4041-4042	—	_	_	_	
+54-23	4043-4048	major	_	_	_	
+54-24	4049-4054	roads	_	_	_	
+54-25	4054-4055	/	_	_	_	
+54-26	4055-4063	highways	_	_	_	
+54-27	4064-4065	(	_	_	_	
+54-28	4065-4074	non-named	_	_	_	
+54-29	4074-4075	)	_	_	_	
+54-30	4076-4079	Bay	_	_	_	
+54-31	4080-4082	of	_	_	_	
+54-32	4083-4092	Santander	_	_	_	
+54-33	4093-4094	(	_	_	_	
+54-34	4094-4101	coastal	_	_	_	
+54-35	4102-4105	bay	_	_	_	
+54-36	4105-4106	)	_	_	_	
+54-37	4107-4113	Dashed	_	_	_	
+54-38	4114-4118	blue	_	_	_	
+54-39	4119-4124	lines	_	_	_	
+54-40	4125-4135	indicating	_	_	_	
+54-41	4136-4141	ferry	_	_	_	
+54-42	4142-4148	routes	_	_	_	
+54-43	4149-4150	/	_	_	_	
+54-44	4151-4159	maritime	_	_	_	
+54-45	4160-4170	boundaries	_	_	_	
+54-46	4171-4172	(	_	_	_	
+54-47	4172-4181	non-named	_	_	_	
+54-48	4181-4182	)	_	_	_	
+54-49	4183-4192	Santander	_	_	_	
+54-50	4193-4194	(	_	_	_	
+54-51	4194-4198	city	_	_	_	
+54-52	4198-4199	;	_	_	_	
+54-53	4200-4205	dense	_	_	_	
+54-54	4206-4211	urban	_	_	_	
+54-55	4212-4218	street	_	_	_	
+54-56	4219-4226	network	_	_	_	
+54-57	4226-4227	)	_	_	_	
+54-58	4228-4233	Dense	_	_	_	
+54-59	4234-4239	urban	_	_	_	
+54-60	4240-4247	texture	_	_	_	
+54-61	4248-4249	/	_	_	_	
+54-62	4250-4256	street	_	_	_	
+54-63	4257-4264	network	_	_	_	
+54-64	4265-4266	(	_	_	_	
+54-65	4266-4275	non-named	_	_	_	
+54-66	4275-4276	)	_	_	_	
+54-67	4277-4285	Airplane	_	_	_	
+54-68	4286-4290	icon	_	_	_	
+54-69	4291-4295	near	_	_	_	
+54-70	4296-4303	Maliaño	_	_	_	
+54-71	4304-4305	—	_	_	_	
+54-72	4306-4315	Santander	_	_	_	
+54-73	4316-4323	Airport	_	_	_	
+54-74	4324-4325	(	_	_	_	
+54-75	4325-4328	SDR	_	_	_	
+54-76	4328-4329	)	_	_	_	
+54-77	4330-4331	(	_	_	_	
+54-78	4331-4337	symbol	_	_	_	
+54-79	4338-4339	/	_	_	_	
+54-80	4340-4345	named	_	_	_	
+54-81	4346-4354	location	_	_	_	
+54-82	4354-4355	)	_	_	_	
+54-83	4356-4362	Macizo	_	_	_	
+54-84	4363-4365	de	_	_	_	
+54-85	4366-4370	Peña	_	_	_	
+54-86	4371-4378	Cabarga	_	_	_	
+54-87	4379-4380	(	_	_	_	
+54-88	4380-4387	natural	_	_	_	
+54-89	4388-4392	area	_	_	_	
+54-90	4392-4393	)	_	_	_	
+54-91	4394-4399	Large	_	_	_	
+54-92	4400-4412	green-shaded	_	_	_	
+54-93	4413-4418	areas	_	_	_	
+54-94	4419-4420	/	_	_	_	
+54-95	4421-4428	natural	_	_	_	
+54-96	4429-4434	parks	_	_	_	
+54-97	4435-4436	/	_	_	_	
+54-98	4437-4442	rural	_	_	_	
+54-99	4443-4448	zones	_	_	_	
+54-100	4449-4450	(	_	_	_	
+54-101	4450-4459	non-named	_	_	_	
+54-102	4459-4460	)	_	_	_	
+54-103	4461-4468	Camargo	_	_	_	
+54-104	4469-4470	(	_	_	_	
+54-105	4470-4474	town	_	_	_	
+54-106	4474-4475	/	_	_	_	
+54-107	4475-4481	suburb	_	_	_	
+54-108	4481-4482	)	_	_	_	
+54-109	4483-4488	Santa	_	_	_	
+54-110	4489-4493	Cruz	_	_	_	
+54-111	4494-4496	de	_	_	_	
+54-112	4497-4503	Bezana	_	_	_	
+54-113	4504-4505	(	_	_	_	
+54-114	4505-4509	town	_	_	_	
+54-115	4509-4510	)	_	_	_	
+54-116	4511-4513	El	_	_	_	
+54-117	4514-4523	Astillero	_	_	_	
+54-118	4524-4525	(	_	_	_	
+54-119	4525-4529	town	_	_	_	
+54-120	4529-4530	)	_	_	_	
+54-121	4531-4538	Labeled	_	_	_	
+54-122	4539-4546	suburbs	_	_	_	
+54-123	4547-4550	and	_	_	_	
+54-124	4551-4556	towns	_	_	_	
+54-125	4557-4558	(	_	_	_	
+54-126	4558-4567	non-named	_	_	_	
+54-127	4567-4568	)	_	_	_	

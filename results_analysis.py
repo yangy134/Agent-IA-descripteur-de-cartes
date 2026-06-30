@@ -1,8 +1,67 @@
+from pyexpat import model
+import seaborn as sns
 import pandas as pd
 from scipy import stats
 import math
 import matplotlib.pyplot as plt
 import numpy as np
+import scikit_posthocs as sp
+
+def read_evaluation_file():
+    dict_df = pd.read_excel('evaluation.xlsx', sheet_name=None)
+    data = []
+    for df_name, df in dict_df.items():
+        df = df.drop(index=[15, 16, 17, 18])
+        name = df_name
+        if(name == "Human"):
+            continue
+        if(name == "gemma-3-4b"):
+            name = "Gemma-4b"
+        if(name == "gemma-3-12b"):
+            name = "Gemma-12b"
+        if(name == "llama-3.2-11b-vision-instruct"):
+            name = "Llama"
+        if(name == "qwen2.5-vl-7b"):
+            name = "Qwen"
+        for i, row in df.iterrows():
+            map_name = row['map id']
+            map_group = "others"
+            if i <= 4:
+                map_group = "Google Maps"
+            elif i <= 8:
+                map_group = "IGN"
+            elif i <= 12:
+                map_group = "OpenStreetMap"
+
+            data.append({"Model": name, "Map": map_name, "Metric": "OCR errors", "Count": row['# OCR errors'], "Map_group": map_group})
+            data.append({"Model": name, "Map": map_name, "Metric": "Hallucinations", "Count": row['# hallucinations'], "Map_group": map_group})
+            data.append({"Model": name, "Map": map_name, "Metric": "Symbol errors", "Count": row['# symbol interpretation error'], "Map_group": map_group})
+            data.append({"Model": name, "Map": map_name, "Metric": "localisation", "Count": row['localisation'], "Map_group": map_group})
+            data.append({"Model": name, "Map": map_name, "Metric": "Extrapolations", "Count": row['# extrapolations'], "Map_group": map_group})
+            data.append({"Model": name, "Map": map_name, "Metric": "Spatial errors", "Count": row['# spatial errors'], "Map_group": map_group})
+
+    df = pd.DataFrame(data)
+
+    return df
+
+def plot_metric_model(df, metrics):  
+    df_filtered = df[df['Metric'].isin(metrics)]
+    plt.figure(figsize=(14, 6))
+    sns.boxplot(x='Model', y='Count', hue='Metric', data=df_filtered)
+    plt.title('Boxplot of the Error Types by Model')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.show()
+
+def plot_metric_map(df, metrics):  
+    df_filtered = df[df['Metric'].isin(metrics)]
+    plt.figure(figsize=(14, 6))
+    sns.boxplot(x='Map_group', y='Count', hue='Metric', data=df_filtered)
+    plt.title('Boxplot of the Error Types by Map Group')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.show()
+
 
 def plot_localisation_boxplot():
     dict_df = pd.read_excel('evaluation.xlsx', sheet_name=None)
@@ -131,4 +190,20 @@ def plot_loc_zoom():
     plt.show()
 
 if __name__ == "__main__":
-    plot_loc_zoom()
+    df = read_evaluation_file()
+    # Test de normalité (Shapiro-Wilk)
+    df_filtered = df[df['Metric'].isin(["OCR errors"])]
+    stat_shap, p_shap = stats.shapiro(df['Count'])
+    print(f"Shapiro-Wilk test statistic: {stat_shap}, p-value: {p_shap}")
+    # separate df_filtered by Map_group into two dataframes
+    df_google = df_filtered[df_filtered['Map_group'] == "Google Maps"]
+    df_ign = df_filtered[df_filtered['Map_group'] == "IGN"]
+    df_openstreet = df_filtered[df_filtered['Map_group'] == "OpenStreetMap"]
+    df_others = df_filtered[df_filtered['Map_group'] == "others"]
+    # Test de Kruskal-Wallis
+    stat_, p_value = stats.kruskal(df_google['Count'], df_ign['Count'], df_openstreet['Count'], df_others['Count'])
+    print(f"Test de Kruskal-Wallis sur la moyenne du score : {stat_:.3f} (p-value: {p_value:.4e})")
+    posthoc = sp.posthoc_dunn(df_filtered, val_col='Count', group_col='Map_group', p_adjust='bonferroni')
+    print(posthoc)
+    #plot_metric_map(df, ["OCR errors"])
+    #plot_metric_map(df, ["OCR errors", "Hallucinations", "Symbol errors", "Spatial errors"])

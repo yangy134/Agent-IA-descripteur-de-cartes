@@ -1,0 +1,6 @@
+# Can you describe the content of this map?
+
+This map is even larger in scale than osm_16, still showing a neighborhood in the city of Barcelona, as we can clearly see the wide avenue “La Rambla” lined on both sides by green spaces or trees, from the northwest to the south of the map. In the center of the map is a large rectangular square lined with trees called Plaça Real. All around, major streets intersect La Rambla at right angles. Here too, there are multiple symbols to guide tourists: hotels, restaurants, bars, cafes, and souvenir shops. To the northeast is a fairly large triangular square with a playground in the middle.
+
+# Anchors summary
+

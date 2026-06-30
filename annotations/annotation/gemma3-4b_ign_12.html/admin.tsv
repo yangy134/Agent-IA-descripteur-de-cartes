@@ -1,0 +1,753 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=Okay, let’s break down what we see on this map.
+2-1	42-46	Okay	p[2]	*[2]	_	
+2-2	46-47	,	p[2]	*[2]	_	
+2-3	48-51	let	p[2]	*[2]	_	
+2-4	51-52	’	p[2]	*[2]	_	
+2-5	52-53	s	p[2]	*[2]	_	
+2-6	54-59	break	p[2]	*[2]	_	
+2-7	60-64	down	p[2]	*[2]	_	
+2-8	65-69	what	p[2]	*[2]	_	
+2-9	70-72	we	p[2]	*[2]	_	
+2-10	73-76	see	p[2]	*[2]	_	
+2-11	77-79	on	p[2]	*[2]	_	
+2-12	80-84	this	p[2]	*[2]	_	
+2-13	85-88	map	p[2]	*[2]	_	
+2-14	88-89	.	p[2]	*[2]	_	
+
+#Text=Overall: This is a detailed topographic map of the area around St-Nazaire, in northwestern France.
+3-1	90-97	Overall	p[3]	*[3]	_	
+3-2	97-98	:	p[3]	*[3]	_	
+3-3	99-103	This	p[3]	*[3]	_	
+3-4	104-106	is	p[3]	*[3]	_	
+3-5	107-108	a	p[3]	*[3]	_	
+3-6	109-117	detailed	p[3]	*[3]	_	
+3-7	118-129	topographic	p[3]	*[3]	_	
+3-8	130-133	map	p[3]	*[3]	_	
+3-9	134-136	of	p[3]	*[3]	_	
+3-10	137-140	the	p[3]	*[3]	_	
+3-11	141-145	area	p[3]	*[3]	_	
+3-12	146-152	around	p[3]	*[3]	spatial relation	
+3-13	153-163	St-Nazaire	p[3]	*[3]	toponym	
+3-14	163-164	,	p[3]	*[3]	_	
+3-15	165-167	in	p[3]	*[3]	spatial relation[25]	
+3-16	168-180	northwestern	p[3]	*[3]	spatial relation[25]	
+3-17	181-187	France	p[3]	*[3]	toponym	
+3-18	187-188	.	p[3]	*[3]	_	
+
+#Text=It’s part of the Loire-Atlantique department.
+4-1	189-191	It	p[3]	*[3]	_	
+4-2	191-192	’	p[3]	*[3]	_	
+4-3	192-193	s	p[3]	*[3]	_	
+4-4	194-198	part	p[3]	*[3]	_	
+4-5	199-201	of	p[3]	*[3]	_	
+4-6	202-205	the	p[3]	*[3]	_	
+4-7	206-222	Loire-Atlantique	p[3]	*[3]	toponym	
+4-8	223-233	department	p[3]	*[3]	_	
+4-9	233-234	.	p[3]	*[3]	_	
+
+#Text=Key Features:  The River Loire: The dominant feature is the River Loire, which runs prominently through the area.
+5-1	235-238	Key	p[4]	*[4]	_	
+5-2	239-247	Features	p[4]	*[4]	_	
+5-3	247-248	:	p[4]	*[4]	_	
+5-4	250-253	The	p[5]	*[5]	toponym[26]	
+5-5	254-259	River	p[5]	*[5]	toponym[26]	
+5-6	260-265	Loire	p[5]	*[5]	toponym[26]	
+5-7	265-266	:	p[5]	*[5]	_	
+5-8	267-270	The	p[5]	*[5]	_	
+5-9	271-279	dominant	p[5]	*[5]	_	
+5-10	280-287	feature	p[5]	*[5]	_	
+5-11	288-290	is	p[5]	*[5]	_	
+5-12	291-294	the	p[5]	*[5]	_	
+5-13	295-300	River	p[5]	*[5]	toponym[27]	
+5-14	301-306	Loire	p[5]	*[5]	toponym[27]	
+5-15	306-307	,	p[5]	*[5]	_	
+5-16	308-313	which	p[5]	*[5]	_	
+5-17	314-318	runs	p[5]	*[5]	_	
+5-18	319-330	prominently	p[5]	*[5]	_	
+5-19	331-338	through	p[5]	*[5]	toponym	
+5-20	339-342	the	p[5]	*[5]	_	
+5-21	343-347	area	p[5]	*[5]	_	
+5-22	347-348	.	p[5]	*[5]	_	
+
+#Text=It’s a wide river and forms a significant boundary.
+6-1	349-351	It	p[5]	*[5]	_	
+6-2	351-352	’	p[5]	*[5]	_	
+6-3	352-353	s	p[5]	*[5]	_	
+6-4	354-355	a	p[5]	*[5]	_	
+6-5	356-360	wide	p[5]	*[5]	_	
+6-6	361-366	river	p[5]	*[5]	_	
+6-7	367-370	and	p[5]	*[5]	_	
+6-8	371-376	forms	p[5]	*[5]	_	
+6-9	377-378	a	p[5]	*[5]	_	
+6-10	379-390	significant	p[5]	*[5]	_	
+6-11	391-399	boundary	p[5]	*[5]	_	
+6-12	399-400	.	p[5]	*[5]	_	
+
+#Text=St-Nazaire: The city of St-Nazaire is centrally located, marked with a prominent symbol.
+7-1	401-411	St-Nazaire	p[6]	*[6]	toponym	
+7-2	411-412	:	p[6]	*[6]	_	
+7-3	413-416	The	p[6]	*[6]	_	
+7-4	417-421	city	p[6]	*[6]	_	
+7-5	422-424	of	p[6]	*[6]	_	
+7-6	425-435	St-Nazaire	p[6]	*[6]	toponym	
+7-7	436-438	is	p[6]	*[6]	_	
+7-8	439-448	centrally	p[6]	*[6]	spatial relation	
+7-9	449-456	located	p[6]	*[6]	_	
+7-10	456-457	,	p[6]	*[6]	_	
+7-11	458-464	marked	p[6]	*[6]	_	
+7-12	465-469	with	p[6]	*[6]	_	
+7-13	470-471	a	p[6]	*[6]	_	
+7-14	472-481	prominent	p[6]	*[6]	_	
+7-15	482-488	symbol	p[6]	*[6]	_	
+7-16	488-489	.	p[6]	*[6]	_	
+
+#Text=Roads: A network of roads is clearly shown, including:  D721 (a major road) running from St-Nazaire to the north.
+8-1	490-495	Roads	p[7]	*[7]	_	
+8-2	495-496	:	p[7]	*[7]	_	
+8-3	497-498	A	p[7]	*[7]	_	
+8-4	499-506	network	p[7]	*[7]	_	
+8-5	507-509	of	p[7]	*[7]	_	
+8-6	510-515	roads	p[7]	*[7]	_	
+8-7	516-518	is	p[7]	*[7]	_	
+8-8	519-526	clearly	p[7]	*[7]	_	
+8-9	527-532	shown	p[7]	*[7]	_	
+8-10	532-533	,	p[7]	*[7]	_	
+8-11	534-543	including	p[7]	*[7]	_	
+8-12	543-544	:	p[7]	*[7]	_	
+8-13	546-550	D721	_	_	toponym	
+8-14	551-552	(	_	_	_	
+8-15	552-553	a	_	_	_	
+8-16	554-559	major	_	_	_	
+8-17	560-564	road	_	_	_	
+8-18	564-565	)	_	_	_	
+8-19	566-573	running	_	_	spatial relation[28]	
+8-20	574-578	from	_	_	spatial relation[28]	
+8-21	579-589	St-Nazaire	_	_	toponym	
+8-22	590-592	to	_	_	spatial relation[29]	
+8-23	593-596	the	_	_	spatial relation[29]	
+8-24	597-602	north	_	_	spatial relation[29]	
+8-25	602-603	.	_	_	_	
+
+#Text=D72 (a smaller road) running along the river.
+9-1	604-607	D72	_	_	toponym	
+9-2	608-609	(	_	_	_	
+9-3	609-610	a	_	_	_	
+9-4	611-618	smaller	_	_	_	
+9-5	619-623	road	_	_	_	
+9-6	623-624	)	_	_	_	
+9-7	625-632	running	_	_	spatial relation[30]	
+9-8	633-638	along	_	_	spatial relation[30]	
+9-9	639-642	the	_	_	_	
+9-10	643-648	river	_	_	_	
+9-11	648-649	.	_	_	_	
+
+#Text=Several smaller local roads connecting villages and towns.
+10-1	650-657	Several	_	_	_	
+10-2	658-665	smaller	_	_	_	
+10-3	666-671	local	_	_	_	
+10-4	672-677	roads	_	_	_	
+10-5	678-688	connecting	_	_	spatial relation	
+10-6	689-697	villages	_	_	_	
+10-7	698-701	and	_	_	_	
+10-8	702-707	towns	_	_	_	
+10-9	707-708	.	_	_	_	
+
+#Text=Villages & Towns: Numerous small settlements are indicated, including:  St-Brievin-les-Pins Penhoat la Grande Ville St-Pierre-en-Retz la Donnoire la Jarnais la Riviera  Topography: The map uses contour lines to show elevation changes.
+11-1	710-718	Villages	p[8]	*[8]	_	
+11-2	719-720	&	p[8]	*[8]	_	
+11-3	721-726	Towns	p[8]	*[8]	_	
+11-4	726-727	:	p[8]	*[8]	_	
+11-5	728-736	Numerous	p[8]	*[8]	_	
+11-6	737-742	small	p[8]	*[8]	_	
+11-7	743-754	settlements	p[8]	*[8]	_	
+11-8	755-758	are	p[8]	*[8]	_	
+11-9	759-768	indicated	p[8]	*[8]	_	
+11-10	768-769	,	p[8]	*[8]	_	
+11-11	770-779	including	p[8]	*[8]	_	
+11-12	779-780	:	p[8]	*[8]	_	
+11-13	782-801	St-Brievin-les-Pins	_	_	toponym	
+11-14	802-809	Penhoat	_	_	toponym	
+11-15	810-812	la	_	_	toponym[31]	
+11-16	813-819	Grande	_	_	toponym[31]	
+11-17	820-825	Ville	_	_	toponym[31]	
+11-18	826-843	St-Pierre-en-Retz	_	_	toponym	
+11-19	844-846	la	_	_	toponym[32]	
+11-20	847-855	Donnoire	_	_	toponym[32]	
+11-21	856-858	la	_	_	toponym[33]	
+11-22	859-866	Jarnais	_	_	toponym[33]	
+11-23	867-869	la	_	_	toponym[34]	
+11-24	870-877	Riviera	_	_	toponym[34]	
+11-25	879-889	Topography	p[9]	*[9]	_	
+11-26	889-890	:	p[9]	*[9]	_	
+11-27	891-894	The	p[9]	*[9]	_	
+11-28	895-898	map	p[9]	*[9]	_	
+11-29	899-903	uses	p[9]	*[9]	_	
+11-30	904-911	contour	p[9]	*[9]	_	
+11-31	912-917	lines	p[9]	*[9]	_	
+11-32	918-920	to	p[9]	*[9]	_	
+11-33	921-925	show	p[9]	*[9]	_	
+11-34	926-935	elevation	p[9]	*[9]	_	
+11-35	936-943	changes	p[9]	*[9]	_	
+11-36	943-944	.	p[9]	*[9]	_	
+
+#Text=You can see the hilly terrain along the riverbanks and the relatively flat land further inland.
+12-1	945-948	You	p[9]	*[9]	_	
+12-2	949-952	can	p[9]	*[9]	_	
+12-3	953-956	see	p[9]	*[9]	_	
+12-4	957-960	the	p[9]	*[9]	_	
+12-5	961-966	hilly	p[9]	*[9]	_	
+12-6	967-974	terrain	p[9]	*[9]	_	
+12-7	975-980	along	p[9]	*[9]	_	
+12-8	981-984	the	p[9]	*[9]	_	
+12-9	985-995	riverbanks	p[9]	*[9]	_	
+12-10	996-999	and	p[9]	*[9]	_	
+12-11	1000-1003	the	p[9]	*[9]	_	
+12-12	1004-1014	relatively	p[9]	*[9]	_	
+12-13	1015-1019	flat	p[9]	*[9]	_	
+12-14	1020-1024	land	p[9]	*[9]	_	
+12-15	1025-1032	further	p[9]	*[9]	spatial relation[35]	
+12-16	1033-1039	inland	p[9]	*[9]	spatial relation[35]	
+12-17	1039-1040	.	p[9]	*[9]	_	
+
+#Text=Water Bodies: There are several smaller lakes and ponds scattered throughout the area, particularly along the river.
+13-1	1041-1046	Water	p[10]	*[10]	_	
+13-2	1047-1053	Bodies	p[10]	*[10]	_	
+13-3	1053-1054	:	p[10]	*[10]	_	
+13-4	1055-1060	There	p[10]	*[10]	_	
+13-5	1061-1064	are	p[10]	*[10]	_	
+13-6	1065-1072	several	p[10]	*[10]	_	
+13-7	1073-1080	smaller	p[10]	*[10]	_	
+13-8	1081-1086	lakes	p[10]	*[10]	_	
+13-9	1087-1090	and	p[10]	*[10]	_	
+13-10	1091-1096	ponds	p[10]	*[10]	_	
+13-11	1097-1106	scattered	p[10]	*[10]	spatial relation[36]	
+13-12	1107-1117	throughout	p[10]	*[10]	spatial relation[36]	
+13-13	1118-1121	the	p[10]	*[10]	_	
+13-14	1122-1126	area	p[10]	*[10]	_	
+13-15	1126-1127	,	p[10]	*[10]	_	
+13-16	1128-1140	particularly	p[10]	*[10]	_	
+13-17	1141-1146	along	p[10]	*[10]	spatial relation	
+13-18	1147-1150	the	p[10]	*[10]	_	
+13-19	1151-1156	river	p[10]	*[10]	_	
+13-20	1156-1157	.	p[10]	*[10]	_	
+
+#Text=Other Points of Interest: The map also includes names like “le Point du Jol,” “les Rocheslets,” and “le Marais d’Ust” which likely indicate specific geographical features or areas.
+14-1	1158-1163	Other	p[11]	*[11]	_	
+14-2	1164-1170	Points	p[11]	*[11]	_	
+14-3	1171-1173	of	p[11]	*[11]	_	
+14-4	1174-1182	Interest	p[11]	*[11]	_	
+14-5	1182-1183	:	p[11]	*[11]	_	
+14-6	1184-1187	The	p[11]	*[11]	_	
+14-7	1188-1191	map	p[11]	*[11]	_	
+14-8	1192-1196	also	p[11]	*[11]	_	
+14-9	1197-1205	includes	p[11]	*[11]	_	
+14-10	1206-1211	names	p[11]	*[11]	_	
+14-11	1212-1216	like	p[11]	*[11]	_	
+14-12	1217-1218	“	p[11]	*[11]	_	
+14-13	1218-1220	le	p[11]	*[11]	toponym[37]	
+14-14	1221-1226	Point	p[11]	*[11]	toponym[37]	
+14-15	1227-1229	du	p[11]	*[11]	toponym[37]	
+14-16	1230-1233	Jol	p[11]	*[11]	toponym[37]	
+14-17	1233-1234	,	p[11]	*[11]	_	
+14-18	1234-1235	”	p[11]	*[11]	_	
+14-19	1236-1237	“	p[11]	*[11]	_	
+14-20	1237-1240	les	p[11]	*[11]	toponym[38]	
+14-21	1241-1251	Rocheslets	p[11]	*[11]	toponym[38]	
+14-22	1251-1252	,	p[11]	*[11]	_	
+14-23	1252-1253	”	p[11]	*[11]	_	
+14-24	1254-1257	and	p[11]	*[11]	_	
+14-25	1258-1259	“	p[11]	*[11]	_	
+14-26	1259-1261	le	p[11]	*[11]	toponym[39]	
+14-27	1262-1268	Marais	p[11]	*[11]	toponym[39]	
+14-28	1269-1270	d	p[11]	*[11]	toponym[39]	
+14-29	1270-1271	’	p[11]	*[11]	toponym[39]	
+14-30	1271-1274	Ust	p[11]	*[11]	toponym[39]	
+14-31	1274-1275	”	p[11]	*[11]	_	
+14-32	1276-1281	which	p[11]	*[11]	_	
+14-33	1282-1288	likely	p[11]	*[11]	_	
+14-34	1289-1297	indicate	p[11]	*[11]	_	
+14-35	1298-1306	specific	p[11]	*[11]	_	
+14-36	1307-1319	geographical	p[11]	*[11]	_	
+14-37	1320-1328	features	p[11]	*[11]	_	
+14-38	1329-1331	or	p[11]	*[11]	_	
+14-39	1332-1337	areas	p[11]	*[11]	_	
+14-40	1337-1338	.	p[11]	*[11]	_	
+
+#Text=In essence, this map is a navigational tool designed to show the terrain and road network of a specific region in France.
+15-1	1340-1342	In	p[12]	*[12]	_	
+15-2	1343-1350	essence	p[12]	*[12]	_	
+15-3	1350-1351	,	p[12]	*[12]	_	
+15-4	1352-1356	this	p[12]	*[12]	_	
+15-5	1357-1360	map	p[12]	*[12]	_	
+15-6	1361-1363	is	p[12]	*[12]	_	
+15-7	1364-1365	a	p[12]	*[12]	_	
+15-8	1366-1378	navigational	p[12]	*[12]	_	
+15-9	1379-1383	tool	p[12]	*[12]	_	
+15-10	1384-1392	designed	p[12]	*[12]	_	
+15-11	1393-1395	to	p[12]	*[12]	_	
+15-12	1396-1400	show	p[12]	*[12]	_	
+15-13	1401-1404	the	p[12]	*[12]	_	
+15-14	1405-1412	terrain	p[12]	*[12]	_	
+15-15	1413-1416	and	p[12]	*[12]	_	
+15-16	1417-1421	road	p[12]	*[12]	_	
+15-17	1422-1429	network	p[12]	*[12]	_	
+15-18	1430-1432	of	p[12]	*[12]	_	
+15-19	1433-1434	a	p[12]	*[12]	_	
+15-20	1435-1443	specific	p[12]	*[12]	_	
+15-21	1444-1450	region	p[12]	*[12]	_	
+15-22	1451-1453	in	p[12]	*[12]	spatial relation	
+15-23	1454-1460	France	p[12]	*[12]	toponym	
+15-24	1460-1461	.	p[12]	*[12]	_	
+
+#Text=If you’d like, tell me if there’s anything specific about the map you want me to describe in more detail.
+16-1	1462-1464	If	p[13]	*[13]	_	
+16-2	1465-1468	you	p[13]	*[13]	_	
+16-3	1468-1469	’	p[13]	*[13]	_	
+16-4	1469-1470	d	p[13]	*[13]	_	
+16-5	1471-1475	like	p[13]	*[13]	_	
+16-6	1475-1476	,	p[13]	*[13]	_	
+16-7	1477-1481	tell	p[13]	*[13]	_	
+16-8	1482-1484	me	p[13]	*[13]	_	
+16-9	1485-1487	if	p[13]	*[13]	_	
+16-10	1488-1493	there	p[13]	*[13]	_	
+16-11	1493-1494	’	p[13]	*[13]	_	
+16-12	1494-1495	s	p[13]	*[13]	_	
+16-13	1496-1504	anything	p[13]	*[13]	_	
+16-14	1505-1513	specific	p[13]	*[13]	_	
+16-15	1514-1519	about	p[13]	*[13]	_	
+16-16	1520-1523	the	p[13]	*[13]	_	
+16-17	1524-1527	map	p[13]	*[13]	_	
+16-18	1528-1531	you	p[13]	*[13]	_	
+16-19	1532-1536	want	p[13]	*[13]	_	
+16-20	1537-1539	me	p[13]	*[13]	_	
+16-21	1540-1542	to	p[13]	*[13]	_	
+16-22	1543-1551	describe	p[13]	*[13]	_	
+16-23	1552-1554	in	p[13]	*[13]	_	
+16-24	1555-1559	more	p[13]	*[13]	_	
+16-25	1560-1566	detail	p[13]	*[13]	_	
+16-26	1566-1567	.	p[13]	*[13]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+17-1	1568-1571	Can	h1[14]	*[14]	_	
+17-2	1572-1575	you	h1[14]	*[14]	_	
+17-3	1576-1584	describe	h1[14]	*[14]	_	
+17-4	1585-1588	the	h1[14]	*[14]	_	
+17-5	1589-1593	most	h1[14]	*[14]	_	
+17-6	1594-1602	visually	h1[14]	*[14]	_	
+17-7	1603-1610	salient	h1[14]	*[14]	_	
+17-8	1611-1619	elements	h1[14]	*[14]	_	
+17-9	1620-1622	of	h1[14]	*[14]	_	
+17-10	1623-1626	the	h1[14]	*[14]	_	
+17-11	1627-1630	map	h1[14]	*[14]	_	
+17-12	1630-1631	?	h1[14]	*[14]	_	
+
+#Text=Okay, let’s break down the most visually salient elements of this map.
+18-1	1632-1636	Okay	p[15]	*[15]	_	
+18-2	1636-1637	,	p[15]	*[15]	_	
+18-3	1638-1641	let	p[15]	*[15]	_	
+18-4	1641-1642	’	p[15]	*[15]	_	
+18-5	1642-1643	s	p[15]	*[15]	_	
+18-6	1644-1649	break	p[15]	*[15]	_	
+18-7	1650-1654	down	p[15]	*[15]	_	
+18-8	1655-1658	the	p[15]	*[15]	_	
+18-9	1659-1663	most	p[15]	*[15]	_	
+18-10	1664-1672	visually	p[15]	*[15]	_	
+18-11	1673-1680	salient	p[15]	*[15]	_	
+18-12	1681-1689	elements	p[15]	*[15]	_	
+18-13	1690-1692	of	p[15]	*[15]	_	
+18-14	1693-1697	this	p[15]	*[15]	_	
+18-15	1698-1701	map	p[15]	*[15]	_	
+18-16	1701-1702	.	p[15]	*[15]	_	
+
+#Text=Here’s a description focusing on what immediately stands out:  The River: The dominant feature is undoubtedly the large, winding river – it’s a prominent blue line cutting through the entire map.
+19-1	1703-1707	Here	p[15]	*[15]	_	
+19-2	1707-1708	’	p[15]	*[15]	_	
+19-3	1708-1709	s	p[15]	*[15]	_	
+19-4	1710-1711	a	p[15]	*[15]	_	
+19-5	1712-1723	description	p[15]	*[15]	_	
+19-6	1724-1732	focusing	p[15]	*[15]	_	
+19-7	1733-1735	on	p[15]	*[15]	_	
+19-8	1736-1740	what	p[15]	*[15]	_	
+19-9	1741-1752	immediately	p[15]	*[15]	_	
+19-10	1753-1759	stands	p[15]	*[15]	_	
+19-11	1760-1763	out	p[15]	*[15]	_	
+19-12	1763-1764	:	p[15]	*[15]	_	
+19-13	1766-1769	The	p[16]	*[16]	_	
+19-14	1770-1775	River	p[16]	*[16]	_	
+19-15	1775-1776	:	p[16]	*[16]	_	
+19-16	1777-1780	The	p[16]	*[16]	_	
+19-17	1781-1789	dominant	p[16]	*[16]	_	
+19-18	1790-1797	feature	p[16]	*[16]	_	
+19-19	1798-1800	is	p[16]	*[16]	_	
+19-20	1801-1812	undoubtedly	p[16]	*[16]	_	
+19-21	1813-1816	the	p[16]	*[16]	_	
+19-22	1817-1822	large	p[16]	*[16]	_	
+19-23	1822-1823	,	p[16]	*[16]	_	
+19-24	1824-1831	winding	p[16]	*[16]	_	
+19-25	1832-1837	river	p[16]	*[16]	_	
+19-26	1838-1839	–	p[16]	*[16]	_	
+19-27	1840-1842	it	p[16]	*[16]	_	
+19-28	1842-1843	’	p[16]	*[16]	_	
+19-29	1843-1844	s	p[16]	*[16]	_	
+19-30	1845-1846	a	p[16]	*[16]	_	
+19-31	1847-1856	prominent	p[16]	*[16]	_	
+19-32	1857-1861	blue	p[16]	*[16]	_	
+19-33	1862-1866	line	p[16]	*[16]	_	
+19-34	1867-1874	cutting	p[16]	*[16]	_	
+19-35	1875-1882	through	p[16]	*[16]	_	
+19-36	1883-1886	the	p[16]	*[16]	_	
+19-37	1887-1893	entire	p[16]	*[16]	_	
+19-38	1894-1897	map	p[16]	*[16]	_	
+19-39	1897-1898	.	p[16]	*[16]	_	
+
+#Text=It’s clearly labeled as “La Rance”.
+20-1	1899-1901	It	p[16]	*[16]	_	
+20-2	1901-1902	’	p[16]	*[16]	_	
+20-3	1902-1903	s	p[16]	*[16]	_	
+20-4	1904-1911	clearly	p[16]	*[16]	_	
+20-5	1912-1919	labeled	p[16]	*[16]	_	
+20-6	1920-1922	as	p[16]	*[16]	_	
+20-7	1923-1924	“	p[16]	*[16]	_	
+20-8	1924-1926	La	p[16]	*[16]	_	
+20-9	1927-1932	Rance	p[16]	*[16]	_	
+20-10	1932-1933	”	p[16]	*[16]	_	
+20-11	1933-1934	.	p[16]	*[16]	_	
+
+#Text=This is by far the most visually impactful element.
+21-1	1935-1939	This	p[16]	*[16]	_	
+21-2	1940-1942	is	p[16]	*[16]	_	
+21-3	1943-1945	by	p[16]	*[16]	_	
+21-4	1946-1949	far	p[16]	*[16]	_	
+21-5	1950-1953	the	p[16]	*[16]	_	
+21-6	1954-1958	most	p[16]	*[16]	_	
+21-7	1959-1967	visually	p[16]	*[16]	_	
+21-8	1968-1977	impactful	p[16]	*[16]	_	
+21-9	1978-1985	element	p[16]	*[16]	_	
+21-10	1985-1986	.	p[16]	*[16]	_	
+
+#Text=The Riverbanks: The riverbanks are heavily shaded in green, indicating a significant area of marshland and wetlands.
+22-1	1987-1990	The	p[17]	*[17]	_	
+22-2	1991-2001	Riverbanks	p[17]	*[17]	_	
+22-3	2001-2002	:	p[17]	*[17]	_	
+22-4	2003-2006	The	p[17]	*[17]	_	
+22-5	2007-2017	riverbanks	p[17]	*[17]	_	
+22-6	2018-2021	are	p[17]	*[17]	_	
+22-7	2022-2029	heavily	p[17]	*[17]	_	
+22-8	2030-2036	shaded	p[17]	*[17]	_	
+22-9	2037-2039	in	p[17]	*[17]	_	
+22-10	2040-2045	green	p[17]	*[17]	_	
+22-11	2045-2046	,	p[17]	*[17]	_	
+22-12	2047-2057	indicating	p[17]	*[17]	_	
+22-13	2058-2059	a	p[17]	*[17]	_	
+22-14	2060-2071	significant	p[17]	*[17]	_	
+22-15	2072-2076	area	p[17]	*[17]	_	
+22-16	2077-2079	of	p[17]	*[17]	_	
+22-17	2080-2089	marshland	p[17]	*[17]	_	
+22-18	2090-2093	and	p[17]	*[17]	_	
+22-19	2094-2102	wetlands	p[17]	*[17]	_	
+22-20	2102-2103	.	p[17]	*[17]	_	
+
+#Text=This creates a strong contrast with the surrounding areas.
+23-1	2104-2108	This	p[17]	*[17]	_	
+23-2	2109-2116	creates	p[17]	*[17]	_	
+23-3	2117-2118	a	p[17]	*[17]	_	
+23-4	2119-2125	strong	p[17]	*[17]	_	
+23-5	2126-2134	contrast	p[17]	*[17]	_	
+23-6	2135-2139	with	p[17]	*[17]	_	
+23-7	2140-2143	the	p[17]	*[17]	_	
+23-8	2144-2155	surrounding	p[17]	*[17]	_	
+23-9	2156-2161	areas	p[17]	*[17]	_	
+23-10	2161-2162	.	p[17]	*[17]	_	
+
+#Text=Towns & Settlements: Several towns and villages are marked, most notably:  St-Nazaire: A large town is centrally located and appears to be a major point of interest.
+24-1	2163-2168	Towns	p[18]	*[18]	_	
+24-2	2169-2170	&	p[18]	*[18]	_	
+24-3	2171-2182	Settlements	p[18]	*[18]	_	
+24-4	2182-2183	:	p[18]	*[18]	_	
+24-5	2184-2191	Several	p[18]	*[18]	_	
+24-6	2192-2197	towns	p[18]	*[18]	_	
+24-7	2198-2201	and	p[18]	*[18]	_	
+24-8	2202-2210	villages	p[18]	*[18]	_	
+24-9	2211-2214	are	p[18]	*[18]	_	
+24-10	2215-2221	marked	p[18]	*[18]	_	
+24-11	2221-2222	,	p[18]	*[18]	_	
+24-12	2223-2227	most	p[18]	*[18]	_	
+24-13	2228-2235	notably	p[18]	*[18]	_	
+24-14	2235-2236	:	p[18]	*[18]	_	
+24-15	2238-2248	St-Nazaire	_	_	_	
+24-16	2248-2249	:	_	_	_	
+24-17	2250-2251	A	_	_	_	
+24-18	2252-2257	large	_	_	_	
+24-19	2258-2262	town	_	_	_	
+24-20	2263-2265	is	_	_	_	
+24-21	2266-2275	centrally	_	_	_	
+24-22	2276-2283	located	_	_	_	
+24-23	2284-2287	and	_	_	_	
+24-24	2288-2295	appears	_	_	_	
+24-25	2296-2298	to	_	_	_	
+24-26	2299-2301	be	_	_	_	
+24-27	2302-2303	a	_	_	_	
+24-28	2304-2309	major	_	_	_	
+24-29	2310-2315	point	_	_	_	
+24-30	2316-2318	of	_	_	_	
+24-31	2319-2327	interest	_	_	_	
+24-32	2327-2328	.	_	_	_	
+
+#Text=St-Brevin-les-Pins: Located on the river, this town is also a significant point.
+25-1	2329-2347	St-Brevin-les-Pins	_	_	_	
+25-2	2347-2348	:	_	_	_	
+25-3	2349-2356	Located	_	_	_	
+25-4	2357-2359	on	_	_	_	
+25-5	2360-2363	the	_	_	_	
+25-6	2364-2369	river	_	_	_	
+25-7	2369-2370	,	_	_	_	
+25-8	2371-2375	this	_	_	_	
+25-9	2376-2380	town	_	_	_	
+25-10	2381-2383	is	_	_	_	
+25-11	2384-2388	also	_	_	_	
+25-12	2389-2390	a	_	_	_	
+25-13	2391-2402	significant	_	_	_	
+25-14	2403-2408	point	_	_	_	
+25-15	2408-2409	.	_	_	_	
+
+#Text=St-Pierre-en-Retz: A smaller town is situated on the river’s western side.
+26-1	2410-2427	St-Pierre-en-Retz	_	_	_	
+26-2	2427-2428	:	_	_	_	
+26-3	2429-2430	A	_	_	_	
+26-4	2431-2438	smaller	_	_	_	
+26-5	2439-2443	town	_	_	_	
+26-6	2444-2446	is	_	_	_	
+26-7	2447-2455	situated	_	_	_	
+26-8	2456-2458	on	_	_	_	
+26-9	2459-2462	the	_	_	_	
+26-10	2463-2468	river	_	_	_	
+26-11	2468-2469	’	_	_	_	
+26-12	2469-2470	s	_	_	_	
+26-13	2471-2478	western	_	_	_	
+26-14	2479-2483	side	_	_	_	
+26-15	2483-2484	.	_	_	_	
+
+#Text=Road Network: A network of roads (labeled with numbers like D721 and D100) crisscrosses the area, indicating transportation routes.
+27-1	2486-2490	Road	p[19]	*[19]	_	
+27-2	2491-2498	Network	p[19]	*[19]	_	
+27-3	2498-2499	:	p[19]	*[19]	_	
+27-4	2500-2501	A	p[19]	*[19]	_	
+27-5	2502-2509	network	p[19]	*[19]	_	
+27-6	2510-2512	of	p[19]	*[19]	_	
+27-7	2513-2518	roads	p[19]	*[19]	_	
+27-8	2519-2520	(	p[19]	*[19]	_	
+27-9	2520-2527	labeled	p[19]	*[19]	_	
+27-10	2528-2532	with	p[19]	*[19]	_	
+27-11	2533-2540	numbers	p[19]	*[19]	_	
+27-12	2541-2545	like	p[19]	*[19]	_	
+27-13	2546-2550	D721	p[19]	*[19]	_	
+27-14	2551-2554	and	p[19]	*[19]	_	
+27-15	2555-2559	D100	p[19]	*[19]	_	
+27-16	2559-2560	)	p[19]	*[19]	_	
+27-17	2561-2573	crisscrosses	p[19]	*[19]	_	
+27-18	2574-2577	the	p[19]	*[19]	_	
+27-19	2578-2582	area	p[19]	*[19]	_	
+27-20	2582-2583	,	p[19]	*[19]	_	
+27-21	2584-2594	indicating	p[19]	*[19]	_	
+27-22	2595-2609	transportation	p[19]	*[19]	_	
+27-23	2610-2616	routes	p[19]	*[19]	_	
+27-24	2616-2617	.	p[19]	*[19]	_	
+
+#Text=Green Zones: Large areas of green indicate marshland and possibly agricultural land, further emphasizing the region’s character as a coastal wetland area.
+28-1	2618-2623	Green	p[20]	*[20]	_	
+28-2	2624-2629	Zones	p[20]	*[20]	_	
+28-3	2629-2630	:	p[20]	*[20]	_	
+28-4	2631-2636	Large	p[20]	*[20]	_	
+28-5	2637-2642	areas	p[20]	*[20]	_	
+28-6	2643-2645	of	p[20]	*[20]	_	
+28-7	2646-2651	green	p[20]	*[20]	_	
+28-8	2652-2660	indicate	p[20]	*[20]	_	
+28-9	2661-2670	marshland	p[20]	*[20]	_	
+28-10	2671-2674	and	p[20]	*[20]	_	
+28-11	2675-2683	possibly	p[20]	*[20]	_	
+28-12	2684-2696	agricultural	p[20]	*[20]	_	
+28-13	2697-2701	land	p[20]	*[20]	_	
+28-14	2701-2702	,	p[20]	*[20]	_	
+28-15	2703-2710	further	p[20]	*[20]	_	
+28-16	2711-2722	emphasizing	p[20]	*[20]	_	
+28-17	2723-2726	the	p[20]	*[20]	_	
+28-18	2727-2733	region	p[20]	*[20]	_	
+28-19	2733-2734	’	p[20]	*[20]	_	
+28-20	2734-2735	s	p[20]	*[20]	_	
+28-21	2736-2745	character	p[20]	*[20]	_	
+28-22	2746-2748	as	p[20]	*[20]	_	
+28-23	2749-2750	a	p[20]	*[20]	_	
+28-24	2751-2758	coastal	p[20]	*[20]	_	
+28-25	2759-2766	wetland	p[20]	*[20]	_	
+28-26	2767-2771	area	p[20]	*[20]	_	
+28-27	2771-2772	.	p[20]	*[20]	_	
+
+#Text=The Scale Bar: The scale bar is present, though small, and helps to give a sense of the area’s size.
+29-1	2773-2776	The	p[21]	*[21]	_	
+29-2	2777-2782	Scale	p[21]	*[21]	_	
+29-3	2783-2786	Bar	p[21]	*[21]	_	
+29-4	2786-2787	:	p[21]	*[21]	_	
+29-5	2788-2791	The	p[21]	*[21]	_	
+29-6	2792-2797	scale	p[21]	*[21]	_	
+29-7	2798-2801	bar	p[21]	*[21]	_	
+29-8	2802-2804	is	p[21]	*[21]	_	
+29-9	2805-2812	present	p[21]	*[21]	_	
+29-10	2812-2813	,	p[21]	*[21]	_	
+29-11	2814-2820	though	p[21]	*[21]	_	
+29-12	2821-2826	small	p[21]	*[21]	_	
+29-13	2826-2827	,	p[21]	*[21]	_	
+29-14	2828-2831	and	p[21]	*[21]	_	
+29-15	2832-2837	helps	p[21]	*[21]	_	
+29-16	2838-2840	to	p[21]	*[21]	_	
+29-17	2841-2845	give	p[21]	*[21]	_	
+29-18	2846-2847	a	p[21]	*[21]	_	
+29-19	2848-2853	sense	p[21]	*[21]	_	
+29-20	2854-2856	of	p[21]	*[21]	_	
+29-21	2857-2860	the	p[21]	*[21]	_	
+29-22	2861-2865	area	p[21]	*[21]	_	
+29-23	2865-2866	’	p[21]	*[21]	_	
+29-24	2866-2867	s	p[21]	*[21]	_	
+29-25	2868-2872	size	p[21]	*[21]	_	
+29-26	2872-2873	.	p[21]	*[21]	_	
+
+#Text=Overall Impression: The map strongly suggests a region heavily influenced by its coastal wetlands and the Rance River.
+30-1	2875-2882	Overall	p[22]	*[22]	_	
+30-2	2883-2893	Impression	p[22]	*[22]	_	
+30-3	2893-2894	:	p[22]	*[22]	_	
+30-4	2895-2898	The	p[22]	*[22]	_	
+30-5	2899-2902	map	p[22]	*[22]	_	
+30-6	2903-2911	strongly	p[22]	*[22]	_	
+30-7	2912-2920	suggests	p[22]	*[22]	_	
+30-8	2921-2922	a	p[22]	*[22]	_	
+30-9	2923-2929	region	p[22]	*[22]	_	
+30-10	2930-2937	heavily	p[22]	*[22]	_	
+30-11	2938-2948	influenced	p[22]	*[22]	_	
+30-12	2949-2951	by	p[22]	*[22]	_	
+30-13	2952-2955	its	p[22]	*[22]	_	
+30-14	2956-2963	coastal	p[22]	*[22]	_	
+30-15	2964-2972	wetlands	p[22]	*[22]	_	
+30-16	2973-2976	and	p[22]	*[22]	_	
+30-17	2977-2980	the	p[22]	*[22]	_	
+30-18	2981-2986	Rance	p[22]	*[22]	_	
+30-19	2987-2992	River	p[22]	*[22]	_	
+30-20	2992-2993	.	p[22]	*[22]	_	
+
+#Text=It’s a landscape with a strong connection to water, likely used for transportation and agriculture.
+31-1	2994-2996	It	p[22]	*[22]	_	
+31-2	2996-2997	’	p[22]	*[22]	_	
+31-3	2997-2998	s	p[22]	*[22]	_	
+31-4	2999-3000	a	p[22]	*[22]	_	
+31-5	3001-3010	landscape	p[22]	*[22]	_	
+31-6	3011-3015	with	p[22]	*[22]	_	
+31-7	3016-3017	a	p[22]	*[22]	_	
+31-8	3018-3024	strong	p[22]	*[22]	_	
+31-9	3025-3035	connection	p[22]	*[22]	_	
+31-10	3036-3038	to	p[22]	*[22]	_	
+31-11	3039-3044	water	p[22]	*[22]	_	
+31-12	3044-3045	,	p[22]	*[22]	_	
+31-13	3046-3052	likely	p[22]	*[22]	_	
+31-14	3053-3057	used	p[22]	*[22]	_	
+31-15	3058-3061	for	p[22]	*[22]	_	
+31-16	3062-3076	transportation	p[22]	*[22]	_	
+31-17	3077-3080	and	p[22]	*[22]	_	
+31-18	3081-3092	agriculture	p[22]	*[22]	_	
+31-19	3092-3093	.	p[22]	*[22]	_	
+
+#Text=Would you like me to focus on a specific aspect of the map, such as identifying particular landmarks or analyzing the road network?
+32-1	3094-3099	Would	p[23]	*[23]	_	
+32-2	3100-3103	you	p[23]	*[23]	_	
+32-3	3104-3108	like	p[23]	*[23]	_	
+32-4	3109-3111	me	p[23]	*[23]	_	
+32-5	3112-3114	to	p[23]	*[23]	_	
+32-6	3115-3120	focus	p[23]	*[23]	_	
+32-7	3121-3123	on	p[23]	*[23]	_	
+32-8	3124-3125	a	p[23]	*[23]	_	
+32-9	3126-3134	specific	p[23]	*[23]	_	
+32-10	3135-3141	aspect	p[23]	*[23]	_	
+32-11	3142-3144	of	p[23]	*[23]	_	
+32-12	3145-3148	the	p[23]	*[23]	_	
+32-13	3149-3152	map	p[23]	*[23]	_	
+32-14	3152-3153	,	p[23]	*[23]	_	
+32-15	3154-3158	such	p[23]	*[23]	_	
+32-16	3159-3161	as	p[23]	*[23]	_	
+32-17	3162-3173	identifying	p[23]	*[23]	_	
+32-18	3174-3184	particular	p[23]	*[23]	_	
+32-19	3185-3194	landmarks	p[23]	*[23]	_	
+32-20	3195-3197	or	p[23]	*[23]	_	
+32-21	3198-3207	analyzing	p[23]	*[23]	_	
+32-22	3208-3211	the	p[23]	*[23]	_	
+32-23	3212-3216	road	p[23]	*[23]	_	
+32-24	3217-3224	network	p[23]	*[23]	_	
+32-25	3224-3225	?	p[23]	*[23]	_	
+
+#Text=Anchors summary  La Rance (the river) St-Nazaire (town) St-Brevin-les-Pins (town) St-Pierre-en-Retz (town) D721 (road) D100 (road) Riverbanks — marshland/wetlands (non-named) Green zones — marshland and agricultural land (non-named) Scale bar (map element, non-named)
+33-1	3226-3233	Anchors	h1[24]	*[24]	_	
+33-2	3234-3241	summary	h1[24]	*[24]	_	
+33-3	3243-3245	La	_	_	_	
+33-4	3246-3251	Rance	_	_	_	
+33-5	3252-3253	(	_	_	_	
+33-6	3253-3256	the	_	_	_	
+33-7	3257-3262	river	_	_	_	
+33-8	3262-3263	)	_	_	_	
+33-9	3264-3274	St-Nazaire	_	_	_	
+33-10	3275-3276	(	_	_	_	
+33-11	3276-3280	town	_	_	_	
+33-12	3280-3281	)	_	_	_	
+33-13	3282-3300	St-Brevin-les-Pins	_	_	_	
+33-14	3301-3302	(	_	_	_	
+33-15	3302-3306	town	_	_	_	
+33-16	3306-3307	)	_	_	_	
+33-17	3308-3325	St-Pierre-en-Retz	_	_	_	
+33-18	3326-3327	(	_	_	_	
+33-19	3327-3331	town	_	_	_	
+33-20	3331-3332	)	_	_	_	
+33-21	3333-3337	D721	_	_	_	
+33-22	3338-3339	(	_	_	_	
+33-23	3339-3343	road	_	_	_	
+33-24	3343-3344	)	_	_	_	
+33-25	3345-3349	D100	_	_	_	
+33-26	3350-3351	(	_	_	_	
+33-27	3351-3355	road	_	_	_	
+33-28	3355-3356	)	_	_	_	
+33-29	3357-3367	Riverbanks	_	_	_	
+33-30	3368-3369	—	_	_	_	
+33-31	3370-3379	marshland	_	_	_	
+33-32	3379-3380	/	_	_	_	
+33-33	3380-3388	wetlands	_	_	_	
+33-34	3389-3390	(	_	_	_	
+33-35	3390-3399	non-named	_	_	_	
+33-36	3399-3400	)	_	_	_	
+33-37	3401-3406	Green	_	_	_	
+33-38	3407-3412	zones	_	_	_	
+33-39	3413-3414	—	_	_	_	
+33-40	3415-3424	marshland	_	_	_	
+33-41	3425-3428	and	_	_	_	
+33-42	3429-3441	agricultural	_	_	_	
+33-43	3442-3446	land	_	_	_	
+33-44	3447-3448	(	_	_	_	
+33-45	3448-3457	non-named	_	_	_	
+33-46	3457-3458	)	_	_	_	
+33-47	3459-3464	Scale	_	_	_	
+33-48	3465-3468	bar	_	_	_	
+33-49	3469-3470	(	_	_	_	
+33-50	3470-3473	map	_	_	_	
+33-51	3474-3481	element	_	_	_	
+33-52	3481-3482	,	_	_	_	
+33-53	3483-3492	non-named	_	_	_	
+33-54	3492-3493	)	_	_	_	

@@ -1,0 +1,667 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=The image appears to be a map or list of locations in or near Montauk, New York, with a focus on the Roughriders Landing Condos as the primary heading.
+2-1	42-45	The	p[2]	*[2]	_	
+2-2	46-51	image	p[2]	*[2]	_	
+2-3	52-59	appears	p[2]	*[2]	_	
+2-4	60-62	to	p[2]	*[2]	_	
+2-5	63-65	be	p[2]	*[2]	_	
+2-6	66-67	a	p[2]	*[2]	_	
+2-7	68-71	map	p[2]	*[2]	_	
+2-8	72-74	or	p[2]	*[2]	_	
+2-9	75-79	list	p[2]	*[2]	_	
+2-10	80-82	of	p[2]	*[2]	_	
+2-11	83-92	locations	p[2]	*[2]	_	
+2-12	93-95	in	p[2]	*[2]	spatial relation	
+2-13	96-98	or	p[2]	*[2]	_	
+2-14	99-103	near	p[2]	*[2]	spatial relation	
+2-15	104-111	Montauk	p[2]	*[2]	toponym[18]	
+2-16	111-112	,	p[2]	*[2]	toponym[18]	
+2-17	113-116	New	p[2]	*[2]	toponym[18]	
+2-18	117-121	York	p[2]	*[2]	toponym[18]	
+2-19	121-122	,	p[2]	*[2]	_	
+2-20	123-127	with	p[2]	*[2]	_	
+2-21	128-129	a	p[2]	*[2]	_	
+2-22	130-135	focus	p[2]	*[2]	_	
+2-23	136-138	on	p[2]	*[2]	_	
+2-24	139-142	the	p[2]	*[2]	_	
+2-25	143-154	Roughriders	p[2]	*[2]	toponym[19]	
+2-26	155-162	Landing	p[2]	*[2]	toponym[19]	
+2-27	163-169	Condos	p[2]	*[2]	toponym[19]	
+2-28	170-172	as	p[2]	*[2]	_	
+2-29	173-176	the	p[2]	*[2]	_	
+2-30	177-184	primary	p[2]	*[2]	_	
+2-31	185-192	heading	p[2]	*[2]	_	
+2-32	192-193	.	p[2]	*[2]	_	
+
+#Text=Below are the key points from the content:  Roughriders Landing Condos – Likely a residential or vacation condo development.
+3-1	194-199	Below	p[2]	*[2]	_	
+3-2	200-203	are	p[2]	*[2]	_	
+3-3	204-207	the	p[2]	*[2]	_	
+3-4	208-211	key	p[2]	*[2]	_	
+3-5	212-218	points	p[2]	*[2]	_	
+3-6	219-223	from	p[2]	*[2]	_	
+3-7	224-227	the	p[2]	*[2]	_	
+3-8	228-235	content	p[2]	*[2]	_	
+3-9	235-236	:	p[2]	*[2]	_	
+3-10	238-249	Roughriders	p[3]	*[3]	toponym[20]	
+3-11	250-257	Landing	p[3]	*[3]	toponym[20]	
+3-12	258-264	Condos	p[3]	*[3]	toponym[20]	
+3-13	265-266	–	p[3]	*[3]	_	
+3-14	267-273	Likely	p[3]	*[3]	_	
+3-15	274-275	a	p[3]	*[3]	_	
+3-16	276-287	residential	p[3]	*[3]	_	
+3-17	288-290	or	p[3]	*[3]	_	
+3-18	291-299	vacation	p[3]	*[3]	_	
+3-19	300-305	condo	p[3]	*[3]	_	
+3-20	306-317	development	p[3]	*[3]	_	
+3-21	317-318	.	p[3]	*[3]	_	
+
+#Text=Restaurants and Dining:  Navy Beach – A restaurant in Montauk.
+4-1	319-330	Restaurants	p[4]	*[4]	_	
+4-2	331-334	and	p[4]	*[4]	_	
+4-3	335-341	Dining	p[4]	*[4]	_	
+4-4	341-342	:	p[4]	*[4]	_	
+4-5	344-348	Navy	_	_	toponym[21]	
+4-6	349-354	Beach	_	_	toponym[21]	
+4-7	355-356	–	_	_	_	
+4-8	357-358	A	_	_	_	
+4-9	359-369	restaurant	_	_	_	
+4-10	370-372	in	_	_	spatial relation	
+4-11	373-380	Montauk	_	_	toponym	
+4-12	380-381	.	_	_	_	
+
+#Text=Muschmeyer's – Presumably another dining establishment (name is cut off).
+5-1	382-394	Muschmeyer's	_	_	toponym	
+5-2	395-396	–	_	_	_	
+5-3	397-407	Presumably	_	_	_	
+5-4	408-415	another	_	_	_	
+5-5	416-422	dining	_	_	_	
+5-6	423-436	establishment	_	_	_	
+5-7	437-438	(	_	_	_	
+5-8	438-442	name	_	_	_	
+5-9	443-445	is	_	_	_	
+5-10	446-449	cut	_	_	_	
+5-11	450-453	off	_	_	_	
+5-12	453-454	)	_	_	_	
+5-13	454-455	.	_	_	_	
+
+#Text=Harvest on Fort Pond – A restaurant or café.
+6-1	456-463	Harvest	_	_	toponym[22]	
+6-2	464-466	on	_	_	toponym[22]	
+6-3	467-471	Fort	_	_	toponym[22]	
+6-4	472-476	Pond	_	_	toponym[22]	
+6-5	477-478	–	_	_	_	
+6-6	479-480	A	_	_	_	
+6-7	481-491	restaurant	_	_	_	
+6-8	492-494	or	_	_	_	
+6-9	495-499	café	_	_	_	
+6-10	499-500	.	_	_	_	
+
+#Text=Hartman's Briney – Possibly a seafood or local eatery.
+7-1	501-510	Hartman's	_	_	toponym[23]	
+7-2	511-517	Briney	_	_	toponym[23]	
+7-3	518-519	–	_	_	_	
+7-4	520-528	Possibly	_	_	_	
+7-5	529-530	a	_	_	_	
+7-6	531-538	seafood	_	_	_	
+7-7	539-541	or	_	_	_	
+7-8	542-547	local	_	_	_	
+7-9	548-554	eatery	_	_	_	
+7-10	554-555	.	_	_	_	
+
+#Text=Recreation & Landmarks:  Montauk Minor (possibly "Montauk Manor" or a typo) – Mentioned alongside State Park, suggesting a park or natural attraction.
+8-1	557-567	Recreation	p[5]	*[5]	_	
+8-2	568-569	&	p[5]	*[5]	_	
+8-3	570-579	Landmarks	p[5]	*[5]	_	
+8-4	579-580	:	p[5]	*[5]	_	
+8-5	582-589	Montauk	_	_	toponym[24]	
+8-6	590-595	Minor	_	_	toponym[24]	
+8-7	596-597	(	_	_	_	
+8-8	597-605	possibly	_	_	_	
+8-9	606-607	"	_	_	_	
+8-10	607-614	Montauk	_	_	_	
+8-11	615-620	Manor	_	_	_	
+8-12	620-621	"	_	_	_	
+8-13	622-624	or	_	_	_	
+8-14	625-626	a	_	_	_	
+8-15	627-631	typo	_	_	_	
+8-16	631-632	)	_	_	_	
+8-17	633-634	–	_	_	_	
+8-18	635-644	Mentioned	_	_	_	
+8-19	645-654	alongside	_	_	_	
+8-20	655-660	State	_	_	toponym[25]	
+8-21	661-665	Park	_	_	toponym[25]	
+8-22	665-666	,	_	_	_	
+8-23	667-677	suggesting	_	_	_	
+8-24	678-679	a	_	_	_	
+8-25	680-684	park	_	_	_	
+8-26	685-687	or	_	_	_	
+8-27	688-695	natural	_	_	_	
+8-28	696-706	attraction	_	_	_	
+8-29	706-707	.	_	_	_	
+
+#Text=Montauk Bike Hotel – A lodging option, possibly bike-friendly.
+9-1	708-715	Montauk	_	_	toponym[26]	
+9-2	716-720	Bike	_	_	toponym[26]	
+9-3	721-726	Hotel	_	_	toponym[26]	
+9-4	727-728	–	_	_	_	
+9-5	729-730	A	_	_	_	
+9-6	731-738	lodging	_	_	_	
+9-7	739-745	option	_	_	_	
+9-8	745-746	,	_	_	_	
+9-9	747-755	possibly	_	_	_	
+9-10	756-769	bike-friendly	_	_	_	
+9-11	769-770	.	_	_	_	
+
+#Text=Breezes Beach Resort – A beachside resort.
+10-1	771-778	Breezes	_	_	toponym[27]	
+10-2	779-784	Beach	_	_	toponym[27]	
+10-3	785-791	Resort	_	_	toponym[27]	
+10-4	792-793	–	_	_	_	
+10-5	794-795	A	_	_	_	
+10-6	796-805	beachside	_	_	_	
+10-7	806-812	resort	_	_	_	
+10-8	812-813	.	_	_	_	
+
+#Text=The entries are separated by lines, possibly indicating different categories (e.g., dining, parks, hotels).
+11-1	816-819	The	p[6]	*[6]	_	
+11-2	820-827	entries	p[6]	*[6]	_	
+11-3	828-831	are	p[6]	*[6]	_	
+11-4	832-841	separated	p[6]	*[6]	_	
+11-5	842-844	by	p[6]	*[6]	_	
+11-6	845-850	lines	p[6]	*[6]	_	
+11-7	850-851	,	p[6]	*[6]	_	
+11-8	852-860	possibly	p[6]	*[6]	_	
+11-9	861-871	indicating	p[6]	*[6]	_	
+11-10	872-881	different	p[6]	*[6]	_	
+11-11	882-892	categories	p[6]	*[6]	_	
+11-12	893-894	(	p[6]	*[6]	_	
+11-13	894-897	e.g	p[6]	*[6]	_	
+11-14	897-898	.	p[6]	*[6]	_	
+11-15	898-899	,	p[6]	*[6]	_	
+11-16	900-906	dining	p[6]	*[6]	_	
+11-17	906-907	,	p[6]	*[6]	_	
+11-18	908-913	parks	p[6]	*[6]	_	
+11-19	913-914	,	p[6]	*[6]	_	
+11-20	915-921	hotels	p[6]	*[6]	_	
+11-21	921-922	)	p[6]	*[6]	_	
+11-22	922-923	.	p[6]	*[6]	_	
+
+#Text=Some names are truncated (e.g., "Montauk I..." suggests "Montauk Island" or similar).
+12-1	924-928	Some	p[6]	*[6]	_	
+12-2	929-934	names	p[6]	*[6]	_	
+12-3	935-938	are	p[6]	*[6]	_	
+12-4	939-948	truncated	p[6]	*[6]	_	
+12-5	949-950	(	p[6]	*[6]	_	
+12-6	950-953	e.g	p[6]	*[6]	_	
+12-7	953-954	.	p[6]	*[6]	_	
+12-8	954-955	,	p[6]	*[6]	_	
+12-9	956-957	"	p[6]	*[6]	_	
+12-10	957-964	Montauk	p[6]	*[6]	toponym[28]	
+12-11	965-966	I	p[6]	*[6]	toponym[28]	
+12-12	966-967	.	p[6]	*[6]	_	
+12-13	967-968	.	p[6]	*[6]	_	
+12-14	968-969	.	p[6]	*[6]	_	
+12-15	969-970	"	p[6]	*[6]	_	
+12-16	971-979	suggests	p[6]	*[6]	_	
+12-17	980-981	"	p[6]	*[6]	_	
+12-18	981-988	Montauk	p[6]	*[6]	_	
+12-19	989-995	Island	p[6]	*[6]	_	
+12-20	995-996	"	p[6]	*[6]	_	
+12-21	997-999	or	p[6]	*[6]	_	
+12-22	1000-1007	similar	p[6]	*[6]	_	
+12-23	1007-1008	)	p[6]	*[6]	_	
+12-24	1008-1009	.	p[6]	*[6]	_	
+
+#Text=The format resembles a directory or map legend rather than a detailed geographical map.
+13-1	1010-1013	The	p[6]	*[6]	_	
+13-2	1014-1020	format	p[6]	*[6]	_	
+13-3	1021-1030	resembles	p[6]	*[6]	_	
+13-4	1031-1032	a	p[6]	*[6]	_	
+13-5	1033-1042	directory	p[6]	*[6]	_	
+13-6	1043-1045	or	p[6]	*[6]	_	
+13-7	1046-1049	map	p[6]	*[6]	_	
+13-8	1050-1056	legend	p[6]	*[6]	_	
+13-9	1057-1063	rather	p[6]	*[6]	_	
+13-10	1064-1068	than	p[6]	*[6]	_	
+13-11	1069-1070	a	p[6]	*[6]	_	
+13-12	1071-1079	detailed	p[6]	*[6]	_	
+13-13	1080-1092	geographical	p[6]	*[6]	_	
+13-14	1093-1096	map	p[6]	*[6]	_	
+13-15	1096-1097	.	p[6]	*[6]	_	
+
+#Text=If this is from a travel guide or real estate listing, it may highlight nearby amenities for potential visitors or residents.
+14-1	1098-1100	If	p[7]	*[7]	_	
+14-2	1101-1105	this	p[7]	*[7]	_	
+14-3	1106-1108	is	p[7]	*[7]	_	
+14-4	1109-1113	from	p[7]	*[7]	_	
+14-5	1114-1115	a	p[7]	*[7]	_	
+14-6	1116-1122	travel	p[7]	*[7]	_	
+14-7	1123-1128	guide	p[7]	*[7]	_	
+14-8	1129-1131	or	p[7]	*[7]	_	
+14-9	1132-1136	real	p[7]	*[7]	_	
+14-10	1137-1143	estate	p[7]	*[7]	_	
+14-11	1144-1151	listing	p[7]	*[7]	_	
+14-12	1151-1152	,	p[7]	*[7]	_	
+14-13	1153-1155	it	p[7]	*[7]	_	
+14-14	1156-1159	may	p[7]	*[7]	_	
+14-15	1160-1169	highlight	p[7]	*[7]	_	
+14-16	1170-1176	nearby	p[7]	*[7]	_	
+14-17	1177-1186	amenities	p[7]	*[7]	_	
+14-18	1187-1190	for	p[7]	*[7]	_	
+14-19	1191-1200	potential	p[7]	*[7]	_	
+14-20	1201-1209	visitors	p[7]	*[7]	_	
+14-21	1210-1212	or	p[7]	*[7]	_	
+14-22	1213-1222	residents	p[7]	*[7]	_	
+14-23	1222-1223	.	p[7]	*[7]	_	
+
+#Text=Would you like help finding more details on any of these locations?
+15-1	1224-1229	Would	p[7]	*[7]	_	
+15-2	1230-1233	you	p[7]	*[7]	_	
+15-3	1234-1238	like	p[7]	*[7]	_	
+15-4	1239-1243	help	p[7]	*[7]	_	
+15-5	1244-1251	finding	p[7]	*[7]	_	
+15-6	1252-1256	more	p[7]	*[7]	_	
+15-7	1257-1264	details	p[7]	*[7]	_	
+15-8	1265-1267	on	p[7]	*[7]	_	
+15-9	1268-1271	any	p[7]	*[7]	_	
+15-10	1272-1274	of	p[7]	*[7]	_	
+15-11	1275-1280	these	p[7]	*[7]	_	
+15-12	1281-1290	locations	p[7]	*[7]	_	
+15-13	1290-1291	?	p[7]	*[7]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+16-1	1292-1295	Can	h1[8]	*[8]	_	
+16-2	1296-1299	you	h1[8]	*[8]	_	
+16-3	1300-1308	describe	h1[8]	*[8]	_	
+16-4	1309-1312	the	h1[8]	*[8]	_	
+16-5	1313-1317	most	h1[8]	*[8]	_	
+16-6	1318-1326	visually	h1[8]	*[8]	_	
+16-7	1327-1334	salient	h1[8]	*[8]	_	
+16-8	1335-1343	elements	h1[8]	*[8]	_	
+16-9	1344-1346	of	h1[8]	*[8]	_	
+16-10	1347-1350	the	h1[8]	*[8]	_	
+16-11	1351-1354	map	h1[8]	*[8]	_	
+16-12	1354-1355	?	h1[8]	*[8]	_	
+
+#Text=The image you've shared (from google_14.png) appears to be a text-based list or directory rather than a traditional map with visual elements like roads, landmarks, or geographic features.
+17-1	1356-1359	The	p[9]	*[9]	_	
+17-2	1360-1365	image	p[9]	*[9]	_	
+17-3	1366-1372	you've	p[9]	*[9]	_	
+17-4	1373-1379	shared	p[9]	*[9]	_	
+17-5	1380-1381	(	p[9]	*[9]	_	
+17-6	1381-1385	from	p[9]	*[9]	_	
+17-7	1386-1392	google	p[9]	*[9]	_	
+17-8	1392-1393	_	p[9]	*[9]	_	
+17-9	1393-1395	14	p[9]	*[9]	_	
+17-10	1395-1396	.	p[9]	*[9]	_	
+17-11	1396-1399	png	p[9]	*[9]	_	
+17-12	1399-1400	)	p[9]	*[9]	_	
+17-13	1401-1408	appears	p[9]	*[9]	_	
+17-14	1409-1411	to	p[9]	*[9]	_	
+17-15	1412-1414	be	p[9]	*[9]	_	
+17-16	1415-1416	a	p[9]	*[9]	_	
+17-17	1417-1427	text-based	p[9]	*[9]	_	
+17-18	1428-1432	list	p[9]	*[9]	_	
+17-19	1433-1435	or	p[9]	*[9]	_	
+17-20	1436-1445	directory	p[9]	*[9]	_	
+17-21	1446-1452	rather	p[9]	*[9]	_	
+17-22	1453-1457	than	p[9]	*[9]	_	
+17-23	1458-1459	a	p[9]	*[9]	_	
+17-24	1460-1471	traditional	p[9]	*[9]	_	
+17-25	1472-1475	map	p[9]	*[9]	_	
+17-26	1476-1480	with	p[9]	*[9]	_	
+17-27	1481-1487	visual	p[9]	*[9]	_	
+17-28	1488-1496	elements	p[9]	*[9]	_	
+17-29	1497-1501	like	p[9]	*[9]	_	
+17-30	1502-1507	roads	p[9]	*[9]	_	
+17-31	1507-1508	,	p[9]	*[9]	_	
+17-32	1509-1518	landmarks	p[9]	*[9]	_	
+17-33	1518-1519	,	p[9]	*[9]	_	
+17-34	1520-1522	or	p[9]	*[9]	_	
+17-35	1523-1533	geographic	p[9]	*[9]	_	
+17-36	1534-1542	features	p[9]	*[9]	_	
+17-37	1542-1543	.	p[9]	*[9]	_	
+
+#Text=However, based on the formatting, here are the most visually salient aspects of the content: 1.
+18-1	1544-1551	However	p[9]	*[9]	_	
+18-2	1551-1552	,	p[9]	*[9]	_	
+18-3	1553-1558	based	p[9]	*[9]	_	
+18-4	1559-1561	on	p[9]	*[9]	_	
+18-5	1562-1565	the	p[9]	*[9]	_	
+18-6	1566-1576	formatting	p[9]	*[9]	_	
+18-7	1576-1577	,	p[9]	*[9]	_	
+18-8	1578-1582	here	p[9]	*[9]	_	
+18-9	1583-1586	are	p[9]	*[9]	_	
+18-10	1587-1590	the	p[9]	*[9]	_	
+18-11	1591-1595	most	p[9]	*[9]	_	
+18-12	1596-1604	visually	p[9]	*[9]	_	
+18-13	1605-1612	salient	p[9]	*[9]	_	
+18-14	1613-1620	aspects	p[9]	*[9]	_	
+18-15	1621-1623	of	p[9]	*[9]	_	
+18-16	1624-1627	the	p[9]	*[9]	_	
+18-17	1628-1635	content	p[9]	*[9]	_	
+18-18	1635-1636	:	p[9]	*[9]	_	
+18-19	1637-1638	1	h2[10]	*[10]	_	
+18-20	1638-1639	.	h2[10]	*[10]	_	
+
+#Text=Hierarchical Text Structure  Large, bold heading: "Roughriders Landing Condos" (likely the primary focus).
+19-1	1640-1652	Hierarchical	h2[10]	*[10]	_	
+19-2	1653-1657	Text	h2[10]	*[10]	_	
+19-3	1658-1667	Structure	h2[10]	*[10]	_	
+19-4	1669-1674	Large	_	_	_	
+19-5	1674-1675	,	_	_	_	
+19-6	1676-1680	bold	_	_	_	
+19-7	1681-1688	heading	_	_	_	
+19-8	1688-1689	:	_	_	_	
+19-9	1690-1691	"	_	_	_	
+19-10	1691-1702	Roughriders	_	_	_	
+19-11	1703-1710	Landing	_	_	_	
+19-12	1711-1717	Condos	_	_	_	
+19-13	1717-1718	"	_	_	_	
+19-14	1719-1720	(	_	_	_	
+19-15	1720-1726	likely	_	_	_	
+19-16	1727-1730	the	_	_	_	
+19-17	1731-1738	primary	_	_	_	
+19-18	1739-1744	focus	_	_	_	
+19-19	1744-1745	)	_	_	_	
+19-20	1745-1746	.	_	_	_	
+
+#Text=Subheadings: Smaller but bold (e.g., "Restaurant, Montauk I...").
+20-1	1747-1758	Subheadings	_	_	_	
+20-2	1758-1759	:	_	_	_	
+20-3	1760-1767	Smaller	_	_	_	
+20-4	1768-1771	but	_	_	_	
+20-5	1772-1776	bold	_	_	_	
+20-6	1777-1778	(	_	_	_	
+20-7	1778-1781	e.g	_	_	_	
+20-8	1781-1782	.	_	_	_	
+20-9	1782-1783	,	_	_	_	
+20-10	1784-1785	"	_	_	_	
+20-11	1785-1795	Restaurant	_	_	_	
+20-12	1795-1796	,	_	_	_	
+20-13	1797-1804	Montauk	_	_	_	
+20-14	1805-1806	I	_	_	_	
+20-15	1806-1807	.	_	_	_	
+20-16	1807-1808	.	_	_	_	
+20-17	1808-1809	.	_	_	_	
+20-18	1809-1810	"	_	_	_	
+20-19	1810-1811	)	_	_	_	
+20-20	1811-1812	.	_	_	_	
+
+#Text=Entries: Indented or bulleted under subheadings (e.g., Navy Beach, Montauk Bike Hotel).  2.
+21-1	1813-1820	Entries	_	_	_	
+21-2	1820-1821	:	_	_	_	
+21-3	1822-1830	Indented	_	_	_	
+21-4	1831-1833	or	_	_	_	
+21-5	1834-1842	bulleted	_	_	_	
+21-6	1843-1848	under	_	_	_	
+21-7	1849-1860	subheadings	_	_	_	
+21-8	1861-1862	(	_	_	_	
+21-9	1862-1865	e.g	_	_	_	
+21-10	1865-1866	.	_	_	_	
+21-11	1866-1867	,	_	_	_	
+21-12	1868-1872	Navy	_	_	_	
+21-13	1873-1878	Beach	_	_	_	
+21-14	1878-1879	,	_	_	_	
+21-15	1880-1887	Montauk	_	_	_	
+21-16	1888-1892	Bike	_	_	_	
+21-17	1893-1898	Hotel	_	_	_	
+21-18	1898-1899	)	_	_	_	
+21-19	1899-1900	.	_	_	_	
+21-20	1902-1903	2	h2[11]	*[11]	_	
+21-21	1903-1904	.	h2[11]	*[11]	_	
+
+#Text=Dividers (Lines)  Horizontal lines (---) separate entries, creating distinct sections.
+22-1	1905-1913	Dividers	h2[11]	*[11]	_	
+22-2	1914-1915	(	h2[11]	*[11]	_	
+22-3	1915-1920	Lines	h2[11]	*[11]	_	
+22-4	1920-1921	)	h2[11]	*[11]	_	
+22-5	1923-1933	Horizontal	_	_	_	
+22-6	1934-1939	lines	_	_	_	
+22-7	1940-1941	(	_	_	_	
+22-8	1941-1942	-	_	_	_	
+22-9	1942-1943	-	_	_	_	
+22-10	1943-1944	-	_	_	_	
+22-11	1944-1945	)	_	_	_	
+22-12	1946-1954	separate	_	_	_	
+22-13	1955-1962	entries	_	_	_	
+22-14	1962-1963	,	_	_	_	
+22-15	1964-1972	creating	_	_	_	
+22-16	1973-1981	distinct	_	_	_	
+22-17	1982-1990	sections	_	_	_	
+22-18	1990-1991	.	_	_	_	
+
+#Text=This suggests groupings by category (e.g., restaurants, parks, hotels).  3.
+23-1	1992-1996	This	_	_	_	
+23-2	1997-2005	suggests	_	_	_	
+23-3	2006-2015	groupings	_	_	_	
+23-4	2016-2018	by	_	_	_	
+23-5	2019-2027	category	_	_	_	
+23-6	2028-2029	(	_	_	_	
+23-7	2029-2032	e.g	_	_	_	
+23-8	2032-2033	.	_	_	_	
+23-9	2033-2034	,	_	_	_	
+23-10	2035-2046	restaurants	_	_	_	
+23-11	2046-2047	,	_	_	_	
+23-12	2048-2053	parks	_	_	_	
+23-13	2053-2054	,	_	_	_	
+23-14	2055-2061	hotels	_	_	_	
+23-15	2061-2062	)	_	_	_	
+23-16	2062-2063	.	_	_	_	
+23-17	2065-2066	3	h2[12]	*[12]	_	
+23-18	2066-2067	.	h2[12]	*[12]	_	
+
+#Text=Repetition & Truncation  Some names repeat (e.g., Montauk Bike Hotel appears twice), possibly indicating multiple references or a formatting error.
+24-1	2068-2078	Repetition	h2[12]	*[12]	_	
+24-2	2079-2080	&	h2[12]	*[12]	_	
+24-3	2081-2091	Truncation	h2[12]	*[12]	_	
+24-4	2093-2097	Some	_	_	_	
+24-5	2098-2103	names	_	_	_	
+24-6	2104-2110	repeat	_	_	_	
+24-7	2111-2112	(	_	_	_	
+24-8	2112-2115	e.g	_	_	_	
+24-9	2115-2116	.	_	_	_	
+24-10	2116-2117	,	_	_	_	
+24-11	2118-2125	Montauk	_	_	_	
+24-12	2126-2130	Bike	_	_	_	
+24-13	2131-2136	Hotel	_	_	_	
+24-14	2137-2144	appears	_	_	_	
+24-15	2145-2150	twice	_	_	_	
+24-16	2150-2151	)	_	_	_	
+24-17	2151-2152	,	_	_	_	
+24-18	2153-2161	possibly	_	_	_	
+24-19	2162-2172	indicating	_	_	_	
+24-20	2173-2181	multiple	_	_	_	
+24-21	2182-2192	references	_	_	_	
+24-22	2193-2195	or	_	_	_	
+24-23	2196-2197	a	_	_	_	
+24-24	2198-2208	formatting	_	_	_	
+24-25	2209-2214	error	_	_	_	
+24-26	2214-2215	.	_	_	_	
+
+#Text=Truncated text (e.g., "Montauk I...") hints at space constraints or a condensed layout.  4.
+25-1	2216-2225	Truncated	_	_	_	
+25-2	2226-2230	text	_	_	_	
+25-3	2231-2232	(	_	_	_	
+25-4	2232-2235	e.g	_	_	_	
+25-5	2235-2236	.	_	_	_	
+25-6	2236-2237	,	_	_	_	
+25-7	2238-2239	"	_	_	_	
+25-8	2239-2246	Montauk	_	_	_	
+25-9	2247-2248	I	_	_	_	
+25-10	2248-2249	.	_	_	_	
+25-11	2249-2250	.	_	_	_	
+25-12	2250-2251	.	_	_	_	
+25-13	2251-2252	"	_	_	_	
+25-14	2252-2253	)	_	_	_	
+25-15	2254-2259	hints	_	_	_	
+25-16	2260-2262	at	_	_	_	
+25-17	2263-2268	space	_	_	_	
+25-18	2269-2280	constraints	_	_	_	
+25-19	2281-2283	or	_	_	_	
+25-20	2284-2285	a	_	_	_	
+25-21	2286-2295	condensed	_	_	_	
+25-22	2296-2302	layout	_	_	_	
+25-23	2302-2303	.	_	_	_	
+25-24	2305-2306	4	h2[13]	*[13]	_	
+25-25	2306-2307	.	h2[13]	*[13]	_	
+
+#Text=Minimalist Format  No icons, colors, or images—just black text on a white background.
+26-1	2308-2318	Minimalist	h2[13]	*[13]	_	
+26-2	2319-2325	Format	h2[13]	*[13]	_	
+26-3	2327-2329	No	_	_	_	
+26-4	2330-2335	icons	_	_	_	
+26-5	2335-2336	,	_	_	_	
+26-6	2337-2343	colors	_	_	_	
+26-7	2343-2344	,	_	_	_	
+26-8	2345-2347	or	_	_	_	
+26-9	2348-2359	images—just	_	_	_	
+26-10	2360-2365	black	_	_	_	
+26-11	2366-2370	text	_	_	_	
+26-12	2371-2373	on	_	_	_	
+26-13	2374-2375	a	_	_	_	
+26-14	2376-2381	white	_	_	_	
+26-15	2382-2392	background	_	_	_	
+26-16	2392-2393	.	_	_	_	
+
+#Text=Likely part of a directory, real estate listing, or travel guide for the Montauk area.
+27-1	2394-2400	Likely	_	_	_	
+27-2	2401-2405	part	_	_	_	
+27-3	2406-2408	of	_	_	_	
+27-4	2409-2410	a	_	_	_	
+27-5	2411-2420	directory	_	_	_	
+27-6	2420-2421	,	_	_	_	
+27-7	2422-2426	real	_	_	_	
+27-8	2427-2433	estate	_	_	_	
+27-9	2434-2441	listing	_	_	_	
+27-10	2441-2442	,	_	_	_	
+27-11	2443-2445	or	_	_	_	
+27-12	2446-2452	travel	_	_	_	
+27-13	2453-2458	guide	_	_	_	
+27-14	2459-2462	for	_	_	_	
+27-15	2463-2466	the	_	_	_	
+27-16	2467-2474	Montauk	_	_	_	
+27-17	2475-2479	area	_	_	_	
+27-18	2479-2480	.	_	_	_	
+
+#Text=Key Takeaway: While not a visual map, the layout emphasizes proximity or relevance to "Roughriders Landing Condos" by listing nearby businesses/attractions in a clean, structured list.
+28-1	2482-2485	Key	h2[14]	*[14]	_	
+28-2	2486-2494	Takeaway	h2[14]	*[14]	_	
+28-3	2494-2495	:	h2[14]	*[14]	_	
+28-4	2496-2501	While	p[15]	*[15]	_	
+28-5	2502-2505	not	p[15]	*[15]	_	
+28-6	2506-2507	a	p[15]	*[15]	_	
+28-7	2508-2514	visual	p[15]	*[15]	_	
+28-8	2515-2518	map	p[15]	*[15]	_	
+28-9	2518-2519	,	p[15]	*[15]	_	
+28-10	2520-2523	the	p[15]	*[15]	_	
+28-11	2524-2530	layout	p[15]	*[15]	_	
+28-12	2531-2541	emphasizes	p[15]	*[15]	_	
+28-13	2542-2551	proximity	p[15]	*[15]	_	
+28-14	2552-2554	or	p[15]	*[15]	_	
+28-15	2555-2564	relevance	p[15]	*[15]	_	
+28-16	2565-2567	to	p[15]	*[15]	_	
+28-17	2568-2569	"	p[15]	*[15]	_	
+28-18	2569-2580	Roughriders	p[15]	*[15]	_	
+28-19	2581-2588	Landing	p[15]	*[15]	_	
+28-20	2589-2595	Condos	p[15]	*[15]	_	
+28-21	2595-2596	"	p[15]	*[15]	_	
+28-22	2597-2599	by	p[15]	*[15]	_	
+28-23	2600-2607	listing	p[15]	*[15]	_	
+28-24	2608-2614	nearby	p[15]	*[15]	_	
+28-25	2615-2625	businesses	p[15]	*[15]	_	
+28-26	2625-2626	/	p[15]	*[15]	_	
+28-27	2626-2637	attractions	p[15]	*[15]	_	
+28-28	2638-2640	in	p[15]	*[15]	_	
+28-29	2641-2642	a	p[15]	*[15]	_	
+28-30	2643-2648	clean	p[15]	*[15]	_	
+28-31	2648-2649	,	p[15]	*[15]	_	
+28-32	2650-2660	structured	p[15]	*[15]	_	
+28-33	2661-2665	list	p[15]	*[15]	_	
+28-34	2665-2666	.	p[15]	*[15]	_	
+
+#Text=If this is a screenshot from Google Maps or a similar service, it might be a textual sidebar accompanying a map.
+29-1	2667-2669	If	p[15]	*[15]	_	
+29-2	2670-2674	this	p[15]	*[15]	_	
+29-3	2675-2677	is	p[15]	*[15]	_	
+29-4	2678-2679	a	p[15]	*[15]	_	
+29-5	2680-2690	screenshot	p[15]	*[15]	_	
+29-6	2691-2695	from	p[15]	*[15]	_	
+29-7	2696-2702	Google	p[15]	*[15]	_	
+29-8	2703-2707	Maps	p[15]	*[15]	_	
+29-9	2708-2710	or	p[15]	*[15]	_	
+29-10	2711-2712	a	p[15]	*[15]	_	
+29-11	2713-2720	similar	p[15]	*[15]	_	
+29-12	2721-2728	service	p[15]	*[15]	_	
+29-13	2728-2729	,	p[15]	*[15]	_	
+29-14	2730-2732	it	p[15]	*[15]	_	
+29-15	2733-2738	might	p[15]	*[15]	_	
+29-16	2739-2741	be	p[15]	*[15]	_	
+29-17	2742-2743	a	p[15]	*[15]	_	
+29-18	2744-2751	textual	p[15]	*[15]	_	
+29-19	2752-2759	sidebar	p[15]	*[15]	_	
+29-20	2760-2772	accompanying	p[15]	*[15]	_	
+29-21	2773-2774	a	p[15]	*[15]	_	
+29-22	2775-2778	map	p[15]	*[15]	_	
+29-23	2778-2779	.	p[15]	*[15]	_	
+
+#Text=Would you like help interpreting this as part of a larger map or finding these locations geographically?
+30-1	2780-2785	Would	p[16]	*[16]	_	
+30-2	2786-2789	you	p[16]	*[16]	_	
+30-3	2790-2794	like	p[16]	*[16]	_	
+30-4	2795-2799	help	p[16]	*[16]	_	
+30-5	2800-2812	interpreting	p[16]	*[16]	_	
+30-6	2813-2817	this	p[16]	*[16]	_	
+30-7	2818-2820	as	p[16]	*[16]	_	
+30-8	2821-2825	part	p[16]	*[16]	_	
+30-9	2826-2828	of	p[16]	*[16]	_	
+30-10	2829-2830	a	p[16]	*[16]	_	
+30-11	2831-2837	larger	p[16]	*[16]	_	
+30-12	2838-2841	map	p[16]	*[16]	_	
+30-13	2842-2844	or	p[16]	*[16]	_	
+30-14	2845-2852	finding	p[16]	*[16]	_	
+30-15	2853-2858	these	p[16]	*[16]	_	
+30-16	2859-2868	locations	p[16]	*[16]	_	
+30-17	2869-2883	geographically	p[16]	*[16]	_	
+30-18	2883-2884	?	p[16]	*[16]	_	
+
+#Text=Anchors summary  Roughriders Landing Condos Navy Beach Montauk Bike Hotel “Montauk I…” (truncated name) Restaurant (unnamed)
+31-1	2885-2892	Anchors	h1[17]	*[17]	_	
+31-2	2893-2900	summary	h1[17]	*[17]	_	
+31-3	2902-2913	Roughriders	_	_	_	
+31-4	2914-2921	Landing	_	_	_	
+31-5	2922-2928	Condos	_	_	_	
+31-6	2929-2933	Navy	_	_	_	
+31-7	2934-2939	Beach	_	_	_	
+31-8	2940-2947	Montauk	_	_	_	
+31-9	2948-2952	Bike	_	_	_	
+31-10	2953-2958	Hotel	_	_	_	
+31-11	2959-2960	“	_	_	_	
+31-12	2960-2967	Montauk	_	_	_	
+31-13	2968-2969	I	_	_	_	
+31-14	2969-2970	…	_	_	_	
+31-15	2970-2971	”	_	_	_	
+31-16	2972-2973	(	_	_	_	
+31-17	2973-2982	truncated	_	_	_	
+31-18	2983-2987	name	_	_	_	
+31-19	2987-2988	)	_	_	_	
+31-20	2989-2999	Restaurant	_	_	_	
+31-21	3000-3001	(	_	_	_	
+31-22	3001-3008	unnamed	_	_	_	
+31-23	3008-3009	)	_	_	_	

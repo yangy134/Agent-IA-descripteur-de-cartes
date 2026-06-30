@@ -1,0 +1,96 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=Very dark large-scale map of an area of New York: Central Park with its oddly shaped lake in the center of the map, surrounded by 5th Avenue to the southeast, 79th Street to the northeast, Central Park West to the northwest, and an unnamed street to the southwest.
+2-1	42-46	Very	p[2]	*[2]	_	
+2-2	47-51	dark	p[2]	*[2]	_	
+2-3	52-63	large-scale	p[2]	*[2]	_	
+2-4	64-67	map	p[2]	*[2]	_	
+2-5	68-70	of	p[2]	*[2]	_	
+2-6	71-73	an	p[2]	*[2]	_	
+2-7	74-78	area	p[2]	*[2]	_	
+2-8	79-81	of	p[2]	*[2]	_	
+2-9	82-85	New	p[2]	*[2]	toponym[4]	
+2-10	86-90	York	p[2]	*[2]	toponym[4]	
+2-11	90-91	:	p[2]	*[2]	_	
+2-12	92-99	Central	p[2]	*[2]	toponym[5]	
+2-13	100-104	Park	p[2]	*[2]	toponym[5]	
+2-14	105-109	with	p[2]	*[2]	_	
+2-15	110-113	its	p[2]	*[2]	_	
+2-16	114-119	oddly	p[2]	*[2]	_	
+2-17	120-126	shaped	p[2]	*[2]	_	
+2-18	127-131	lake	p[2]	*[2]	_	
+2-19	132-134	in	p[2]	*[2]	spatial relation[6]	
+2-20	135-138	the	p[2]	*[2]	spatial relation[6]	
+2-21	139-145	center	p[2]	*[2]	spatial relation[6]	
+2-22	146-148	of	p[2]	*[2]	_	
+2-23	149-152	the	p[2]	*[2]	_	
+2-24	153-156	map	p[2]	*[2]	_	
+2-25	156-157	,	p[2]	*[2]	_	
+2-26	158-168	surrounded	p[2]	*[2]	spatial relation[7]	
+2-27	169-171	by	p[2]	*[2]	spatial relation[7]	
+2-28	172-175	5th	p[2]	*[2]	toponym[8]	
+2-29	176-182	Avenue	p[2]	*[2]	toponym[8]	
+2-30	183-185	to	p[2]	*[2]	spatial relation[9]	
+2-31	186-189	the	p[2]	*[2]	spatial relation[9]	
+2-32	190-199	southeast	p[2]	*[2]	spatial relation[9]	
+2-33	199-200	,	p[2]	*[2]	_	
+2-34	201-205	79th	p[2]	*[2]	toponym[10]	
+2-35	206-212	Street	p[2]	*[2]	toponym[10]	
+2-36	213-215	to	p[2]	*[2]	spatial relation[11]	
+2-37	216-219	the	p[2]	*[2]	spatial relation[11]	
+2-38	220-229	northeast	p[2]	*[2]	spatial relation[11]	
+2-39	229-230	,	p[2]	*[2]	_	
+2-40	231-238	Central	p[2]	*[2]	toponym[12]	
+2-41	239-243	Park	p[2]	*[2]	toponym[12]	
+2-42	244-248	West	p[2]	*[2]	toponym[12]	
+2-43	249-251	to	p[2]	*[2]	spatial relation[13]	
+2-44	252-255	the	p[2]	*[2]	spatial relation[13]	
+2-45	256-265	northwest	p[2]	*[2]	spatial relation[13]	
+2-46	265-266	,	p[2]	*[2]	_	
+2-47	267-270	and	p[2]	*[2]	_	
+2-48	271-273	an	p[2]	*[2]	_	
+2-49	274-281	unnamed	p[2]	*[2]	_	
+2-50	282-288	street	p[2]	*[2]	_	
+2-51	289-291	to	p[2]	*[2]	spatial relation[14]	
+2-52	292-295	the	p[2]	*[2]	spatial relation[14]	
+2-53	296-305	southwest	p[2]	*[2]	spatial relation[14]	
+2-54	305-306	.	p[2]	*[2]	_	
+
+#Text=To the west of Central Park West, a grid of several perpendicular streets can be made out.
+3-1	307-309	To	p[2]	*[2]	spatial relation[15]	
+3-2	310-313	the	p[2]	*[2]	spatial relation[15]	
+3-3	314-318	west	p[2]	*[2]	spatial relation[15]	
+3-4	319-321	of	p[2]	*[2]	spatial relation[15]	
+3-5	322-329	Central	p[2]	*[2]	toponym[16]	
+3-6	330-334	Park	p[2]	*[2]	toponym[16]	
+3-7	335-339	West	p[2]	*[2]	toponym[16]	
+3-8	339-340	,	p[2]	*[2]	_	
+3-9	341-342	a	p[2]	*[2]	_	
+3-10	343-347	grid	p[2]	*[2]	_	
+3-11	348-350	of	p[2]	*[2]	_	
+3-12	351-358	several	p[2]	*[2]	_	
+3-13	359-372	perpendicular	p[2]	*[2]	_	
+3-14	373-380	streets	p[2]	*[2]	_	
+3-15	381-384	can	p[2]	*[2]	_	
+3-16	385-387	be	p[2]	*[2]	_	
+3-17	388-392	made	p[2]	*[2]	_	
+3-18	393-396	out	p[2]	*[2]	_	
+3-19	396-397	.	p[2]	*[2]	_	
+
+#Text=Anchors summary
+4-1	398-405	Anchors	h1[3]	*[3]	_	
+4-2	406-413	summary	h1[3]	*[3]	_	

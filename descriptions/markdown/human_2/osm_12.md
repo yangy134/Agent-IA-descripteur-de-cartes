@@ -1,0 +1,7 @@
+# Can you describe the content of this map?
+
+Small-scale map showing a section of the Cantabrian coast in Spain, with the city of Santander and its large bay in the center and on the ocean shore. From west to east, it covers the area from the village of Mogro to the city of El Bosque. From north to south, from the Atlantic Ocean to the city of Villanueva de Villaescusa. In addition to Santander, the main cities are Santa Cruz de Bezana, Camargo, El Astillero, and Valdecilla, connected by major roads marked in red, minor roads marked in orange, and even smaller roads marked in yellow. A railway line is also visible from Santander to the south. On the Atlantic Ocean, a blue dotted line shows a ferry route running back and forth from the north to the city of Santander. Another ferry route crosses Santander Bay from west to east and back from the city of Santander to the tip of Pedrena. South of the city of Santander is an airport, symbolized by a large straight runway with a small plane on it. In several places around the bay, in undeveloped areas, what are probably bird sanctuaries on the edge of lagoons are shown. On the west coast of Santander Bay, the coastline has been modified and built up by humans, most likely to accommodate a seaport.
+
+# Anchors summary
+
+

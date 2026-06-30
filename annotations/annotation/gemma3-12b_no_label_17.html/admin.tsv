@@ -1,0 +1,602 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=Here’s a description of the content shown in the map: Overall Impression: The image is a simplified, stylized aerial or satellite view of an urban area.
+2-1	42-46	Here	p[2]	*[2]	_	
+2-2	46-47	’	p[2]	*[2]	_	
+2-3	47-48	s	p[2]	*[2]	_	
+2-4	49-50	a	p[2]	*[2]	_	
+2-5	51-62	description	p[2]	*[2]	_	
+2-6	63-65	of	p[2]	*[2]	_	
+2-7	66-69	the	p[2]	*[2]	_	
+2-8	70-77	content	p[2]	*[2]	_	
+2-9	78-83	shown	p[2]	*[2]	_	
+2-10	84-86	in	p[2]	*[2]	_	
+2-11	87-90	the	p[2]	*[2]	_	
+2-12	91-94	map	p[2]	*[2]	_	
+2-13	94-95	:	p[2]	*[2]	_	
+2-14	96-103	Overall	p[3]	*[3]	_	
+2-15	104-114	Impression	p[3]	*[3]	_	
+2-16	114-115	:	p[3]	*[3]	_	
+2-17	116-119	The	p[4]	*[4]	_	
+2-18	120-125	image	p[4]	*[4]	_	
+2-19	126-128	is	p[4]	*[4]	_	
+2-20	129-130	a	p[4]	*[4]	_	
+2-21	131-141	simplified	p[4]	*[4]	_	
+2-22	141-142	,	p[4]	*[4]	_	
+2-23	143-151	stylized	p[4]	*[4]	_	
+2-24	152-158	aerial	p[4]	*[4]	_	
+2-25	159-161	or	p[4]	*[4]	_	
+2-26	162-171	satellite	p[4]	*[4]	_	
+2-27	172-176	view	p[4]	*[4]	_	
+2-28	177-179	of	p[4]	*[4]	_	
+2-29	180-182	an	p[4]	*[4]	_	
+2-30	183-188	urban	p[4]	*[4]	_	
+2-31	189-193	area	p[4]	*[4]	_	
+2-32	193-194	.	p[4]	*[4]	_	
+
+#Text=It appears to be a map focusing on street layout and major land features, with minimal detail like individual buildings.
+3-1	195-197	It	p[4]	*[4]	_	
+3-2	198-205	appears	p[4]	*[4]	_	
+3-3	206-208	to	p[4]	*[4]	_	
+3-4	209-211	be	p[4]	*[4]	_	
+3-5	212-213	a	p[4]	*[4]	_	
+3-6	214-217	map	p[4]	*[4]	_	
+3-7	218-226	focusing	p[4]	*[4]	_	
+3-8	227-229	on	p[4]	*[4]	_	
+3-9	230-236	street	p[4]	*[4]	_	
+3-10	237-243	layout	p[4]	*[4]	_	
+3-11	244-247	and	p[4]	*[4]	_	
+3-12	248-253	major	p[4]	*[4]	_	
+3-13	254-258	land	p[4]	*[4]	_	
+3-14	259-267	features	p[4]	*[4]	_	
+3-15	267-268	,	p[4]	*[4]	_	
+3-16	269-273	with	p[4]	*[4]	_	
+3-17	274-281	minimal	p[4]	*[4]	_	
+3-18	282-288	detail	p[4]	*[4]	_	
+3-19	289-293	like	p[4]	*[4]	_	
+3-20	294-304	individual	p[4]	*[4]	_	
+3-21	305-314	buildings	p[4]	*[4]	_	
+3-22	314-315	.	p[4]	*[4]	_	
+
+#Text=The color palette is muted – primarily beige/tan for streets and light green for parks or open spaces.
+4-1	316-319	The	p[4]	*[4]	_	
+4-2	320-325	color	p[4]	*[4]	_	
+4-3	326-333	palette	p[4]	*[4]	_	
+4-4	334-336	is	p[4]	*[4]	_	
+4-5	337-342	muted	p[4]	*[4]	_	
+4-6	343-344	–	p[4]	*[4]	_	
+4-7	345-354	primarily	p[4]	*[4]	_	
+4-8	355-360	beige	p[4]	*[4]	_	
+4-9	360-361	/	p[4]	*[4]	_	
+4-10	361-364	tan	p[4]	*[4]	_	
+4-11	365-368	for	p[4]	*[4]	_	
+4-12	369-376	streets	p[4]	*[4]	_	
+4-13	377-380	and	p[4]	*[4]	_	
+4-14	381-386	light	p[4]	*[4]	_	
+4-15	387-392	green	p[4]	*[4]	_	
+4-16	393-396	for	p[4]	*[4]	_	
+4-17	397-402	parks	p[4]	*[4]	_	
+4-18	403-405	or	p[4]	*[4]	_	
+4-19	406-410	open	p[4]	*[4]	_	
+4-20	411-417	spaces	p[4]	*[4]	_	
+4-21	417-418	.	p[4]	*[4]	_	
+
+#Text=Key Features:  River/Waterway: A prominent river (likely the Danube) runs through the center of the image, splitting the urban area.
+5-1	419-422	Key	p[5]	*[5]	_	
+5-2	423-431	Features	p[5]	*[5]	_	
+5-3	431-432	:	p[5]	*[5]	_	
+5-4	434-439	River	_	_	_	
+5-5	439-440	/	_	_	_	
+5-6	440-448	Waterway	_	_	_	
+5-7	448-449	:	_	_	_	
+5-8	450-451	A	_	_	_	
+5-9	452-461	prominent	_	_	_	
+5-10	462-467	river	_	_	_	
+5-11	468-469	(	_	_	_	
+5-12	469-475	likely	_	_	_	
+5-13	476-479	the	_	_	_	
+5-14	480-486	Danube	_	_	toponym	
+5-15	486-487	)	_	_	_	
+5-16	488-492	runs	_	_	spatial relation[13]	
+5-17	493-500	through	_	_	spatial relation[13]	
+5-18	501-504	the	_	_	spatial relation[13]	
+5-19	505-511	center	_	_	spatial relation[13]	
+5-20	512-514	of	_	_	_	
+5-21	515-518	the	_	_	_	
+5-22	519-524	image	_	_	_	
+5-23	524-525	,	_	_	_	
+5-24	526-535	splitting	_	_	spatial relation	
+5-25	536-539	the	_	_	_	
+5-26	540-545	urban	_	_	_	
+5-27	546-550	area	_	_	_	
+5-28	550-551	.	_	_	_	
+
+#Text=City Layout: The map shows a dense grid-like street pattern characteristic of many European cities.
+6-1	552-556	City	_	_	_	
+6-2	557-563	Layout	_	_	_	
+6-3	563-564	:	_	_	_	
+6-4	565-568	The	_	_	_	
+6-5	569-572	map	_	_	_	
+6-6	573-578	shows	_	_	_	
+6-7	579-580	a	_	_	_	
+6-8	581-586	dense	_	_	_	
+6-9	587-596	grid-like	_	_	_	
+6-10	597-603	street	_	_	_	
+6-11	604-611	pattern	_	_	_	
+6-12	612-626	characteristic	_	_	_	
+6-13	627-629	of	_	_	_	
+6-14	630-634	many	_	_	_	
+6-15	635-643	European	_	_	_	
+6-16	644-650	cities	_	_	_	
+6-17	650-651	.	_	_	_	
+
+#Text=Bridges: There are several bridges crossing the river, connecting the two sides of the city.
+7-1	652-659	Bridges	_	_	_	
+7-2	659-660	:	_	_	_	
+7-3	661-666	There	_	_	_	
+7-4	667-670	are	_	_	_	
+7-5	671-678	several	_	_	_	
+7-6	679-686	bridges	_	_	_	
+7-7	687-695	crossing	_	_	spatial relation	
+7-8	696-699	the	_	_	_	
+7-9	700-705	river	_	_	_	
+7-10	705-706	,	_	_	_	
+7-11	707-717	connecting	_	_	spatial relation	
+7-12	718-721	the	_	_	_	
+7-13	722-725	two	_	_	_	
+7-14	726-731	sides	_	_	_	
+7-15	732-734	of	_	_	_	
+7-16	735-738	the	_	_	_	
+7-17	739-743	city	_	_	_	
+7-18	743-744	.	_	_	_	
+
+#Text=Parks/Green Spaces: There are a few larger green areas, likely parks or recreational spaces.
+8-1	745-750	Parks	_	_	_	
+8-2	750-751	/	_	_	_	
+8-3	751-756	Green	_	_	_	
+8-4	757-763	Spaces	_	_	_	
+8-5	763-764	:	_	_	_	
+8-6	765-770	There	_	_	_	
+8-7	771-774	are	_	_	_	
+8-8	775-776	a	_	_	_	
+8-9	777-780	few	_	_	_	
+8-10	781-787	larger	_	_	_	
+8-11	788-793	green	_	_	_	
+8-12	794-799	areas	_	_	_	
+8-13	799-800	,	_	_	_	
+8-14	801-807	likely	_	_	_	
+8-15	808-813	parks	_	_	_	
+8-16	814-816	or	_	_	_	
+8-17	817-829	recreational	_	_	_	
+8-18	830-836	spaces	_	_	_	
+8-19	836-837	.	_	_	_	
+
+#Text=Roads: A network of roads and highways are visible, including a major highway on the lower right side.
+9-1	838-843	Roads	_	_	_	
+9-2	843-844	:	_	_	_	
+9-3	845-846	A	_	_	_	
+9-4	847-854	network	_	_	_	
+9-5	855-857	of	_	_	_	
+9-6	858-863	roads	_	_	_	
+9-7	864-867	and	_	_	_	
+9-8	868-876	highways	_	_	_	
+9-9	877-880	are	_	_	_	
+9-10	881-888	visible	_	_	_	
+9-11	888-889	,	_	_	_	
+9-12	890-899	including	_	_	_	
+9-13	900-901	a	_	_	_	
+9-14	902-907	major	_	_	_	
+9-15	908-915	highway	_	_	_	
+9-16	916-918	on	_	_	spatial relation[14]	
+9-17	919-922	the	_	_	spatial relation[14]	
+9-18	923-928	lower	_	_	spatial relation[14]	
+9-19	929-934	right	_	_	spatial relation[14]	
+9-20	935-939	side	_	_	spatial relation[14]	
+9-21	939-940	.	_	_	_	
+
+#Text=Urban Area: The map depicts a relatively large urban area, with buildings implied by the street layout.
+10-1	941-946	Urban	_	_	_	
+10-2	947-951	Area	_	_	_	
+10-3	951-952	:	_	_	_	
+10-4	953-956	The	_	_	_	
+10-5	957-960	map	_	_	_	
+10-6	961-968	depicts	_	_	_	
+10-7	969-970	a	_	_	_	
+10-8	971-981	relatively	_	_	_	
+10-9	982-987	large	_	_	_	
+10-10	988-993	urban	_	_	_	
+10-11	994-998	area	_	_	_	
+10-12	998-999	,	_	_	_	
+10-13	1000-1004	with	_	_	_	
+10-14	1005-1014	buildings	_	_	_	
+10-15	1015-1022	implied	_	_	_	
+10-16	1023-1025	by	_	_	_	
+10-17	1026-1029	the	_	_	_	
+10-18	1030-1036	street	_	_	_	
+10-19	1037-1043	layout	_	_	_	
+10-20	1043-1044	.	_	_	_	
+
+#Text=Possible Location: Based on the river’s shape and the city layout, this map likely depicts Belgrade, Serbia.
+11-1	1046-1054	Possible	p[6]	*[6]	_	
+11-2	1055-1063	Location	p[6]	*[6]	_	
+11-3	1063-1064	:	p[6]	*[6]	_	
+11-4	1065-1070	Based	p[7]	*[7]	_	
+11-5	1071-1073	on	p[7]	*[7]	_	
+11-6	1074-1077	the	p[7]	*[7]	_	
+11-7	1078-1083	river	p[7]	*[7]	_	
+11-8	1083-1084	’	p[7]	*[7]	_	
+11-9	1084-1085	s	p[7]	*[7]	_	
+11-10	1086-1091	shape	p[7]	*[7]	_	
+11-11	1092-1095	and	p[7]	*[7]	_	
+11-12	1096-1099	the	p[7]	*[7]	_	
+11-13	1100-1104	city	p[7]	*[7]	_	
+11-14	1105-1111	layout	p[7]	*[7]	_	
+11-15	1111-1112	,	p[7]	*[7]	_	
+11-16	1113-1117	this	p[7]	*[7]	_	
+11-17	1118-1121	map	p[7]	*[7]	_	
+11-18	1122-1128	likely	p[7]	*[7]	_	
+11-19	1129-1136	depicts	p[7]	*[7]	_	
+11-20	1137-1145	Belgrade	p[7]	*[7]	toponym[15]	
+11-21	1145-1146	,	p[7]	*[7]	toponym[15]	
+11-22	1147-1153	Serbia	p[7]	*[7]	toponym[15]	
+11-23	1153-1154	.	p[7]	*[7]	_	
+
+#Text=The Danube River is a defining feature of the city.
+12-1	1155-1158	The	p[7]	*[7]	_	
+12-2	1159-1165	Danube	p[7]	*[7]	toponym[16]	
+12-3	1166-1171	River	p[7]	*[7]	toponym[16]	
+12-4	1172-1174	is	p[7]	*[7]	_	
+12-5	1175-1176	a	p[7]	*[7]	_	
+12-6	1177-1185	defining	p[7]	*[7]	_	
+12-7	1186-1193	feature	p[7]	*[7]	_	
+12-8	1194-1196	of	p[7]	*[7]	_	
+12-9	1197-1200	the	p[7]	*[7]	_	
+12-10	1201-1205	city	p[7]	*[7]	_	
+12-11	1205-1206	.	p[7]	*[7]	_	
+
+#Text=If you’d like, give me another image to describe!
+13-1	1207-1209	If	p[8]	*[8]	_	
+13-2	1210-1213	you	p[8]	*[8]	_	
+13-3	1213-1214	’	p[8]	*[8]	_	
+13-4	1214-1215	d	p[8]	*[8]	_	
+13-5	1216-1220	like	p[8]	*[8]	_	
+13-6	1220-1221	,	p[8]	*[8]	_	
+13-7	1222-1226	give	p[8]	*[8]	_	
+13-8	1227-1229	me	p[8]	*[8]	_	
+13-9	1230-1237	another	p[8]	*[8]	_	
+13-10	1238-1243	image	p[8]	*[8]	_	
+13-11	1244-1246	to	p[8]	*[8]	_	
+13-12	1247-1255	describe	p[8]	*[8]	_	
+13-13	1255-1256	!	p[8]	*[8]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+14-1	1257-1260	Can	h1[9]	*[9]	_	
+14-2	1261-1264	you	h1[9]	*[9]	_	
+14-3	1265-1273	describe	h1[9]	*[9]	_	
+14-4	1274-1277	the	h1[9]	*[9]	_	
+14-5	1278-1282	most	h1[9]	*[9]	_	
+14-6	1283-1291	visually	h1[9]	*[9]	_	
+14-7	1292-1299	salient	h1[9]	*[9]	_	
+14-8	1300-1308	elements	h1[9]	*[9]	_	
+14-9	1309-1311	of	h1[9]	*[9]	_	
+14-10	1312-1315	the	h1[9]	*[9]	_	
+14-11	1316-1319	map	h1[9]	*[9]	_	
+14-12	1319-1320	?	h1[9]	*[9]	_	
+
+#Text=Here’s a description of the most visually salient elements in the map:  River/Waterway: The dominant feature is a large, winding river (likely the Danube) that cuts through the center of the image.
+15-1	1321-1325	Here	p[10]	*[10]	_	
+15-2	1325-1326	’	p[10]	*[10]	_	
+15-3	1326-1327	s	p[10]	*[10]	_	
+15-4	1328-1329	a	p[10]	*[10]	_	
+15-5	1330-1341	description	p[10]	*[10]	_	
+15-6	1342-1344	of	p[10]	*[10]	_	
+15-7	1345-1348	the	p[10]	*[10]	_	
+15-8	1349-1353	most	p[10]	*[10]	_	
+15-9	1354-1362	visually	p[10]	*[10]	_	
+15-10	1363-1370	salient	p[10]	*[10]	_	
+15-11	1371-1379	elements	p[10]	*[10]	_	
+15-12	1380-1382	in	p[10]	*[10]	_	
+15-13	1383-1386	the	p[10]	*[10]	_	
+15-14	1387-1390	map	p[10]	*[10]	_	
+15-15	1390-1391	:	p[10]	*[10]	_	
+15-16	1393-1398	River	_	_	_	
+15-17	1398-1399	/	_	_	_	
+15-18	1399-1407	Waterway	_	_	_	
+15-19	1407-1408	:	_	_	_	
+15-20	1409-1412	The	_	_	_	
+15-21	1413-1421	dominant	_	_	_	
+15-22	1422-1429	feature	_	_	_	
+15-23	1430-1432	is	_	_	_	
+15-24	1433-1434	a	_	_	_	
+15-25	1435-1440	large	_	_	_	
+15-26	1440-1441	,	_	_	_	
+15-27	1442-1449	winding	_	_	_	
+15-28	1450-1455	river	_	_	_	
+15-29	1456-1457	(	_	_	_	
+15-30	1457-1463	likely	_	_	_	
+15-31	1464-1467	the	_	_	_	
+15-32	1468-1474	Danube	_	_	_	
+15-33	1474-1475	)	_	_	_	
+15-34	1476-1480	that	_	_	_	
+15-35	1481-1485	cuts	_	_	_	
+15-36	1486-1493	through	_	_	_	
+15-37	1494-1497	the	_	_	_	
+15-38	1498-1504	center	_	_	_	
+15-39	1505-1507	of	_	_	_	
+15-40	1508-1511	the	_	_	_	
+15-41	1512-1517	image	_	_	_	
+15-42	1517-1518	.	_	_	_	
+
+#Text=It’s a significant visual anchor due to its size and color contrast (blue).
+16-1	1519-1521	It	_	_	_	
+16-2	1521-1522	’	_	_	_	
+16-3	1522-1523	s	_	_	_	
+16-4	1524-1525	a	_	_	_	
+16-5	1526-1537	significant	_	_	_	
+16-6	1538-1544	visual	_	_	_	
+16-7	1545-1551	anchor	_	_	_	
+16-8	1552-1555	due	_	_	_	
+16-9	1556-1558	to	_	_	_	
+16-10	1559-1562	its	_	_	_	
+16-11	1563-1567	size	_	_	_	
+16-12	1568-1571	and	_	_	_	
+16-13	1572-1577	color	_	_	_	
+16-14	1578-1586	contrast	_	_	_	
+16-15	1587-1588	(	_	_	_	
+16-16	1588-1592	blue	_	_	_	
+16-17	1592-1593	)	_	_	_	
+16-18	1593-1594	.	_	_	_	
+
+#Text=City Grid: On either side of the river, there’s a dense grid-like pattern representing streets and buildings.
+17-1	1595-1599	City	_	_	_	
+17-2	1600-1604	Grid	_	_	_	
+17-3	1604-1605	:	_	_	_	
+17-4	1606-1608	On	_	_	_	
+17-5	1609-1615	either	_	_	_	
+17-6	1616-1620	side	_	_	_	
+17-7	1621-1623	of	_	_	_	
+17-8	1624-1627	the	_	_	_	
+17-9	1628-1633	river	_	_	_	
+17-10	1633-1634	,	_	_	_	
+17-11	1635-1640	there	_	_	_	
+17-12	1640-1641	’	_	_	_	
+17-13	1641-1642	s	_	_	_	
+17-14	1643-1644	a	_	_	_	
+17-15	1645-1650	dense	_	_	_	
+17-16	1651-1660	grid-like	_	_	_	
+17-17	1661-1668	pattern	_	_	_	
+17-18	1669-1681	representing	_	_	_	
+17-19	1682-1689	streets	_	_	_	
+17-20	1690-1693	and	_	_	_	
+17-21	1694-1703	buildings	_	_	_	
+17-22	1703-1704	.	_	_	_	
+
+#Text=This suggests an urban area with well-defined blocks.
+18-1	1705-1709	This	_	_	_	
+18-2	1710-1718	suggests	_	_	_	
+18-3	1719-1721	an	_	_	_	
+18-4	1722-1727	urban	_	_	_	
+18-5	1728-1732	area	_	_	_	
+18-6	1733-1737	with	_	_	_	
+18-7	1738-1750	well-defined	_	_	_	
+18-8	1751-1757	blocks	_	_	_	
+18-9	1757-1758	.	_	_	_	
+
+#Text=Bridge: A prominent bridge spans the river, connecting the two sides of the city.
+19-1	1759-1765	Bridge	_	_	_	
+19-2	1765-1766	:	_	_	_	
+19-3	1767-1768	A	_	_	_	
+19-4	1769-1778	prominent	_	_	_	
+19-5	1779-1785	bridge	_	_	_	
+19-6	1786-1791	spans	_	_	_	
+19-7	1792-1795	the	_	_	_	
+19-8	1796-1801	river	_	_	_	
+19-9	1801-1802	,	_	_	_	
+19-10	1803-1813	connecting	_	_	_	
+19-11	1814-1817	the	_	_	_	
+19-12	1818-1821	two	_	_	_	
+19-13	1822-1827	sides	_	_	_	
+19-14	1828-1830	of	_	_	_	
+19-15	1831-1834	the	_	_	_	
+19-16	1835-1839	city	_	_	_	
+19-17	1839-1840	.	_	_	_	
+
+#Text=It’s a key landmark and visually breaks up the river’s expanse.
+20-1	1841-1843	It	_	_	_	
+20-2	1843-1844	’	_	_	_	
+20-3	1844-1845	s	_	_	_	
+20-4	1846-1847	a	_	_	_	
+20-5	1848-1851	key	_	_	_	
+20-6	1852-1860	landmark	_	_	_	
+20-7	1861-1864	and	_	_	_	
+20-8	1865-1873	visually	_	_	_	
+20-9	1874-1880	breaks	_	_	_	
+20-10	1881-1883	up	_	_	_	
+20-11	1884-1887	the	_	_	_	
+20-12	1888-1893	river	_	_	_	
+20-13	1893-1894	’	_	_	_	
+20-14	1894-1895	s	_	_	_	
+20-15	1896-1903	expanse	_	_	_	
+20-16	1903-1904	.	_	_	_	
+
+#Text=Green Spaces: There are patches of green areas, likely parks or natural reserves, visible on the edges and within the urban area.
+21-1	1905-1910	Green	_	_	_	
+21-2	1911-1917	Spaces	_	_	_	
+21-3	1917-1918	:	_	_	_	
+21-4	1919-1924	There	_	_	_	
+21-5	1925-1928	are	_	_	_	
+21-6	1929-1936	patches	_	_	_	
+21-7	1937-1939	of	_	_	_	
+21-8	1940-1945	green	_	_	_	
+21-9	1946-1951	areas	_	_	_	
+21-10	1951-1952	,	_	_	_	
+21-11	1953-1959	likely	_	_	_	
+21-12	1960-1965	parks	_	_	_	
+21-13	1966-1968	or	_	_	_	
+21-14	1969-1976	natural	_	_	_	
+21-15	1977-1985	reserves	_	_	_	
+21-16	1985-1986	,	_	_	_	
+21-17	1987-1994	visible	_	_	_	
+21-18	1995-1997	on	_	_	_	
+21-19	1998-2001	the	_	_	_	
+21-20	2002-2007	edges	_	_	_	
+21-21	2008-2011	and	_	_	_	
+21-22	2012-2018	within	_	_	_	
+21-23	2019-2022	the	_	_	_	
+21-24	2023-2028	urban	_	_	_	
+21-25	2029-2033	area	_	_	_	
+21-26	2033-2034	.	_	_	_	
+
+#Text=They provide a visual contrast to the grey of the buildings.
+22-1	2035-2039	They	_	_	_	
+22-2	2040-2047	provide	_	_	_	
+22-3	2048-2049	a	_	_	_	
+22-4	2050-2056	visual	_	_	_	
+22-5	2057-2065	contrast	_	_	_	
+22-6	2066-2068	to	_	_	_	
+22-7	2069-2072	the	_	_	_	
+22-8	2073-2077	grey	_	_	_	
+22-9	2078-2080	of	_	_	_	
+22-10	2081-2084	the	_	_	_	
+22-11	2085-2094	buildings	_	_	_	
+22-12	2094-2095	.	_	_	_	
+
+#Text=Roads: A network of roads, including a highway or major thoroughfare, are visible along the edges of the map.
+23-1	2096-2101	Roads	_	_	_	
+23-2	2101-2102	:	_	_	_	
+23-3	2103-2104	A	_	_	_	
+23-4	2105-2112	network	_	_	_	
+23-5	2113-2115	of	_	_	_	
+23-6	2116-2121	roads	_	_	_	
+23-7	2121-2122	,	_	_	_	
+23-8	2123-2132	including	_	_	_	
+23-9	2133-2134	a	_	_	_	
+23-10	2135-2142	highway	_	_	_	
+23-11	2143-2145	or	_	_	_	
+23-12	2146-2151	major	_	_	_	
+23-13	2152-2164	thoroughfare	_	_	_	
+23-14	2164-2165	,	_	_	_	
+23-15	2166-2169	are	_	_	_	
+23-16	2170-2177	visible	_	_	_	
+23-17	2178-2183	along	_	_	_	
+23-18	2184-2187	the	_	_	_	
+23-19	2188-2193	edges	_	_	_	
+23-20	2194-2196	of	_	_	_	
+23-21	2197-2200	the	_	_	_	
+23-22	2201-2204	map	_	_	_	
+23-23	2204-2205	.	_	_	_	
+
+#Text=Overall Layout: The layout suggests a city situated on either bank of a major river, with a well-organized street grid.
+24-1	2206-2213	Overall	_	_	_	
+24-2	2214-2220	Layout	_	_	_	
+24-3	2220-2221	:	_	_	_	
+24-4	2222-2225	The	_	_	_	
+24-5	2226-2232	layout	_	_	_	
+24-6	2233-2241	suggests	_	_	_	
+24-7	2242-2243	a	_	_	_	
+24-8	2244-2248	city	_	_	_	
+24-9	2249-2257	situated	_	_	_	
+24-10	2258-2260	on	_	_	_	
+24-11	2261-2267	either	_	_	_	
+24-12	2268-2272	bank	_	_	_	
+24-13	2273-2275	of	_	_	_	
+24-14	2276-2277	a	_	_	_	
+24-15	2278-2283	major	_	_	_	
+24-16	2284-2289	river	_	_	_	
+24-17	2289-2290	,	_	_	_	
+24-18	2291-2295	with	_	_	_	
+24-19	2296-2297	a	_	_	_	
+24-20	2298-2312	well-organized	_	_	_	
+24-21	2313-2319	street	_	_	_	
+24-22	2320-2324	grid	_	_	_	
+24-23	2324-2325	.	_	_	_	
+
+#Text=Based on the layout and appearance, this map likely depicts Belgrade, Serbia.
+25-1	2327-2332	Based	p[11]	*[11]	_	
+25-2	2333-2335	on	p[11]	*[11]	_	
+25-3	2336-2339	the	p[11]	*[11]	_	
+25-4	2340-2346	layout	p[11]	*[11]	_	
+25-5	2347-2350	and	p[11]	*[11]	_	
+25-6	2351-2361	appearance	p[11]	*[11]	_	
+25-7	2361-2362	,	p[11]	*[11]	_	
+25-8	2363-2367	this	p[11]	*[11]	_	
+25-9	2368-2371	map	p[11]	*[11]	_	
+25-10	2372-2378	likely	p[11]	*[11]	_	
+25-11	2379-2386	depicts	p[11]	*[11]	_	
+25-12	2387-2395	Belgrade	p[11]	*[11]	_	
+25-13	2395-2396	,	p[11]	*[11]	_	
+25-14	2397-2403	Serbia	p[11]	*[11]	_	
+25-15	2403-2404	.	p[11]	*[11]	_	
+
+#Text=Anchors summary  River/Waterway — likely the Danube (tentative, named) Bridge (non-named) City grid / street pattern (non-named) Green spaces / parks (non-named) Roads / major highway or thoroughfare (non-named) Overall city layout (city on either bank of the river) (non-named)
+26-1	2405-2412	Anchors	h1[12]	*[12]	_	
+26-2	2413-2420	summary	h1[12]	*[12]	_	
+26-3	2422-2427	River	_	_	_	
+26-4	2427-2428	/	_	_	_	
+26-5	2428-2436	Waterway	_	_	_	
+26-6	2437-2438	—	_	_	_	
+26-7	2439-2445	likely	_	_	_	
+26-8	2446-2449	the	_	_	_	
+26-9	2450-2456	Danube	_	_	_	
+26-10	2457-2458	(	_	_	_	
+26-11	2458-2467	tentative	_	_	_	
+26-12	2467-2468	,	_	_	_	
+26-13	2469-2474	named	_	_	_	
+26-14	2474-2475	)	_	_	_	
+26-15	2476-2482	Bridge	_	_	_	
+26-16	2483-2484	(	_	_	_	
+26-17	2484-2493	non-named	_	_	_	
+26-18	2493-2494	)	_	_	_	
+26-19	2495-2499	City	_	_	_	
+26-20	2500-2504	grid	_	_	_	
+26-21	2505-2506	/	_	_	_	
+26-22	2507-2513	street	_	_	_	
+26-23	2514-2521	pattern	_	_	_	
+26-24	2522-2523	(	_	_	_	
+26-25	2523-2532	non-named	_	_	_	
+26-26	2532-2533	)	_	_	_	
+26-27	2534-2539	Green	_	_	_	
+26-28	2540-2546	spaces	_	_	_	
+26-29	2547-2548	/	_	_	_	
+26-30	2549-2554	parks	_	_	_	
+26-31	2555-2556	(	_	_	_	
+26-32	2556-2565	non-named	_	_	_	
+26-33	2565-2566	)	_	_	_	
+26-34	2567-2572	Roads	_	_	_	
+26-35	2573-2574	/	_	_	_	
+26-36	2575-2580	major	_	_	_	
+26-37	2581-2588	highway	_	_	_	
+26-38	2589-2591	or	_	_	_	
+26-39	2592-2604	thoroughfare	_	_	_	
+26-40	2605-2606	(	_	_	_	
+26-41	2606-2615	non-named	_	_	_	
+26-42	2615-2616	)	_	_	_	
+26-43	2617-2624	Overall	_	_	_	
+26-44	2625-2629	city	_	_	_	
+26-45	2630-2636	layout	_	_	_	
+26-46	2637-2638	(	_	_	_	
+26-47	2638-2642	city	_	_	_	
+26-48	2643-2645	on	_	_	_	
+26-49	2646-2652	either	_	_	_	
+26-50	2653-2657	bank	_	_	_	
+26-51	2658-2660	of	_	_	_	
+26-52	2661-2664	the	_	_	_	
+26-53	2665-2670	river	_	_	_	
+26-54	2670-2671	)	_	_	_	
+26-55	2672-2673	(	_	_	_	
+26-56	2673-2682	non-named	_	_	_	
+26-57	2682-2683	)	_	_	_	

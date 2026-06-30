@@ -1,0 +1,389 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=The image shows a map of a city with a river running through it.
+2-1	42-45	The	p[2]	*[2]	_	
+2-2	46-51	image	p[2]	*[2]	_	
+2-3	52-57	shows	p[2]	*[2]	_	
+2-4	58-59	a	p[2]	*[2]	_	
+2-5	60-63	map	p[2]	*[2]	_	
+2-6	64-66	of	p[2]	*[2]	_	
+2-7	67-68	a	p[2]	*[2]	_	
+2-8	69-73	city	p[2]	*[2]	_	
+2-9	74-78	with	p[2]	*[2]	_	
+2-10	79-80	a	p[2]	*[2]	_	
+2-11	81-86	river	p[2]	*[2]	_	
+2-12	87-94	running	p[2]	*[2]	_	
+2-13	95-102	through	p[2]	*[2]	_	
+2-14	103-105	it	p[2]	*[2]	_	
+2-15	105-106	.	p[2]	*[2]	_	
+
+#Text=The map is in a light beige color, which may be due to the image being pixelated.
+3-1	107-110	The	p[2]	*[2]	_	
+3-2	111-114	map	p[2]	*[2]	_	
+3-3	115-117	is	p[2]	*[2]	_	
+3-4	118-120	in	p[2]	*[2]	_	
+3-5	121-122	a	p[2]	*[2]	_	
+3-6	123-128	light	p[2]	*[2]	_	
+3-7	129-134	beige	p[2]	*[2]	_	
+3-8	135-140	color	p[2]	*[2]	_	
+3-9	140-141	,	p[2]	*[2]	_	
+3-10	142-147	which	p[2]	*[2]	_	
+3-11	148-151	may	p[2]	*[2]	_	
+3-12	152-154	be	p[2]	*[2]	_	
+3-13	155-158	due	p[2]	*[2]	_	
+3-14	159-161	to	p[2]	*[2]	_	
+3-15	162-165	the	p[2]	*[2]	_	
+3-16	166-171	image	p[2]	*[2]	_	
+3-17	172-177	being	p[2]	*[2]	_	
+3-18	178-187	pixelated	p[2]	*[2]	_	
+3-19	187-188	.	p[2]	*[2]	_	
+
+#Text=The river runs from the top of the map down to the bottom, and it is surrounded by buildings and roads.
+4-1	189-192	The	p[3]	*[3]	_	
+4-2	193-198	river	p[3]	*[3]	_	
+4-3	199-203	runs	p[3]	*[3]	_	
+4-4	204-208	from	p[3]	*[3]	_	
+4-5	209-212	the	p[3]	*[3]	_	
+4-6	213-216	top	p[3]	*[3]	_	
+4-7	217-219	of	p[3]	*[3]	_	
+4-8	220-223	the	p[3]	*[3]	_	
+4-9	224-227	map	p[3]	*[3]	_	
+4-10	228-232	down	p[3]	*[3]	_	
+4-11	233-235	to	p[3]	*[3]	_	
+4-12	236-239	the	p[3]	*[3]	_	
+4-13	240-246	bottom	p[3]	*[3]	_	
+4-14	246-247	,	p[3]	*[3]	_	
+4-15	248-251	and	p[3]	*[3]	_	
+4-16	252-254	it	p[3]	*[3]	_	
+4-17	255-257	is	p[3]	*[3]	_	
+4-18	258-268	surrounded	p[3]	*[3]	_	
+4-19	269-271	by	p[3]	*[3]	_	
+4-20	272-281	buildings	p[3]	*[3]	_	
+4-21	282-285	and	p[3]	*[3]	_	
+4-22	286-291	roads	p[3]	*[3]	_	
+4-23	291-292	.	p[3]	*[3]	_	
+
+#Text=There are also several parks and green spaces visible on the map.
+5-1	293-298	There	p[3]	*[3]	_	
+5-2	299-302	are	p[3]	*[3]	_	
+5-3	303-307	also	p[3]	*[3]	_	
+5-4	308-315	several	p[3]	*[3]	_	
+5-5	316-321	parks	p[3]	*[3]	_	
+5-6	322-325	and	p[3]	*[3]	_	
+5-7	326-331	green	p[3]	*[3]	_	
+5-8	332-338	spaces	p[3]	*[3]	_	
+5-9	339-346	visible	p[3]	*[3]	_	
+5-10	347-349	on	p[3]	*[3]	_	
+5-11	350-353	the	p[3]	*[3]	_	
+5-12	354-357	map	p[3]	*[3]	_	
+5-13	357-358	.	p[3]	*[3]	_	
+
+#Text=The overall impression of the image is that it shows a typical urban landscape, with a river running through the city and various buildings and roads surrounding it.
+6-1	359-362	The	p[4]	*[4]	_	
+6-2	363-370	overall	p[4]	*[4]	_	
+6-3	371-381	impression	p[4]	*[4]	_	
+6-4	382-384	of	p[4]	*[4]	_	
+6-5	385-388	the	p[4]	*[4]	_	
+6-6	389-394	image	p[4]	*[4]	_	
+6-7	395-397	is	p[4]	*[4]	_	
+6-8	398-402	that	p[4]	*[4]	_	
+6-9	403-405	it	p[4]	*[4]	_	
+6-10	406-411	shows	p[4]	*[4]	_	
+6-11	412-413	a	p[4]	*[4]	_	
+6-12	414-421	typical	p[4]	*[4]	_	
+6-13	422-427	urban	p[4]	*[4]	_	
+6-14	428-437	landscape	p[4]	*[4]	_	
+6-15	437-438	,	p[4]	*[4]	_	
+6-16	439-443	with	p[4]	*[4]	_	
+6-17	444-445	a	p[4]	*[4]	_	
+6-18	446-451	river	p[4]	*[4]	_	
+6-19	452-459	running	p[4]	*[4]	_	
+6-20	460-467	through	p[4]	*[4]	spatial relation	
+6-21	468-471	the	p[4]	*[4]	_	
+6-22	472-476	city	p[4]	*[4]	_	
+6-23	477-480	and	p[4]	*[4]	_	
+6-24	481-488	various	p[4]	*[4]	_	
+6-25	489-498	buildings	p[4]	*[4]	_	
+6-26	499-502	and	p[4]	*[4]	_	
+6-27	503-508	roads	p[4]	*[4]	_	
+6-28	509-520	surrounding	p[4]	*[4]	spatial relation	
+6-29	521-523	it	p[4]	*[4]	_	
+6-30	523-524	.	p[4]	*[4]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+7-1	525-528	Can	h1[5]	*[5]	_	
+7-2	529-532	you	h1[5]	*[5]	_	
+7-3	533-541	describe	h1[5]	*[5]	_	
+7-4	542-545	the	h1[5]	*[5]	_	
+7-5	546-550	most	h1[5]	*[5]	_	
+7-6	551-559	visually	h1[5]	*[5]	_	
+7-7	560-567	salient	h1[5]	*[5]	_	
+7-8	568-576	elements	h1[5]	*[5]	_	
+7-9	577-579	of	h1[5]	*[5]	_	
+7-10	580-583	the	h1[5]	*[5]	_	
+7-11	584-587	map	h1[5]	*[5]	_	
+7-12	587-588	?	h1[5]	*[5]	_	
+
+#Text=The map appears to be a topographic map, showing a river and its surrounding area.
+8-1	589-592	The	p[6]	*[6]	_	
+8-2	593-596	map	p[6]	*[6]	_	
+8-3	597-604	appears	p[6]	*[6]	_	
+8-4	605-607	to	p[6]	*[6]	_	
+8-5	608-610	be	p[6]	*[6]	_	
+8-6	611-612	a	p[6]	*[6]	_	
+8-7	613-624	topographic	p[6]	*[6]	_	
+8-8	625-628	map	p[6]	*[6]	_	
+8-9	628-629	,	p[6]	*[6]	_	
+8-10	630-637	showing	p[6]	*[6]	_	
+8-11	638-639	a	p[6]	*[6]	_	
+8-12	640-645	river	p[6]	*[6]	_	
+8-13	646-649	and	p[6]	*[6]	_	
+8-14	650-653	its	p[6]	*[6]	_	
+8-15	654-665	surrounding	p[6]	*[6]	_	
+8-16	666-670	area	p[6]	*[6]	_	
+8-17	670-671	.	p[6]	*[6]	_	
+
+#Text=The river is the most visually salient element of the map, as it is the central feature and appears to be a major waterway.
+9-1	672-675	The	p[6]	*[6]	_	
+9-2	676-681	river	p[6]	*[6]	_	
+9-3	682-684	is	p[6]	*[6]	_	
+9-4	685-688	the	p[6]	*[6]	_	
+9-5	689-693	most	p[6]	*[6]	_	
+9-6	694-702	visually	p[6]	*[6]	_	
+9-7	703-710	salient	p[6]	*[6]	_	
+9-8	711-718	element	p[6]	*[6]	_	
+9-9	719-721	of	p[6]	*[6]	_	
+9-10	722-725	the	p[6]	*[6]	_	
+9-11	726-729	map	p[6]	*[6]	_	
+9-12	729-730	,	p[6]	*[6]	_	
+9-13	731-733	as	p[6]	*[6]	_	
+9-14	734-736	it	p[6]	*[6]	_	
+9-15	737-739	is	p[6]	*[6]	_	
+9-16	740-743	the	p[6]	*[6]	_	
+9-17	744-751	central	p[6]	*[6]	_	
+9-18	752-759	feature	p[6]	*[6]	_	
+9-19	760-763	and	p[6]	*[6]	_	
+9-20	764-771	appears	p[6]	*[6]	_	
+9-21	772-774	to	p[6]	*[6]	_	
+9-22	775-777	be	p[6]	*[6]	_	
+9-23	778-779	a	p[6]	*[6]	_	
+9-24	780-785	major	p[6]	*[6]	_	
+9-25	786-794	waterway	p[6]	*[6]	_	
+9-26	794-795	.	p[6]	*[6]	_	
+
+#Text=The river’s course and its relationship with the surrounding land are important features of the map.
+10-1	796-799	The	p[6]	*[6]	_	
+10-2	800-805	river	p[6]	*[6]	_	
+10-3	805-806	’	p[6]	*[6]	_	
+10-4	806-807	s	p[6]	*[6]	_	
+10-5	808-814	course	p[6]	*[6]	_	
+10-6	815-818	and	p[6]	*[6]	_	
+10-7	819-822	its	p[6]	*[6]	_	
+10-8	823-835	relationship	p[6]	*[6]	_	
+10-9	836-840	with	p[6]	*[6]	_	
+10-10	841-844	the	p[6]	*[6]	_	
+10-11	845-856	surrounding	p[6]	*[6]	_	
+10-12	857-861	land	p[6]	*[6]	_	
+10-13	862-865	are	p[6]	*[6]	_	
+10-14	866-875	important	p[6]	*[6]	_	
+10-15	876-884	features	p[6]	*[6]	_	
+10-16	885-887	of	p[6]	*[6]	_	
+10-17	888-891	the	p[6]	*[6]	_	
+10-18	892-895	map	p[6]	*[6]	_	
+10-19	895-896	.	p[6]	*[6]	_	
+
+#Text=The map also shows a number of roads and highways, which are likely to be important for navigation and transportation.
+11-1	897-900	The	p[7]	*[7]	_	
+11-2	901-904	map	p[7]	*[7]	_	
+11-3	905-909	also	p[7]	*[7]	_	
+11-4	910-915	shows	p[7]	*[7]	_	
+11-5	916-917	a	p[7]	*[7]	_	
+11-6	918-924	number	p[7]	*[7]	_	
+11-7	925-927	of	p[7]	*[7]	_	
+11-8	928-933	roads	p[7]	*[7]	_	
+11-9	934-937	and	p[7]	*[7]	_	
+11-10	938-946	highways	p[7]	*[7]	_	
+11-11	946-947	,	p[7]	*[7]	_	
+11-12	948-953	which	p[7]	*[7]	_	
+11-13	954-957	are	p[7]	*[7]	_	
+11-14	958-964	likely	p[7]	*[7]	_	
+11-15	965-967	to	p[7]	*[7]	_	
+11-16	968-970	be	p[7]	*[7]	_	
+11-17	971-980	important	p[7]	*[7]	_	
+11-18	981-984	for	p[7]	*[7]	_	
+11-19	985-995	navigation	p[7]	*[7]	_	
+11-20	996-999	and	p[7]	*[7]	_	
+11-21	1000-1014	transportation	p[7]	*[7]	_	
+11-22	1014-1015	.	p[7]	*[7]	_	
+
+#Text=The roads appear to be well-maintained and are likely to be used by a variety of vehicles, including cars, trucks, and buses.
+12-1	1016-1019	The	p[7]	*[7]	_	
+12-2	1020-1025	roads	p[7]	*[7]	_	
+12-3	1026-1032	appear	p[7]	*[7]	_	
+12-4	1033-1035	to	p[7]	*[7]	_	
+12-5	1036-1038	be	p[7]	*[7]	_	
+12-6	1039-1054	well-maintained	p[7]	*[7]	_	
+12-7	1055-1058	and	p[7]	*[7]	_	
+12-8	1059-1062	are	p[7]	*[7]	_	
+12-9	1063-1069	likely	p[7]	*[7]	_	
+12-10	1070-1072	to	p[7]	*[7]	_	
+12-11	1073-1075	be	p[7]	*[7]	_	
+12-12	1076-1080	used	p[7]	*[7]	_	
+12-13	1081-1083	by	p[7]	*[7]	_	
+12-14	1084-1085	a	p[7]	*[7]	_	
+12-15	1086-1093	variety	p[7]	*[7]	_	
+12-16	1094-1096	of	p[7]	*[7]	_	
+12-17	1097-1105	vehicles	p[7]	*[7]	_	
+12-18	1105-1106	,	p[7]	*[7]	_	
+12-19	1107-1116	including	p[7]	*[7]	_	
+12-20	1117-1121	cars	p[7]	*[7]	_	
+12-21	1121-1122	,	p[7]	*[7]	_	
+12-22	1123-1129	trucks	p[7]	*[7]	_	
+12-23	1129-1130	,	p[7]	*[7]	_	
+12-24	1131-1134	and	p[7]	*[7]	_	
+12-25	1135-1140	buses	p[7]	*[7]	_	
+12-26	1140-1141	.	p[7]	*[7]	_	
+
+#Text=The map also shows a number of buildings and structures, which are likely to be important for the community.
+13-1	1142-1145	The	p[8]	*[8]	_	
+13-2	1146-1149	map	p[8]	*[8]	_	
+13-3	1150-1154	also	p[8]	*[8]	_	
+13-4	1155-1160	shows	p[8]	*[8]	_	
+13-5	1161-1162	a	p[8]	*[8]	_	
+13-6	1163-1169	number	p[8]	*[8]	_	
+13-7	1170-1172	of	p[8]	*[8]	_	
+13-8	1173-1182	buildings	p[8]	*[8]	_	
+13-9	1183-1186	and	p[8]	*[8]	_	
+13-10	1187-1197	structures	p[8]	*[8]	_	
+13-11	1197-1198	,	p[8]	*[8]	_	
+13-12	1199-1204	which	p[8]	*[8]	_	
+13-13	1205-1208	are	p[8]	*[8]	_	
+13-14	1209-1215	likely	p[8]	*[8]	_	
+13-15	1216-1218	to	p[8]	*[8]	_	
+13-16	1219-1221	be	p[8]	*[8]	_	
+13-17	1222-1231	important	p[8]	*[8]	_	
+13-18	1232-1235	for	p[8]	*[8]	_	
+13-19	1236-1239	the	p[8]	*[8]	_	
+13-20	1240-1249	community	p[8]	*[8]	_	
+13-21	1249-1250	.	p[8]	*[8]	_	
+
+#Text=The buildings appear to be a mix of residential and commercial properties, and are likely to be used for a variety of purposes, including housing, shopping, and entertainment.
+14-1	1251-1254	The	p[8]	*[8]	_	
+14-2	1255-1264	buildings	p[8]	*[8]	_	
+14-3	1265-1271	appear	p[8]	*[8]	_	
+14-4	1272-1274	to	p[8]	*[8]	_	
+14-5	1275-1277	be	p[8]	*[8]	_	
+14-6	1278-1279	a	p[8]	*[8]	_	
+14-7	1280-1283	mix	p[8]	*[8]	_	
+14-8	1284-1286	of	p[8]	*[8]	_	
+14-9	1287-1298	residential	p[8]	*[8]	_	
+14-10	1299-1302	and	p[8]	*[8]	_	
+14-11	1303-1313	commercial	p[8]	*[8]	_	
+14-12	1314-1324	properties	p[8]	*[8]	_	
+14-13	1324-1325	,	p[8]	*[8]	_	
+14-14	1326-1329	and	p[8]	*[8]	_	
+14-15	1330-1333	are	p[8]	*[8]	_	
+14-16	1334-1340	likely	p[8]	*[8]	_	
+14-17	1341-1343	to	p[8]	*[8]	_	
+14-18	1344-1346	be	p[8]	*[8]	_	
+14-19	1347-1351	used	p[8]	*[8]	_	
+14-20	1352-1355	for	p[8]	*[8]	_	
+14-21	1356-1357	a	p[8]	*[8]	_	
+14-22	1358-1365	variety	p[8]	*[8]	_	
+14-23	1366-1368	of	p[8]	*[8]	_	
+14-24	1369-1377	purposes	p[8]	*[8]	_	
+14-25	1377-1378	,	p[8]	*[8]	_	
+14-26	1379-1388	including	p[8]	*[8]	_	
+14-27	1389-1396	housing	p[8]	*[8]	_	
+14-28	1396-1397	,	p[8]	*[8]	_	
+14-29	1398-1406	shopping	p[8]	*[8]	_	
+14-30	1406-1407	,	p[8]	*[8]	_	
+14-31	1408-1411	and	p[8]	*[8]	_	
+14-32	1412-1425	entertainment	p[8]	*[8]	_	
+14-33	1425-1426	.	p[8]	*[8]	_	
+
+#Text=Overall, the map appears to be a useful tool for navigating and understanding the area around the river.
+15-1	1427-1434	Overall	p[9]	*[9]	_	
+15-2	1434-1435	,	p[9]	*[9]	_	
+15-3	1436-1439	the	p[9]	*[9]	_	
+15-4	1440-1443	map	p[9]	*[9]	_	
+15-5	1444-1451	appears	p[9]	*[9]	_	
+15-6	1452-1454	to	p[9]	*[9]	_	
+15-7	1455-1457	be	p[9]	*[9]	_	
+15-8	1458-1459	a	p[9]	*[9]	_	
+15-9	1460-1466	useful	p[9]	*[9]	_	
+15-10	1467-1471	tool	p[9]	*[9]	_	
+15-11	1472-1475	for	p[9]	*[9]	_	
+15-12	1476-1486	navigating	p[9]	*[9]	_	
+15-13	1487-1490	and	p[9]	*[9]	_	
+15-14	1491-1504	understanding	p[9]	*[9]	_	
+15-15	1505-1508	the	p[9]	*[9]	_	
+15-16	1509-1513	area	p[9]	*[9]	_	
+15-17	1514-1520	around	p[9]	*[9]	_	
+15-18	1521-1524	the	p[9]	*[9]	_	
+15-19	1525-1530	river	p[9]	*[9]	_	
+15-20	1530-1531	.	p[9]	*[9]	_	
+
+#Text=It provides important information about the layout of the land, the location of roads and buildings, and the relationship between these features.
+16-1	1532-1534	It	p[9]	*[9]	_	
+16-2	1535-1543	provides	p[9]	*[9]	_	
+16-3	1544-1553	important	p[9]	*[9]	_	
+16-4	1554-1565	information	p[9]	*[9]	_	
+16-5	1566-1571	about	p[9]	*[9]	_	
+16-6	1572-1575	the	p[9]	*[9]	_	
+16-7	1576-1582	layout	p[9]	*[9]	_	
+16-8	1583-1585	of	p[9]	*[9]	_	
+16-9	1586-1589	the	p[9]	*[9]	_	
+16-10	1590-1594	land	p[9]	*[9]	_	
+16-11	1594-1595	,	p[9]	*[9]	_	
+16-12	1596-1599	the	p[9]	*[9]	_	
+16-13	1600-1608	location	p[9]	*[9]	_	
+16-14	1609-1611	of	p[9]	*[9]	_	
+16-15	1612-1617	roads	p[9]	*[9]	_	
+16-16	1618-1621	and	p[9]	*[9]	_	
+16-17	1622-1631	buildings	p[9]	*[9]	_	
+16-18	1631-1632	,	p[9]	*[9]	_	
+16-19	1633-1636	and	p[9]	*[9]	_	
+16-20	1637-1640	the	p[9]	*[9]	_	
+16-21	1641-1653	relationship	p[9]	*[9]	_	
+16-22	1654-1661	between	p[9]	*[9]	_	
+16-23	1662-1667	these	p[9]	*[9]	_	
+16-24	1668-1676	features	p[9]	*[9]	_	
+16-25	1676-1677	.	p[9]	*[9]	_	
+
+#Text=Anchors summary  River (major waterway) Roads and highways Buildings and structures (mix of residential and commercial properties)
+17-1	1678-1685	Anchors	h1[10]	*[10]	_	
+17-2	1686-1693	summary	h1[10]	*[10]	_	
+17-3	1695-1700	River	_	_	_	
+17-4	1701-1702	(	_	_	_	
+17-5	1702-1707	major	_	_	_	
+17-6	1708-1716	waterway	_	_	_	
+17-7	1716-1717	)	_	_	_	
+17-8	1718-1723	Roads	_	_	_	
+17-9	1724-1727	and	_	_	_	
+17-10	1728-1736	highways	_	_	_	
+17-11	1737-1746	Buildings	_	_	_	
+17-12	1747-1750	and	_	_	_	
+17-13	1751-1761	structures	_	_	_	
+17-14	1762-1763	(	_	_	_	
+17-15	1763-1766	mix	_	_	_	
+17-16	1767-1769	of	_	_	_	
+17-17	1770-1781	residential	_	_	_	
+17-18	1782-1785	and	_	_	_	
+17-19	1786-1796	commercial	_	_	_	
+17-20	1797-1807	properties	_	_	_	
+17-21	1807-1808	)	_	_	_	

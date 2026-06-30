@@ -1,0 +1,413 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=Once again, a tourist guide to Barcelona, more detailed than the previous one, with monuments to see, cemeteries, and small buildings that must be everything there is to visit.
+2-1	42-46	Once	p[2]	*[2]	_	
+2-2	47-52	again	p[2]	*[2]	_	
+2-3	52-53	,	p[2]	*[2]	_	
+2-4	54-55	a	p[2]	*[2]	_	
+2-5	56-63	tourist	p[2]	*[2]	_	
+2-6	64-69	guide	p[2]	*[2]	_	
+2-7	70-72	to	p[2]	*[2]	_	
+2-8	73-82	Barcelona	p[2]	*[2]	toponym	
+2-9	82-83	,	p[2]	*[2]	_	
+2-10	84-88	more	p[2]	*[2]	_	
+2-11	89-97	detailed	p[2]	*[2]	_	
+2-12	98-102	than	p[2]	*[2]	_	
+2-13	103-106	the	p[2]	*[2]	_	
+2-14	107-115	previous	p[2]	*[2]	_	
+2-15	116-119	one	p[2]	*[2]	_	
+2-16	119-120	,	p[2]	*[2]	_	
+2-17	121-125	with	p[2]	*[2]	_	
+2-18	126-135	monuments	p[2]	*[2]	_	
+2-19	136-138	to	p[2]	*[2]	_	
+2-20	139-142	see	p[2]	*[2]	_	
+2-21	142-143	,	p[2]	*[2]	_	
+2-22	144-154	cemeteries	p[2]	*[2]	_	
+2-23	154-155	,	p[2]	*[2]	_	
+2-24	156-159	and	p[2]	*[2]	_	
+2-25	160-165	small	p[2]	*[2]	_	
+2-26	166-175	buildings	p[2]	*[2]	_	
+2-27	176-180	that	p[2]	*[2]	_	
+2-28	181-185	must	p[2]	*[2]	_	
+2-29	186-188	be	p[2]	*[2]	_	
+2-30	189-199	everything	p[2]	*[2]	_	
+2-31	200-205	there	p[2]	*[2]	_	
+2-32	206-208	is	p[2]	*[2]	_	
+2-33	209-211	to	p[2]	*[2]	_	
+2-34	212-217	visit	p[2]	*[2]	_	
+2-35	217-218	.	p[2]	*[2]	_	
+
+#Text=With points of interest, you can even see churches, and I would say a synagogue completely to the north.
+3-1	219-223	With	p[2]	*[2]	_	
+3-2	224-230	points	p[2]	*[2]	_	
+3-3	231-233	of	p[2]	*[2]	_	
+3-4	234-242	interest	p[2]	*[2]	_	
+3-5	242-243	,	p[2]	*[2]	_	
+3-6	244-247	you	p[2]	*[2]	_	
+3-7	248-251	can	p[2]	*[2]	_	
+3-8	252-256	even	p[2]	*[2]	_	
+3-9	257-260	see	p[2]	*[2]	_	
+3-10	261-269	churches	p[2]	*[2]	_	
+3-11	269-270	,	p[2]	*[2]	_	
+3-12	271-274	and	p[2]	*[2]	_	
+3-13	275-276	I	p[2]	*[2]	_	
+3-14	277-282	would	p[2]	*[2]	_	
+3-15	283-286	say	p[2]	*[2]	_	
+3-16	287-288	a	p[2]	*[2]	_	
+3-17	289-298	synagogue	p[2]	*[2]	_	
+3-18	299-309	completely	p[2]	*[2]	_	
+3-19	310-312	to	p[2]	*[2]	spatial relation[4]	
+3-20	313-316	the	p[2]	*[2]	spatial relation[4]	
+3-21	317-322	north	p[2]	*[2]	spatial relation[4]	
+3-22	322-323	.	p[2]	*[2]	_	
+
+#Text=Theaters.
+4-1	324-332	Theaters	p[2]	*[2]	_	
+4-2	332-333	.	p[2]	*[2]	_	
+
+#Text=The streets are well marked, and you can see the neighborhoods on either side of Las Ramblas.
+5-1	334-337	The	p[2]	*[2]	_	
+5-2	338-345	streets	p[2]	*[2]	_	
+5-3	346-349	are	p[2]	*[2]	_	
+5-4	350-354	well	p[2]	*[2]	_	
+5-5	355-361	marked	p[2]	*[2]	_	
+5-6	361-362	,	p[2]	*[2]	_	
+5-7	363-366	and	p[2]	*[2]	_	
+5-8	367-370	you	p[2]	*[2]	_	
+5-9	371-374	can	p[2]	*[2]	_	
+5-10	375-378	see	p[2]	*[2]	_	
+5-11	379-382	the	p[2]	*[2]	_	
+5-12	383-396	neighborhoods	p[2]	*[2]	_	
+5-13	397-399	on	p[2]	*[2]	spatial relation[5]	
+5-14	400-406	either	p[2]	*[2]	spatial relation[5]	
+5-15	407-411	side	p[2]	*[2]	spatial relation[5]	
+5-16	412-414	of	p[2]	*[2]	_	
+5-17	415-418	Las	p[2]	*[2]	toponym[6]	
+5-18	419-426	Ramblas	p[2]	*[2]	toponym[6]	
+5-19	426-427	.	p[2]	*[2]	_	
+
+#Text=With shopping areas represented by shopping carts.
+6-1	428-432	With	p[2]	*[2]	_	
+6-2	433-441	shopping	p[2]	*[2]	_	
+6-3	442-447	areas	p[2]	*[2]	_	
+6-4	448-459	represented	p[2]	*[2]	_	
+6-5	460-462	by	p[2]	*[2]	_	
+6-6	463-471	shopping	p[2]	*[2]	_	
+6-7	472-477	carts	p[2]	*[2]	_	
+6-8	477-478	.	p[2]	*[2]	_	
+
+#Text=The Plaza de Cataluña in the far northwest.
+7-1	479-482	The	p[2]	*[2]	_	
+7-2	483-488	Plaza	p[2]	*[2]	toponym[7]	
+7-3	489-491	de	p[2]	*[2]	toponym[7]	
+7-4	492-500	Cataluña	p[2]	*[2]	toponym[7]	
+7-5	501-503	in	p[2]	*[2]	spatial relation[8]	
+7-6	504-507	the	p[2]	*[2]	spatial relation[8]	
+7-7	508-511	far	p[2]	*[2]	spatial relation[8]	
+7-8	512-521	northwest	p[2]	*[2]	spatial relation[8]	
+7-9	521-522	.	p[2]	*[2]	_	
+
+#Text=Next to it, I think, is the police station or a police station.
+8-1	523-527	Next	p[2]	*[2]	spatial relation[9]	
+8-2	528-530	to	p[2]	*[2]	spatial relation[9]	
+8-3	531-533	it	p[2]	*[2]	spatial relation[9]	
+8-4	533-534	,	p[2]	*[2]	_	
+8-5	535-536	I	p[2]	*[2]	_	
+8-6	537-542	think	p[2]	*[2]	_	
+8-7	542-543	,	p[2]	*[2]	_	
+8-8	544-546	is	p[2]	*[2]	_	
+8-9	547-550	the	p[2]	*[2]	_	
+8-10	551-557	police	p[2]	*[2]	_	
+8-11	558-565	station	p[2]	*[2]	_	
+8-12	566-568	or	p[2]	*[2]	_	
+8-13	569-570	a	p[2]	*[2]	_	
+8-14	571-577	police	p[2]	*[2]	_	
+8-15	578-585	station	p[2]	*[2]	_	
+8-16	585-586	.	p[2]	*[2]	_	
+
+#Text=Theaters in the north, represented by small masks.
+9-1	587-595	Theaters	p[2]	*[2]	_	
+9-2	596-598	in	p[2]	*[2]	spatial relation[10]	
+9-3	599-602	the	p[2]	*[2]	spatial relation[10]	
+9-4	603-608	north	p[2]	*[2]	spatial relation[10]	
+9-5	608-609	,	p[2]	*[2]	_	
+9-6	610-621	represented	p[2]	*[2]	_	
+9-7	622-624	by	p[2]	*[2]	_	
+9-8	625-630	small	p[2]	*[2]	_	
+9-9	631-636	masks	p[2]	*[2]	_	
+9-10	636-637	.	p[2]	*[2]	_	
+
+#Text=Libraries in the south, represented by books, and small monuments that must represent small castles or areas to visit.
+10-1	638-647	Libraries	p[2]	*[2]	_	
+10-2	648-650	in	p[2]	*[2]	spatial relation[11]	
+10-3	651-654	the	p[2]	*[2]	spatial relation[11]	
+10-4	655-660	south	p[2]	*[2]	spatial relation[11]	
+10-5	660-661	,	p[2]	*[2]	_	
+10-6	662-673	represented	p[2]	*[2]	_	
+10-7	674-676	by	p[2]	*[2]	_	
+10-8	677-682	books	p[2]	*[2]	_	
+10-9	682-683	,	p[2]	*[2]	_	
+10-10	684-687	and	p[2]	*[2]	_	
+10-11	688-693	small	p[2]	*[2]	_	
+10-12	694-703	monuments	p[2]	*[2]	_	
+10-13	704-708	that	p[2]	*[2]	_	
+10-14	709-713	must	p[2]	*[2]	_	
+10-15	714-723	represent	p[2]	*[2]	_	
+10-16	724-729	small	p[2]	*[2]	_	
+10-17	730-737	castles	p[2]	*[2]	_	
+10-18	738-740	or	p[2]	*[2]	_	
+10-19	741-746	areas	p[2]	*[2]	_	
+10-20	747-749	to	p[2]	*[2]	_	
+10-21	750-755	visit	p[2]	*[2]	_	
+10-22	755-756	.	p[2]	*[2]	_	
+
+#Text=The Jerusalem Square.
+11-1	757-760	The	p[2]	*[2]	_	
+11-2	761-770	Jerusalem	p[2]	*[2]	toponym[12]	
+11-3	771-777	Square	p[2]	*[2]	toponym[12]	
+11-4	777-778	.	p[2]	*[2]	_	
+
+#Text=Places of worship are well represented on this map.
+12-1	779-785	Places	p[2]	*[2]	_	
+12-2	786-788	of	p[2]	*[2]	_	
+12-3	789-796	worship	p[2]	*[2]	_	
+12-4	797-800	are	p[2]	*[2]	_	
+12-5	801-805	well	p[2]	*[2]	_	
+12-6	806-817	represented	p[2]	*[2]	_	
+12-7	818-820	on	p[2]	*[2]	_	
+12-8	821-825	this	p[2]	*[2]	_	
+12-9	826-829	map	p[2]	*[2]	_	
+12-10	829-830	.	p[2]	*[2]	_	
+
+#Text=The small black symbols make me think of places of worship, but I can't say for sure if that is what they are.
+13-1	831-834	The	p[2]	*[2]	_	
+13-2	835-840	small	p[2]	*[2]	_	
+13-3	841-846	black	p[2]	*[2]	_	
+13-4	847-854	symbols	p[2]	*[2]	_	
+13-5	855-859	make	p[2]	*[2]	_	
+13-6	860-862	me	p[2]	*[2]	_	
+13-7	863-868	think	p[2]	*[2]	_	
+13-8	869-871	of	p[2]	*[2]	_	
+13-9	872-878	places	p[2]	*[2]	_	
+13-10	879-881	of	p[2]	*[2]	_	
+13-11	882-889	worship	p[2]	*[2]	_	
+13-12	889-890	,	p[2]	*[2]	_	
+13-13	891-894	but	p[2]	*[2]	_	
+13-14	895-896	I	p[2]	*[2]	_	
+13-15	897-902	can't	p[2]	*[2]	_	
+13-16	903-906	say	p[2]	*[2]	_	
+13-17	907-910	for	p[2]	*[2]	_	
+13-18	911-915	sure	p[2]	*[2]	_	
+13-19	916-918	if	p[2]	*[2]	_	
+13-20	919-923	that	p[2]	*[2]	_	
+13-21	924-926	is	p[2]	*[2]	_	
+13-22	927-931	what	p[2]	*[2]	_	
+13-23	932-936	they	p[2]	*[2]	_	
+13-24	937-940	are	p[2]	*[2]	_	
+13-25	940-941	.	p[2]	*[2]	_	
+
+#Text=In brown, the side to visit with points of interest.
+14-1	942-944	In	p[2]	*[2]	_	
+14-2	945-950	brown	p[2]	*[2]	_	
+14-3	950-951	,	p[2]	*[2]	_	
+14-4	952-955	the	p[2]	*[2]	_	
+14-5	956-960	side	p[2]	*[2]	_	
+14-6	961-963	to	p[2]	*[2]	_	
+14-7	964-969	visit	p[2]	*[2]	_	
+14-8	970-974	with	p[2]	*[2]	_	
+14-9	975-981	points	p[2]	*[2]	_	
+14-10	982-984	of	p[2]	*[2]	_	
+14-11	985-993	interest	p[2]	*[2]	_	
+14-12	993-994	.	p[2]	*[2]	_	
+
+#Text=So here, it is really for visiting, we don’t have points of interest for restaurants or accommodation, it is just for visiting.
+15-1	995-997	So	p[2]	*[2]	_	
+15-2	998-1002	here	p[2]	*[2]	_	
+15-3	1002-1003	,	p[2]	*[2]	_	
+15-4	1004-1006	it	p[2]	*[2]	_	
+15-5	1007-1009	is	p[2]	*[2]	_	
+15-6	1010-1016	really	p[2]	*[2]	_	
+15-7	1017-1020	for	p[2]	*[2]	_	
+15-8	1021-1029	visiting	p[2]	*[2]	_	
+15-9	1029-1030	,	p[2]	*[2]	_	
+15-10	1031-1033	we	p[2]	*[2]	_	
+15-11	1034-1037	don	p[2]	*[2]	_	
+15-12	1037-1038	’	p[2]	*[2]	_	
+15-13	1038-1039	t	p[2]	*[2]	_	
+15-14	1040-1044	have	p[2]	*[2]	_	
+15-15	1045-1051	points	p[2]	*[2]	_	
+15-16	1052-1054	of	p[2]	*[2]	_	
+15-17	1055-1063	interest	p[2]	*[2]	_	
+15-18	1064-1067	for	p[2]	*[2]	_	
+15-19	1068-1079	restaurants	p[2]	*[2]	_	
+15-20	1080-1082	or	p[2]	*[2]	_	
+15-21	1083-1096	accommodation	p[2]	*[2]	_	
+15-22	1096-1097	,	p[2]	*[2]	_	
+15-23	1098-1100	it	p[2]	*[2]	_	
+15-24	1101-1103	is	p[2]	*[2]	_	
+15-25	1104-1108	just	p[2]	*[2]	_	
+15-26	1109-1112	for	p[2]	*[2]	_	
+15-27	1113-1121	visiting	p[2]	*[2]	_	
+15-28	1121-1122	.	p[2]	*[2]	_	
+
+#Text=With the direction of traffic represented by arrows.
+16-1	1123-1127	With	p[2]	*[2]	_	
+16-2	1128-1131	the	p[2]	*[2]	_	
+16-3	1132-1141	direction	p[2]	*[2]	_	
+16-4	1142-1144	of	p[2]	*[2]	_	
+16-5	1145-1152	traffic	p[2]	*[2]	_	
+16-6	1153-1164	represented	p[2]	*[2]	_	
+16-7	1165-1167	by	p[2]	*[2]	_	
+16-8	1168-1174	arrows	p[2]	*[2]	_	
+16-9	1174-1175	.	p[2]	*[2]	_	
+
+#Text=Overview of what to visit around Las Ramblas.
+17-1	1176-1184	Overview	p[2]	*[2]	_	
+17-2	1185-1187	of	p[2]	*[2]	_	
+17-3	1188-1192	what	p[2]	*[2]	_	
+17-4	1193-1195	to	p[2]	*[2]	_	
+17-5	1196-1201	visit	p[2]	*[2]	_	
+17-6	1202-1208	around	p[2]	*[2]	spatial relation	
+17-7	1209-1212	Las	p[2]	*[2]	toponym[13]	
+17-8	1213-1220	Ramblas	p[2]	*[2]	toponym[13]	
+17-9	1220-1221	.	p[2]	*[2]	_	
+
+#Text=Anchors summary  Monuments à voir Cimetières Petits bâtiments à visiter Centres d’intérêt / points d’intérêt Églises Synagogue (complètement au nord) Théâtres (représentés par des masques) Rues (bien indiquées) Quartiers de chaque côté des Ramblas Zones de shopping (représentées par des caddies) Place de Catalogne (au nord-ouest) Gendarmerie / commissariat (à côté de la place) Bibliothèques (au sud, représentées par des livres) Petits monuments / petits châteaux / zones à visiter Carré de Jérusalem Lieux de culte (petits sigles en noir) Zones en marron indiquant les points à visiter Sens de circulation (flèches) Vue d’ensemble des sites autour des Ramblas
+18-1	1222-1229	Anchors	h1[3]	*[3]	_	
+18-2	1230-1237	summary	h1[3]	*[3]	_	
+18-3	1239-1248	Monuments	_	_	_	
+18-4	1249-1250	à	_	_	_	
+18-5	1251-1255	voir	_	_	_	
+18-6	1256-1266	Cimetières	_	_	_	
+18-7	1267-1273	Petits	_	_	_	
+18-8	1274-1283	bâtiments	_	_	_	
+18-9	1284-1285	à	_	_	_	
+18-10	1286-1293	visiter	_	_	_	
+18-11	1294-1301	Centres	_	_	_	
+18-12	1302-1303	d	_	_	_	
+18-13	1303-1304	’	_	_	_	
+18-14	1304-1311	intérêt	_	_	_	
+18-15	1312-1313	/	_	_	_	
+18-16	1314-1320	points	_	_	_	
+18-17	1321-1322	d	_	_	_	
+18-18	1322-1323	’	_	_	_	
+18-19	1323-1330	intérêt	_	_	_	
+18-20	1331-1338	Églises	_	_	_	
+18-21	1339-1348	Synagogue	_	_	_	
+18-22	1349-1350	(	_	_	_	
+18-23	1350-1362	complètement	_	_	_	
+18-24	1363-1365	au	_	_	_	
+18-25	1366-1370	nord	_	_	_	
+18-26	1370-1371	)	_	_	_	
+18-27	1372-1380	Théâtres	_	_	_	
+18-28	1381-1382	(	_	_	_	
+18-29	1382-1393	représentés	_	_	_	
+18-30	1394-1397	par	_	_	_	
+18-31	1398-1401	des	_	_	_	
+18-32	1402-1409	masques	_	_	_	
+18-33	1409-1410	)	_	_	_	
+18-34	1411-1415	Rues	_	_	_	
+18-35	1416-1417	(	_	_	_	
+18-36	1417-1421	bien	_	_	_	
+18-37	1422-1431	indiquées	_	_	_	
+18-38	1431-1432	)	_	_	_	
+18-39	1433-1442	Quartiers	_	_	_	
+18-40	1443-1445	de	_	_	_	
+18-41	1446-1452	chaque	_	_	_	
+18-42	1453-1457	côté	_	_	_	
+18-43	1458-1461	des	_	_	_	
+18-44	1462-1469	Ramblas	_	_	_	
+18-45	1470-1475	Zones	_	_	_	
+18-46	1476-1478	de	_	_	_	
+18-47	1479-1487	shopping	_	_	_	
+18-48	1488-1489	(	_	_	_	
+18-49	1489-1501	représentées	_	_	_	
+18-50	1502-1505	par	_	_	_	
+18-51	1506-1509	des	_	_	_	
+18-52	1510-1517	caddies	_	_	_	
+18-53	1517-1518	)	_	_	_	
+18-54	1519-1524	Place	_	_	_	
+18-55	1525-1527	de	_	_	_	
+18-56	1528-1537	Catalogne	_	_	_	
+18-57	1538-1539	(	_	_	_	
+18-58	1539-1541	au	_	_	_	
+18-59	1542-1552	nord-ouest	_	_	_	
+18-60	1552-1553	)	_	_	_	
+18-61	1554-1565	Gendarmerie	_	_	_	
+18-62	1566-1567	/	_	_	_	
+18-63	1568-1580	commissariat	_	_	_	
+18-64	1581-1582	(	_	_	_	
+18-65	1582-1583	à	_	_	_	
+18-66	1584-1588	côté	_	_	_	
+18-67	1589-1591	de	_	_	_	
+18-68	1592-1594	la	_	_	_	
+18-69	1595-1600	place	_	_	_	
+18-70	1600-1601	)	_	_	_	
+18-71	1602-1615	Bibliothèques	_	_	_	
+18-72	1616-1617	(	_	_	_	
+18-73	1617-1619	au	_	_	_	
+18-74	1620-1623	sud	_	_	_	
+18-75	1623-1624	,	_	_	_	
+18-76	1625-1637	représentées	_	_	_	
+18-77	1638-1641	par	_	_	_	
+18-78	1642-1645	des	_	_	_	
+18-79	1646-1652	livres	_	_	_	
+18-80	1652-1653	)	_	_	_	
+18-81	1654-1660	Petits	_	_	_	
+18-82	1661-1670	monuments	_	_	_	
+18-83	1671-1672	/	_	_	_	
+18-84	1673-1679	petits	_	_	_	
+18-85	1680-1688	châteaux	_	_	_	
+18-86	1689-1690	/	_	_	_	
+18-87	1691-1696	zones	_	_	_	
+18-88	1697-1698	à	_	_	_	
+18-89	1699-1706	visiter	_	_	_	
+18-90	1707-1712	Carré	_	_	_	
+18-91	1713-1715	de	_	_	_	
+18-92	1716-1725	Jérusalem	_	_	_	
+18-93	1726-1731	Lieux	_	_	_	
+18-94	1732-1734	de	_	_	_	
+18-95	1735-1740	culte	_	_	_	
+18-96	1741-1742	(	_	_	_	
+18-97	1742-1748	petits	_	_	_	
+18-98	1749-1755	sigles	_	_	_	
+18-99	1756-1758	en	_	_	_	
+18-100	1759-1763	noir	_	_	_	
+18-101	1763-1764	)	_	_	_	
+18-102	1765-1770	Zones	_	_	_	
+18-103	1771-1773	en	_	_	_	
+18-104	1774-1780	marron	_	_	_	
+18-105	1781-1790	indiquant	_	_	_	
+18-106	1791-1794	les	_	_	_	
+18-107	1795-1801	points	_	_	_	
+18-108	1802-1803	à	_	_	_	
+18-109	1804-1811	visiter	_	_	_	
+18-110	1812-1816	Sens	_	_	_	
+18-111	1817-1819	de	_	_	_	
+18-112	1820-1831	circulation	_	_	_	
+18-113	1832-1833	(	_	_	_	
+18-114	1833-1840	flèches	_	_	_	
+18-115	1840-1841	)	_	_	_	
+18-116	1842-1845	Vue	_	_	_	
+18-117	1846-1847	d	_	_	_	
+18-118	1847-1848	’	_	_	_	
+18-119	1848-1856	ensemble	_	_	_	
+18-120	1857-1860	des	_	_	_	
+18-121	1861-1866	sites	_	_	_	
+18-122	1867-1873	autour	_	_	_	
+18-123	1874-1877	des	_	_	_	
+18-124	1878-1885	Ramblas	_	_	_	

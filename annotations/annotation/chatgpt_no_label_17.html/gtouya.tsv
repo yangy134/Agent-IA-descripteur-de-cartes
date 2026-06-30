@@ -1,0 +1,998 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=Certainly.
+2-1	42-51	Certainly	p[2]	*[2]	_	
+2-2	51-52	.	p[2]	*[2]	_	
+
+#Text=Here's a detailed description of the content and salient visual elements of the map you've provided: 🗺️ Map Overview This is a detailed topographic base map of an urban area featuring:  A river running vertically through the center, splitting the city into distinct sections.
+3-1	53-59	Here's	p[2]	*[2]	_	
+3-2	60-61	a	p[2]	*[2]	_	
+3-3	62-70	detailed	p[2]	*[2]	_	
+3-4	71-82	description	p[2]	*[2]	_	
+3-5	83-85	of	p[2]	*[2]	_	
+3-6	86-89	the	p[2]	*[2]	_	
+3-7	90-97	content	p[2]	*[2]	_	
+3-8	98-101	and	p[2]	*[2]	_	
+3-9	102-109	salient	p[2]	*[2]	_	
+3-10	110-116	visual	p[2]	*[2]	_	
+3-11	117-125	elements	p[2]	*[2]	_	
+3-12	126-128	of	p[2]	*[2]	_	
+3-13	129-132	the	p[2]	*[2]	_	
+3-14	133-136	map	p[2]	*[2]	_	
+3-15	137-143	you've	p[2]	*[2]	_	
+3-16	144-152	provided	p[2]	*[2]	_	
+3-17	152-153	:	p[2]	*[2]	_	
+3-18	154-157	🗺️	h2[3]	*[3]	_	
+3-19	158-161	Map	h2[3]	*[3]	_	
+3-20	162-170	Overview	h2[3]	*[3]	_	
+3-21	171-175	This	p[4]	*[4]	_	
+3-22	176-178	is	p[4]	*[4]	_	
+3-23	179-180	a	p[4]	*[4]	_	
+3-24	181-189	detailed	p[4]	*[4]	_	
+3-25	190-201	topographic	p[4]	*[4]	_	
+3-26	202-206	base	p[4]	*[4]	_	
+3-27	207-210	map	p[4]	*[4]	_	
+3-28	211-213	of	p[4]	*[4]	_	
+3-29	214-216	an	p[4]	*[4]	_	
+3-30	217-222	urban	p[4]	*[4]	_	
+3-31	223-227	area	p[4]	*[4]	_	
+3-32	228-237	featuring	p[4]	*[4]	_	
+3-33	237-238	:	p[4]	*[4]	_	
+3-34	240-241	A	_	_	_	
+3-35	242-247	river	_	_	_	
+3-36	248-255	running	_	_	spatial relation[29]	
+3-37	256-266	vertically	_	_	spatial relation[29]	
+3-38	267-274	through	_	_	spatial relation[30]	
+3-39	275-278	the	_	_	spatial relation[30]	
+3-40	279-285	center	_	_	spatial relation[30]	
+3-41	285-286	,	_	_	_	
+3-42	287-296	splitting	_	_	spatial relation[31]	
+3-43	297-300	the	_	_	spatial relation[31]	
+3-44	301-305	city	_	_	spatial relation[31]	
+3-45	306-310	into	_	_	_	
+3-46	311-319	distinct	_	_	_	
+3-47	320-328	sections	_	_	_	
+3-48	328-329	.	_	_	_	
+
+#Text=Urban infrastructure, such as buildings, roads, parks, and bridges, shown in a subtle, low-contrast palette.
+4-1	330-335	Urban	_	_	_	
+4-2	336-350	infrastructure	_	_	_	
+4-3	350-351	,	_	_	_	
+4-4	352-356	such	_	_	_	
+4-5	357-359	as	_	_	_	
+4-6	360-369	buildings	_	_	_	
+4-7	369-370	,	_	_	_	
+4-8	371-376	roads	_	_	_	
+4-9	376-377	,	_	_	_	
+4-10	378-383	parks	_	_	_	
+4-11	383-384	,	_	_	_	
+4-12	385-388	and	_	_	_	
+4-13	389-396	bridges	_	_	_	
+4-14	396-397	,	_	_	_	
+4-15	398-403	shown	_	_	_	
+4-16	404-406	in	_	_	_	
+4-17	407-408	a	_	_	_	
+4-18	409-415	subtle	_	_	_	
+4-19	415-416	,	_	_	_	
+4-20	417-429	low-contrast	_	_	_	
+4-21	430-437	palette	_	_	_	
+4-22	437-438	.	_	_	_	
+
+#Text=A focus on physical layout rather than names—no text labels are present
+5-1	439-440	A	_	_	_	
+5-2	441-446	focus	_	_	_	
+5-3	447-449	on	_	_	_	
+5-4	450-458	physical	_	_	_	
+5-5	459-465	layout	_	_	_	
+5-6	466-472	rather	_	_	_	
+5-7	473-477	than	_	_	_	
+5-8	478-486	names—no	_	_	_	
+5-9	487-491	text	_	_	_	
+5-10	492-498	labels	_	_	_	
+5-11	499-502	are	_	_	_	
+5-12	503-510	present	_	_	_	
+
+#Text=.
+6-1	510-511	.	_	_	_	
+
+#Text=🔝 Most Visually Salient Elements  Water Features  The main river (in blue) is the most prominent linear element, vertically bisecting the map.
+7-1	513-515	🔝	h2[5]	*[5]	_	
+7-2	516-520	Most	h2[5]	*[5]	_	
+7-3	521-529	Visually	h2[5]	*[5]	_	
+7-4	530-537	Salient	h2[5]	*[5]	_	
+7-5	538-546	Elements	h2[5]	*[5]	_	
+7-6	548-553	Water	p[6]	*[6]	_	
+7-7	554-562	Features	p[6]	*[6]	_	
+7-8	564-567	The	_	_	_	
+7-9	568-572	main	_	_	_	
+7-10	573-578	river	_	_	_	
+7-11	579-580	(	_	_	_	
+7-12	580-582	in	_	_	_	
+7-13	583-587	blue	_	_	_	
+7-14	587-588	)	_	_	_	
+7-15	589-591	is	_	_	_	
+7-16	592-595	the	_	_	_	
+7-17	596-600	most	_	_	_	
+7-18	601-610	prominent	_	_	_	
+7-19	611-617	linear	_	_	_	
+7-20	618-625	element	_	_	_	
+7-21	625-626	,	_	_	_	
+7-22	627-637	vertically	_	_	spatial relation[32]	
+7-23	638-647	bisecting	_	_	spatial relation[32]	
+7-24	648-651	the	_	_	_	
+7-25	652-655	map	_	_	_	
+7-26	655-656	.	_	_	_	
+
+#Text=A smaller canal or stream branches off the main river in the lower center-right.
+8-1	657-658	A	_	_	_	
+8-2	659-666	smaller	_	_	_	
+8-3	667-672	canal	_	_	_	
+8-4	673-675	or	_	_	_	
+8-5	676-682	stream	_	_	_	
+8-6	683-691	branches	_	_	spatial relation[33]	
+8-7	692-695	off	_	_	spatial relation[33]	
+8-8	696-699	the	_	_	_	
+8-9	700-704	main	_	_	_	
+8-10	705-710	river	_	_	_	
+8-11	711-713	in	_	_	spatial relation[34]	
+8-12	714-717	the	_	_	spatial relation[34]	
+8-13	718-723	lower	_	_	spatial relation[34]	
+8-14	724-736	center-right	_	_	spatial relation[34]	
+8-15	736-737	.	_	_	_	
+
+#Text=Water uses saturated blue hues, enhancing its visual contrast with the muted beige and green tones.
+9-1	738-743	Water	_	_	_	
+9-2	744-748	uses	_	_	_	
+9-3	749-758	saturated	_	_	_	
+9-4	759-763	blue	_	_	_	
+9-5	764-768	hues	_	_	_	
+9-6	768-769	,	_	_	_	
+9-7	770-779	enhancing	_	_	_	
+9-8	780-783	its	_	_	_	
+9-9	784-790	visual	_	_	_	
+9-10	791-799	contrast	_	_	_	
+9-11	800-804	with	_	_	_	
+9-12	805-808	the	_	_	_	
+9-13	809-814	muted	_	_	_	
+9-14	815-820	beige	_	_	_	
+9-15	821-824	and	_	_	_	
+9-16	825-830	green	_	_	_	
+9-17	831-836	tones	_	_	_	
+9-18	836-837	.	_	_	_	
+
+#Text=Bridges  Several road and pedestrian bridges cross the river, clearly structured and drawing attention due to their location and geometry.
+10-1	839-846	Bridges	p	*	_	
+10-2	848-855	Several	_	_	_	
+10-3	856-860	road	_	_	_	
+10-4	861-864	and	_	_	_	
+10-5	865-875	pedestrian	_	_	_	
+10-6	876-883	bridges	_	_	_	
+10-7	884-889	cross	_	_	spatial relation	
+10-8	890-893	the	_	_	_	
+10-9	894-899	river	_	_	_	
+10-10	899-900	,	_	_	_	
+10-11	901-908	clearly	_	_	_	
+10-12	909-919	structured	_	_	_	
+10-13	920-923	and	_	_	_	
+10-14	924-931	drawing	_	_	_	
+10-15	932-941	attention	_	_	_	
+10-16	942-945	due	_	_	_	
+10-17	946-948	to	_	_	_	
+10-18	949-954	their	_	_	_	
+10-19	955-963	location	_	_	_	
+10-20	964-967	and	_	_	_	
+10-21	968-976	geometry	_	_	_	
+10-22	976-977	.	_	_	_	
+
+#Text=Parks and Green Spaces  Shaded in pale green with subtle contour lines and dotted paths, green spaces are visible in:  The lower right quadrant, with a clear park layout and a stream.
+11-1	979-984	Parks	p[7]	*[7]	_	
+11-2	985-988	and	p[7]	*[7]	_	
+11-3	989-994	Green	p[7]	*[7]	_	
+11-4	995-1001	Spaces	p[7]	*[7]	_	
+11-5	1003-1009	Shaded	p[8]	*[8]	_	
+11-6	1010-1012	in	p[8]	*[8]	_	
+11-7	1013-1017	pale	p[8]	*[8]	_	
+11-8	1018-1023	green	p[8]	*[8]	_	
+11-9	1024-1028	with	p[8]	*[8]	_	
+11-10	1029-1035	subtle	p[8]	*[8]	_	
+11-11	1036-1043	contour	p[8]	*[8]	_	
+11-12	1044-1049	lines	p[8]	*[8]	_	
+11-13	1050-1053	and	p[8]	*[8]	_	
+11-14	1054-1060	dotted	p[8]	*[8]	_	
+11-15	1061-1066	paths	p[8]	*[8]	_	
+11-16	1066-1067	,	p[8]	*[8]	_	
+11-17	1068-1073	green	p[8]	*[8]	_	
+11-18	1074-1080	spaces	p[8]	*[8]	_	
+11-19	1081-1084	are	p[8]	*[8]	_	
+11-20	1085-1092	visible	p[8]	*[8]	_	
+11-21	1093-1095	in	p[8]	*[8]	_	
+11-22	1095-1096	:	p[8]	*[8]	_	
+11-23	1098-1101	The	_	_	_	
+11-24	1102-1107	lower	_	_	spatial relation[35]	
+11-25	1108-1113	right	_	_	spatial relation[35]	
+11-26	1114-1122	quadrant	_	_	spatial relation[35]	
+11-27	1122-1123	,	_	_	_	
+11-28	1124-1128	with	_	_	_	
+11-29	1129-1130	a	_	_	_	
+11-30	1131-1136	clear	_	_	_	
+11-31	1137-1141	park	_	_	_	
+11-32	1142-1148	layout	_	_	_	
+11-33	1149-1152	and	_	_	_	
+11-34	1153-1154	a	_	_	_	
+11-35	1155-1161	stream	_	_	_	
+11-36	1161-1162	.	_	_	_	
+
+#Text=The upper left quadrant, including another park area.
+12-1	1163-1166	The	_	_	_	
+12-2	1167-1172	upper	_	_	spatial relation[36]	
+12-3	1173-1177	left	_	_	spatial relation[36]	
+12-4	1178-1186	quadrant	_	_	spatial relation[36]	
+12-5	1186-1187	,	_	_	_	
+12-6	1188-1197	including	_	_	_	
+12-7	1198-1205	another	_	_	_	
+12-8	1206-1210	park	_	_	_	
+12-9	1211-1215	area	_	_	_	
+12-10	1215-1216	.	_	_	_	
+
+#Text=These offer a visual break from the dense urban grid.
+13-1	1218-1223	These	p[9]	*[9]	_	
+13-2	1224-1229	offer	p[9]	*[9]	_	
+13-3	1230-1231	a	p[9]	*[9]	_	
+13-4	1232-1238	visual	p[9]	*[9]	_	
+13-5	1239-1244	break	p[9]	*[9]	_	
+13-6	1245-1249	from	p[9]	*[9]	_	
+13-7	1250-1253	the	p[9]	*[9]	_	
+13-8	1254-1259	dense	p[9]	*[9]	_	
+13-9	1260-1265	urban	p[9]	*[9]	_	
+13-10	1266-1270	grid	p[9]	*[9]	_	
+13-11	1270-1271	.	p[9]	*[9]	_	
+
+#Text=Street Network  Streets are rendered in light yellow or beige, forming a fine-grained grid in most areas.
+14-1	1273-1279	Street	p[10]	*[10]	_	
+14-2	1280-1287	Network	p[10]	*[10]	_	
+14-3	1289-1296	Streets	_	_	_	
+14-4	1297-1300	are	_	_	_	
+14-5	1301-1309	rendered	_	_	_	
+14-6	1310-1312	in	_	_	_	
+14-7	1313-1318	light	_	_	_	
+14-8	1319-1325	yellow	_	_	_	
+14-9	1326-1328	or	_	_	_	
+14-10	1329-1334	beige	_	_	_	
+14-11	1334-1335	,	_	_	_	
+14-12	1336-1343	forming	_	_	_	
+14-13	1344-1345	a	_	_	_	
+14-14	1346-1358	fine-grained	_	_	_	
+14-15	1359-1363	grid	_	_	_	
+14-16	1364-1366	in	_	_	_	
+14-17	1367-1371	most	_	_	_	
+14-18	1372-1377	areas	_	_	_	
+14-19	1377-1378	.	_	_	_	
+
+#Text=Larger roads and intersections (e.g., large roundabout in the bottom-right) stand out due to thickness and geometry.
+15-1	1379-1385	Larger	_	_	_	
+15-2	1386-1391	roads	_	_	_	
+15-3	1392-1395	and	_	_	_	
+15-4	1396-1409	intersections	_	_	_	
+15-5	1410-1411	(	_	_	_	
+15-6	1411-1414	e.g	_	_	_	
+15-7	1414-1415	.	_	_	_	
+15-8	1415-1416	,	_	_	_	
+15-9	1417-1422	large	_	_	_	
+15-10	1423-1433	roundabout	_	_	_	
+15-11	1434-1436	in	_	_	spatial relation[37]	
+15-12	1437-1440	the	_	_	spatial relation[37]	
+15-13	1441-1453	bottom-right	_	_	spatial relation[37]	
+15-14	1453-1454	)	_	_	_	
+15-15	1455-1460	stand	_	_	_	
+15-16	1461-1464	out	_	_	_	
+15-17	1465-1468	due	_	_	_	
+15-18	1469-1471	to	_	_	_	
+15-19	1472-1481	thickness	_	_	_	
+15-20	1482-1485	and	_	_	_	
+15-21	1486-1494	geometry	_	_	_	
+15-22	1494-1495	.	_	_	_	
+
+#Text=Building Footprints  Shown in light tan/grey, with varying sizes and orientations that help convey:  Urban density (especially central and northwestern areas).
+16-1	1497-1505	Building	p[11]	*[11]	_	
+16-2	1506-1516	Footprints	p[11]	*[11]	_	
+16-3	1518-1523	Shown	p[12]	*[12]	_	
+16-4	1524-1526	in	p[12]	*[12]	_	
+16-5	1527-1532	light	p[12]	*[12]	_	
+16-6	1533-1536	tan	p[12]	*[12]	_	
+16-7	1536-1537	/	p[12]	*[12]	_	
+16-8	1537-1541	grey	p[12]	*[12]	_	
+16-9	1541-1542	,	p[12]	*[12]	_	
+16-10	1543-1547	with	p[12]	*[12]	_	
+16-11	1548-1555	varying	p[12]	*[12]	_	
+16-12	1556-1561	sizes	p[12]	*[12]	_	
+16-13	1562-1565	and	p[12]	*[12]	_	
+16-14	1566-1578	orientations	p[12]	*[12]	_	
+16-15	1579-1583	that	p[12]	*[12]	_	
+16-16	1584-1588	help	p[12]	*[12]	_	
+16-17	1589-1595	convey	p[12]	*[12]	_	
+16-18	1595-1596	:	p[12]	*[12]	_	
+16-19	1598-1603	Urban	_	_	_	
+16-20	1604-1611	density	_	_	_	
+16-21	1612-1613	(	_	_	_	
+16-22	1613-1623	especially	_	_	_	
+16-23	1624-1631	central	_	_	spatial relation[38]	
+16-24	1632-1635	and	_	_	spatial relation[38]	
+16-25	1636-1648	northwestern	_	_	spatial relation[38]	
+16-26	1649-1654	areas	_	_	spatial relation[38]	
+16-27	1654-1655	)	_	_	_	
+16-28	1655-1656	.	_	_	_	
+
+#Text=Institutional or large-scale facilities, distinguishable by their size and regular shapes (e.g., in the central and lower right sections)
+17-1	1657-1670	Institutional	_	_	_	
+17-2	1671-1673	or	_	_	_	
+17-3	1674-1685	large-scale	_	_	_	
+17-4	1686-1696	facilities	_	_	_	
+17-5	1696-1697	,	_	_	_	
+17-6	1698-1713	distinguishable	_	_	_	
+17-7	1714-1716	by	_	_	_	
+17-8	1717-1722	their	_	_	_	
+17-9	1723-1727	size	_	_	_	
+17-10	1728-1731	and	_	_	_	
+17-11	1732-1739	regular	_	_	_	
+17-12	1740-1746	shapes	_	_	_	
+17-13	1747-1748	(	_	_	_	
+17-14	1748-1751	e.g	_	_	_	
+17-15	1751-1752	.	_	_	_	
+17-16	1752-1753	,	_	_	_	
+17-17	1754-1756	in	_	_	spatial relation[39]	
+17-18	1757-1760	the	_	_	spatial relation[39]	
+17-19	1761-1768	central	_	_	spatial relation[39]	
+17-20	1769-1772	and	_	_	spatial relation[39]	
+17-21	1773-1778	lower	_	_	spatial relation[39]	
+17-22	1779-1784	right	_	_	spatial relation[39]	
+17-23	1785-1793	sections	_	_	spatial relation[39]	
+17-24	1793-1794	)	_	_	_	
+
+#Text=.
+18-1	1794-1795	.	_	_	_	
+
+#Text=🧭 Summary of Structure    Element Description     Hydrography Central river + canals, strong contrast, organizational axis   Urban Layout Dense grid of streets and buildings in neutral tones   Green Areas Scattered parks with clear paths and some elevation hints   Major Roads Broad roads and roundabouts offering orientation cues   Bridges Key connectors between city sections    This map appears to be at a large scale (high zoom level), showing fine urban details but omitting text—likely intended as a basemap or for layering custom data.
+19-1	1799-1801	🧭	h2[13]	*[13]	_	
+19-2	1802-1809	Summary	h2[13]	*[13]	_	
+19-3	1810-1812	of	h2[13]	*[13]	_	
+19-4	1813-1822	Structure	h2[13]	*[13]	_	
+19-5	1826-1833	Element	_	_	_	
+19-6	1834-1845	Description	_	_	_	
+19-7	1850-1861	Hydrography	_	_	_	
+19-8	1862-1869	Central	_	_	_	
+19-9	1870-1875	river	_	_	_	
+19-10	1876-1877	+	_	_	_	
+19-11	1878-1884	canals	_	_	_	
+19-12	1884-1885	,	_	_	_	
+19-13	1886-1892	strong	_	_	_	
+19-14	1893-1901	contrast	_	_	_	
+19-15	1901-1902	,	_	_	_	
+19-16	1903-1917	organizational	_	_	_	
+19-17	1918-1922	axis	_	_	_	
+19-18	1925-1930	Urban	_	_	_	
+19-19	1931-1937	Layout	_	_	_	
+19-20	1938-1943	Dense	_	_	_	
+19-21	1944-1948	grid	_	_	_	
+19-22	1949-1951	of	_	_	_	
+19-23	1952-1959	streets	_	_	_	
+19-24	1960-1963	and	_	_	_	
+19-25	1964-1973	buildings	_	_	_	
+19-26	1974-1976	in	_	_	_	
+19-27	1977-1984	neutral	_	_	_	
+19-28	1985-1990	tones	_	_	_	
+19-29	1993-1998	Green	_	_	_	
+19-30	1999-2004	Areas	_	_	_	
+19-31	2005-2014	Scattered	_	_	spatial relation	
+19-32	2015-2020	parks	_	_	_	
+19-33	2021-2025	with	_	_	_	
+19-34	2026-2031	clear	_	_	_	
+19-35	2032-2037	paths	_	_	_	
+19-36	2038-2041	and	_	_	_	
+19-37	2042-2046	some	_	_	_	
+19-38	2047-2056	elevation	_	_	_	
+19-39	2057-2062	hints	_	_	_	
+19-40	2065-2070	Major	_	_	_	
+19-41	2071-2076	Roads	_	_	_	
+19-42	2077-2082	Broad	_	_	_	
+19-43	2083-2088	roads	_	_	_	
+19-44	2089-2092	and	_	_	_	
+19-45	2093-2104	roundabouts	_	_	_	
+19-46	2105-2113	offering	_	_	_	
+19-47	2114-2125	orientation	_	_	_	
+19-48	2126-2130	cues	_	_	_	
+19-49	2133-2140	Bridges	_	_	_	
+19-50	2141-2144	Key	_	_	_	
+19-51	2145-2155	connectors	_	_	_	
+19-52	2156-2163	between	_	_	_	
+19-53	2164-2168	city	_	_	_	
+19-54	2169-2177	sections	_	_	_	
+19-55	2181-2185	This	p[14]	*[14]	_	
+19-56	2186-2189	map	p[14]	*[14]	_	
+19-57	2190-2197	appears	p[14]	*[14]	_	
+19-58	2198-2200	to	p[14]	*[14]	_	
+19-59	2201-2203	be	p[14]	*[14]	_	
+19-60	2204-2206	at	p[14]	*[14]	_	
+19-61	2207-2208	a	p[14]	*[14]	_	
+19-62	2209-2214	large	p[14]	*[14]	_	
+19-63	2215-2220	scale	p[14]	*[14]	_	
+19-64	2221-2222	(	p[14]	*[14]	_	
+19-65	2222-2226	high	p[14]	*[14]	_	
+19-66	2227-2231	zoom	p[14]	*[14]	_	
+19-67	2232-2237	level	p[14]	*[14]	_	
+19-68	2237-2238	)	p[14]	*[14]	_	
+19-69	2238-2239	,	p[14]	*[14]	_	
+19-70	2240-2247	showing	p[14]	*[14]	_	
+19-71	2248-2252	fine	p[14]	*[14]	_	
+19-72	2253-2258	urban	p[14]	*[14]	_	
+19-73	2259-2266	details	p[14]	*[14]	_	
+19-74	2267-2270	but	p[14]	*[14]	_	
+19-75	2271-2279	omitting	p[14]	*[14]	_	
+19-76	2280-2291	text—likely	p[14]	*[14]	_	
+19-77	2292-2300	intended	p[14]	*[14]	_	
+19-78	2301-2303	as	p[14]	*[14]	_	
+19-79	2304-2305	a	p[14]	*[14]	_	
+19-80	2306-2313	basemap	p[14]	*[14]	_	
+19-81	2314-2316	or	p[14]	*[14]	_	
+19-82	2317-2320	for	p[14]	*[14]	_	
+19-83	2321-2329	layering	p[14]	*[14]	_	
+19-84	2330-2336	custom	p[14]	*[14]	_	
+19-85	2337-2341	data	p[14]	*[14]	_	
+19-86	2341-2342	.	p[14]	*[14]	_	
+
+#Text=Would you like an annotated version pointing out specific visual landmarks or structural patterns?
+20-1	2343-2348	Would	p[15]	*[15]	_	
+20-2	2349-2352	you	p[15]	*[15]	_	
+20-3	2353-2357	like	p[15]	*[15]	_	
+20-4	2358-2360	an	p[15]	*[15]	_	
+20-5	2361-2370	annotated	p[15]	*[15]	_	
+20-6	2371-2378	version	p[15]	*[15]	_	
+20-7	2379-2387	pointing	p[15]	*[15]	_	
+20-8	2388-2391	out	p[15]	*[15]	_	
+20-9	2392-2400	specific	p[15]	*[15]	_	
+20-10	2401-2407	visual	p[15]	*[15]	_	
+20-11	2408-2417	landmarks	p[15]	*[15]	_	
+20-12	2418-2420	or	p[15]	*[15]	_	
+20-13	2421-2431	structural	p[15]	*[15]	_	
+20-14	2432-2440	patterns	p[15]	*[15]	_	
+20-15	2440-2441	?	p[15]	*[15]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+21-1	2442-2445	Can	h1[16]	*[16]	_	
+21-2	2446-2449	you	h1[16]	*[16]	_	
+21-3	2450-2458	describe	h1[16]	*[16]	_	
+21-4	2459-2462	the	h1[16]	*[16]	_	
+21-5	2463-2467	most	h1[16]	*[16]	_	
+21-6	2468-2476	visually	h1[16]	*[16]	_	
+21-7	2477-2484	salient	h1[16]	*[16]	_	
+21-8	2485-2493	elements	h1[16]	*[16]	_	
+21-9	2494-2496	of	h1[16]	*[16]	_	
+21-10	2497-2500	the	h1[16]	*[16]	_	
+21-11	2501-2504	map	h1[16]	*[16]	_	
+21-12	2504-2505	?	h1[16]	*[16]	_	
+
+#Text=Certainly.
+22-1	2506-2515	Certainly	p[17]	*[17]	_	
+22-2	2515-2516	.	p[17]	*[17]	_	
+
+#Text=In this map, the most visually salient elements—those that stand out most clearly to the eye—are as follows: 🔹 1.
+23-1	2517-2519	In	p[17]	*[17]	_	
+23-2	2520-2524	this	p[17]	*[17]	_	
+23-3	2525-2528	map	p[17]	*[17]	_	
+23-4	2528-2529	,	p[17]	*[17]	_	
+23-5	2530-2533	the	p[17]	*[17]	_	
+23-6	2534-2538	most	p[17]	*[17]	_	
+23-7	2539-2547	visually	p[17]	*[17]	_	
+23-8	2548-2555	salient	p[17]	*[17]	_	
+23-9	2556-2570	elements—those	p[17]	*[17]	_	
+23-10	2571-2575	that	p[17]	*[17]	_	
+23-11	2576-2581	stand	p[17]	*[17]	_	
+23-12	2582-2585	out	p[17]	*[17]	_	
+23-13	2586-2590	most	p[17]	*[17]	_	
+23-14	2591-2598	clearly	p[17]	*[17]	_	
+23-15	2599-2601	to	p[17]	*[17]	_	
+23-16	2602-2605	the	p[17]	*[17]	_	
+23-17	2606-2613	eye—are	p[17]	*[17]	_	
+23-18	2614-2616	as	p[17]	*[17]	_	
+23-19	2617-2624	follows	p[17]	*[17]	_	
+23-20	2624-2625	:	p[17]	*[17]	_	
+23-21	2626-2628	🔹	h2[18]	*[18]	_	
+23-22	2629-2630	1	h2[18]	*[18]	_	
+23-23	2630-2631	.	h2[18]	*[18]	_	
+
+#Text=The River (Central Feature)  A large, blue watercourse runs from top to bottom, slightly diagonal.
+24-1	2632-2635	The	h2[18]	*[18]	_	
+24-2	2636-2641	River	h2[18]	*[18]	_	
+24-3	2642-2643	(	h2[18]	*[18]	_	
+24-4	2643-2650	Central	h2[18]	*[18]	_	
+24-5	2651-2658	Feature	h2[18]	*[18]	_	
+24-6	2658-2659	)	h2[18]	*[18]	_	
+24-7	2661-2662	A	_	_	_	
+24-8	2663-2668	large	_	_	_	
+24-9	2668-2669	,	_	_	_	
+24-10	2670-2674	blue	_	_	_	
+24-11	2675-2686	watercourse	_	_	_	
+24-12	2687-2691	runs	_	_	_	
+24-13	2692-2696	from	_	_	_	
+24-14	2697-2700	top	_	_	_	
+24-15	2701-2703	to	_	_	_	
+24-16	2704-2710	bottom	_	_	_	
+24-17	2710-2711	,	_	_	_	
+24-18	2712-2720	slightly	_	_	_	
+24-19	2721-2729	diagonal	_	_	_	
+24-20	2729-2730	.	_	_	_	
+
+#Text=It divides the city and structures the entire map composition.
+25-1	2731-2733	It	_	_	_	
+25-2	2734-2741	divides	_	_	_	
+25-3	2742-2745	the	_	_	_	
+25-4	2746-2750	city	_	_	_	
+25-5	2751-2754	and	_	_	_	
+25-6	2755-2765	structures	_	_	_	
+25-7	2766-2769	the	_	_	_	
+25-8	2770-2776	entire	_	_	_	
+25-9	2777-2780	map	_	_	_	
+25-10	2781-2792	composition	_	_	_	
+25-11	2792-2793	.	_	_	_	
+
+#Text=Smaller canals or tributaries branch off this main river, adding complexity
+26-1	2794-2801	Smaller	_	_	_	
+26-2	2802-2808	canals	_	_	_	
+26-3	2809-2811	or	_	_	_	
+26-4	2812-2823	tributaries	_	_	_	
+26-5	2824-2830	branch	_	_	_	
+26-6	2831-2834	off	_	_	_	
+26-7	2835-2839	this	_	_	_	
+26-8	2840-2844	main	_	_	_	
+26-9	2845-2850	river	_	_	_	
+26-10	2850-2851	,	_	_	_	
+26-11	2852-2858	adding	_	_	_	
+26-12	2859-2869	complexity	_	_	_	
+
+#Text=.
+27-1	2869-2870	.	_	_	_	
+
+#Text=🔹 2.
+28-1	2872-2874	🔹	h2[19]	*[19]	_	
+28-2	2875-2876	2	h2[19]	*[19]	_	
+28-3	2876-2877	.	h2[19]	*[19]	_	
+
+#Text=Bridges  Multiple bridges span the river, connecting the two sides of the city.
+29-1	2878-2885	Bridges	h2[19]	*[19]	_	
+29-2	2887-2895	Multiple	_	_	_	
+29-3	2896-2903	bridges	_	_	_	
+29-4	2904-2908	span	_	_	_	
+29-5	2909-2912	the	_	_	_	
+29-6	2913-2918	river	_	_	_	
+29-7	2918-2919	,	_	_	_	
+29-8	2920-2930	connecting	_	_	_	
+29-9	2931-2934	the	_	_	_	
+29-10	2935-2938	two	_	_	_	
+29-11	2939-2944	sides	_	_	_	
+29-12	2945-2947	of	_	_	_	
+29-13	2948-2951	the	_	_	_	
+29-14	2952-2956	city	_	_	_	
+29-15	2956-2957	.	_	_	_	
+
+#Text=These bridges are white with clear outlines, and serve as visual anchors across the water
+30-1	2958-2963	These	_	_	_	
+30-2	2964-2971	bridges	_	_	_	
+30-3	2972-2975	are	_	_	_	
+30-4	2976-2981	white	_	_	_	
+30-5	2982-2986	with	_	_	_	
+30-6	2987-2992	clear	_	_	_	
+30-7	2993-3001	outlines	_	_	_	
+30-8	3001-3002	,	_	_	_	
+30-9	3003-3006	and	_	_	_	
+30-10	3007-3012	serve	_	_	_	
+30-11	3013-3015	as	_	_	_	
+30-12	3016-3022	visual	_	_	_	
+30-13	3023-3030	anchors	_	_	_	
+30-14	3031-3037	across	_	_	_	
+30-15	3038-3041	the	_	_	_	
+30-16	3042-3047	water	_	_	_	
+
+#Text=.
+31-1	3047-3048	.	_	_	_	
+
+#Text=🔹 3.
+32-1	3050-3052	🔹	h2[20]	*[20]	_	
+32-2	3053-3054	3	h2[20]	*[20]	_	
+32-3	3054-3055	.	h2[20]	*[20]	_	
+
+#Text=Road Network  Roads are depicted in light yellow and orange-beige tones.
+33-1	3056-3060	Road	h2[20]	*[20]	_	
+33-2	3061-3068	Network	h2[20]	*[20]	_	
+33-3	3070-3075	Roads	_	_	_	
+33-4	3076-3079	are	_	_	_	
+33-5	3080-3088	depicted	_	_	_	
+33-6	3089-3091	in	_	_	_	
+33-7	3092-3097	light	_	_	_	
+33-8	3098-3104	yellow	_	_	_	
+33-9	3105-3108	and	_	_	_	
+33-10	3109-3121	orange-beige	_	_	_	
+33-11	3122-3127	tones	_	_	_	
+33-12	3127-3128	.	_	_	_	
+
+#Text=The hierarchy is visible: wide avenues stand out more than the fine mesh of smaller streets.
+34-1	3129-3132	The	_	_	_	
+34-2	3133-3142	hierarchy	_	_	_	
+34-3	3143-3145	is	_	_	_	
+34-4	3146-3153	visible	_	_	_	
+34-5	3153-3154	:	_	_	_	
+34-6	3155-3159	wide	_	_	_	
+34-7	3160-3167	avenues	_	_	_	
+34-8	3168-3173	stand	_	_	_	
+34-9	3174-3177	out	_	_	_	
+34-10	3178-3182	more	_	_	_	
+34-11	3183-3187	than	_	_	_	
+34-12	3188-3191	the	_	_	_	
+34-13	3192-3196	fine	_	_	_	
+34-14	3197-3201	mesh	_	_	_	
+34-15	3202-3204	of	_	_	_	
+34-16	3205-3212	smaller	_	_	_	
+34-17	3213-3220	streets	_	_	_	
+34-18	3220-3221	.	_	_	_	
+
+#Text=A large roundabout in the lower right corner is especially noticeable
+35-1	3222-3223	A	_	_	_	
+35-2	3224-3229	large	_	_	_	
+35-3	3230-3240	roundabout	_	_	_	
+35-4	3241-3243	in	_	_	_	
+35-5	3244-3247	the	_	_	_	
+35-6	3248-3253	lower	_	_	_	
+35-7	3254-3259	right	_	_	_	
+35-8	3260-3266	corner	_	_	_	
+35-9	3267-3269	is	_	_	_	
+35-10	3270-3280	especially	_	_	_	
+35-11	3281-3291	noticeable	_	_	_	
+
+#Text=.
+36-1	3291-3292	.	_	_	_	
+
+#Text=🔹 4.
+37-1	3294-3296	🔹	h2[21]	*[21]	_	
+37-2	3297-3298	4	h2[21]	*[21]	_	
+37-3	3298-3299	.	h2[21]	*[21]	_	
+
+#Text=Building Footprints  Most buildings are shown in a light beige or grey tone, forming dense urban blocks.
+38-1	3300-3308	Building	h2[21]	*[21]	_	
+38-2	3309-3319	Footprints	h2[21]	*[21]	_	
+38-3	3321-3325	Most	_	_	_	
+38-4	3326-3335	buildings	_	_	_	
+38-5	3336-3339	are	_	_	_	
+38-6	3340-3345	shown	_	_	_	
+38-7	3346-3348	in	_	_	_	
+38-8	3349-3350	a	_	_	_	
+38-9	3351-3356	light	_	_	_	
+38-10	3357-3362	beige	_	_	_	
+38-11	3363-3365	or	_	_	_	
+38-12	3366-3370	grey	_	_	_	
+38-13	3371-3375	tone	_	_	_	
+38-14	3375-3376	,	_	_	_	
+38-15	3377-3384	forming	_	_	_	
+38-16	3385-3390	dense	_	_	_	
+38-17	3391-3396	urban	_	_	_	
+38-18	3397-3403	blocks	_	_	_	
+38-19	3403-3404	.	_	_	_	
+
+#Text=Their shape and arrangement (grid-like or irregular) convey different urban textures.
+39-1	3405-3410	Their	_	_	_	
+39-2	3411-3416	shape	_	_	_	
+39-3	3417-3420	and	_	_	_	
+39-4	3421-3432	arrangement	_	_	_	
+39-5	3433-3434	(	_	_	_	
+39-6	3434-3443	grid-like	_	_	_	
+39-7	3444-3446	or	_	_	_	
+39-8	3447-3456	irregular	_	_	_	
+39-9	3456-3457	)	_	_	_	
+39-10	3458-3464	convey	_	_	_	
+39-11	3465-3474	different	_	_	_	
+39-12	3475-3480	urban	_	_	_	
+39-13	3481-3489	textures	_	_	_	
+39-14	3489-3490	.	_	_	_	
+
+#Text=Larger buildings or complexes (e.g., near the river and in parks) are especially visible
+40-1	3491-3497	Larger	_	_	_	
+40-2	3498-3507	buildings	_	_	_	
+40-3	3508-3510	or	_	_	_	
+40-4	3511-3520	complexes	_	_	_	
+40-5	3521-3522	(	_	_	_	
+40-6	3522-3525	e.g	_	_	_	
+40-7	3525-3526	.	_	_	_	
+40-8	3526-3527	,	_	_	_	
+40-9	3528-3532	near	_	_	_	
+40-10	3533-3536	the	_	_	_	
+40-11	3537-3542	river	_	_	_	
+40-12	3543-3546	and	_	_	_	
+40-13	3547-3549	in	_	_	_	
+40-14	3550-3555	parks	_	_	_	
+40-15	3555-3556	)	_	_	_	
+40-16	3557-3560	are	_	_	_	
+40-17	3561-3571	especially	_	_	_	
+40-18	3572-3579	visible	_	_	_	
+
+#Text=.
+41-1	3579-3580	.	_	_	_	
+
+#Text=🔹 5.
+42-1	3582-3584	🔹	h2[22]	*[22]	_	
+42-2	3585-3586	5	h2[22]	*[22]	_	
+42-3	3586-3587	.	h2[22]	*[22]	_	
+
+#Text=Green Areas (Parks & Vegetation)  Large green zones on the bottom-left and bottom-right offer strong color contrast with the city.
+43-1	3588-3593	Green	h2[22]	*[22]	_	
+43-2	3594-3599	Areas	h2[22]	*[22]	_	
+43-3	3600-3601	(	h2[22]	*[22]	_	
+43-4	3601-3606	Parks	h2[22]	*[22]	_	
+43-5	3607-3608	&	h2[22]	*[22]	_	
+43-6	3609-3619	Vegetation	h2[22]	*[22]	_	
+43-7	3619-3620	)	h2[22]	*[22]	_	
+43-8	3622-3627	Large	_	_	_	
+43-9	3628-3633	green	_	_	_	
+43-10	3634-3639	zones	_	_	_	
+43-11	3640-3642	on	_	_	_	
+43-12	3643-3646	the	_	_	_	
+43-13	3647-3658	bottom-left	_	_	_	
+43-14	3659-3662	and	_	_	_	
+43-15	3663-3675	bottom-right	_	_	_	
+43-16	3676-3681	offer	_	_	_	
+43-17	3682-3688	strong	_	_	_	
+43-18	3689-3694	color	_	_	_	
+43-19	3695-3703	contrast	_	_	_	
+43-20	3704-3708	with	_	_	_	
+43-21	3709-3712	the	_	_	_	
+43-22	3713-3717	city	_	_	_	
+43-23	3717-3718	.	_	_	_	
+
+#Text=Visible path networks and contour lines within these areas enhance their salience.
+44-1	3719-3726	Visible	_	_	_	
+44-2	3727-3731	path	_	_	_	
+44-3	3732-3740	networks	_	_	_	
+44-4	3741-3744	and	_	_	_	
+44-5	3745-3752	contour	_	_	_	
+44-6	3753-3758	lines	_	_	_	
+44-7	3759-3765	within	_	_	_	
+44-8	3766-3771	these	_	_	_	
+44-9	3772-3777	areas	_	_	_	
+44-10	3778-3785	enhance	_	_	_	
+44-11	3786-3791	their	_	_	_	
+44-12	3792-3800	salience	_	_	_	
+44-13	3800-3801	.	_	_	_	
+
+#Text=A small stream or landscaped channel appears within the park in the lower-right quadrant
+45-1	3802-3803	A	_	_	_	
+45-2	3804-3809	small	_	_	_	
+45-3	3810-3816	stream	_	_	_	
+45-4	3817-3819	or	_	_	_	
+45-5	3820-3830	landscaped	_	_	_	
+45-6	3831-3838	channel	_	_	_	
+45-7	3839-3846	appears	_	_	_	
+45-8	3847-3853	within	_	_	_	
+45-9	3854-3857	the	_	_	_	
+45-10	3858-3862	park	_	_	_	
+45-11	3863-3865	in	_	_	_	
+45-12	3866-3869	the	_	_	_	
+45-13	3870-3881	lower-right	_	_	_	
+45-14	3882-3890	quadrant	_	_	_	
+
+#Text=.
+46-1	3890-3891	.	_	_	_	
+
+#Text=🔹 6.
+47-1	3893-3895	🔹	h2[23]	*[23]	_	
+47-2	3896-3897	6	h2[23]	*[23]	_	
+47-3	3897-3898	.	h2[23]	*[23]	_	
+
+#Text=Absence of Labels  The lack of place names or icons focuses attention purely on spatial structure and visual form, making geometric features more salient
+48-1	3899-3906	Absence	h2[23]	*[23]	_	
+48-2	3907-3909	of	h2[23]	*[23]	_	
+48-3	3910-3916	Labels	h2[23]	*[23]	_	
+48-4	3918-3921	The	_	_	_	
+48-5	3922-3926	lack	_	_	_	
+48-6	3927-3929	of	_	_	_	
+48-7	3930-3935	place	_	_	_	
+48-8	3936-3941	names	_	_	_	
+48-9	3942-3944	or	_	_	_	
+48-10	3945-3950	icons	_	_	_	
+48-11	3951-3958	focuses	_	_	_	
+48-12	3959-3968	attention	_	_	_	
+48-13	3969-3975	purely	_	_	_	
+48-14	3976-3978	on	_	_	_	
+48-15	3979-3986	spatial	_	_	_	
+48-16	3987-3996	structure	_	_	_	
+48-17	3997-4000	and	_	_	_	
+48-18	4001-4007	visual	_	_	_	
+48-19	4008-4012	form	_	_	_	
+48-20	4012-4013	,	_	_	_	
+48-21	4014-4020	making	_	_	_	
+48-22	4021-4030	geometric	_	_	_	
+48-23	4031-4039	features	_	_	_	
+48-24	4040-4044	more	_	_	_	
+48-25	4045-4052	salient	_	_	_	
+
+#Text=.
+49-1	4052-4053	.	_	_	_	
+
+#Text=🧭 Overall Composition The visual hierarchy guides the eye naturally:  River Bridges Road network Building blocks Parks Secondary water features  This layout suggests a basemap style, designed to highlight form and layout over semantic detail.
+50-1	4055-4057	🧭	h2[24]	*[24]	_	
+50-2	4058-4065	Overall	h2[24]	*[24]	_	
+50-3	4066-4077	Composition	h2[24]	*[24]	_	
+50-4	4078-4081	The	p[25]	*[25]	_	
+50-5	4082-4088	visual	p[25]	*[25]	_	
+50-6	4089-4098	hierarchy	p[25]	*[25]	_	
+50-7	4099-4105	guides	p[25]	*[25]	_	
+50-8	4106-4109	the	p[25]	*[25]	_	
+50-9	4110-4113	eye	p[25]	*[25]	_	
+50-10	4114-4123	naturally	p[25]	*[25]	_	
+50-11	4123-4124	:	p[25]	*[25]	_	
+50-12	4126-4131	River	_	_	_	
+50-13	4132-4139	Bridges	_	_	_	
+50-14	4140-4144	Road	_	_	_	
+50-15	4145-4152	network	_	_	_	
+50-16	4153-4161	Building	_	_	_	
+50-17	4162-4168	blocks	_	_	_	
+50-18	4169-4174	Parks	_	_	_	
+50-19	4175-4184	Secondary	_	_	_	
+50-20	4185-4190	water	_	_	_	
+50-21	4191-4199	features	_	_	_	
+50-22	4201-4205	This	p[26]	*[26]	_	
+50-23	4206-4212	layout	p[26]	*[26]	_	
+50-24	4213-4221	suggests	p[26]	*[26]	_	
+50-25	4222-4223	a	p[26]	*[26]	_	
+50-26	4224-4231	basemap	p[26]	*[26]	_	
+50-27	4232-4237	style	p[26]	*[26]	_	
+50-28	4237-4238	,	p[26]	*[26]	_	
+50-29	4239-4247	designed	p[26]	*[26]	_	
+50-30	4248-4250	to	p[26]	*[26]	_	
+50-31	4251-4260	highlight	p[26]	*[26]	_	
+50-32	4261-4265	form	p[26]	*[26]	_	
+50-33	4266-4269	and	p[26]	*[26]	_	
+50-34	4270-4276	layout	p[26]	*[26]	_	
+50-35	4277-4281	over	p[26]	*[26]	_	
+50-36	4282-4290	semantic	p[26]	*[26]	_	
+50-37	4291-4297	detail	p[26]	*[26]	_	
+50-38	4297-4298	.	p[26]	*[26]	_	
+
+#Text=Would you like help identifying what city this could represent, or do you want to analyze how the design might guide user navigation?
+51-1	4299-4304	Would	p[27]	*[27]	_	
+51-2	4305-4308	you	p[27]	*[27]	_	
+51-3	4309-4313	like	p[27]	*[27]	_	
+51-4	4314-4318	help	p[27]	*[27]	_	
+51-5	4319-4330	identifying	p[27]	*[27]	_	
+51-6	4331-4335	what	p[27]	*[27]	_	
+51-7	4336-4340	city	p[27]	*[27]	_	
+51-8	4341-4345	this	p[27]	*[27]	_	
+51-9	4346-4351	could	p[27]	*[27]	_	
+51-10	4352-4361	represent	p[27]	*[27]	_	
+51-11	4361-4362	,	p[27]	*[27]	_	
+51-12	4363-4365	or	p[27]	*[27]	_	
+51-13	4366-4368	do	p[27]	*[27]	_	
+51-14	4369-4372	you	p[27]	*[27]	_	
+51-15	4373-4377	want	p[27]	*[27]	_	
+51-16	4378-4380	to	p[27]	*[27]	_	
+51-17	4381-4388	analyze	p[27]	*[27]	_	
+51-18	4389-4392	how	p[27]	*[27]	_	
+51-19	4393-4396	the	p[27]	*[27]	_	
+51-20	4397-4403	design	p[27]	*[27]	_	
+51-21	4404-4409	might	p[27]	*[27]	_	
+51-22	4410-4415	guide	p[27]	*[27]	_	
+51-23	4416-4420	user	p[27]	*[27]	_	
+51-24	4421-4431	navigation	p[27]	*[27]	_	
+51-25	4431-4432	?	p[27]	*[27]	_	
+
+#Text=Anchors summary  The river (large central watercourse running top-to-bottom) Smaller canals or tributaries branching off the main river Multiple bridges spanning the river (road and pedestrian bridges) Large roundabout in the lower-right corner Wide avenues / major roads (hierarchical road network versus fine street mesh) Building footprints forming dense urban blocks Larger buildings or complexes (noted near the river and in park areas) Large green zones / parks (bottom-left and bottom-right) Small stream or landscaped channel within the park in the lower-right quadrant Visible path networks and contour lines within parks
+52-1	4433-4440	Anchors	h1[28]	*[28]	_	
+52-2	4441-4448	summary	h1[28]	*[28]	_	
+52-3	4450-4453	The	_	_	_	
+52-4	4454-4459	river	_	_	_	
+52-5	4460-4461	(	_	_	_	
+52-6	4461-4466	large	_	_	_	
+52-7	4467-4474	central	_	_	_	
+52-8	4475-4486	watercourse	_	_	_	
+52-9	4487-4494	running	_	_	_	
+52-10	4495-4508	top-to-bottom	_	_	_	
+52-11	4508-4509	)	_	_	_	
+52-12	4510-4517	Smaller	_	_	_	
+52-13	4518-4524	canals	_	_	_	
+52-14	4525-4527	or	_	_	_	
+52-15	4528-4539	tributaries	_	_	_	
+52-16	4540-4549	branching	_	_	_	
+52-17	4550-4553	off	_	_	_	
+52-18	4554-4557	the	_	_	_	
+52-19	4558-4562	main	_	_	_	
+52-20	4563-4568	river	_	_	_	
+52-21	4569-4577	Multiple	_	_	_	
+52-22	4578-4585	bridges	_	_	_	
+52-23	4586-4594	spanning	_	_	_	
+52-24	4595-4598	the	_	_	_	
+52-25	4599-4604	river	_	_	_	
+52-26	4605-4606	(	_	_	_	
+52-27	4606-4610	road	_	_	_	
+52-28	4611-4614	and	_	_	_	
+52-29	4615-4625	pedestrian	_	_	_	
+52-30	4626-4633	bridges	_	_	_	
+52-31	4633-4634	)	_	_	_	
+52-32	4635-4640	Large	_	_	_	
+52-33	4641-4651	roundabout	_	_	_	
+52-34	4652-4654	in	_	_	_	
+52-35	4655-4658	the	_	_	_	
+52-36	4659-4670	lower-right	_	_	_	
+52-37	4671-4677	corner	_	_	_	
+52-38	4678-4682	Wide	_	_	_	
+52-39	4683-4690	avenues	_	_	_	
+52-40	4691-4692	/	_	_	_	
+52-41	4693-4698	major	_	_	_	
+52-42	4699-4704	roads	_	_	_	
+52-43	4705-4706	(	_	_	_	
+52-44	4706-4718	hierarchical	_	_	_	
+52-45	4719-4723	road	_	_	_	
+52-46	4724-4731	network	_	_	_	
+52-47	4732-4738	versus	_	_	_	
+52-48	4739-4743	fine	_	_	_	
+52-49	4744-4750	street	_	_	_	
+52-50	4751-4755	mesh	_	_	_	
+52-51	4755-4756	)	_	_	_	
+52-52	4757-4765	Building	_	_	_	
+52-53	4766-4776	footprints	_	_	_	
+52-54	4777-4784	forming	_	_	_	
+52-55	4785-4790	dense	_	_	_	
+52-56	4791-4796	urban	_	_	_	
+52-57	4797-4803	blocks	_	_	_	
+52-58	4804-4810	Larger	_	_	_	
+52-59	4811-4820	buildings	_	_	_	
+52-60	4821-4823	or	_	_	_	
+52-61	4824-4833	complexes	_	_	_	
+52-62	4834-4835	(	_	_	_	
+52-63	4835-4840	noted	_	_	_	
+52-64	4841-4845	near	_	_	_	
+52-65	4846-4849	the	_	_	_	
+52-66	4850-4855	river	_	_	_	
+52-67	4856-4859	and	_	_	_	
+52-68	4860-4862	in	_	_	_	
+52-69	4863-4867	park	_	_	_	
+52-70	4868-4873	areas	_	_	_	
+52-71	4873-4874	)	_	_	_	
+52-72	4875-4880	Large	_	_	_	
+52-73	4881-4886	green	_	_	_	
+52-74	4887-4892	zones	_	_	_	
+52-75	4893-4894	/	_	_	_	
+52-76	4895-4900	parks	_	_	_	
+52-77	4901-4902	(	_	_	_	
+52-78	4902-4913	bottom-left	_	_	_	
+52-79	4914-4917	and	_	_	_	
+52-80	4918-4930	bottom-right	_	_	_	
+52-81	4930-4931	)	_	_	_	
+52-82	4932-4937	Small	_	_	_	
+52-83	4938-4944	stream	_	_	_	
+52-84	4945-4947	or	_	_	_	
+52-85	4948-4958	landscaped	_	_	_	
+52-86	4959-4966	channel	_	_	_	
+52-87	4967-4973	within	_	_	_	
+52-88	4974-4977	the	_	_	_	
+52-89	4978-4982	park	_	_	_	
+52-90	4983-4985	in	_	_	_	
+52-91	4986-4989	the	_	_	_	
+52-92	4990-5001	lower-right	_	_	_	
+52-93	5002-5010	quadrant	_	_	_	
+52-94	5011-5018	Visible	_	_	_	
+52-95	5019-5023	path	_	_	_	
+52-96	5024-5032	networks	_	_	_	
+52-97	5033-5036	and	_	_	_	
+52-98	5037-5044	contour	_	_	_	
+52-99	5045-5050	lines	_	_	_	
+52-100	5051-5057	within	_	_	_	
+52-101	5058-5063	parks	_	_	_	

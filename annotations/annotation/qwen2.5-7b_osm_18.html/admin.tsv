@@ -1,0 +1,663 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=This is a map of Plaça Reial in Barcelona, Spain.
+2-1	42-46	This	p[2]	*[2]	_	
+2-2	47-49	is	p[2]	*[2]	_	
+2-3	50-51	a	p[2]	*[2]	_	
+2-4	52-55	map	p[2]	*[2]	_	
+2-5	56-58	of	p[2]	*[2]	_	
+2-6	59-64	Plaça	p[2]	*[2]	toponym[16]	
+2-7	65-70	Reial	p[2]	*[2]	toponym[16]	
+2-8	71-73	in	p[2]	*[2]	spatial relation	
+2-9	74-83	Barcelona	p[2]	*[2]	toponym[17]	
+2-10	83-84	,	p[2]	*[2]	toponym[17]	
+2-11	85-90	Spain	p[2]	*[2]	toponym[17]	
+2-12	90-91	.	p[2]	*[2]	_	
+
+#Text=It shows various streets and landmarks around the square, including:  Plaça Reial: The central area where most of the icons are located.
+3-1	92-94	It	p[2]	*[2]	_	
+3-2	95-100	shows	p[2]	*[2]	_	
+3-3	101-108	various	p[2]	*[2]	_	
+3-4	109-116	streets	p[2]	*[2]	_	
+3-5	117-120	and	p[2]	*[2]	_	
+3-6	121-130	landmarks	p[2]	*[2]	_	
+3-7	131-137	around	p[2]	*[2]	spatial relation	
+3-8	138-141	the	p[2]	*[2]	_	
+3-9	142-148	square	p[2]	*[2]	_	
+3-10	148-149	,	p[2]	*[2]	_	
+3-11	150-159	including	p[2]	*[2]	_	
+3-12	159-160	:	p[2]	*[2]	_	
+3-13	162-167	Plaça	_	_	toponym[18]	
+3-14	168-173	Reial	_	_	toponym[18]	
+3-15	173-174	:	_	_	_	
+3-16	175-178	The	_	_	_	
+3-17	179-186	central	_	_	spatial relation	
+3-18	187-191	area	_	_	_	
+3-19	192-197	where	_	_	_	
+3-20	198-202	most	_	_	_	
+3-21	203-205	of	_	_	_	
+3-22	206-209	the	_	_	_	
+3-23	210-215	icons	_	_	_	
+3-24	216-219	are	_	_	_	
+3-25	220-227	located	_	_	_	
+3-26	227-228	.	_	_	_	
+
+#Text=Carrer de la Rambla: A major street running through the center of the city that intersects with Plaça Reial.
+4-1	229-235	Carrer	_	_	toponym[19]	
+4-2	236-238	de	_	_	toponym[19]	
+4-3	239-241	la	_	_	toponym[19]	
+4-4	242-248	Rambla	_	_	toponym[19]	
+4-5	248-249	:	_	_	_	
+4-6	250-251	A	_	_	_	
+4-7	252-257	major	_	_	_	
+4-8	258-264	street	_	_	_	
+4-9	265-272	running	_	_	spatial relation[20]	
+4-10	273-280	through	_	_	spatial relation[20]	
+4-11	281-284	the	_	_	spatial relation[20]	
+4-12	285-291	center	_	_	spatial relation[20]	
+4-13	292-294	of	_	_	_	
+4-14	295-298	the	_	_	_	
+4-15	299-303	city	_	_	_	
+4-16	304-308	that	_	_	_	
+4-17	309-319	intersects	_	_	spatial relation	
+4-18	320-324	with	_	_	_	
+4-19	325-330	Plaça	_	_	toponym[21]	
+4-20	331-336	Reial	_	_	toponym[21]	
+4-21	336-337	.	_	_	_	
+
+#Text=Hotel Oriente: Located on Carrer de la Rambla, near the bottom left corner of the map.
+5-1	338-343	Hotel	_	_	toponym[22]	
+5-2	344-351	Oriente	_	_	toponym[22]	
+5-3	351-352	:	_	_	_	
+5-4	353-360	Located	_	_	_	
+5-5	361-363	on	_	_	spatial relation	
+5-6	364-370	Carrer	_	_	toponym[23]	
+5-7	371-373	de	_	_	toponym[23]	
+5-8	374-376	la	_	_	toponym[23]	
+5-9	377-383	Rambla	_	_	toponym[23]	
+5-10	383-384	,	_	_	_	
+5-11	385-389	near	_	_	spatial relation[24]	
+5-12	390-393	the	_	_	spatial relation[24]	
+5-13	394-400	bottom	_	_	spatial relation[24]	
+5-14	401-405	left	_	_	spatial relation[24]	
+5-15	406-412	corner	_	_	spatial relation[24]	
+5-16	413-415	of	_	_	_	
+5-17	416-419	the	_	_	_	
+5-18	420-423	map	_	_	_	
+5-19	423-424	.	_	_	_	
+
+#Text=Gran Teatre del Liceu: Situated to the top-left side of the map.
+6-1	425-429	Gran	_	_	toponym[25]	
+6-2	430-436	Teatre	_	_	toponym[25]	
+6-3	437-440	del	_	_	toponym[25]	
+6-4	441-446	Liceu	_	_	toponym[25]	
+6-5	446-447	:	_	_	_	
+6-6	448-456	Situated	_	_	_	
+6-7	457-459	to	_	_	spatial relation[26]	
+6-8	460-463	the	_	_	spatial relation[26]	
+6-9	464-472	top-left	_	_	spatial relation[26]	
+6-10	473-477	side	_	_	spatial relation[26]	
+6-11	478-480	of	_	_	_	
+6-12	481-484	the	_	_	_	
+6-13	485-488	map	_	_	_	
+6-14	488-489	.	_	_	_	
+
+#Text=The icons represent different types of establishments and points of interest such as bars (indicated by a glass), restaurants (a plate with fork and knife), hotels (a bed icon), cafes (a coffee cup), and other places like parks, museums, or cultural venues.
+7-1	491-494	The	p[3]	*[3]	_	
+7-2	495-500	icons	p[3]	*[3]	_	
+7-3	501-510	represent	p[3]	*[3]	_	
+7-4	511-520	different	p[3]	*[3]	_	
+7-5	521-526	types	p[3]	*[3]	_	
+7-6	527-529	of	p[3]	*[3]	_	
+7-7	530-544	establishments	p[3]	*[3]	_	
+7-8	545-548	and	p[3]	*[3]	_	
+7-9	549-555	points	p[3]	*[3]	_	
+7-10	556-558	of	p[3]	*[3]	_	
+7-11	559-567	interest	p[3]	*[3]	_	
+7-12	568-572	such	p[3]	*[3]	_	
+7-13	573-575	as	p[3]	*[3]	_	
+7-14	576-580	bars	p[3]	*[3]	_	
+7-15	581-582	(	p[3]	*[3]	_	
+7-16	582-591	indicated	p[3]	*[3]	_	
+7-17	592-594	by	p[3]	*[3]	_	
+7-18	595-596	a	p[3]	*[3]	_	
+7-19	597-602	glass	p[3]	*[3]	_	
+7-20	602-603	)	p[3]	*[3]	_	
+7-21	603-604	,	p[3]	*[3]	_	
+7-22	605-616	restaurants	p[3]	*[3]	_	
+7-23	617-618	(	p[3]	*[3]	_	
+7-24	618-619	a	p[3]	*[3]	_	
+7-25	620-625	plate	p[3]	*[3]	_	
+7-26	626-630	with	p[3]	*[3]	_	
+7-27	631-635	fork	p[3]	*[3]	_	
+7-28	636-639	and	p[3]	*[3]	_	
+7-29	640-645	knife	p[3]	*[3]	_	
+7-30	645-646	)	p[3]	*[3]	_	
+7-31	646-647	,	p[3]	*[3]	_	
+7-32	648-654	hotels	p[3]	*[3]	_	
+7-33	655-656	(	p[3]	*[3]	_	
+7-34	656-657	a	p[3]	*[3]	_	
+7-35	658-661	bed	p[3]	*[3]	_	
+7-36	662-666	icon	p[3]	*[3]	_	
+7-37	666-667	)	p[3]	*[3]	_	
+7-38	667-668	,	p[3]	*[3]	_	
+7-39	669-674	cafes	p[3]	*[3]	_	
+7-40	675-676	(	p[3]	*[3]	_	
+7-41	676-677	a	p[3]	*[3]	_	
+7-42	678-684	coffee	p[3]	*[3]	_	
+7-43	685-688	cup	p[3]	*[3]	_	
+7-44	688-689	)	p[3]	*[3]	_	
+7-45	689-690	,	p[3]	*[3]	_	
+7-46	691-694	and	p[3]	*[3]	_	
+7-47	695-700	other	p[3]	*[3]	_	
+7-48	701-707	places	p[3]	*[3]	_	
+7-49	708-712	like	p[3]	*[3]	_	
+7-50	713-718	parks	p[3]	*[3]	_	
+7-51	718-719	,	p[3]	*[3]	_	
+7-52	720-727	museums	p[3]	*[3]	_	
+7-53	727-728	,	p[3]	*[3]	_	
+7-54	729-731	or	p[3]	*[3]	_	
+7-55	732-740	cultural	p[3]	*[3]	_	
+7-56	741-747	venues	p[3]	*[3]	_	
+7-57	747-748	.	p[3]	*[3]	_	
+
+#Text=The colors of these icons vary to distinguish between categories.
+8-1	749-752	The	p[3]	*[3]	_	
+8-2	753-759	colors	p[3]	*[3]	_	
+8-3	760-762	of	p[3]	*[3]	_	
+8-4	763-768	these	p[3]	*[3]	_	
+8-5	769-774	icons	p[3]	*[3]	_	
+8-6	775-779	vary	p[3]	*[3]	_	
+8-7	780-782	to	p[3]	*[3]	_	
+8-8	783-794	distinguish	p[3]	*[3]	_	
+8-9	795-802	between	p[3]	*[3]	_	
+8-10	803-813	categories	p[3]	*[3]	_	
+8-11	813-814	.	p[3]	*[3]	_	
+
+#Text=The map also includes street names in Catalan, the official language of Catalonia, Spain.
+9-1	815-818	The	p[4]	*[4]	_	
+9-2	819-822	map	p[4]	*[4]	_	
+9-3	823-827	also	p[4]	*[4]	_	
+9-4	828-836	includes	p[4]	*[4]	_	
+9-5	837-843	street	p[4]	*[4]	_	
+9-6	844-849	names	p[4]	*[4]	_	
+9-7	850-852	in	p[4]	*[4]	_	
+9-8	853-860	Catalan	p[4]	*[4]	_	
+9-9	860-861	,	p[4]	*[4]	_	
+9-10	862-865	the	p[4]	*[4]	_	
+9-11	866-874	official	p[4]	*[4]	_	
+9-12	875-883	language	p[4]	*[4]	_	
+9-13	884-886	of	p[4]	*[4]	_	
+9-14	887-896	Catalonia	p[4]	*[4]	toponym[27]	
+9-15	896-897	,	p[4]	*[4]	toponym[27]	
+9-16	898-903	Spain	p[4]	*[4]	toponym[27]	
+9-17	903-904	.	p[4]	*[4]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+10-1	905-908	Can	h1[5]	*[5]	_	
+10-2	909-912	you	h1[5]	*[5]	_	
+10-3	913-921	describe	h1[5]	*[5]	_	
+10-4	922-925	the	h1[5]	*[5]	_	
+10-5	926-930	most	h1[5]	*[5]	_	
+10-6	931-939	visually	h1[5]	*[5]	_	
+10-7	940-947	salient	h1[5]	*[5]	_	
+10-8	948-956	elements	h1[5]	*[5]	_	
+10-9	957-959	of	h1[5]	*[5]	_	
+10-10	960-963	the	h1[5]	*[5]	_	
+10-11	964-967	map	h1[5]	*[5]	_	
+10-12	967-968	?	h1[5]	*[5]	_	
+
+#Text=The image appears to be a stylized map, possibly representing a city or urban area with various points of interest and landmarks marked on it.
+11-1	969-972	The	p[6]	*[6]	_	
+11-2	973-978	image	p[6]	*[6]	_	
+11-3	979-986	appears	p[6]	*[6]	_	
+11-4	987-989	to	p[6]	*[6]	_	
+11-5	990-992	be	p[6]	*[6]	_	
+11-6	993-994	a	p[6]	*[6]	_	
+11-7	995-1003	stylized	p[6]	*[6]	_	
+11-8	1004-1007	map	p[6]	*[6]	_	
+11-9	1007-1008	,	p[6]	*[6]	_	
+11-10	1009-1017	possibly	p[6]	*[6]	_	
+11-11	1018-1030	representing	p[6]	*[6]	_	
+11-12	1031-1032	a	p[6]	*[6]	_	
+11-13	1033-1037	city	p[6]	*[6]	_	
+11-14	1038-1040	or	p[6]	*[6]	_	
+11-15	1041-1046	urban	p[6]	*[6]	_	
+11-16	1047-1051	area	p[6]	*[6]	_	
+11-17	1052-1056	with	p[6]	*[6]	_	
+11-18	1057-1064	various	p[6]	*[6]	_	
+11-19	1065-1071	points	p[6]	*[6]	_	
+11-20	1072-1074	of	p[6]	*[6]	_	
+11-21	1075-1083	interest	p[6]	*[6]	_	
+11-22	1084-1087	and	p[6]	*[6]	_	
+11-23	1088-1097	landmarks	p[6]	*[6]	_	
+11-24	1098-1104	marked	p[6]	*[6]	_	
+11-25	1105-1107	on	p[6]	*[6]	_	
+11-26	1108-1110	it	p[6]	*[6]	_	
+11-27	1110-1111	.	p[6]	*[6]	_	
+
+#Text=Here’s an analysis of its most visually salient elements:  Color Coding: The map uses different colors to distinguish between types of locations or categories.
+12-1	1112-1116	Here	p[6]	*[6]	_	
+12-2	1116-1117	’	p[6]	*[6]	_	
+12-3	1117-1118	s	p[6]	*[6]	_	
+12-4	1119-1121	an	p[6]	*[6]	_	
+12-5	1122-1130	analysis	p[6]	*[6]	_	
+12-6	1131-1133	of	p[6]	*[6]	_	
+12-7	1134-1137	its	p[6]	*[6]	_	
+12-8	1138-1142	most	p[6]	*[6]	_	
+12-9	1143-1151	visually	p[6]	*[6]	_	
+12-10	1152-1159	salient	p[6]	*[6]	_	
+12-11	1160-1168	elements	p[6]	*[6]	_	
+12-12	1168-1169	:	p[6]	*[6]	_	
+12-13	1171-1176	Color	p[7]	*[7]	_	
+12-14	1177-1183	Coding	p[7]	*[7]	_	
+12-15	1183-1184	:	p[7]	*[7]	_	
+12-16	1185-1188	The	p[7]	*[7]	_	
+12-17	1189-1192	map	p[7]	*[7]	_	
+12-18	1193-1197	uses	p[7]	*[7]	_	
+12-19	1198-1207	different	p[7]	*[7]	_	
+12-20	1208-1214	colors	p[7]	*[7]	_	
+12-21	1215-1217	to	p[7]	*[7]	_	
+12-22	1218-1229	distinguish	p[7]	*[7]	_	
+12-23	1230-1237	between	p[7]	*[7]	_	
+12-24	1238-1243	types	p[7]	*[7]	_	
+12-25	1244-1246	of	p[7]	*[7]	_	
+12-26	1247-1256	locations	p[7]	*[7]	_	
+12-27	1257-1259	or	p[7]	*[7]	_	
+12-28	1260-1270	categories	p[7]	*[7]	_	
+12-29	1270-1271	.	p[7]	*[7]	_	
+
+#Text=For example:  Green areas might represent parks or green spaces.
+13-1	1272-1275	For	p[7]	*[7]	_	
+13-2	1276-1283	example	p[7]	*[7]	_	
+13-3	1283-1284	:	p[7]	*[7]	_	
+13-4	1286-1291	Green	_	_	_	
+13-5	1292-1297	areas	_	_	_	
+13-6	1298-1303	might	_	_	_	
+13-7	1304-1313	represent	_	_	_	
+13-8	1314-1319	parks	_	_	_	
+13-9	1320-1322	or	_	_	_	
+13-10	1323-1328	green	_	_	_	
+13-11	1329-1335	spaces	_	_	_	
+13-12	1335-1336	.	_	_	_	
+
+#Text=Purple areas could indicate cultural or historical sites, such as museums or theaters.
+14-1	1337-1343	Purple	_	_	_	
+14-2	1344-1349	areas	_	_	_	
+14-3	1350-1355	could	_	_	_	
+14-4	1356-1364	indicate	_	_	_	
+14-5	1365-1373	cultural	_	_	_	
+14-6	1374-1376	or	_	_	_	
+14-7	1377-1387	historical	_	_	_	
+14-8	1388-1393	sites	_	_	_	
+14-9	1393-1394	,	_	_	_	
+14-10	1395-1399	such	_	_	_	
+14-11	1400-1402	as	_	_	_	
+14-12	1403-1410	museums	_	_	_	
+14-13	1411-1413	or	_	_	_	
+14-14	1414-1422	theaters	_	_	_	
+14-15	1422-1423	.	_	_	_	
+
+#Text=Orange and yellow markers seem to denote restaurants, cafes, or bars.
+15-1	1424-1430	Orange	_	_	_	
+15-2	1431-1434	and	_	_	_	
+15-3	1435-1441	yellow	_	_	_	
+15-4	1442-1449	markers	_	_	_	
+15-5	1450-1454	seem	_	_	_	
+15-6	1455-1457	to	_	_	_	
+15-7	1458-1464	denote	_	_	_	
+15-8	1465-1476	restaurants	_	_	_	
+15-9	1476-1477	,	_	_	_	
+15-10	1478-1483	cafes	_	_	_	
+15-11	1483-1484	,	_	_	_	
+15-12	1485-1487	or	_	_	_	
+15-13	1488-1492	bars	_	_	_	
+15-14	1492-1493	.	_	_	_	
+
+#Text=Landmarks and Points of Interest: The map includes specific names for streets, squares (like “Plaça Reial”), and other notable locations like “Hotel Oriente” and “Gran Teatre del Liceu.”
+16-1	1495-1504	Landmarks	p[8]	*[8]	_	
+16-2	1505-1508	and	p[8]	*[8]	_	
+16-3	1509-1515	Points	p[8]	*[8]	_	
+16-4	1516-1518	of	p[8]	*[8]	_	
+16-5	1519-1527	Interest	p[8]	*[8]	_	
+16-6	1527-1528	:	p[8]	*[8]	_	
+16-7	1529-1532	The	p[8]	*[8]	_	
+16-8	1533-1536	map	p[8]	*[8]	_	
+16-9	1537-1545	includes	p[8]	*[8]	_	
+16-10	1546-1554	specific	p[8]	*[8]	_	
+16-11	1555-1560	names	p[8]	*[8]	_	
+16-12	1561-1564	for	p[8]	*[8]	_	
+16-13	1565-1572	streets	p[8]	*[8]	_	
+16-14	1572-1573	,	p[8]	*[8]	_	
+16-15	1574-1581	squares	p[8]	*[8]	_	
+16-16	1582-1583	(	p[8]	*[8]	_	
+16-17	1583-1587	like	p[8]	*[8]	_	
+16-18	1588-1589	“	p[8]	*[8]	_	
+16-19	1589-1594	Plaça	p[8]	*[8]	_	
+16-20	1595-1600	Reial	p[8]	*[8]	_	
+16-21	1600-1601	”	p[8]	*[8]	_	
+16-22	1601-1602	)	p[8]	*[8]	_	
+16-23	1602-1603	,	p[8]	*[8]	_	
+16-24	1604-1607	and	p[8]	*[8]	_	
+16-25	1608-1613	other	p[8]	*[8]	_	
+16-26	1614-1621	notable	p[8]	*[8]	_	
+16-27	1622-1631	locations	p[8]	*[8]	_	
+16-28	1632-1636	like	p[8]	*[8]	_	
+16-29	1637-1638	“	p[8]	*[8]	_	
+16-30	1638-1643	Hotel	p[8]	*[8]	_	
+16-31	1644-1651	Oriente	p[8]	*[8]	_	
+16-32	1651-1652	”	p[8]	*[8]	_	
+16-33	1653-1656	and	p[8]	*[8]	_	
+16-34	1657-1658	“	p[8]	*[8]	_	
+16-35	1658-1662	Gran	p[8]	*[8]	_	
+16-36	1663-1669	Teatre	p[8]	*[8]	_	
+16-37	1670-1673	del	p[8]	*[8]	_	
+16-38	1674-1679	Liceu	p[8]	*[8]	_	
+16-39	1679-1680	.	p[8]	*[8]	_	
+16-40	1680-1681	”	p[8]	*[8]	_	
+
+#Text=These are likely important landmarks that visitors would want to visit.
+17-1	1682-1687	These	p[8]	*[8]	_	
+17-2	1688-1691	are	p[8]	*[8]	_	
+17-3	1692-1698	likely	p[8]	*[8]	_	
+17-4	1699-1708	important	p[8]	*[8]	_	
+17-5	1709-1718	landmarks	p[8]	*[8]	_	
+17-6	1719-1723	that	p[8]	*[8]	_	
+17-7	1724-1732	visitors	p[8]	*[8]	_	
+17-8	1733-1738	would	p[8]	*[8]	_	
+17-9	1739-1743	want	p[8]	*[8]	_	
+17-10	1744-1746	to	p[8]	*[8]	_	
+17-11	1747-1752	visit	p[8]	*[8]	_	
+17-12	1752-1753	.	p[8]	*[8]	_	
+
+#Text=Street Layout: The map shows a grid-like street layout with intersecting roads, which is typical of many urban areas.
+18-1	1754-1760	Street	p[9]	*[9]	_	
+18-2	1761-1767	Layout	p[9]	*[9]	_	
+18-3	1767-1768	:	p[9]	*[9]	_	
+18-4	1769-1772	The	p[9]	*[9]	_	
+18-5	1773-1776	map	p[9]	*[9]	_	
+18-6	1777-1782	shows	p[9]	*[9]	_	
+18-7	1783-1784	a	p[9]	*[9]	_	
+18-8	1785-1794	grid-like	p[9]	*[9]	_	
+18-9	1795-1801	street	p[9]	*[9]	_	
+18-10	1802-1808	layout	p[9]	*[9]	_	
+18-11	1809-1813	with	p[9]	*[9]	_	
+18-12	1814-1826	intersecting	p[9]	*[9]	_	
+18-13	1827-1832	roads	p[9]	*[9]	_	
+18-14	1832-1833	,	p[9]	*[9]	_	
+18-15	1834-1839	which	p[9]	*[9]	_	
+18-16	1840-1842	is	p[9]	*[9]	_	
+18-17	1843-1850	typical	p[9]	*[9]	_	
+18-18	1851-1853	of	p[9]	*[9]	_	
+18-19	1854-1858	many	p[9]	*[9]	_	
+18-20	1859-1864	urban	p[9]	*[9]	_	
+18-21	1865-1870	areas	p[9]	*[9]	_	
+18-22	1870-1871	.	p[9]	*[9]	_	
+
+#Text=This helps in navigating the area by providing a clear understanding of how streets connect.
+19-1	1872-1876	This	p[9]	*[9]	_	
+19-2	1877-1882	helps	p[9]	*[9]	_	
+19-3	1883-1885	in	p[9]	*[9]	_	
+19-4	1886-1896	navigating	p[9]	*[9]	_	
+19-5	1897-1900	the	p[9]	*[9]	_	
+19-6	1901-1905	area	p[9]	*[9]	_	
+19-7	1906-1908	by	p[9]	*[9]	_	
+19-8	1909-1918	providing	p[9]	*[9]	_	
+19-9	1919-1920	a	p[9]	*[9]	_	
+19-10	1921-1926	clear	p[9]	*[9]	_	
+19-11	1927-1940	understanding	p[9]	*[9]	_	
+19-12	1941-1943	of	p[9]	*[9]	_	
+19-13	1944-1947	how	p[9]	*[9]	_	
+19-14	1948-1955	streets	p[9]	*[9]	_	
+19-15	1956-1963	connect	p[9]	*[9]	_	
+19-16	1963-1964	.	p[9]	*[9]	_	
+
+#Text=Icons and Symbols: There are icons representing different types of establishments or services (e.g., musical notes for music venues).
+20-1	1965-1970	Icons	p[10]	*[10]	_	
+20-2	1971-1974	and	p[10]	*[10]	_	
+20-3	1975-1982	Symbols	p[10]	*[10]	_	
+20-4	1982-1983	:	p[10]	*[10]	_	
+20-5	1984-1989	There	p[10]	*[10]	_	
+20-6	1990-1993	are	p[10]	*[10]	_	
+20-7	1994-1999	icons	p[10]	*[10]	_	
+20-8	2000-2012	representing	p[10]	*[10]	_	
+20-9	2013-2022	different	p[10]	*[10]	_	
+20-10	2023-2028	types	p[10]	*[10]	_	
+20-11	2029-2031	of	p[10]	*[10]	_	
+20-12	2032-2046	establishments	p[10]	*[10]	_	
+20-13	2047-2049	or	p[10]	*[10]	_	
+20-14	2050-2058	services	p[10]	*[10]	_	
+20-15	2059-2060	(	p[10]	*[10]	_	
+20-16	2060-2063	e.g	p[10]	*[10]	_	
+20-17	2063-2064	.	p[10]	*[10]	_	
+20-18	2064-2065	,	p[10]	*[10]	_	
+20-19	2066-2073	musical	p[10]	*[10]	_	
+20-20	2074-2079	notes	p[10]	*[10]	_	
+20-21	2080-2083	for	p[10]	*[10]	_	
+20-22	2084-2089	music	p[10]	*[10]	_	
+20-23	2090-2096	venues	p[10]	*[10]	_	
+20-24	2096-2097	)	p[10]	*[10]	_	
+20-25	2097-2098	.	p[10]	*[10]	_	
+
+#Text=These symbols make it easier to identify what kind of place each location might be at a glance.
+21-1	2099-2104	These	p[10]	*[10]	_	
+21-2	2105-2112	symbols	p[10]	*[10]	_	
+21-3	2113-2117	make	p[10]	*[10]	_	
+21-4	2118-2120	it	p[10]	*[10]	_	
+21-5	2121-2127	easier	p[10]	*[10]	_	
+21-6	2128-2130	to	p[10]	*[10]	_	
+21-7	2131-2139	identify	p[10]	*[10]	_	
+21-8	2140-2144	what	p[10]	*[10]	_	
+21-9	2145-2149	kind	p[10]	*[10]	_	
+21-10	2150-2152	of	p[10]	*[10]	_	
+21-11	2153-2158	place	p[10]	*[10]	_	
+21-12	2159-2163	each	p[10]	*[10]	_	
+21-13	2164-2172	location	p[10]	*[10]	_	
+21-14	2173-2178	might	p[10]	*[10]	_	
+21-15	2179-2181	be	p[10]	*[10]	_	
+21-16	2182-2184	at	p[10]	*[10]	_	
+21-17	2185-2186	a	p[10]	*[10]	_	
+21-18	2187-2193	glance	p[10]	*[10]	_	
+21-19	2193-2194	.	p[10]	*[10]	_	
+
+#Text=Text Labels: The map includes text labels for streets, squares, and other landmarks in both English and possibly another language, which suggests that this area could be in a bilingual region or cater to tourists from different linguistic backgrounds.
+22-1	2195-2199	Text	p[11]	*[11]	_	
+22-2	2200-2206	Labels	p[11]	*[11]	_	
+22-3	2206-2207	:	p[11]	*[11]	_	
+22-4	2208-2211	The	p[11]	*[11]	_	
+22-5	2212-2215	map	p[11]	*[11]	_	
+22-6	2216-2224	includes	p[11]	*[11]	_	
+22-7	2225-2229	text	p[11]	*[11]	_	
+22-8	2230-2236	labels	p[11]	*[11]	_	
+22-9	2237-2240	for	p[11]	*[11]	_	
+22-10	2241-2248	streets	p[11]	*[11]	_	
+22-11	2248-2249	,	p[11]	*[11]	_	
+22-12	2250-2257	squares	p[11]	*[11]	_	
+22-13	2257-2258	,	p[11]	*[11]	_	
+22-14	2259-2262	and	p[11]	*[11]	_	
+22-15	2263-2268	other	p[11]	*[11]	_	
+22-16	2269-2278	landmarks	p[11]	*[11]	_	
+22-17	2279-2281	in	p[11]	*[11]	_	
+22-18	2282-2286	both	p[11]	*[11]	_	
+22-19	2287-2294	English	p[11]	*[11]	_	
+22-20	2295-2298	and	p[11]	*[11]	_	
+22-21	2299-2307	possibly	p[11]	*[11]	_	
+22-22	2308-2315	another	p[11]	*[11]	_	
+22-23	2316-2324	language	p[11]	*[11]	_	
+22-24	2324-2325	,	p[11]	*[11]	_	
+22-25	2326-2331	which	p[11]	*[11]	_	
+22-26	2332-2340	suggests	p[11]	*[11]	_	
+22-27	2341-2345	that	p[11]	*[11]	_	
+22-28	2346-2350	this	p[11]	*[11]	_	
+22-29	2351-2355	area	p[11]	*[11]	_	
+22-30	2356-2361	could	p[11]	*[11]	_	
+22-31	2362-2364	be	p[11]	*[11]	_	
+22-32	2365-2367	in	p[11]	*[11]	_	
+22-33	2368-2369	a	p[11]	*[11]	_	
+22-34	2370-2379	bilingual	p[11]	*[11]	_	
+22-35	2380-2386	region	p[11]	*[11]	_	
+22-36	2387-2389	or	p[11]	*[11]	_	
+22-37	2390-2395	cater	p[11]	*[11]	_	
+22-38	2396-2398	to	p[11]	*[11]	_	
+22-39	2399-2407	tourists	p[11]	*[11]	_	
+22-40	2408-2412	from	p[11]	*[11]	_	
+22-41	2413-2422	different	p[11]	*[11]	_	
+22-42	2423-2433	linguistic	p[11]	*[11]	_	
+22-43	2434-2445	backgrounds	p[11]	*[11]	_	
+22-44	2445-2446	.	p[11]	*[11]	_	
+
+#Text=Zoom Level: The level of detail provided is quite high, suggesting it’s zoomed into a specific urban area rather than showing the entire city at once.
+23-1	2447-2451	Zoom	p[12]	*[12]	_	
+23-2	2452-2457	Level	p[12]	*[12]	_	
+23-3	2457-2458	:	p[12]	*[12]	_	
+23-4	2459-2462	The	p[12]	*[12]	_	
+23-5	2463-2468	level	p[12]	*[12]	_	
+23-6	2469-2471	of	p[12]	*[12]	_	
+23-7	2472-2478	detail	p[12]	*[12]	_	
+23-8	2479-2487	provided	p[12]	*[12]	_	
+23-9	2488-2490	is	p[12]	*[12]	_	
+23-10	2491-2496	quite	p[12]	*[12]	_	
+23-11	2497-2501	high	p[12]	*[12]	_	
+23-12	2501-2502	,	p[12]	*[12]	_	
+23-13	2503-2513	suggesting	p[12]	*[12]	_	
+23-14	2514-2516	it	p[12]	*[12]	_	
+23-15	2516-2517	’	p[12]	*[12]	_	
+23-16	2517-2518	s	p[12]	*[12]	_	
+23-17	2519-2525	zoomed	p[12]	*[12]	_	
+23-18	2526-2530	into	p[12]	*[12]	_	
+23-19	2531-2532	a	p[12]	*[12]	_	
+23-20	2533-2541	specific	p[12]	*[12]	_	
+23-21	2542-2547	urban	p[12]	*[12]	_	
+23-22	2548-2552	area	p[12]	*[12]	_	
+23-23	2553-2559	rather	p[12]	*[12]	_	
+23-24	2560-2564	than	p[12]	*[12]	_	
+23-25	2565-2572	showing	p[12]	*[12]	_	
+23-26	2573-2576	the	p[12]	*[12]	_	
+23-27	2577-2583	entire	p[12]	*[12]	_	
+23-28	2584-2588	city	p[12]	*[12]	_	
+23-29	2589-2591	at	p[12]	*[12]	_	
+23-30	2592-2596	once	p[12]	*[12]	_	
+23-31	2596-2597	.	p[12]	*[12]	_	
+
+#Text=This allows for more precise navigation and exploration within the depicted zone.
+24-1	2598-2602	This	p[12]	*[12]	_	
+24-2	2603-2609	allows	p[12]	*[12]	_	
+24-3	2610-2613	for	p[12]	*[12]	_	
+24-4	2614-2618	more	p[12]	*[12]	_	
+24-5	2619-2626	precise	p[12]	*[12]	_	
+24-6	2627-2637	navigation	p[12]	*[12]	_	
+24-7	2638-2641	and	p[12]	*[12]	_	
+24-8	2642-2653	exploration	p[12]	*[12]	_	
+24-9	2654-2660	within	p[12]	*[12]	_	
+24-10	2661-2664	the	p[12]	*[12]	_	
+24-11	2665-2673	depicted	p[12]	*[12]	_	
+24-12	2674-2678	zone	p[12]	*[12]	_	
+24-13	2678-2679	.	p[12]	*[12]	_	
+
+#Text=Navigation Features: While not explicitly visible in this image, such maps often include features like directions, distance markers, or other tools to help users navigate effectively.
+25-1	2680-2690	Navigation	p[13]	*[13]	_	
+25-2	2691-2699	Features	p[13]	*[13]	_	
+25-3	2699-2700	:	p[13]	*[13]	_	
+25-4	2701-2706	While	p[13]	*[13]	_	
+25-5	2707-2710	not	p[13]	*[13]	_	
+25-6	2711-2721	explicitly	p[13]	*[13]	_	
+25-7	2722-2729	visible	p[13]	*[13]	_	
+25-8	2730-2732	in	p[13]	*[13]	_	
+25-9	2733-2737	this	p[13]	*[13]	_	
+25-10	2738-2743	image	p[13]	*[13]	_	
+25-11	2743-2744	,	p[13]	*[13]	_	
+25-12	2745-2749	such	p[13]	*[13]	_	
+25-13	2750-2754	maps	p[13]	*[13]	_	
+25-14	2755-2760	often	p[13]	*[13]	_	
+25-15	2761-2768	include	p[13]	*[13]	_	
+25-16	2769-2777	features	p[13]	*[13]	_	
+25-17	2778-2782	like	p[13]	*[13]	_	
+25-18	2783-2793	directions	p[13]	*[13]	_	
+25-19	2793-2794	,	p[13]	*[13]	_	
+25-20	2795-2803	distance	p[13]	*[13]	_	
+25-21	2804-2811	markers	p[13]	*[13]	_	
+25-22	2811-2812	,	p[13]	*[13]	_	
+25-23	2813-2815	or	p[13]	*[13]	_	
+25-24	2816-2821	other	p[13]	*[13]	_	
+25-25	2822-2827	tools	p[13]	*[13]	_	
+25-26	2828-2830	to	p[13]	*[13]	_	
+25-27	2831-2835	help	p[13]	*[13]	_	
+25-28	2836-2841	users	p[13]	*[13]	_	
+25-29	2842-2850	navigate	p[13]	*[13]	_	
+25-30	2851-2862	effectively	p[13]	*[13]	_	
+25-31	2862-2863	.	p[13]	*[13]	_	
+
+#Text=These elements combined make it a useful tool for tourists or residents looking to explore an urban area with ease.
+26-1	2865-2870	These	p[14]	*[14]	_	
+26-2	2871-2879	elements	p[14]	*[14]	_	
+26-3	2880-2888	combined	p[14]	*[14]	_	
+26-4	2889-2893	make	p[14]	*[14]	_	
+26-5	2894-2896	it	p[14]	*[14]	_	
+26-6	2897-2898	a	p[14]	*[14]	_	
+26-7	2899-2905	useful	p[14]	*[14]	_	
+26-8	2906-2910	tool	p[14]	*[14]	_	
+26-9	2911-2914	for	p[14]	*[14]	_	
+26-10	2915-2923	tourists	p[14]	*[14]	_	
+26-11	2924-2926	or	p[14]	*[14]	_	
+26-12	2927-2936	residents	p[14]	*[14]	_	
+26-13	2937-2944	looking	p[14]	*[14]	_	
+26-14	2945-2947	to	p[14]	*[14]	_	
+26-15	2948-2955	explore	p[14]	*[14]	_	
+26-16	2956-2958	an	p[14]	*[14]	_	
+26-17	2959-2964	urban	p[14]	*[14]	_	
+26-18	2965-2969	area	p[14]	*[14]	_	
+26-19	2970-2974	with	p[14]	*[14]	_	
+26-20	2975-2979	ease	p[14]	*[14]	_	
+26-21	2979-2980	.	p[14]	*[14]	_	
+
+#Text=Anchors summary  Plaça Reial Hotel Oriente Gran Teatre del Liceu Parks / green spaces Museums / theaters / other cultural or historical sites Restaurants Cafes Bars Music venues Streets and squares (grid-like street layout)
+27-1	2981-2988	Anchors	h1[15]	*[15]	_	
+27-2	2989-2996	summary	h1[15]	*[15]	_	
+27-3	2998-3003	Plaça	_	_	_	
+27-4	3004-3009	Reial	_	_	_	
+27-5	3010-3015	Hotel	_	_	_	
+27-6	3016-3023	Oriente	_	_	_	
+27-7	3024-3028	Gran	_	_	_	
+27-8	3029-3035	Teatre	_	_	_	
+27-9	3036-3039	del	_	_	_	
+27-10	3040-3045	Liceu	_	_	_	
+27-11	3046-3051	Parks	_	_	_	
+27-12	3052-3053	/	_	_	_	
+27-13	3054-3059	green	_	_	_	
+27-14	3060-3066	spaces	_	_	_	
+27-15	3067-3074	Museums	_	_	_	
+27-16	3075-3076	/	_	_	_	
+27-17	3077-3085	theaters	_	_	_	
+27-18	3086-3087	/	_	_	_	
+27-19	3088-3093	other	_	_	_	
+27-20	3094-3102	cultural	_	_	_	
+27-21	3103-3105	or	_	_	_	
+27-22	3106-3116	historical	_	_	_	
+27-23	3117-3122	sites	_	_	_	
+27-24	3123-3134	Restaurants	_	_	_	
+27-25	3135-3140	Cafes	_	_	_	
+27-26	3141-3145	Bars	_	_	_	
+27-27	3146-3151	Music	_	_	_	
+27-28	3152-3158	venues	_	_	_	
+27-29	3159-3166	Streets	_	_	_	
+27-30	3167-3170	and	_	_	_	
+27-31	3171-3178	squares	_	_	_	
+27-32	3179-3180	(	_	_	_	
+27-33	3180-3189	grid-like	_	_	_	
+27-34	3190-3196	street	_	_	_	
+27-35	3197-3203	layout	_	_	_	
+27-36	3203-3204	)	_	_	_	

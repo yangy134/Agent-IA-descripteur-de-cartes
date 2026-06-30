@@ -1,0 +1,382 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=This is a digital map showing an urban area with several distinct features:  River: A prominent blue line represents a river that runs through the center of the city, dividing it into two parts.
+2-1	42-46	This	p[2]	*[2]	_	
+2-2	47-49	is	p[2]	*[2]	_	
+2-3	50-51	a	p[2]	*[2]	_	
+2-4	52-59	digital	p[2]	*[2]	_	
+2-5	60-63	map	p[2]	*[2]	_	
+2-6	64-71	showing	p[2]	*[2]	_	
+2-7	72-74	an	p[2]	*[2]	_	
+2-8	75-80	urban	p[2]	*[2]	_	
+2-9	81-85	area	p[2]	*[2]	_	
+2-10	86-90	with	p[2]	*[2]	_	
+2-11	91-98	several	p[2]	*[2]	_	
+2-12	99-107	distinct	p[2]	*[2]	_	
+2-13	108-116	features	p[2]	*[2]	_	
+2-14	116-117	:	p[2]	*[2]	_	
+2-15	119-124	River	_	_	_	
+2-16	124-125	:	_	_	_	
+2-17	126-127	A	_	_	_	
+2-18	128-137	prominent	_	_	_	
+2-19	138-142	blue	_	_	_	
+2-20	143-147	line	_	_	_	
+2-21	148-158	represents	_	_	_	
+2-22	159-160	a	_	_	_	
+2-23	161-166	river	_	_	_	
+2-24	167-171	that	_	_	_	
+2-25	172-176	runs	_	_	spatial relation[8]	
+2-26	177-184	through	_	_	spatial relation[8]	
+2-27	185-188	the	_	_	spatial relation[8]	
+2-28	189-195	center	_	_	spatial relation[8]	
+2-29	196-198	of	_	_	_	
+2-30	199-202	the	_	_	_	
+2-31	203-207	city	_	_	_	
+2-32	207-208	,	_	_	_	
+2-33	209-217	dividing	_	_	spatial relation	
+2-34	218-220	it	_	_	_	
+2-35	221-225	into	_	_	_	
+2-36	226-229	two	_	_	_	
+2-37	230-235	parts	_	_	_	
+2-38	235-236	.	_	_	_	
+
+#Text=Buildings and Roads: The light gray areas represent buildings or developed land, while the white lines indicate roads or streets connecting these areas.
+3-1	237-246	Buildings	_	_	_	
+3-2	247-250	and	_	_	_	
+3-3	251-256	Roads	_	_	_	
+3-4	256-257	:	_	_	_	
+3-5	258-261	The	_	_	_	
+3-6	262-267	light	_	_	_	
+3-7	268-272	gray	_	_	_	
+3-8	273-278	areas	_	_	_	
+3-9	279-288	represent	_	_	_	
+3-10	289-298	buildings	_	_	_	
+3-11	299-301	or	_	_	_	
+3-12	302-311	developed	_	_	_	
+3-13	312-316	land	_	_	_	
+3-14	316-317	,	_	_	_	
+3-15	318-323	while	_	_	_	
+3-16	324-327	the	_	_	_	
+3-17	328-333	white	_	_	_	
+3-18	334-339	lines	_	_	_	
+3-19	340-348	indicate	_	_	_	
+3-20	349-354	roads	_	_	_	
+3-21	355-357	or	_	_	_	
+3-22	358-365	streets	_	_	_	
+3-23	366-376	connecting	_	_	spatial relation	
+3-24	377-382	these	_	_	_	
+3-25	383-388	areas	_	_	_	
+3-26	388-389	.	_	_	_	
+
+#Text=Green Spaces: Areas shaded in green likely represent parks, gardens, or other open spaces within the urban area.
+4-1	390-395	Green	_	_	_	
+4-2	396-402	Spaces	_	_	_	
+4-3	402-403	:	_	_	_	
+4-4	404-409	Areas	_	_	_	
+4-5	410-416	shaded	_	_	_	
+4-6	417-419	in	_	_	_	
+4-7	420-425	green	_	_	_	
+4-8	426-432	likely	_	_	_	
+4-9	433-442	represent	_	_	_	
+4-10	443-448	parks	_	_	_	
+4-11	448-449	,	_	_	_	
+4-12	450-457	gardens	_	_	_	
+4-13	457-458	,	_	_	_	
+4-14	459-461	or	_	_	_	
+4-15	462-467	other	_	_	_	
+4-16	468-472	open	_	_	_	
+4-17	473-479	spaces	_	_	_	
+4-18	480-486	within	_	_	spatial relation	
+4-19	487-490	the	_	_	_	
+4-20	491-496	urban	_	_	_	
+4-21	497-501	area	_	_	_	
+4-22	501-502	.	_	_	_	
+
+#Text=The map appears to be a simplified representation of an urban environment with a focus on infrastructure and natural features like water bodies and greenery.
+5-1	504-507	The	p[3]	*[3]	_	
+5-2	508-511	map	p[3]	*[3]	_	
+5-3	512-519	appears	p[3]	*[3]	_	
+5-4	520-522	to	p[3]	*[3]	_	
+5-5	523-525	be	p[3]	*[3]	_	
+5-6	526-527	a	p[3]	*[3]	_	
+5-7	528-538	simplified	p[3]	*[3]	_	
+5-8	539-553	representation	p[3]	*[3]	_	
+5-9	554-556	of	p[3]	*[3]	_	
+5-10	557-559	an	p[3]	*[3]	_	
+5-11	560-565	urban	p[3]	*[3]	_	
+5-12	566-577	environment	p[3]	*[3]	_	
+5-13	578-582	with	p[3]	*[3]	_	
+5-14	583-584	a	p[3]	*[3]	_	
+5-15	585-590	focus	p[3]	*[3]	_	
+5-16	591-593	on	p[3]	*[3]	_	
+5-17	594-608	infrastructure	p[3]	*[3]	_	
+5-18	609-612	and	p[3]	*[3]	_	
+5-19	613-620	natural	p[3]	*[3]	_	
+5-20	621-629	features	p[3]	*[3]	_	
+5-21	630-634	like	p[3]	*[3]	_	
+5-22	635-640	water	p[3]	*[3]	_	
+5-23	641-647	bodies	p[3]	*[3]	_	
+5-24	648-651	and	p[3]	*[3]	_	
+5-25	652-660	greenery	p[3]	*[3]	_	
+5-26	660-661	.	p[3]	*[3]	_	
+
+#Text=It does not include detailed labels for specific locations or landmarks.
+6-1	662-664	It	p[3]	*[3]	_	
+6-2	665-669	does	p[3]	*[3]	_	
+6-3	670-673	not	p[3]	*[3]	_	
+6-4	674-681	include	p[3]	*[3]	_	
+6-5	682-690	detailed	p[3]	*[3]	_	
+6-6	691-697	labels	p[3]	*[3]	_	
+6-7	698-701	for	p[3]	*[3]	_	
+6-8	702-710	specific	p[3]	*[3]	_	
+6-9	711-720	locations	p[3]	*[3]	_	
+6-10	721-723	or	p[3]	*[3]	_	
+6-11	724-733	landmarks	p[3]	*[3]	_	
+6-12	733-734	.	p[3]	*[3]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+7-1	735-738	Can	h1[4]	*[4]	_	
+7-2	739-742	you	h1[4]	*[4]	_	
+7-3	743-751	describe	h1[4]	*[4]	_	
+7-4	752-755	the	h1[4]	*[4]	_	
+7-5	756-760	most	h1[4]	*[4]	_	
+7-6	761-769	visually	h1[4]	*[4]	_	
+7-7	770-777	salient	h1[4]	*[4]	_	
+7-8	778-786	elements	h1[4]	*[4]	_	
+7-9	787-789	of	h1[4]	*[4]	_	
+7-10	790-793	the	h1[4]	*[4]	_	
+7-11	794-797	map	h1[4]	*[4]	_	
+7-12	797-798	?	h1[4]	*[4]	_	
+
+#Text=The image appears to be a digital map, likely representing an urban area with several distinct features:  River: A prominent blue line runs vertically through the center of the map, indicating a river that divides the city into two parts.
+8-1	799-802	The	p[5]	*[5]	_	
+8-2	803-808	image	p[5]	*[5]	_	
+8-3	809-816	appears	p[5]	*[5]	_	
+8-4	817-819	to	p[5]	*[5]	_	
+8-5	820-822	be	p[5]	*[5]	_	
+8-6	823-824	a	p[5]	*[5]	_	
+8-7	825-832	digital	p[5]	*[5]	_	
+8-8	833-836	map	p[5]	*[5]	_	
+8-9	836-837	,	p[5]	*[5]	_	
+8-10	838-844	likely	p[5]	*[5]	_	
+8-11	845-857	representing	p[5]	*[5]	_	
+8-12	858-860	an	p[5]	*[5]	_	
+8-13	861-866	urban	p[5]	*[5]	_	
+8-14	867-871	area	p[5]	*[5]	_	
+8-15	872-876	with	p[5]	*[5]	_	
+8-16	877-884	several	p[5]	*[5]	_	
+8-17	885-893	distinct	p[5]	*[5]	_	
+8-18	894-902	features	p[5]	*[5]	_	
+8-19	902-903	:	p[5]	*[5]	_	
+8-20	905-910	River	_	_	_	
+8-21	910-911	:	_	_	_	
+8-22	912-913	A	_	_	_	
+8-23	914-923	prominent	_	_	_	
+8-24	924-928	blue	_	_	_	
+8-25	929-933	line	_	_	_	
+8-26	934-938	runs	_	_	_	
+8-27	939-949	vertically	_	_	_	
+8-28	950-957	through	_	_	_	
+8-29	958-961	the	_	_	_	
+8-30	962-968	center	_	_	_	
+8-31	969-971	of	_	_	_	
+8-32	972-975	the	_	_	_	
+8-33	976-979	map	_	_	_	
+8-34	979-980	,	_	_	_	
+8-35	981-991	indicating	_	_	_	
+8-36	992-993	a	_	_	_	
+8-37	994-999	river	_	_	_	
+8-38	1000-1004	that	_	_	_	
+8-39	1005-1012	divides	_	_	_	
+8-40	1013-1016	the	_	_	_	
+8-41	1017-1021	city	_	_	_	
+8-42	1022-1026	into	_	_	_	
+8-43	1027-1030	two	_	_	_	
+8-44	1031-1036	parts	_	_	_	
+8-45	1036-1037	.	_	_	_	
+
+#Text=Urban Grid: The areas on either side of the river are laid out in a grid-like pattern, suggesting organized urban planning and development.
+9-1	1038-1043	Urban	_	_	_	
+9-2	1044-1048	Grid	_	_	_	
+9-3	1048-1049	:	_	_	_	
+9-4	1050-1053	The	_	_	_	
+9-5	1054-1059	areas	_	_	_	
+9-6	1060-1062	on	_	_	_	
+9-7	1063-1069	either	_	_	_	
+9-8	1070-1074	side	_	_	_	
+9-9	1075-1077	of	_	_	_	
+9-10	1078-1081	the	_	_	_	
+9-11	1082-1087	river	_	_	_	
+9-12	1088-1091	are	_	_	_	
+9-13	1092-1096	laid	_	_	_	
+9-14	1097-1100	out	_	_	_	
+9-15	1101-1103	in	_	_	_	
+9-16	1104-1105	a	_	_	_	
+9-17	1106-1115	grid-like	_	_	_	
+9-18	1116-1123	pattern	_	_	_	
+9-19	1123-1124	,	_	_	_	
+9-20	1125-1135	suggesting	_	_	_	
+9-21	1136-1145	organized	_	_	_	
+9-22	1146-1151	urban	_	_	_	
+9-23	1152-1160	planning	_	_	_	
+9-24	1161-1164	and	_	_	_	
+9-25	1165-1176	development	_	_	_	
+9-26	1176-1177	.	_	_	_	
+
+#Text=Green Spaces: There is green shading around certain areas, which could represent parks or other green spaces within the urban environment.
+10-1	1178-1183	Green	_	_	_	
+10-2	1184-1190	Spaces	_	_	_	
+10-3	1190-1191	:	_	_	_	
+10-4	1192-1197	There	_	_	_	
+10-5	1198-1200	is	_	_	_	
+10-6	1201-1206	green	_	_	_	
+10-7	1207-1214	shading	_	_	_	
+10-8	1215-1221	around	_	_	_	
+10-9	1222-1229	certain	_	_	_	
+10-10	1230-1235	areas	_	_	_	
+10-11	1235-1236	,	_	_	_	
+10-12	1237-1242	which	_	_	_	
+10-13	1243-1248	could	_	_	_	
+10-14	1249-1258	represent	_	_	_	
+10-15	1259-1264	parks	_	_	_	
+10-16	1265-1267	or	_	_	_	
+10-17	1268-1273	other	_	_	_	
+10-18	1274-1279	green	_	_	_	
+10-19	1280-1286	spaces	_	_	_	
+10-20	1287-1293	within	_	_	_	
+10-21	1294-1297	the	_	_	_	
+10-22	1298-1303	urban	_	_	_	
+10-23	1304-1315	environment	_	_	_	
+10-24	1315-1316	.	_	_	_	
+
+#Text=Road Networks: White lines crisscrossing the map indicate roads and streets, forming a network that connects different parts of the city.
+11-1	1317-1321	Road	_	_	_	
+11-2	1322-1330	Networks	_	_	_	
+11-3	1330-1331	:	_	_	_	
+11-4	1332-1337	White	_	_	_	
+11-5	1338-1343	lines	_	_	_	
+11-6	1344-1357	crisscrossing	_	_	_	
+11-7	1358-1361	the	_	_	_	
+11-8	1362-1365	map	_	_	_	
+11-9	1366-1374	indicate	_	_	_	
+11-10	1375-1380	roads	_	_	_	
+11-11	1381-1384	and	_	_	_	
+11-12	1385-1392	streets	_	_	_	
+11-13	1392-1393	,	_	_	_	
+11-14	1394-1401	forming	_	_	_	
+11-15	1402-1403	a	_	_	_	
+11-16	1404-1411	network	_	_	_	
+11-17	1412-1416	that	_	_	_	
+11-18	1417-1425	connects	_	_	_	
+11-19	1426-1435	different	_	_	_	
+11-20	1436-1441	parts	_	_	_	
+11-21	1442-1444	of	_	_	_	
+11-22	1445-1448	the	_	_	_	
+11-23	1449-1453	city	_	_	_	
+11-24	1453-1454	.	_	_	_	
+
+#Text=Buildings and Structures: The gray shapes scattered throughout the map likely represent buildings or structures, though their specific details are not discernible at this resolution.
+12-1	1455-1464	Buildings	_	_	_	
+12-2	1465-1468	and	_	_	_	
+12-3	1469-1479	Structures	_	_	_	
+12-4	1479-1480	:	_	_	_	
+12-5	1481-1484	The	_	_	_	
+12-6	1485-1489	gray	_	_	_	
+12-7	1490-1496	shapes	_	_	_	
+12-8	1497-1506	scattered	_	_	_	
+12-9	1507-1517	throughout	_	_	_	
+12-10	1518-1521	the	_	_	_	
+12-11	1522-1525	map	_	_	_	
+12-12	1526-1532	likely	_	_	_	
+12-13	1533-1542	represent	_	_	_	
+12-14	1543-1552	buildings	_	_	_	
+12-15	1553-1555	or	_	_	_	
+12-16	1556-1566	structures	_	_	_	
+12-17	1566-1567	,	_	_	_	
+12-18	1568-1574	though	_	_	_	
+12-19	1575-1580	their	_	_	_	
+12-20	1581-1589	specific	_	_	_	
+12-21	1590-1597	details	_	_	_	
+12-22	1598-1601	are	_	_	_	
+12-23	1602-1605	not	_	_	_	
+12-24	1606-1617	discernible	_	_	_	
+12-25	1618-1620	at	_	_	_	
+12-26	1621-1625	this	_	_	_	
+12-27	1626-1636	resolution	_	_	_	
+12-28	1636-1637	.	_	_	_	
+
+#Text=The combination of these elements—river, grid layout, green spaces, road networks, and building clusters—provides a clear visual representation of an urban area with distinct geographical features.
+13-1	1639-1642	The	p[6]	*[6]	_	
+13-2	1643-1654	combination	p[6]	*[6]	_	
+13-3	1655-1657	of	p[6]	*[6]	_	
+13-4	1658-1663	these	p[6]	*[6]	_	
+13-5	1664-1678	elements—river	p[6]	*[6]	_	
+13-6	1678-1679	,	p[6]	*[6]	_	
+13-7	1680-1684	grid	p[6]	*[6]	_	
+13-8	1685-1691	layout	p[6]	*[6]	_	
+13-9	1691-1692	,	p[6]	*[6]	_	
+13-10	1693-1698	green	p[6]	*[6]	_	
+13-11	1699-1705	spaces	p[6]	*[6]	_	
+13-12	1705-1706	,	p[6]	*[6]	_	
+13-13	1707-1711	road	p[6]	*[6]	_	
+13-14	1712-1720	networks	p[6]	*[6]	_	
+13-15	1720-1721	,	p[6]	*[6]	_	
+13-16	1722-1725	and	p[6]	*[6]	_	
+13-17	1726-1734	building	p[6]	*[6]	_	
+13-18	1735-1752	clusters—provides	p[6]	*[6]	_	
+13-19	1753-1754	a	p[6]	*[6]	_	
+13-20	1755-1760	clear	p[6]	*[6]	_	
+13-21	1761-1767	visual	p[6]	*[6]	_	
+13-22	1768-1782	representation	p[6]	*[6]	_	
+13-23	1783-1785	of	p[6]	*[6]	_	
+13-24	1786-1788	an	p[6]	*[6]	_	
+13-25	1789-1794	urban	p[6]	*[6]	_	
+13-26	1795-1799	area	p[6]	*[6]	_	
+13-27	1800-1804	with	p[6]	*[6]	_	
+13-28	1805-1813	distinct	p[6]	*[6]	_	
+13-29	1814-1826	geographical	p[6]	*[6]	_	
+13-30	1827-1835	features	p[6]	*[6]	_	
+13-31	1835-1836	.	p[6]	*[6]	_	
+
+#Text=Anchors summary  River — non-named landmark   Urban grid — non-named landmark   Green spaces — non-named landmark   Road networks — non-named landmark   Buildings and structures — non-named landmark
+14-1	1837-1844	Anchors	h1[7]	*[7]	_	
+14-2	1845-1852	summary	h1[7]	*[7]	_	
+14-3	1854-1859	River	_	_	_	
+14-4	1860-1861	—	_	_	_	
+14-5	1862-1871	non-named	_	_	_	
+14-6	1872-1880	landmark	_	_	_	
+14-7	1883-1888	Urban	_	_	_	
+14-8	1889-1893	grid	_	_	_	
+14-9	1894-1895	—	_	_	_	
+14-10	1896-1905	non-named	_	_	_	
+14-11	1906-1914	landmark	_	_	_	
+14-12	1917-1922	Green	_	_	_	
+14-13	1923-1929	spaces	_	_	_	
+14-14	1930-1931	—	_	_	_	
+14-15	1932-1941	non-named	_	_	_	
+14-16	1942-1950	landmark	_	_	_	
+14-17	1953-1957	Road	_	_	_	
+14-18	1958-1966	networks	_	_	_	
+14-19	1967-1968	—	_	_	_	
+14-20	1969-1978	non-named	_	_	_	
+14-21	1979-1987	landmark	_	_	_	
+14-22	1990-1999	Buildings	_	_	_	
+14-23	2000-2003	and	_	_	_	
+14-24	2004-2014	structures	_	_	_	
+14-25	2015-2016	—	_	_	_	
+14-26	2017-2026	non-named	_	_	_	
+14-27	2027-2035	landmark	_	_	_	

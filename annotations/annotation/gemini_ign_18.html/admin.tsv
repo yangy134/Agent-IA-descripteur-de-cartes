@@ -1,0 +1,660 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=This map depicts the Château des Ducs de Bretagne (Castle of the Dukes of Brittany) in Nantes, France, along with its immediate surroundings.
+2-1	42-46	This	p[2]	*[2]	_	
+2-2	47-50	map	p[2]	*[2]	_	
+2-3	51-58	depicts	p[2]	*[2]	_	
+2-4	59-62	the	p[2]	*[2]	_	
+2-5	63-70	Château	p[2]	*[2]	toponym[21]	
+2-6	71-74	des	p[2]	*[2]	toponym[21]	
+2-7	75-79	Ducs	p[2]	*[2]	toponym[21]	
+2-8	80-82	de	p[2]	*[2]	toponym[21]	
+2-9	83-91	Bretagne	p[2]	*[2]	toponym[21]	
+2-10	92-93	(	p[2]	*[2]	_	
+2-11	93-99	Castle	p[2]	*[2]	_	
+2-12	100-102	of	p[2]	*[2]	_	
+2-13	103-106	the	p[2]	*[2]	_	
+2-14	107-112	Dukes	p[2]	*[2]	_	
+2-15	113-115	of	p[2]	*[2]	_	
+2-16	116-124	Brittany	p[2]	*[2]	_	
+2-17	124-125	)	p[2]	*[2]	_	
+2-18	126-128	in	p[2]	*[2]	_	
+2-19	129-135	Nantes	p[2]	*[2]	toponym[22]	
+2-20	135-136	,	p[2]	*[2]	toponym[22]	
+2-21	137-143	France	p[2]	*[2]	toponym[22]	
+2-22	143-144	,	p[2]	*[2]	_	
+2-23	145-150	along	p[2]	*[2]	_	
+2-24	151-155	with	p[2]	*[2]	_	
+2-25	156-159	its	p[2]	*[2]	_	
+2-26	160-169	immediate	p[2]	*[2]	spatial relation[23]	
+2-27	170-182	surroundings	p[2]	*[2]	spatial relation[23]	
+2-28	182-183	.	p[2]	*[2]	_	
+
+#Text=Here's a breakdown of the content: Key Features:  Château des Ducs de Bretagne: The central feature of the map.
+3-1	184-190	Here's	p[2]	*[2]	_	
+3-2	191-192	a	p[2]	*[2]	_	
+3-3	193-202	breakdown	p[2]	*[2]	_	
+3-4	203-205	of	p[2]	*[2]	_	
+3-5	206-209	the	p[2]	*[2]	_	
+3-6	210-217	content	p[2]	*[2]	_	
+3-7	217-218	:	p[2]	*[2]	_	
+3-8	219-222	Key	p[3]	*[3]	_	
+3-9	223-231	Features	p[3]	*[3]	_	
+3-10	231-232	:	p[3]	*[3]	_	
+3-11	234-241	Château	p[4]	*[4]	toponym[24]	
+3-12	242-245	des	p[4]	*[4]	toponym[24]	
+3-13	246-250	Ducs	p[4]	*[4]	toponym[24]	
+3-14	251-253	de	p[4]	*[4]	toponym[24]	
+3-15	254-262	Bretagne	p[4]	*[4]	toponym[24]	
+3-16	262-263	:	p[4]	*[4]	_	
+3-17	264-267	The	p[4]	*[4]	_	
+3-18	268-275	central	p[4]	*[4]	spatial relation	
+3-19	276-283	feature	p[4]	*[4]	_	
+3-20	284-286	of	p[4]	*[4]	_	
+3-21	287-290	the	p[4]	*[4]	_	
+3-22	291-294	map	p[4]	*[4]	_	
+3-23	294-295	.	p[4]	*[4]	_	
+
+#Text=It's depicted in a stylized manner, showing the castle's outline, towers, and inner buildings.
+4-1	296-300	It's	p[4]	*[4]	_	
+4-2	301-309	depicted	p[4]	*[4]	_	
+4-3	310-312	in	p[4]	*[4]	_	
+4-4	313-314	a	p[4]	*[4]	_	
+4-5	315-323	stylized	p[4]	*[4]	_	
+4-6	324-330	manner	p[4]	*[4]	_	
+4-7	330-331	,	p[4]	*[4]	_	
+4-8	332-339	showing	p[4]	*[4]	_	
+4-9	340-343	the	p[4]	*[4]	_	
+4-10	344-352	castle's	p[4]	*[4]	_	
+4-11	353-360	outline	p[4]	*[4]	_	
+4-12	360-361	,	p[4]	*[4]	_	
+4-13	362-368	towers	p[4]	*[4]	_	
+4-14	368-369	,	p[4]	*[4]	_	
+4-15	370-373	and	p[4]	*[4]	_	
+4-16	374-379	inner	p[4]	*[4]	_	
+4-17	380-389	buildings	p[4]	*[4]	_	
+4-18	389-390	.	p[4]	*[4]	_	
+
+#Text=The castle is surrounded by a moat (indicated by the light blue area).
+5-1	391-394	The	p[4]	*[4]	_	
+5-2	395-401	castle	p[4]	*[4]	_	
+5-3	402-404	is	p[4]	*[4]	_	
+5-4	405-415	surrounded	p[4]	*[4]	spatial relation	
+5-5	416-418	by	p[4]	*[4]	_	
+5-6	419-420	a	p[4]	*[4]	_	
+5-7	421-425	moat	p[4]	*[4]	_	
+5-8	426-427	(	p[4]	*[4]	_	
+5-9	427-436	indicated	p[4]	*[4]	_	
+5-10	437-439	by	p[4]	*[4]	_	
+5-11	440-443	the	p[4]	*[4]	_	
+5-12	444-449	light	p[4]	*[4]	_	
+5-13	450-454	blue	p[4]	*[4]	_	
+5-14	455-459	area	p[4]	*[4]	_	
+5-15	459-460	)	p[4]	*[4]	_	
+5-16	460-461	.	p[4]	*[4]	_	
+
+#Text=Moat: The light blue area immediately surrounding the castle represents the moat, a defensive water-filled ditch.
+6-1	462-466	Moat	p[5]	*[5]	_	
+6-2	466-467	:	p[5]	*[5]	_	
+6-3	468-471	The	p[5]	*[5]	_	
+6-4	472-477	light	p[5]	*[5]	_	
+6-5	478-482	blue	p[5]	*[5]	_	
+6-6	483-487	area	p[5]	*[5]	_	
+6-7	488-499	immediately	p[5]	*[5]	_	
+6-8	500-511	surrounding	p[5]	*[5]	spatial relation	
+6-9	512-515	the	p[5]	*[5]	_	
+6-10	516-522	castle	p[5]	*[5]	_	
+6-11	523-533	represents	p[5]	*[5]	_	
+6-12	534-537	the	p[5]	*[5]	_	
+6-13	538-542	moat	p[5]	*[5]	_	
+6-14	542-543	,	p[5]	*[5]	_	
+6-15	544-545	a	p[5]	*[5]	_	
+6-16	546-555	defensive	p[5]	*[5]	_	
+6-17	556-568	water-filled	p[5]	*[5]	_	
+6-18	569-574	ditch	p[5]	*[5]	_	
+6-19	574-575	.	p[5]	*[5]	_	
+
+#Text=Roads: Several roads are shown, including:  Rue des États Rue Préminon Rue Général Leclerc de Hauteclocque Pont de la Rotonde  Place duchesse Anne: A square located to the east of the castle.
+7-1	576-581	Roads	p[6]	*[6]	_	
+7-2	581-582	:	p[6]	*[6]	_	
+7-3	583-590	Several	p[6]	*[6]	_	
+7-4	591-596	roads	p[6]	*[6]	_	
+7-5	597-600	are	p[6]	*[6]	_	
+7-6	601-606	shown	p[6]	*[6]	_	
+7-7	606-607	,	p[6]	*[6]	_	
+7-8	608-617	including	p[6]	*[6]	_	
+7-9	617-618	:	p[6]	*[6]	_	
+7-10	620-623	Rue	_	_	toponym[25]	
+7-11	624-627	des	_	_	toponym[25]	
+7-12	628-633	États	_	_	toponym[25]	
+7-13	634-637	Rue	_	_	toponym[26]	
+7-14	638-646	Préminon	_	_	toponym[26]	
+7-15	647-650	Rue	_	_	toponym[27]	
+7-16	651-658	Général	_	_	toponym[27]	
+7-17	659-666	Leclerc	_	_	toponym[27]	
+7-18	667-669	de	_	_	toponym[27]	
+7-19	670-682	Hauteclocque	_	_	toponym[27]	
+7-20	683-687	Pont	_	_	toponym[28]	
+7-21	688-690	de	_	_	toponym[28]	
+7-22	691-693	la	_	_	toponym[28]	
+7-23	694-701	Rotonde	_	_	toponym[28]	
+7-24	703-708	Place	p[7]	*[7]	toponym[29]	
+7-25	709-717	duchesse	p[7]	*[7]	toponym[29]	
+7-26	718-722	Anne	p[7]	*[7]	toponym[29]	
+7-27	722-723	:	p[7]	*[7]	_	
+7-28	724-725	A	p[7]	*[7]	_	
+7-29	726-732	square	p[7]	*[7]	_	
+7-30	733-740	located	p[7]	*[7]	_	
+7-31	741-743	to	p[7]	*[7]	spatial relation[30]	
+7-32	744-747	the	p[7]	*[7]	spatial relation[30]	
+7-33	748-752	east	p[7]	*[7]	spatial relation[30]	
+7-34	753-755	of	p[7]	*[7]	_	
+7-35	756-759	the	p[7]	*[7]	_	
+7-36	760-766	castle	p[7]	*[7]	_	
+7-37	766-767	.	p[7]	*[7]	_	
+
+#Text=Place Marc Elder: Another square located to the west of the castle.
+8-1	768-773	Place	p[8]	*[8]	toponym[31]	
+8-2	774-778	Marc	p[8]	*[8]	toponym[31]	
+8-3	779-784	Elder	p[8]	*[8]	toponym[31]	
+8-4	784-785	:	p[8]	*[8]	_	
+8-5	786-793	Another	p[8]	*[8]	_	
+8-6	794-800	square	p[8]	*[8]	_	
+8-7	801-808	located	p[8]	*[8]	_	
+8-8	809-811	to	p[8]	*[8]	spatial relation[32]	
+8-9	812-815	the	p[8]	*[8]	spatial relation[32]	
+8-10	816-820	west	p[8]	*[8]	spatial relation[32]	
+8-11	821-823	of	p[8]	*[8]	_	
+8-12	824-827	the	p[8]	*[8]	_	
+8-13	828-834	castle	p[8]	*[8]	_	
+8-14	834-835	.	p[8]	*[8]	_	
+
+#Text=Buildings: Other buildings are indicated along the streets, though they are not labeled.
+9-1	836-845	Buildings	p[9]	*[9]	_	
+9-2	845-846	:	p[9]	*[9]	_	
+9-3	847-852	Other	p[9]	*[9]	_	
+9-4	853-862	buildings	p[9]	*[9]	_	
+9-5	863-866	are	p[9]	*[9]	_	
+9-6	867-876	indicated	p[9]	*[9]	_	
+9-7	877-882	along	p[9]	*[9]	spatial relation	
+9-8	883-886	the	p[9]	*[9]	_	
+9-9	887-894	streets	p[9]	*[9]	_	
+9-10	894-895	,	p[9]	*[9]	_	
+9-11	896-902	though	p[9]	*[9]	_	
+9-12	903-907	they	p[9]	*[9]	_	
+9-13	908-911	are	p[9]	*[9]	_	
+9-14	912-915	not	p[9]	*[9]	_	
+9-15	916-923	labeled	p[9]	*[9]	_	
+9-16	923-924	.	p[9]	*[9]	_	
+
+#Text=Footpaths/Walkways: Dotted lines represent footpaths or walkways within the castle grounds and surrounding areas.
+10-1	925-934	Footpaths	p[10]	*[10]	_	
+10-2	934-935	/	p[10]	*[10]	_	
+10-3	935-943	Walkways	p[10]	*[10]	_	
+10-4	943-944	:	p[10]	*[10]	_	
+10-5	945-951	Dotted	p[10]	*[10]	_	
+10-6	952-957	lines	p[10]	*[10]	_	
+10-7	958-967	represent	p[10]	*[10]	_	
+10-8	968-977	footpaths	p[10]	*[10]	_	
+10-9	978-980	or	p[10]	*[10]	_	
+10-10	981-989	walkways	p[10]	*[10]	_	
+10-11	990-996	within	p[10]	*[10]	spatial relation	
+10-12	997-1000	the	p[10]	*[10]	_	
+10-13	1001-1007	castle	p[10]	*[10]	_	
+10-14	1008-1015	grounds	p[10]	*[10]	_	
+10-15	1016-1019	and	p[10]	*[10]	_	
+10-16	1020-1031	surrounding	p[10]	*[10]	spatial relation	
+10-17	1032-1037	areas	p[10]	*[10]	_	
+10-18	1037-1038	.	p[10]	*[10]	_	
+
+#Text=Roundabout: A roundabout is visible in the bottom right corner, connecting several roads.
+11-1	1039-1049	Roundabout	p[11]	*[11]	_	
+11-2	1049-1050	:	p[11]	*[11]	_	
+11-3	1051-1052	A	p[11]	*[11]	_	
+11-4	1053-1063	roundabout	p[11]	*[11]	_	
+11-5	1064-1066	is	p[11]	*[11]	_	
+11-6	1067-1074	visible	p[11]	*[11]	_	
+11-7	1075-1077	in	p[11]	*[11]	spatial relation[33]	
+11-8	1078-1081	the	p[11]	*[11]	spatial relation[33]	
+11-9	1082-1088	bottom	p[11]	*[11]	spatial relation[33]	
+11-10	1089-1094	right	p[11]	*[11]	spatial relation[33]	
+11-11	1095-1101	corner	p[11]	*[11]	spatial relation[33]	
+11-12	1101-1102	,	p[11]	*[11]	_	
+11-13	1103-1113	connecting	p[11]	*[11]	_	
+11-14	1114-1121	several	p[11]	*[11]	_	
+11-15	1122-1127	roads	p[11]	*[11]	_	
+11-16	1127-1128	.	p[11]	*[11]	_	
+
+#Text=Style and Presentation:  Simplified Representation: The map is a simplified, stylized representation of the area.
+12-1	1130-1135	Style	p[12]	*[12]	_	
+12-2	1136-1139	and	p[12]	*[12]	_	
+12-3	1140-1152	Presentation	p[12]	*[12]	_	
+12-4	1152-1153	:	p[12]	*[12]	_	
+12-5	1155-1165	Simplified	p[13]	*[13]	_	
+12-6	1166-1180	Representation	p[13]	*[13]	_	
+12-7	1180-1181	:	p[13]	*[13]	_	
+12-8	1182-1185	The	p[13]	*[13]	_	
+12-9	1186-1189	map	p[13]	*[13]	_	
+12-10	1190-1192	is	p[13]	*[13]	_	
+12-11	1193-1194	a	p[13]	*[13]	_	
+12-12	1195-1205	simplified	p[13]	*[13]	_	
+12-13	1205-1206	,	p[13]	*[13]	_	
+12-14	1207-1215	stylized	p[13]	*[13]	_	
+12-15	1216-1230	representation	p[13]	*[13]	_	
+12-16	1231-1233	of	p[13]	*[13]	_	
+12-17	1234-1237	the	p[13]	*[13]	_	
+12-18	1238-1242	area	p[13]	*[13]	_	
+12-19	1242-1243	.	p[13]	*[13]	_	
+
+#Text=It's not a highly detailed street map.
+13-1	1244-1248	It's	p[13]	*[13]	_	
+13-2	1249-1252	not	p[13]	*[13]	_	
+13-3	1253-1254	a	p[13]	*[13]	_	
+13-4	1255-1261	highly	p[13]	*[13]	_	
+13-5	1262-1270	detailed	p[13]	*[13]	_	
+13-6	1271-1277	street	p[13]	*[13]	_	
+13-7	1278-1281	map	p[13]	*[13]	_	
+13-8	1281-1282	.	p[13]	*[13]	_	
+
+#Text=Color Coding: Colors are used to distinguish different elements:  Light blue for the moat Various shades of gray for the castle buildings and other structures White for the background and streets  Orientation: The map is oriented approximately north-south, with north towards the top.
+14-1	1283-1288	Color	p[14]	*[14]	_	
+14-2	1289-1295	Coding	p[14]	*[14]	_	
+14-3	1295-1296	:	p[14]	*[14]	_	
+14-4	1297-1303	Colors	p[14]	*[14]	_	
+14-5	1304-1307	are	p[14]	*[14]	_	
+14-6	1308-1312	used	p[14]	*[14]	_	
+14-7	1313-1315	to	p[14]	*[14]	_	
+14-8	1316-1327	distinguish	p[14]	*[14]	_	
+14-9	1328-1337	different	p[14]	*[14]	_	
+14-10	1338-1346	elements	p[14]	*[14]	_	
+14-11	1346-1347	:	p[14]	*[14]	_	
+14-12	1349-1354	Light	_	_	_	
+14-13	1355-1359	blue	_	_	_	
+14-14	1360-1363	for	_	_	_	
+14-15	1364-1367	the	_	_	_	
+14-16	1368-1372	moat	_	_	_	
+14-17	1373-1380	Various	_	_	_	
+14-18	1381-1387	shades	_	_	_	
+14-19	1388-1390	of	_	_	_	
+14-20	1391-1395	gray	_	_	_	
+14-21	1396-1399	for	_	_	_	
+14-22	1400-1403	the	_	_	_	
+14-23	1404-1410	castle	_	_	_	
+14-24	1411-1420	buildings	_	_	_	
+14-25	1421-1424	and	_	_	_	
+14-26	1425-1430	other	_	_	_	
+14-27	1431-1441	structures	_	_	_	
+14-28	1442-1447	White	_	_	_	
+14-29	1448-1451	for	_	_	_	
+14-30	1452-1455	the	_	_	_	
+14-31	1456-1466	background	_	_	_	
+14-32	1467-1470	and	_	_	_	
+14-33	1471-1478	streets	_	_	_	
+14-34	1480-1491	Orientation	p[15]	*[15]	_	
+14-35	1491-1492	:	p[15]	*[15]	_	
+14-36	1493-1496	The	p[15]	*[15]	_	
+14-37	1497-1500	map	p[15]	*[15]	_	
+14-38	1501-1503	is	p[15]	*[15]	_	
+14-39	1504-1512	oriented	p[15]	*[15]	spatial relation[34]	
+14-40	1513-1526	approximately	p[15]	*[15]	spatial relation[34]	
+14-41	1527-1538	north-south	p[15]	*[15]	spatial relation[34]	
+14-42	1538-1539	,	p[15]	*[15]	_	
+14-43	1540-1544	with	p[15]	*[15]	_	
+14-44	1545-1550	north	p[15]	*[15]	spatial relation[35]	
+14-45	1551-1558	towards	p[15]	*[15]	spatial relation[35]	
+14-46	1559-1562	the	p[15]	*[15]	spatial relation[35]	
+14-47	1563-1566	top	p[15]	*[15]	spatial relation[35]	
+14-48	1566-1567	.	p[15]	*[15]	_	
+
+#Text=Overall Impression: The map provides a clear overview of the Château des Ducs de Bretagne and its immediate surroundings.
+15-1	1569-1576	Overall	p[16]	*[16]	_	
+15-2	1577-1587	Impression	p[16]	*[16]	_	
+15-3	1587-1588	:	p[16]	*[16]	_	
+15-4	1589-1592	The	p[17]	*[17]	_	
+15-5	1593-1596	map	p[17]	*[17]	_	
+15-6	1597-1605	provides	p[17]	*[17]	_	
+15-7	1606-1607	a	p[17]	*[17]	_	
+15-8	1608-1613	clear	p[17]	*[17]	_	
+15-9	1614-1622	overview	p[17]	*[17]	_	
+15-10	1623-1625	of	p[17]	*[17]	_	
+15-11	1626-1629	the	p[17]	*[17]	_	
+15-12	1630-1637	Château	p[17]	*[17]	toponym[36]	
+15-13	1638-1641	des	p[17]	*[17]	toponym[36]	
+15-14	1642-1646	Ducs	p[17]	*[17]	toponym[36]	
+15-15	1647-1649	de	p[17]	*[17]	toponym[36]	
+15-16	1650-1658	Bretagne	p[17]	*[17]	toponym[36]	
+15-17	1659-1662	and	p[17]	*[17]	_	
+15-18	1663-1666	its	p[17]	*[17]	_	
+15-19	1667-1676	immediate	p[17]	*[17]	_	
+15-20	1677-1689	surroundings	p[17]	*[17]	spatial relation	
+15-21	1689-1690	.	p[17]	*[17]	_	
+
+#Text=It highlights the castle's layout, the moat, and the nearby streets and squares.
+16-1	1691-1693	It	p[17]	*[17]	_	
+16-2	1694-1704	highlights	p[17]	*[17]	_	
+16-3	1705-1708	the	p[17]	*[17]	_	
+16-4	1709-1717	castle's	p[17]	*[17]	_	
+16-5	1718-1724	layout	p[17]	*[17]	_	
+16-6	1724-1725	,	p[17]	*[17]	_	
+16-7	1726-1729	the	p[17]	*[17]	_	
+16-8	1730-1734	moat	p[17]	*[17]	_	
+16-9	1734-1735	,	p[17]	*[17]	_	
+16-10	1736-1739	and	p[17]	*[17]	_	
+16-11	1740-1743	the	p[17]	*[17]	_	
+16-12	1744-1750	nearby	p[17]	*[17]	_	
+16-13	1751-1758	streets	p[17]	*[17]	_	
+16-14	1759-1762	and	p[17]	*[17]	_	
+16-15	1763-1770	squares	p[17]	*[17]	_	
+16-16	1770-1771	.	p[17]	*[17]	_	
+
+#Text=It's designed to be easily readable and informative, focusing on the essential elements of the location.
+17-1	1772-1776	It's	p[17]	*[17]	_	
+17-2	1777-1785	designed	p[17]	*[17]	_	
+17-3	1786-1788	to	p[17]	*[17]	_	
+17-4	1789-1791	be	p[17]	*[17]	_	
+17-5	1792-1798	easily	p[17]	*[17]	_	
+17-6	1799-1807	readable	p[17]	*[17]	_	
+17-7	1808-1811	and	p[17]	*[17]	_	
+17-8	1812-1823	informative	p[17]	*[17]	_	
+17-9	1823-1824	,	p[17]	*[17]	_	
+17-10	1825-1833	focusing	p[17]	*[17]	_	
+17-11	1834-1836	on	p[17]	*[17]	_	
+17-12	1837-1840	the	p[17]	*[17]	_	
+17-13	1841-1850	essential	p[17]	*[17]	_	
+17-14	1851-1859	elements	p[17]	*[17]	_	
+17-15	1860-1862	of	p[17]	*[17]	_	
+17-16	1863-1866	the	p[17]	*[17]	_	
+17-17	1867-1875	location	p[17]	*[17]	_	
+17-18	1875-1876	.	p[17]	*[17]	_	
+
+#Text=Can you describe the most visually salient elements of the map?
+18-1	1877-1880	Can	h1[18]	*[18]	_	
+18-2	1881-1884	you	h1[18]	*[18]	_	
+18-3	1885-1893	describe	h1[18]	*[18]	_	
+18-4	1894-1897	the	h1[18]	*[18]	_	
+18-5	1898-1902	most	h1[18]	*[18]	_	
+18-6	1903-1911	visually	h1[18]	*[18]	_	
+18-7	1912-1919	salient	h1[18]	*[18]	_	
+18-8	1920-1928	elements	h1[18]	*[18]	_	
+18-9	1929-1931	of	h1[18]	*[18]	_	
+18-10	1932-1935	the	h1[18]	*[18]	_	
+18-11	1936-1939	map	h1[18]	*[18]	_	
+18-12	1939-1940	?	h1[18]	*[18]	_	
+
+#Text=The most visually salient elements of the map, those that immediately draw the eye, are:  The Shape of the Château des Ducs de Bretagne: The distinct, irregular shape of the castle, with its towers and angular walls, is the most prominent feature.
+19-1	1941-1944	The	p[19]	*[19]	_	
+19-2	1945-1949	most	p[19]	*[19]	_	
+19-3	1950-1958	visually	p[19]	*[19]	_	
+19-4	1959-1966	salient	p[19]	*[19]	_	
+19-5	1967-1975	elements	p[19]	*[19]	_	
+19-6	1976-1978	of	p[19]	*[19]	_	
+19-7	1979-1982	the	p[19]	*[19]	_	
+19-8	1983-1986	map	p[19]	*[19]	_	
+19-9	1986-1987	,	p[19]	*[19]	_	
+19-10	1988-1993	those	p[19]	*[19]	_	
+19-11	1994-1998	that	p[19]	*[19]	_	
+19-12	1999-2010	immediately	p[19]	*[19]	_	
+19-13	2011-2015	draw	p[19]	*[19]	_	
+19-14	2016-2019	the	p[19]	*[19]	_	
+19-15	2020-2023	eye	p[19]	*[19]	_	
+19-16	2023-2024	,	p[19]	*[19]	_	
+19-17	2025-2028	are	p[19]	*[19]	_	
+19-18	2028-2029	:	p[19]	*[19]	_	
+19-19	2031-2034	The	_	_	_	
+19-20	2035-2040	Shape	_	_	_	
+19-21	2041-2043	of	_	_	_	
+19-22	2044-2047	the	_	_	_	
+19-23	2048-2055	Château	_	_	_	
+19-24	2056-2059	des	_	_	_	
+19-25	2060-2064	Ducs	_	_	_	
+19-26	2065-2067	de	_	_	_	
+19-27	2068-2076	Bretagne	_	_	_	
+19-28	2076-2077	:	_	_	_	
+19-29	2078-2081	The	_	_	_	
+19-30	2082-2090	distinct	_	_	_	
+19-31	2090-2091	,	_	_	_	
+19-32	2092-2101	irregular	_	_	_	
+19-33	2102-2107	shape	_	_	_	
+19-34	2108-2110	of	_	_	_	
+19-35	2111-2114	the	_	_	_	
+19-36	2115-2121	castle	_	_	_	
+19-37	2121-2122	,	_	_	_	
+19-38	2123-2127	with	_	_	_	
+19-39	2128-2131	its	_	_	_	
+19-40	2132-2138	towers	_	_	_	
+19-41	2139-2142	and	_	_	_	
+19-42	2143-2150	angular	_	_	_	
+19-43	2151-2156	walls	_	_	_	
+19-44	2156-2157	,	_	_	_	
+19-45	2158-2160	is	_	_	_	
+19-46	2161-2164	the	_	_	_	
+19-47	2165-2169	most	_	_	_	
+19-48	2170-2179	prominent	_	_	_	
+19-49	2180-2187	feature	_	_	_	
+19-50	2187-2188	.	_	_	_	
+
+#Text=It stands out due to its size and central placement on the map.
+20-1	2189-2191	It	_	_	_	
+20-2	2192-2198	stands	_	_	_	
+20-3	2199-2202	out	_	_	_	
+20-4	2203-2206	due	_	_	_	
+20-5	2207-2209	to	_	_	_	
+20-6	2210-2213	its	_	_	_	
+20-7	2214-2218	size	_	_	_	
+20-8	2219-2222	and	_	_	_	
+20-9	2223-2230	central	_	_	_	
+20-10	2231-2240	placement	_	_	_	
+20-11	2241-2243	on	_	_	_	
+20-12	2244-2247	the	_	_	_	
+20-13	2248-2251	map	_	_	_	
+20-14	2251-2252	.	_	_	_	
+
+#Text=The Light Blue Moat: The bright, light blue area surrounding the castle strongly contrasts with the surrounding grays and whites.
+21-1	2253-2256	The	_	_	_	
+21-2	2257-2262	Light	_	_	_	
+21-3	2263-2267	Blue	_	_	_	
+21-4	2268-2272	Moat	_	_	_	
+21-5	2272-2273	:	_	_	_	
+21-6	2274-2277	The	_	_	_	
+21-7	2278-2284	bright	_	_	_	
+21-8	2284-2285	,	_	_	_	
+21-9	2286-2291	light	_	_	_	
+21-10	2292-2296	blue	_	_	_	
+21-11	2297-2301	area	_	_	_	
+21-12	2302-2313	surrounding	_	_	_	
+21-13	2314-2317	the	_	_	_	
+21-14	2318-2324	castle	_	_	_	
+21-15	2325-2333	strongly	_	_	_	
+21-16	2334-2343	contrasts	_	_	_	
+21-17	2344-2348	with	_	_	_	
+21-18	2349-2352	the	_	_	_	
+21-19	2353-2364	surrounding	_	_	_	
+21-20	2365-2370	grays	_	_	_	
+21-21	2371-2374	and	_	_	_	
+21-22	2375-2381	whites	_	_	_	
+21-23	2381-2382	.	_	_	_	
+
+#Text=This makes the moat visually striking and clearly delineates the castle's perimeter.
+22-1	2383-2387	This	_	_	_	
+22-2	2388-2393	makes	_	_	_	
+22-3	2394-2397	the	_	_	_	
+22-4	2398-2402	moat	_	_	_	
+22-5	2403-2411	visually	_	_	_	
+22-6	2412-2420	striking	_	_	_	
+22-7	2421-2424	and	_	_	_	
+22-8	2425-2432	clearly	_	_	_	
+22-9	2433-2443	delineates	_	_	_	
+22-10	2444-2447	the	_	_	_	
+22-11	2448-2456	castle's	_	_	_	
+22-12	2457-2466	perimeter	_	_	_	
+22-13	2466-2467	.	_	_	_	
+
+#Text=The Solid Gray Fill of the Castle Buildings: The solid, dark gray fill of the castle structures creates a strong visual contrast, making them stand out against the white background and the light blue moat.
+23-1	2468-2471	The	_	_	_	
+23-2	2472-2477	Solid	_	_	_	
+23-3	2478-2482	Gray	_	_	_	
+23-4	2483-2487	Fill	_	_	_	
+23-5	2488-2490	of	_	_	_	
+23-6	2491-2494	the	_	_	_	
+23-7	2495-2501	Castle	_	_	_	
+23-8	2502-2511	Buildings	_	_	_	
+23-9	2511-2512	:	_	_	_	
+23-10	2513-2516	The	_	_	_	
+23-11	2517-2522	solid	_	_	_	
+23-12	2522-2523	,	_	_	_	
+23-13	2524-2528	dark	_	_	_	
+23-14	2529-2533	gray	_	_	_	
+23-15	2534-2538	fill	_	_	_	
+23-16	2539-2541	of	_	_	_	
+23-17	2542-2545	the	_	_	_	
+23-18	2546-2552	castle	_	_	_	
+23-19	2553-2563	structures	_	_	_	
+23-20	2564-2571	creates	_	_	_	
+23-21	2572-2573	a	_	_	_	
+23-22	2574-2580	strong	_	_	_	
+23-23	2581-2587	visual	_	_	_	
+23-24	2588-2596	contrast	_	_	_	
+23-25	2596-2597	,	_	_	_	
+23-26	2598-2604	making	_	_	_	
+23-27	2605-2609	them	_	_	_	
+23-28	2610-2615	stand	_	_	_	
+23-29	2616-2619	out	_	_	_	
+23-30	2620-2627	against	_	_	_	
+23-31	2628-2631	the	_	_	_	
+23-32	2632-2637	white	_	_	_	
+23-33	2638-2648	background	_	_	_	
+23-34	2649-2652	and	_	_	_	
+23-35	2653-2656	the	_	_	_	
+23-36	2657-2662	light	_	_	_	
+23-37	2663-2667	blue	_	_	_	
+23-38	2668-2672	moat	_	_	_	
+23-39	2672-2673	.	_	_	_	
+
+#Text=The Contrast between the Solid Shapes and the Lines: The combination of solid gray shapes for the castle and the thin, dotted lines for footpaths and solid lines for roads creates a clear visual hierarchy.
+24-1	2674-2677	The	_	_	_	
+24-2	2678-2686	Contrast	_	_	_	
+24-3	2687-2694	between	_	_	_	
+24-4	2695-2698	the	_	_	_	
+24-5	2699-2704	Solid	_	_	_	
+24-6	2705-2711	Shapes	_	_	_	
+24-7	2712-2715	and	_	_	_	
+24-8	2716-2719	the	_	_	_	
+24-9	2720-2725	Lines	_	_	_	
+24-10	2725-2726	:	_	_	_	
+24-11	2727-2730	The	_	_	_	
+24-12	2731-2742	combination	_	_	_	
+24-13	2743-2745	of	_	_	_	
+24-14	2746-2751	solid	_	_	_	
+24-15	2752-2756	gray	_	_	_	
+24-16	2757-2763	shapes	_	_	_	
+24-17	2764-2767	for	_	_	_	
+24-18	2768-2771	the	_	_	_	
+24-19	2772-2778	castle	_	_	_	
+24-20	2779-2782	and	_	_	_	
+24-21	2783-2786	the	_	_	_	
+24-22	2787-2791	thin	_	_	_	
+24-23	2791-2792	,	_	_	_	
+24-24	2793-2799	dotted	_	_	_	
+24-25	2800-2805	lines	_	_	_	
+24-26	2806-2809	for	_	_	_	
+24-27	2810-2819	footpaths	_	_	_	
+24-28	2820-2823	and	_	_	_	
+24-29	2824-2829	solid	_	_	_	
+24-30	2830-2835	lines	_	_	_	
+24-31	2836-2839	for	_	_	_	
+24-32	2840-2845	roads	_	_	_	
+24-33	2846-2853	creates	_	_	_	
+24-34	2854-2855	a	_	_	_	
+24-35	2856-2861	clear	_	_	_	
+24-36	2862-2868	visual	_	_	_	
+24-37	2869-2878	hierarchy	_	_	_	
+24-38	2878-2879	.	_	_	_	
+
+#Text=The solid shapes immediately draw the eye, while the lines provide context and detail.
+25-1	2880-2883	The	_	_	_	
+25-2	2884-2889	solid	_	_	_	
+25-3	2890-2896	shapes	_	_	_	
+25-4	2897-2908	immediately	_	_	_	
+25-5	2909-2913	draw	_	_	_	
+25-6	2914-2917	the	_	_	_	
+25-7	2918-2921	eye	_	_	_	
+25-8	2921-2922	,	_	_	_	
+25-9	2923-2928	while	_	_	_	
+25-10	2929-2932	the	_	_	_	
+25-11	2933-2938	lines	_	_	_	
+25-12	2939-2946	provide	_	_	_	
+25-13	2947-2954	context	_	_	_	
+25-14	2955-2958	and	_	_	_	
+25-15	2959-2965	detail	_	_	_	
+25-16	2965-2966	.	_	_	_	
+
+#Text=Anchors summary  Château des Ducs de Bretagne — (named landmark) Light blue moat surrounding the castle — (non-named landmark) Castle buildings shown as solid gray fills — (non-named landmark) Contrast between solid shapes (castle) and lines (roads/footpaths) — (non-named visual features)
+26-1	2968-2975	Anchors	h1[20]	*[20]	_	
+26-2	2976-2983	summary	h1[20]	*[20]	_	
+26-3	2985-2992	Château	_	_	_	
+26-4	2993-2996	des	_	_	_	
+26-5	2997-3001	Ducs	_	_	_	
+26-6	3002-3004	de	_	_	_	
+26-7	3005-3013	Bretagne	_	_	_	
+26-8	3014-3015	—	_	_	_	
+26-9	3016-3017	(	_	_	_	
+26-10	3017-3022	named	_	_	_	
+26-11	3023-3031	landmark	_	_	_	
+26-12	3031-3032	)	_	_	_	
+26-13	3033-3038	Light	_	_	_	
+26-14	3039-3043	blue	_	_	_	
+26-15	3044-3048	moat	_	_	_	
+26-16	3049-3060	surrounding	_	_	_	
+26-17	3061-3064	the	_	_	_	
+26-18	3065-3071	castle	_	_	_	
+26-19	3072-3073	—	_	_	_	
+26-20	3074-3075	(	_	_	_	
+26-21	3075-3084	non-named	_	_	_	
+26-22	3085-3093	landmark	_	_	_	
+26-23	3093-3094	)	_	_	_	
+26-24	3095-3101	Castle	_	_	_	
+26-25	3102-3111	buildings	_	_	_	
+26-26	3112-3117	shown	_	_	_	
+26-27	3118-3120	as	_	_	_	
+26-28	3121-3126	solid	_	_	_	
+26-29	3127-3131	gray	_	_	_	
+26-30	3132-3137	fills	_	_	_	
+26-31	3138-3139	—	_	_	_	
+26-32	3140-3141	(	_	_	_	
+26-33	3141-3150	non-named	_	_	_	
+26-34	3151-3159	landmark	_	_	_	
+26-35	3159-3160	)	_	_	_	
+26-36	3161-3169	Contrast	_	_	_	
+26-37	3170-3177	between	_	_	_	
+26-38	3178-3183	solid	_	_	_	
+26-39	3184-3190	shapes	_	_	_	
+26-40	3191-3192	(	_	_	_	
+26-41	3192-3198	castle	_	_	_	
+26-42	3198-3199	)	_	_	_	
+26-43	3200-3203	and	_	_	_	
+26-44	3204-3209	lines	_	_	_	
+26-45	3210-3211	(	_	_	_	
+26-46	3211-3216	roads	_	_	_	
+26-47	3216-3217	/	_	_	_	
+26-48	3217-3226	footpaths	_	_	_	
+26-49	3226-3227	)	_	_	_	
+26-50	3228-3229	—	_	_	_	
+26-51	3230-3231	(	_	_	_	
+26-52	3231-3240	non-named	_	_	_	
+26-53	3241-3247	visual	_	_	_	
+26-54	3248-3256	features	_	_	_	
+26-55	3256-3257	)	_	_	_	

@@ -1,0 +1,135 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Div|divType|id
+#T_SP=webanno.custom.Annotation|Annotation
+
+
+#Text=Can you describe the content of this map?
+1-1	0-3	Can	h1[1]	*[1]	_	
+1-2	4-7	you	h1[1]	*[1]	_	
+1-3	8-16	describe	h1[1]	*[1]	_	
+1-4	17-20	the	h1[1]	*[1]	_	
+1-5	21-28	content	h1[1]	*[1]	_	
+1-6	29-31	of	h1[1]	*[1]	_	
+1-7	32-36	this	h1[1]	*[1]	_	
+1-8	37-40	map	h1[1]	*[1]	_	
+1-9	40-41	?	h1[1]	*[1]	_	
+
+#Text=Large-scale map of part of a large city, in this case Barcelona, Spain, as we can recognize the Plaça de Catalunya in the northwest of the map and the wide avenue known as La Rambla running southwards.
+2-1	42-53	Large-scale	p[2]	*[2]	_	
+2-2	54-57	map	p[2]	*[2]	_	
+2-3	58-60	of	p[2]	*[2]	_	
+2-4	61-65	part	p[2]	*[2]	spatial relation[4]	
+2-5	66-68	of	p[2]	*[2]	spatial relation[4]	
+2-6	69-70	a	p[2]	*[2]	_	
+2-7	71-76	large	p[2]	*[2]	_	
+2-8	77-81	city	p[2]	*[2]	_	
+2-9	81-82	,	p[2]	*[2]	_	
+2-10	83-85	in	p[2]	*[2]	_	
+2-11	86-90	this	p[2]	*[2]	_	
+2-12	91-95	case	p[2]	*[2]	_	
+2-13	96-105	Barcelona	p[2]	*[2]	toponym[5]	
+2-14	105-106	,	p[2]	*[2]	toponym[5]	
+2-15	107-112	Spain	p[2]	*[2]	toponym[5]	
+2-16	112-113	,	p[2]	*[2]	_	
+2-17	114-116	as	p[2]	*[2]	_	
+2-18	117-119	we	p[2]	*[2]	_	
+2-19	120-123	can	p[2]	*[2]	_	
+2-20	124-133	recognize	p[2]	*[2]	_	
+2-21	134-137	the	p[2]	*[2]	_	
+2-22	138-143	Plaça	p[2]	*[2]	toponym[6]	
+2-23	144-146	de	p[2]	*[2]	toponym[6]	
+2-24	147-156	Catalunya	p[2]	*[2]	toponym[6]	
+2-25	157-159	in	p[2]	*[2]	spatial relation[7]	
+2-26	160-163	the	p[2]	*[2]	spatial relation[7]	
+2-27	164-173	northwest	p[2]	*[2]	spatial relation[7]	
+2-28	174-176	of	p[2]	*[2]	spatial relation[7]	
+2-29	177-180	the	p[2]	*[2]	_	
+2-30	181-184	map	p[2]	*[2]	_	
+2-31	185-188	and	p[2]	*[2]	_	
+2-32	189-192	the	p[2]	*[2]	_	
+2-33	193-197	wide	p[2]	*[2]	_	
+2-34	198-204	avenue	p[2]	*[2]	_	
+2-35	205-210	known	p[2]	*[2]	_	
+2-36	211-213	as	p[2]	*[2]	_	
+2-37	214-216	La	p[2]	*[2]	toponym[8]	
+2-38	217-223	Rambla	p[2]	*[2]	toponym[8]	
+2-39	224-231	running	p[2]	*[2]	spatial relation[9]	
+2-40	232-242	southwards	p[2]	*[2]	spatial relation[9]	
+2-41	242-243	.	p[2]	*[2]	_	
+
+#Text=The map is fairly uniform in terms of buildings.
+3-1	244-247	The	p[2]	*[2]	_	
+3-2	248-251	map	p[2]	*[2]	_	
+3-3	252-254	is	p[2]	*[2]	_	
+3-4	255-261	fairly	p[2]	*[2]	_	
+3-5	262-269	uniform	p[2]	*[2]	_	
+3-6	270-272	in	p[2]	*[2]	_	
+3-7	273-278	terms	p[2]	*[2]	_	
+3-8	279-281	of	p[2]	*[2]	_	
+3-9	282-291	buildings	p[2]	*[2]	_	
+3-10	291-292	.	p[2]	*[2]	_	
+
+#Text=Three major streets stand out, colored yellow.
+4-1	293-298	Three	p[2]	*[2]	_	
+4-2	299-304	major	p[2]	*[2]	_	
+4-3	305-312	streets	p[2]	*[2]	_	
+4-4	313-318	stand	p[2]	*[2]	_	
+4-5	319-322	out	p[2]	*[2]	_	
+4-6	322-323	,	p[2]	*[2]	_	
+4-7	324-331	colored	p[2]	*[2]	_	
+4-8	332-338	yellow	p[2]	*[2]	_	
+4-9	338-339	.	p[2]	*[2]	_	
+
+#Text=Smaller streets are marked in bluish gray or white.
+5-1	340-347	Smaller	p[2]	*[2]	_	
+5-2	348-355	streets	p[2]	*[2]	_	
+5-3	356-359	are	p[2]	*[2]	_	
+5-4	360-366	marked	p[2]	*[2]	_	
+5-5	367-369	in	p[2]	*[2]	_	
+5-6	370-376	bluish	p[2]	*[2]	_	
+5-7	377-381	gray	p[2]	*[2]	_	
+5-8	382-384	or	p[2]	*[2]	_	
+5-9	385-390	white	p[2]	*[2]	_	
+5-10	390-391	.	p[2]	*[2]	_	
+
+#Text=Several symbols represent buildings: a cross for about fifteen churches, two masks to symbolize theaters, shopping carts for supermarkets, castle-like symbols for hotels, and columned temples for notable historical monuments.
+6-1	392-399	Several	p[2]	*[2]	_	
+6-2	400-407	symbols	p[2]	*[2]	_	
+6-3	408-417	represent	p[2]	*[2]	_	
+6-4	418-427	buildings	p[2]	*[2]	_	
+6-5	427-428	:	p[2]	*[2]	_	
+6-6	429-430	a	p[2]	*[2]	_	
+6-7	431-436	cross	p[2]	*[2]	_	
+6-8	437-440	for	p[2]	*[2]	_	
+6-9	441-446	about	p[2]	*[2]	_	
+6-10	447-454	fifteen	p[2]	*[2]	_	
+6-11	455-463	churches	p[2]	*[2]	_	
+6-12	463-464	,	p[2]	*[2]	_	
+6-13	465-468	two	p[2]	*[2]	_	
+6-14	469-474	masks	p[2]	*[2]	_	
+6-15	475-477	to	p[2]	*[2]	_	
+6-16	478-487	symbolize	p[2]	*[2]	_	
+6-17	488-496	theaters	p[2]	*[2]	_	
+6-18	496-497	,	p[2]	*[2]	_	
+6-19	498-506	shopping	p[2]	*[2]	_	
+6-20	507-512	carts	p[2]	*[2]	_	
+6-21	513-516	for	p[2]	*[2]	_	
+6-22	517-529	supermarkets	p[2]	*[2]	_	
+6-23	529-530	,	p[2]	*[2]	_	
+6-24	531-542	castle-like	p[2]	*[2]	_	
+6-25	543-550	symbols	p[2]	*[2]	_	
+6-26	551-554	for	p[2]	*[2]	_	
+6-27	555-561	hotels	p[2]	*[2]	_	
+6-28	561-562	,	p[2]	*[2]	_	
+6-29	563-566	and	p[2]	*[2]	_	
+6-30	567-575	columned	p[2]	*[2]	_	
+6-31	576-583	temples	p[2]	*[2]	_	
+6-32	584-587	for	p[2]	*[2]	_	
+6-33	588-595	notable	p[2]	*[2]	_	
+6-34	596-606	historical	p[2]	*[2]	_	
+6-35	607-616	monuments	p[2]	*[2]	_	
+6-36	616-617	.	p[2]	*[2]	_	
+
+#Text=Anchors summary
+7-1	618-625	Anchors	h1[3]	*[3]	_	
+7-2	626-633	summary	h1[3]	*[3]	_	
