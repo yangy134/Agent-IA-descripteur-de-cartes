@@ -8,6 +8,8 @@ import numpy as np
 import scikit_posthocs as sp
 from scipy import stats
 
+
+## Analyse le texte pour trouver la présence de mots clés et leur nombre
 def analyze_text(text, keywords):
     # Charger le modèle linguistique SpaCy
     nlp = spacy.load("en_core_web_md")
@@ -56,6 +58,8 @@ def display_results(matches, doc, keywords):
     else:
         print("❌ Aucun des mots-clés n'a été trouvé dans le texte.")
 
+
+## Créé le graphique d'occurence des mots
 def plot_occurences_map(dict):
     dict_df = pd.DataFrame.from_dict(dict)
     occurences = {"chatgpt": [], "human": [], "gemini": [], "claude": [], 
