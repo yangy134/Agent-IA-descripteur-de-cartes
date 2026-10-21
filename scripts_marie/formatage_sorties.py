@@ -40,8 +40,15 @@ def conversion_sortie_json(chemin_fichier_reponse):
 
 
 
-def formatage_sorties(chemin_executions):
-    pass
+def formatage_sorties(chemin_execution):
+    """
+    Fonction principale qui prend toutes les réponses brutes d'une exécution
+    et qui les formate en json et les enregistre dans le bon dossier (data_sorties)
+    """
+    ## Pour chaque fichier dans exécution
+    contenu_reponses_brutes = os.listdir(os.path.join(chemin_execution, "data_reponses_brutes"))
+    for elt in contenu_reponses_brutes:
+        conversion_sortie_json(os.path.join(chemin_execution, "data_reponses_brutes", elt))
 
 
 
@@ -53,5 +60,7 @@ if __name__ == "__main__" :
 
     ## test enregistrement fichier JSON
     chemin_sortie = "executions\Exec_20261021115248\data_sorties\FausseCarte_Humain_1_1_1_Sortie.json"
+    #conversion_sortie_json(chemin_meta)
 
-    conversion_sortie_json(chemin_meta)
+    ## Tests enregsitrements de tous les fichiers
+    formatage_sorties("executions\Exec_20261021115248")
