@@ -1,0 +1,76 @@
+scene,id,categorie,nom,zones,importance,visible_google,visible_apple,visible_osm
+bubry_z15,1,voie,route sans nom (ouest - est),NO;N,1,T,T,T
+bubry_z15,2,voie,route sans nom (nord-sud),NO,1,T,T,T
+bubry_z15,3,eau,rivière sans nom (ouest - est),NO;N,2,T,T,0
+bubry_z15,4,eau,rivière sans nom (est-ouest),NO,2,T,T,0
+bubry_z15,5,voie,route sans nom (ouest - est),NO;O,1,T,T,T
+bubry_z15,6,voie,Lande de coscodo,N,1,N,N,T
+bubry_z15,7,voie,Stang Hir,NE;E;N,1,N,N,T
+bubry_z15,8,eau,Ruisseau de Brulé,N;C;E;SE,1,T,T,N
+bubry_z15,9,voie,route sans nom (ouest - est),NE,1,T,T,T
+bubry_z15,10,voie,route sans nom (ouest - est),NE,1,T,T,T
+bubry_z15,11,eau,rivière sans nom (nord-sud),NE;E;SE,2,T,T,T
+bubry_z15,12,toponyme,Keryacunff,NE,1,N,N,N
+bubry_z15,13,voie,D3,NE;E,1,N,N,T
+bubry_z15,14,toponyme,Caniac,E,1,N,N,N
+bubry_z15,15,voie,Perros,C;S;SE,1,T,N,T
+bubry_z15,16,toponyme,Kerboarn,S,1,N,N,N
+bubry_z15,17,eau,rivière sans nom (nord-sud),C;S;SE,2,T,T,0
+bubry_z15,18,eau,rivière sans nom (nord-sud),S;SE,2,T,T,0
+bubry_z15,19,eau,rivière sans nom (est-ouest),S;SO,2,T,T,0
+bubry_z15,20,eau,etang sans nom,SO,1,T,T,T
+bubry_z15,21,voie,route sans nom (nord-sud),O;SO,1,T,T,T
+bubry_z15,22,eau,rivière sans nom (nord-sud),S;C;SO,2,T,T,0
+bubry_z15,23,eau,rivière sans nom (nord-sud-ouest),SO;O,2,T,T,0
+bubry_z15,24,toponyme,Manéandol,SO,1,N,N,N
+bubry_z15,25,voie,Perros,O,1,T,N,T
+bubry_z15,26,voie,route sans nom (ouest-est),O;C,1,T,T,T
+bubry_z15,27,toponyme,Tal Er Ganquis,C,1,N,N,N
+bubry_z15,28,toponyme,Kerouarc'h Trionnec,C,1,N,N,N
+bubry_z15,29,POI,Marie-jeanne FRANCART,O,1,N,0,0
+bubry_z15,30,POI,LAMOUR ART AND,SO,1,N,0,0
+bubry_z15,31,POI,Le Scodan Le Bail Marie Armelle,O,2,N,0,0
+bubry_z15,31,POI,EARL RIVALAIN,C,2,N,0,0
+bubry_z15,32,POI,Le Floch menuiserie,NE,2,N,0,0
+bubry_z15,32,POI,Elevage Ptits Pimousses,E,2,N,0,0
+bubry_z15,33,toponyme,Le Porz,NO,2,0,0,N
+bubry_z15,34,toponyme,Leurven,NO,2,0,0,N
+bubry_z15,35,toponyme,Canquisarel,O,2,0,0,N
+bubry_z15,36,toponyme,Brandily,O,2,0,0,N
+bubry_z15,37,toponyme,Perros,SE,2,0,0,N
+bubry_z15,37,toponyme,Resterhy,SE,2,0,0,N
+bubry_z15,37,toponyme,Manéguy Coscodo,E,2,0,0,N
+bubry_z15,37,toponyme,Kerourio Vihan,E,2,0,0,N
+bubry_z15,37,toponyme,Kerourio Vras,NE,2,0,0,N
+bubry_z15,37,toponyme,Guern en Tal,NE,2,0,0,N
+bubry_z15,37,toponyme,Ty Guern Coscodo,N,2,0,0,N
+bubry_z15,37,toponyme,Saint-Drenan,N,2,0,0,N
+bubry_z15,37,toponyme,Kermilon,N,2,0,0,N
+bubry_z15,37,toponyme,Kergouallecn,N,2,0,0,N
+bubry_z15,37,toponyme,Kermoing,N,2,0,0,N
+bubry_z15,37,toponyme,Kerbellour,N,2,0,0,N
+bubry_z15,37,zone,forêt,N,2,0,0,N
+bubry_z15,37,cadrage,habitat en hameaux dispersés sans bourg,toutes,1,N,N,N
+bubry_z15,37,cadrage,espace rural,toutes,1,N,N,N
+bubry_z15,37,cadrage,mosaïque de bois et de champs parcourue de nombreux ruisseaux,toutes,1,N,N,N
+bubry_z16,55,voie,carrefour à 50 voies,NO,1,T,T,T
+bubry_z16,56,eau,rivière sans nom (nord-sud),NE;E;SE;N,2,T,T,T
+bubry_z16,55,voie,Kerboharne,NO;C;S,1,T,N,T
+bubry_z16,56,eau,rivière sans nom (nord-sud),O;SO,2,T,T,0
+bubry_z16,55,voie,route sans nom (ouest-est),NE,1,T,T,T
+bubry_z16,27,toponyme,Tal Er Ganquis,O,1,N,N,N
+bubry_z16,27,toponyme,Kerbail,O,1,N,N,N
+bubry_z16,27,toponyme,Kerouarc'h Trionnec,C;S,1,N,N,N
+bubry_z16,37,cadrage,habitat en hameaux dispersés sans bourg,toutes,1,N,0,N
+bubry_z16,37,cadrage,espace rural,toutes,1,N,N,N
+bubry_z16,37,cadrage,mosaïque de bois et de champs parcourue de nombreux ruisseaux,toutes,1,N,N,N
+bubry_z16,31,POI,Le Scodan Le Bail Marie Armelle,NO,2,N,0,0
+bubry_z16,31,POI,EARL RIVALAIN,C,2,N,0,0
+bubry_z18,68,cadrage,habitat en hameaux dispersés sans bourg,toutes,1,N,0,N
+bubry_z18,37,cadrage,espace rural,toutes,1,N,N,N
+bubry_z18,37,cadrage,mosaïque de bois et de champs parcourue de nombreux ruisseaux,toutes,1,N,N,N
+bubry_z18,56,eau,etang,SO,2,0,T,0
+bubry_z18,55,voie,Tal er Ganquis,NO;O;C;S,1,N,N,T
+bubry_z18,31,POI,EARL RIVALAIN,S,2,N,0,0
+bubry_z18,55,voie,route sans nom (ouest-est),C;E,1,T,0,T
+bubry_z18,55,voie,route sans nom (ouest-est),SE;S,1,T,T,T
