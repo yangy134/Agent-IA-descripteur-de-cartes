@@ -2,6 +2,8 @@ from pathlib import Path
 import json
 import os
 
+## Attention: manque récupération du prompt associé à chaque réponse
+
 def recuperation_metadonnees(nom_fichier_reponse):
     """
     Récupère les métadonnées de la réponse brute 
