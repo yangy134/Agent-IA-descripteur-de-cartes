@@ -7,6 +7,10 @@ Gemma, L’Agent Voirie : Il se concentre exclusivement sur la lecture des noms 
 Llama, l’Agent Synthèse : Il fusionne les informations des deux premiers agents et rédige une
 description finale claire, fluide et bien structurée pour la lecture d’écran.
 
-Ces IA ont du décrire une carte pour n prompts différents (avec chacun leur identifiant de 1 à n), ce processus de n descriptions a été répété m fois avec effacement de mémoire entre chaque série.
+Ces IA ont du décrire une carte pour {n} prompts différents (avec chacun leur identifiant de 1 à {n}), ce processus de {n} descriptions a été répété {m} fois avec effacement de mémoire entre chaque série.
 
-Tu dois prendre l'ensemble de ces prompts et produire une description de carte finale en éliminant au maximum 
+Tu dois prendre l'ensemble de ces prompts et produire une description de carte finale en éliminant au maximum d'erreur qui auraient pu être commises par les IA
+
+
+Voici les différentes sorties des IA formatées en JSON:
+

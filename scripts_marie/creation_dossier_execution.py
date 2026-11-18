@@ -9,7 +9,7 @@ def crea_doss_exec():
     """
 
     ## Localisation de la racine
-    racine = "executions"
+    racine = os.path.join("data","executions")
 
     ## Récupération des données de date
     maintenant = datetime.datetime.now()
