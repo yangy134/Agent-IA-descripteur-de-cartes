@@ -1,0 +1,16 @@
+{
+    "num_serie" : 1,
+    "description_serie": "Série test servant à vérifier la bonne implémentation du programme, ne sert pas à tester l'efficacité des programmes",
+    "série prompts" : [ 
+        { 
+        "id": 1, 
+        "description_prompt": "Le prompt le plus simple du monde",
+        "prompt": " Décrit-moi cette carte " 
+        },  
+        { 
+        "id": 2,
+        "description_prompt": "Un autre prompt simple, ajouté pour avoir une structure de plusieurs prompts", 
+        "prompt": " Peut-tu me localiser plus pécisément les grandes voies ?" 
+        } 
+    ] 
+}
