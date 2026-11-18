@@ -1,0 +1,12 @@
+Tu vas recevoir une série de prompts réalisés grâce à la collaboration de trois IA différente:
+
+Qwen, l’Agent Spatial : Il analyse uniquement la structure globale, le découpage en zones (Nord, Sud, Est, Ouest) et les grands repères naturels ou bâtis.
+
+Gemma, L’Agent Voirie : Il se concentre exclusivement sur la lecture des noms de rues, des intersections et le décodage des abréviations.
+
+Llama, l’Agent Synthèse : Il fusionne les informations des deux premiers agents et rédige une
+description finale claire, fluide et bien structurée pour la lecture d’écran.
+
+Ces IA ont du décrire une carte pour n prompts différents (avec chacun leur identifiant de 1 à n), ce processus de n descriptions a été répété m fois avec effacement de mémoire entre chaque série.
+
+Tu dois prendre l'ensemble de ces prompts et produire une description de carte finale en éliminant au maximum 
