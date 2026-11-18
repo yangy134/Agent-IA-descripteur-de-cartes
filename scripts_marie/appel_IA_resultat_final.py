@@ -18,7 +18,8 @@ def creation_prompt(id_exec):
     chemin_dossier_exec = os.path.join(racine, "executions", "Exec_" + str(id_exec))
     chemin_base_prompt_final = os.path.join(chemin_dossier_exec, "Prompts_finaux", prompt_choisi)
 
-    ## Récupération des métadonnées de l'exécution
+    ## Récupération des métadonnées de l'exécution (à faire)
+
 
     ## concaténation de toutes les réponses dans un texte
     with open(chemin_base_prompt_final, "r") as f: 
