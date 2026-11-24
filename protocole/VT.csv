@@ -240,9 +240,83 @@ campus_z16,76,POI,Stade de la Butte verte, SO, 1,0,N,N
 campus_z16,76,POI,Hertz, SO, 1,0,N,0
 campus_z16,76,POI,Centre aquatique Intercommunal, E, 1,N,N,0
 campus_z16,76,POI,Franprix, C, 1,0,N,0
-campus_z16,76,POI,Ecole nationale des ponts et chaussées(ENPC), C;N, 1,0,N,0
+campus_z16,76,POI,Ecole nationale des ponts et chaussées(ENPC), C;N, 1,N,N,0
 campus_z16,76,POI,G LA DALLE-Champs-sur-Marne, NO, 1,N,0,0
 campus_z16,76,POI,Freinet, O, 1,N,0,0
-campus_z16,76,POI,Une pièce en plus Emerainville Paris, O, 1,N,0,0
+campus_z16,76,POI,Une pièce en plus Emerainville Paris, O, 1,N,0,N
 campus_z16,76,POI,IFOA Grand Paris-Ecole d'ostéopatie animale, S, 1,N,0,0
+campus_z16,76,POI,Les Fraises de Clara, NE, 1,N,0,0
+campus_z16,76,POI,Descartes SUP, N, 1,N,0,0
+campus_z16,76,POI,Pagny Associés-Expret-Comptable, C, 1,N,0,0
+campus_z16,76,POI,Gymnase René Descartes, N, 1,N,0,0
+campus_z16,76,POI,Le Parc, C, 1,N,0,0
+campus_z16,76,eau,Etang de la Haute Maison, E;SE, 1,T,N,N
+campus_z16,76,eau,Etang de Bailly, E;NE, 1,T,N,N
+campus_z16,76,eau,Ru du Merdereau, E;SE;NE, 1,N,T,N
+campus_z16,76,toponyme,Le champy, NO, 1,0,N,N
+campus_z16,76,toponyme,La Haute maison, NO, 1,0,N,0
+campus_z16,76,toponyme,Butte Verte, O, 1,0,0,N
+campus_z16,76,toponyme,Cité Descartes, C, 1,0,0,N
+campus_z16,76,toponyme,Torcy, O, 2,0,0,N
+campus_z16,76,toponyme,Seine-Saint-Denis, O, 2,0,0,N
+campus_z16,76,toponyme,Ligne de Fontenay-Sous-Bois à Marne-la-Vallée Chessy, N, 2,0,0,N
+campus_z16,76,toponyme,Bienvenüe,C, 2,0,0,N
+campus_z16,76,voie,A4, S;SE;SO, 1,N,N,N
+campus_z16,76,voie,Autoroute de l'est, S;SE;SO, 1,T,N,N
+campus_z16,76,voie,Boulevard Newton, NO;N, 1,N,N,N
+campus_z16,76,voie,Rue Gallilée, S;C, 1,N,N,N
+campus_z16,76,voie,Rue Alfred Nobel, C, 1,N,N,N
+campus_z16,76,voie,Route de Malnoue, NE;E;SE, 1,N,N,N
+campus_z16,76,voie,Rue de la butte Verte,NO, 1,N,T,N
+campus_z16,76,voie,Rue Nelson Mandela,NO, 1,N,T,N
+campus_z16,76,voie,Avenue André-Marie Ampere,NO, 1,N,T,T
+campus_z16,76,voie,Bd Blaide Pascal,O, 1,N,T,N
+campus_z16,76,voie,Bd des Astronautes,SO, 1,N,T,N
+campus_z16,76,voie,Av Blaise Pascal,C;E, 1,N,T,N
+campus_z16,76,voie,Rue des frères lumière,C, 1,N,T,N
+campus_z16,76,voie,Rue Albert Einstein,S, 1,N,T,N
+campus_z16,76,voie,Allée Kepler,NO, 1,N,T,N
+campus_z16,76,toponyme,Seine-et-Marne,S, 2,N,0,0
+campus_z16,76,voie,D51,E;SE, 1,N,T,N
+campus_z16,76,voie,Rue des Hauts Châteaux,NO, 1,T,T,N
+campus_z16,76,voie,Allée de la Noiseraie,O, 1,T,T,N
+campus_z16,76,toponyme,Square de la Noiserai,O, 1,0,0,N
+campus_z16,76,voie,Rue de la Butte au Cailles,O, 1,T,T,N
+campus_z16,76,voie,Rue du Ballon,SO, 1,T,T,N
+campus_z16,76,voie,Avebue de l'Europe,SE;S, 1,T,T,N
+campus_z16,76,voie,Allée Newton,S, 1,T,T,N
+campus_z16,76,voie,D51,O, 1,T,T,N
+campus_z16,76,voie,Allée des Marronniers,N;NE, 1,T,T,N
+campus_z18,76,POI,Formation d'ingénieur IMAC, NO, 1,0,N,0
+campus_z18,76,POI,Université Gustave Eiffel, O, 1,N,N,N 
+campus_z18,76,POI,La Centrif', SO, 1,N,N,0
+campus_z18,76,POI,MSO Technologie, S, 1,0,N,0
+campus_z18,76,POI,Librairie Ecospère, S, 1,0,N,0
+campus_z18,76,POI,Locavan, SE, 1,N,N,0
+campus_z18,76,POI,FCBA Institute Technologique, SE, 1,0,N,N
+campus_z18,76,POI,Batiment Lavoisier, SE, 1,N,N,N
+campus_z18,76,POI,Bibliothèque Georges Perec, NE, 1,N,N,N
+campus_z18,76,POI,UXCO, NE, 1,0,N,0
+campus_z18,76,POI,ISGMI, NE, 1,0,N,0
+campus_z18,76,POI,ESIPE - Ecole Supérieure d'ingénieurs Paris-Est, NO, 1,N,0,0
+campus_z18,76,POI,Parcelle Y, NO;N, 1,N,0,N
+campus_z18,76,POI,Le Kartel, O, 1,N,0,0
+campus_z18,76,POI,Aménagement 77, SO, 1,N,0,0
+campus_z18,76,POI,UGAP - Nobel, S, 1,N,0,0
+campus_z18,76,POI,Pagny Associés-Expret-Comptable, S, 1,N,0,0
+campus_z18,76,POI,Interis, SE, 1,N,0,0
+campus_z18,76,POI,Aire de street workout, E, 1,N,0,0
+campus_z18,76,POI,FUZZ FESTIVAL, NE, 1,N,0,0
+campus_z18,76,POI,RECC, N, 1,N,0,N
+campus_z18,76,POI,Les Compagnons du Devoir, N, 1,N,0,N
+campus_z18,76,toponyme,Institut Français d'urbanisme,SO, 1,N,0,0
+campus_z18,76,toponyme,Batiment Nobel,S, 1,N,0,N 
+campus_z18,76,toponyme,Batiment Frnçois Rabelais,E, 1,N,0,N 
+campus_z18,76,toponyme,Maison de l'étudiant,E;C, 1,N,0,0
+campus_z18,76,toponyme,Clément Ader,E, 1,0,0,N 
+campus_z18,76,toponyme,Frères Lumière - I.F.U,S;SO, 1,0,0,N 
+campus_z18,76,toponyme,Restaurant universitaire l'Arleuin,O, 1,0,0,N 
+campus_z18,76,toponyme,Parking Batiment Copernic,O;C, 1,0,0,N 
+campus_z18,76,toponyme,Résidence Internationale UPME,E, 1,0,0,N 
+
 

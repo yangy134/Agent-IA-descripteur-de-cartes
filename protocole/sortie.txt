@@ -1,0 +1,112 @@
+—-----campus_z15_google
+## VUE D'ENSEMBLE
+La zone cartographiée se situe dans le département de Seine-et-Marne, en France. La disposition globale de la zone est caractérisée par une urbanisation dense au centre, avec des zones vertes périphériques. 
+
+## AXES ET VOIRIE
+Les grandes artères et rues vérifiées avec leurs orientations sont les suivantes :
+- **A4** (autoroute, orientée Est-Ouest)
+- **N118** (route nationale, orientée Est-Ouest)
+- **D199** (route départementale, orientée Nord-Sud)
+- **D159** (route départementale, orientée Nord-Sud)
+- **D919** (route départementale, orientée Nord-Sud)
+- **A6** (autoroute, orientée Nord-Sud)
+
+## REPÈRES REMARQUABLES
+Les monuments, musées, parcs et autres points d'intérêt avec leurs positions cardinales certifiées sont :
+- **Université Gustave Eiffel** : au centre de la zone
+- **Bois de Grâce** : au nord de la zone, près de la route départementale D199
+- **Bois de la Grange** : à l'est de la zone
+- **Parc de l'Ancien Monastère** : au sud de la zone, près de l'autoroute A4
+- **Mosquée de Noisiel** : à l'est de la zone
+- **École Nationale des Finances Publiques** : à l'est de la zone
+- **ENPC (École nationale des ponts et chaussées)** : au centre-est de la zone
+
+## POINTS D'INCERTITUDE
+Les zones trop denses, écritures trop petites ou symboles non explicités sont :
+- Certaines zones urbaines denses où les noms de rues et des bâtiments sont difficiles à lire.
+- Quelques symboles représentant des lieux ou des institutions qui n'ont pas pu être explicités avec certitude.
+
+—-----campus_z15_apple
+## VUE D'ENSEMBLE 
+La zone cartographiée englobe les villes de Noisy-le-Grand, Champs-sur-Marne et Noisiel, située principalement dans le département de la Seine-Saint-Denis et des Yvelines en Île-de-France. La carte présente une organisation spatiale mixte, avec des zones urbanisées denses et des espaces verts périphériques. La Marne traverse la zone.
+
+## AXES ET VOIRIE 
+Les grands axes de circulation sont :
+- **A4** : Autoroute traversant la zone d'ouest en est.
+- **A3** : Autoroute traversant la zone du nord-ouest au sud-est.
+- **D 903** : Route départementale traversant la zone du nord-ouest au sud-est.
+- **D 910** : Route départementale traversant la zone du nord-ouest au sud-est.
+- **D 951** : Route départementale traversant la zone d'ouest en est.
+- **D 970** : Route départementale traversant la zone du nord au sud.
+- **Rue de la Marne** : Rue orientée est-ouest.
+- **Rue Nast** : Rue orientée nord-sud.
+- **Rue des Prés** : Rue orientée nord-ouest / sud-est.
+- **All. de l'Île** : Allée orientée nord-ouest / sud-est.
+- **Rue Paul** : Rue orientée nord-ouest / sud-est.
+- **Rue de la Forêt** : Rue orientée nord-ouest / sud-est.
+- **Rue du Ballon** : Rue orientée est-ouest.
+- **Av. Médéric** : Avenue orientée est-ouest.
+- **Av. de la Liberté** : Avenue orientée est-ouest.
+
+## REPÈRES REMARQUABLES 
+Les principaux repères sont :
+- **Stade des Bords de Marne** (Nord)
+- **Parc Villeflix** (Nord-Ouest)
+- **Espace Michel-Simon** (Ouest)
+- **Stade Alain Mimoun** (Sud-Ouest)
+- **McDonald's** (Centre-Sud)
+- **Parc de la Butte Verte** (Centre)
+- **Université Gustave Eiffel** (Centre-Est)
+- **Stade du Bois de l'Etang** (Est)
+- **Étang de la Haute Maison** (Est)
+- **Forêt Régionale de Célie** (Sud-Est)
+- **Bois des Yvriss** (Sud)
+- **Stade Dominique Rocheteau** (Sud-Est)
+- **Lycée Simone Veil** (Est)
+- **Carrefour** (Nord-Est)
+- **Le Shanghaï 1949** (Nord-Est)
+
+## POINTS D'INCERTITUDE 
+Les zones de densité élevée ou les informations peu lisibles sur la carte :
+- **Zone dense autour de Noisy-le-Grand**
+- **Zone dense autour de Champs-sur-Marne**
+- **Zone dense autour de Noisiel**
+
+—----campus_z15_osm
+
+## VUE D'ENSEMBLE
+La zone se situe dans le département de Seine-et-Marne en France. La ville principale est Noisy-Champs, avec des zones résidentielles, commerciales et universitaires. La carte est centrée autour de l'Université Gustave Eiffel et de la Cité Descartes.
+
+## AXES ET VOIRIE
+- Autoroute de l'Est (A4) : Traversant la carte du sud au nord-est.
+- Avenue de l'Europe : Au sud de la carte, longeant le Parc de Malnoue.
+- Avenue Blaise Pascal : Au centre de la carte, reliant différents quartiers.
+- Pont Copernic : Au centre-nord de la carte, traversant la ligne de chemin de fer.
+- Bd de la Marne : Boulevard, Orienté Nord-Ouest / Sud-Est.
+- Bd de la République : Boulevard, Orienté Nord-Ouest / Sud-Est.
+- Bd de Montfermeil : Boulevard, Orienté Nord-Ouest / Sud-Est.
+- Rue de la Mare : Orientée Nord-Ouest / Sud-Est.
+- Rue de la Butte Verte : Orientée Nord-Ouest / Sud-Est.
+- Rue de la Maisonnette : Orientée Nord-Ouest / Sud-Est.
+- Rue des Batours : Orientée Nord-Ouest / Sud-Est.
+- Rue de la Grande Vallée : Orientée Nord-Ouest / Sud-Est.
+- Rue du Ballon : Orientée Nord-Ouest / Sud-Est.
+- Rue du Pré-Saint-Martin : Orientée Nord-Ouest / Sud-Est.
+- Rue de la Varenne : Orientée Nord-Ouest / Sud-Est.
+- Rue de l'Égalité : Orientée Nord-Ouest / Sud-Est.
+- Rue de la République : Orientée Nord-Ouest / Sud-Est.
+- Rue de la Convention : Orientée Nord-Ouest / Sud-Est.
+- Rue de la Victoire : Orientée Nord-Ouest / Sud-Est.
+- Rue de la Paix : Orientée Nord-Ouest / Sud-Est.
+
+## REPÈRES REMARQUABLES
+- Université Gustave Eiffel : Centre de la carte, à côté de la Cité Descartes.
+- Étang de la Haute Maison : Au sud-est du centre, proche de l'Autoroute de l'Est.
+- Parc de Malnoue : Au sud de la carte, près de l'Avenue de l'Europe.
+- Bois de Grâce : Au nord de la carte, étendu vers l'est.
+- Bois de la Grange : À l'est de la carte, bordant l'Autoroute de l'Est.
+
+## POINTS D'INCERTITUDE
+- Zones trop denses : Certains quartiers résidentiels peuvent être difficiles à déchiffrer en raison de la densité des noms de rues et des bâtiments.
+- Écritures trop petites : Certains noms de rues ou de lieux peuvent être difficiles à lire en raison de leur petite taille.
+
