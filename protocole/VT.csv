@@ -1,38 +1,38 @@
 scene,id,categorie,nom,zones,importance,visible_google,visible_apple,visible_osm
-bubry_z15,1,voie,route sans nom (ouest - est),NO;N,1,T,T,T
-bubry_z15,2,voie,route sans nom (nord-sud),NO,1,T,T,T
-bubry_z15,3,eau,rivière sans nom (ouest - est),NO;N,2,T,T,0
-bubry_z15,4,eau,rivière sans nom (est-ouest),NO,2,T,T,0
-bubry_z15,5,voie,route sans nom (ouest - est),NO;O,1,T,T,T
-bubry_z15,6,voie,Lande de coscodo,N,1,N,N,T
-bubry_z15,7,voie,Stang Hir,NE;E;N,1,N,N,T
-bubry_z15,8,eau,Ruisseau de Brulé,N;C;E;SE,1,T,T,N
-bubry_z15,9,voie,route sans nom (ouest - est),NE,1,T,T,T
-bubry_z15,10,voie,route sans nom (ouest - est),NE,1,T,T,T
-bubry_z15,11,eau,rivière sans nom (nord-sud),NE;E;SE,2,T,T,T
+bubry_z15,1,voie,route sans nom (ouest - est),NO;N,5,T,T,T
+bubry_z15,2,voie,route sans nom (nord-sud),NO,5,T,T,T
+bubry_z15,3,eau,rivière sans nom (ouest - est),NO;N,4,T,T,0
+bubry_z15,4,eau,rivière sans nom (est-ouest),NO,4,T,T,0
+bubry_z15,5,voie,route sans nom (ouest - est),NO;O,5,T,T,T
+bubry_z15,6,voie,Lande de coscodo,N,3,N,N,T
+bubry_z15,7,voie,Stang Hir,NE;E;N,3,N,N,T
+bubry_z15,8,eau,Ruisseau de Brulé,N;C;E;SE,3,T,T,N
+bubry_z15,9,voie,route sans nom (ouest - est),NE,5,T,T,T
+bubry_z15,10,voie,route sans nom (ouest - est),NE,5,T,T,T
+bubry_z15,11,eau,rivière sans nom (nord-sud),NE;E;SE,3,T,T,T
 bubry_z15,12,toponyme,Keryacunff,NE,1,N,N,N
 bubry_z15,13,voie,D3,NE;E,1,N,N,T
-bubry_z15,14,toponyme,Caniac,E,1,N,N,N
-bubry_z15,15,voie,Perros,C;S;SE,1,T,N,T
+bubry_z15,14,toponyme,Caniac,E,2,N,N,N
+bubry_z15,15,voie,Perros,C;S;SE,2,T,N,T
 bubry_z15,16,toponyme,Kerboarn,S,1,N,N,N
-bubry_z15,17,eau,rivière sans nom (nord-sud),C;S;SE,2,T,T,0
-bubry_z15,18,eau,rivière sans nom (nord-sud),S;SE,2,T,T,0
-bubry_z15,19,eau,rivière sans nom (est-ouest),S;SO,2,T,T,0
-bubry_z15,20,eau,etang sans nom,SO,1,T,T,T
-bubry_z15,21,voie,route sans nom (nord-sud),O;SO,1,T,T,T
-bubry_z15,22,eau,rivière sans nom (nord-sud),S;C;SO,2,T,T,0
-bubry_z15,23,eau,rivière sans nom (nord-sud-ouest),SO;O,2,T,T,0
+bubry_z15,17,eau,rivière sans nom (nord-sud),C;S;SE,5,T,T,0
+bubry_z15,18,eau,rivière sans nom (nord-sud),S;SE,5,T,T,0
+bubry_z15,19,eau,rivière sans nom (est-ouest),S;SO,5,T,T,0
+bubry_z15,20,eau,etang sans nom,SO,2,T,T,T
+bubry_z15,21,voie,route sans nom (nord-sud),O;SO,3,T,T,T
+bubry_z15,22,eau,rivière sans nom (nord-sud),S;C;SO,5,T,T,0
+bubry_z15,23,eau,rivière sans nom (nord-sud-ouest),SO;O,5,T,T,0
 bubry_z15,24,toponyme,Manéandol,SO,1,N,N,N
-bubry_z15,25,voie,Perros,O,1,T,N,T
-bubry_z15,26,voie,route sans nom (ouest-est),O;C,1,T,T,T
+bubry_z15,25,voie,Perros,O,2,T,N,T
+bubry_z15,26,voie,route sans nom (ouest-est),O;C,5,T,T,T
 bubry_z15,27,toponyme,Tal Er Ganquis,C,1,N,N,N
 bubry_z15,28,toponyme,Kerouarc'h Trionnec,C,1,N,N,N
 bubry_z15,29,POI,Marie-jeanne FRANCART,O,1,N,0,0
-bubry_z15,30,POI,LAMOUR ART AND,SO,1,N,0,0
-bubry_z15,31,POI,Le Scodan Le Bail Marie Armelle,O,2,N,0,0
-bubry_z15,31,POI,EARL RIVALAIN,C,2,N,0,0
-bubry_z15,32,POI,Le Floch menuiserie,NE,2,N,0,0
-bubry_z15,32,POI,Elevage Ptits Pimousses,E,2,N,0,0
+bubry_z15,30,POI,LAMOUR ART AND,SO,3,N,0,0
+bubry_z15,31,POI,Le Scodan Le Bail Marie Armelle,O,4,N,0,0
+bubry_z15,31,POI,EARL RIVALAIN,C,4,N,0,0
+bubry_z15,32,POI,Le Floch menuiserie,NE,4,N,0,0
+bubry_z15,32,POI,Elevage Ptits Pimousses,E,5,N,0,0
 bubry_z15,33,toponyme,Le Porz,NO,2,0,0,N
 bubry_z15,34,toponyme,Leurven,NO,2,0,0,N
 bubry_z15,35,toponyme,Canquisarel,O,2,0,0,N
@@ -49,274 +49,285 @@ bubry_z15,37,toponyme,Kermilon,N,2,0,0,N
 bubry_z15,37,toponyme,Kergouallecn,N,2,0,0,N
 bubry_z15,37,toponyme,Kermoing,N,2,0,0,N
 bubry_z15,37,toponyme,Kerbellour,N,2,0,0,N
-bubry_z15,37,zone,forêt,N,2,0,0,N
+bubry_z15,37,zone,forêt,N,1,0,0,N
 bubry_z15,37,cadrage,habitat en hameaux dispersés sans bourg,toutes,1,N,N,N
 bubry_z15,37,cadrage,espace rural,toutes,1,N,N,N
 bubry_z15,37,cadrage,mosaïque de bois et de champs parcourue de nombreux ruisseaux,toutes,1,N,N,N
 bubry_z16,55,voie,carrefour à 50 voies,NO,1,T,T,T
 bubry_z16,56,eau,rivière sans nom (nord-sud),NE;E;SE;N,2,T,T,T
-bubry_z16,55,voie,Kerboharne,NO;C;S,1,T,N,T
+bubry_z16,55,voie,Kerboharne,NO;C;S,2,T,N,T
 bubry_z16,56,eau,rivière sans nom (nord-sud),O;SO,2,T,T,0
-bubry_z16,55,voie,route sans nom (ouest-est),NE,1,T,T,T
+bubry_z16,55,voie,route sans nom (ouest-est),NE,4,T,T,T
 bubry_z16,27,toponyme,Tal Er Ganquis,O,1,N,N,N
-bubry_z16,27,toponyme,Kerbail,O,1,N,N,N
+bubry_z16,27,toponyme,Kerbail,O,2,N,N,N
 bubry_z16,27,toponyme,Kerouarc'h Trionnec,C;S,1,N,N,N
 bubry_z16,37,cadrage,habitat en hameaux dispersés sans bourg,toutes,1,N,0,N
 bubry_z16,37,cadrage,espace rural,toutes,1,N,N,N
 bubry_z16,37,cadrage,mosaïque de bois et de champs parcourue de nombreux ruisseaux,toutes,1,N,N,N
-bubry_z16,31,POI,Le Scodan Le Bail Marie Armelle,NO,2,N,0,0
-bubry_z16,31,POI,EARL RIVALAIN,C,2,N,0,0
-bubry_z18,68,cadrage,habitat en hameaux dispersés sans bourg,toutes,1,N,0,N
+bubry_z16,31,POI,Le Scodan Le Bail Marie Armelle,NO,3,N,0,0
+bubry_z16,31,POI,EARL RIVALAIN,C,3,N,0,0
+bubry_z18,68,cadrage,batiments,C;SE;S;E,1,N,N,N
 bubry_z18,37,cadrage,espace rural,toutes,1,N,N,N
-bubry_z18,37,cadrage,mosaïque de bois et de champs parcourue de nombreux ruisseaux,toutes,1,N,N,N
-bubry_z18,56,eau,etang,SO,2,0,T,0
-bubry_z18,55,voie,Tal er Ganquis,NO;O;C;S,1,N,N,T
-bubry_z18,31,POI,EARL RIVALAIN,S,2,N,0,0
-bubry_z18,55,voie,route sans nom (ouest-est),C;E,1,T,0,T
-bubry_z18,55,voie,route sans nom (ouest-est),SE;S,1,T,T,T
-campus_z15,76,POI,The One Ball, SO, 2,N,N,0
-campus_z15,76,POI,Noisy-Champs, C, 1,N,N,N
-campus_z15,76,POI,ESIEE, C, 2,0,N,N
-campus_z15,76,POI,Université Gustave Eiffel, C, 1,0,N,0
+bubry_z18,56,eau,etang,SO,4,0,T,0
+bubry_z18,55,voie,Tal er Ganquis,NO;O;C;S,2,N,N,T
+bubry_z18,31,POI,EARL RIVALAIN,S,3,N,0,0
+bubry_z18,55,voie,route sans nom (ouest-est),C;E,3,T,0,T
+bubry_z18,55,voie,route sans nom (ouest-est),SE;S,3,T,T,T
+campus_z15,76,POI,The One Ball, SO,3,N,N,0
+campus_z15,76,POI,Noisy-Champs, C,3,N,N,N
+campus_z15,76,POI,ESIEE, C,3,0,N,N
+campus_z15,76,POI,Université Gustave Eiffel, C,1,0,N,0
 campus_z15,76,toponyme,Université Gustave Eiffel, C, 1,N,0,N
-campus_z15,76,POI,Lycée René Descartes, N, 1,0,N,0
-campus_z15,76,POI,Ibis, C, 1,0,N,0
-campus_z15,76,POI,Parc de la butte verte, O, 1,0,N,0
-campus_z15,76,POI,Addictea Café, C, 1,0,N,0
-campus_z15,76,POI,Bois de Yvris, S, 1,0,N,N
-campus_z15,76,POI,Stade du Bois de l'Etang, C;E, 1,0,N,N
-campus_z15,76,POI,Satde de la fontaine aux Coulons, NE, 1,0,N,0
-campus_z15,76,POI,Lycée Simone Veil, N, 1,0,N,0
-campus_z15,76,POI,McDonald's, NO, 1,N,0,0
-campus_z15,76,POI,L'Arizona, N, 1,N,0,0
-campus_z15,76,POI,ESIEE Paris, C, 1,N,0,0
-campus_z15,76,POI,Descartes SUP, C, 1,N,0,0
-campus_z15,76,POI,Ecole nationale des ponts et chaussées(ENPC), C, 1,N,0,0
-campus_z15,76,POI,IFOA Grand Paris-Ecole d'ostéopatie animale, C, 1,N,0,0
-campus_z15,76,POI,SAV PRO URBAIN-Reparation Trotinette, SO;O, 1,N,0,0
-campus_z15,76,POI,Ecole Elémentaire Paul Serelle, SO, 1,N,0,0
-campus_z15,76,POI,Puma Club MMA, S, 1,N,0,0
-campus_z15,76,POI,Amazon DIF6, S, 1,N,0,0
-campus_z15,76,POI,IDK Emerainville, S, 1,N,0,0
-campus_z15,76,POI,Bois de la Grange, E, 1,N,0,0
-campus_z15,76,POI,Tabac Le PICASSO, E, 1,N,0,0
-campus_z15,76,POI,Ecole Nationale des Finances Publiques, E, 1,N,0,0
-campus_z15,76,POI,Mosquée de Noisiel, E, 1,N,0,0
-campus_z15,76,POI,Noisiel, NE, 1,N,0,0
-campus_z15,76,POI,La Poste, NE, 1,N,0,0
-campus_z15,76,POI,Collège Le L, NE, 1,N,0,0
-campus_z15,76,POI,Tennis Club Champs-sur-Marne, NE, 1,N,0,0
-campus_z15,76,POI,Bois de Grâce, N, 1,N,0,0
+campus_z15,76,POI,Lycée René Descartes, N,2,0,N,0
+campus_z15,76,POI,Ibis, C,3,0,N,0
+campus_z15,76,POI,Parc de la butte verte, O,3,0,N,0
+campus_z15,76,POI,Addictea Café, C,3,0,N,0
+campus_z15,76,POI,Bois de Yvris, S,3,0,N,N
+campus_z15,76,POI,Stade du Bois de l'Etang, C;E,2,0,N,N
+campus_z15,76,POI,Satde de la fontaine aux Coulons, NE,3,0,N,0
+campus_z15,76,POI,Lycée Simone Veil, N,3,0,N,0
+campus_z15,76,POI,McDonald's, NO,3,N,0,0
+campus_z15,76,POI,L'Arizona, N,3,N,0,0
+campus_z15,76,POI,ESIEE Paris, C,2,N,0,0
+campus_z15,76,POI,Descartes SUP, C,3,N,0,0
+campus_z15,76,POI,Ecole nationale des ponts et chaussées(ENPC), C,2,N,0,0
+campus_z15,76,POI,IFOA Grand Paris-Ecole d'ostéopatie animale, C,3,N,0,0
+campus_z15,76,POI,SAV PRO URBAIN-Reparation Trotinette, SO;O,4,N,0,0
+campus_z15,76,POI,Ecole Elémentaire Paul Serelle, SO,4,N,0,0
+campus_z15,76,POI,Puma Club MMA, S,4,N,0,0
+campus_z15,76,POI,Amazon DIF6, S,4,N,0,0
+campus_z15,76,POI,IDK Emerainville, S,4,N,0,0
+campus_z15,76,POI,Bois de la Grange, E,1,N,0,0
+campus_z15,76,POI,Tabac Le PICASSO, E,3,N,0,0
+campus_z15,76,POI,Ecole Nationale des Finances Publiques, E,3,N,0,0
+campus_z15,76,POI,Mosquée de Noisiel, E,4,N,0,0
+campus_z15,76,POI,Noisiel, NE,1,N,0,0
+campus_z15,76,POI,La Poste, NE,3,N,0,0
+campus_z15,76,POI,Collège Le L, NE,3,N,0,0
+campus_z15,76,POI,Tennis Club Champs-sur-Marne, NE,4,N,0,0
+campus_z15,76,POI,Bois de Grâce, N,1,N,0,0
 campus_z15,56,eau,3 etangs,N,2,T,T,T
 campus_z15,56,eau,Etang de la Haute Maison,C,1,T,N,N 
-campus_z15,56,eau,Plan d'Eau 1 de la commune d'Emerainville,S,1,T,N,T
-campus_z15,56,eau,etang,S,2,T,T,T
-campus_z15,56,eau,Ru du Merderau,S;C;E;NE,2,T,T,N 
-campus_z15,76,toponyme,SEINE-ET-MARNE, C;NO;N, 2,N,0,N
-campus_z15,76,toponyme,NOISIEL, NE;SE, 1,0,N,N
-campus_z15,76,toponyme,Cormiers, NO, 2,0,0,N
-campus_z15,76,toponyme,Marnois, NO, 2,0,0,N
-campus_z15,76,toponyme,Hauts Bâtons, NO, 2,0,0,N
-campus_z15,76,toponyme,Champs-su-Marne, N;SE;C, 2,N,0,N
-campus_z15,76,toponyme,Bois de Grâce, N, 1,0,0,N
-campus_z15,76,toponyme,Pont Copernic, NO, 2,0,0,N
-campus_z15,76,toponyme,Les Deux Parcs, NE, 1,0,0,N
-campus_z15,76,toponyme,Le Luzard, NE, 1,0,0,N
-campus_z15,76,toponyme,Pablo Picasso, E, 2,0,0,N
-campus_z15,76,toponyme,Bois de la Grange, E, 1,0,0,N
-campus_z15,76,toponyme,Bois du Boulay, SE, 2,0,0,N
-campus_z15,76,toponyme,MALNOUE, S;SE, 1,0,0,N
-campus_z15,76,toponyme,Parc de Malnoue, S, 2,0,0,N
-campus_z15,76,toponyme,Le Raincy, S, 2,0,0,N
-campus_z15,76,toponyme,Seine-Saint-Denis, C, 2,0,0,N
-campus_z15,76,toponyme,Les Bosquets des Richardets, SO, 2,0,0,N
-campus_z15,76,toponyme,Butte Verte, O, 2,0,0,N
-campus_z15,76,toponyme,Grenouillère, O, 2,0,0,N
-campus_z15,76,toponyme,Champy, O, 2,0,0,N
-campus_z15,76,toponyme,Cité Descartes, C, 1,0,0,N
-campus_z15,76,toponyme,Torcy, C, 2,0,0,N
-campus_z15,76,toponyme,champs, NE, 2,N,0,0
-campus_z15,76,toponyme,Victor Hugo, NE, 2,N,0,0
-campus_z15,76,voie,D199, NO;N;NE, 1,N,N,N
-campus_z15,76,voie,VOIE PRIMAIRE NORD, NO;N;NE, 1,T,N,T 
-campus_z15,76,voie,A4, O;C;S;SE, 1,N,N,N
-campus_z15,76,voie,Autoroute de l'est, O;C;S;SE, 1,T,N,N
-campus_z15,76,voie,D370, NO;N;C, 1,T,N,N
-campus_z15,76,voie,D970, C, 1,T,N,N
-campus_z15,76,voie,D194, O, 1,T,N,T
-campus_z15,76,voie,D51, S;C;E;NE, 1,T,N,N
-campus_z15,76,voie,D406, S, 1,T,N,N
-campus_z15,76,voie,D903, SO;S, 1,T,N,N
-campus_z15,76,voie,Rue Fajol, NO, 2,N,N,N
-campus_z15,76,voie,Rue Rouget de l'Isle, NO, 2,N,N,N
-campus_z15,76,voie,Rue Chappe, O, 2,N,N,N
-campus_z15,76,voie,Rue de la Forêt, NO, 2,N,N,N
-campus_z15,76,voie,Rue du Ballon, SO, 2,N,N,N
-campus_z15,76,voie,Avenue Médéric, SO, 1,N,N,N
-campus_z15,76,voie,Rue des bois, SO, 2,N,N,N
-campus_z15,76,voie,Rue de la Liberté, SO, 2,N,N,N
-campus_z15,76,voie,Avenue des Yvris, SO, 2,N,N,N
-campus_z15,76,voie,Boulevard Newton, C, 2,N,N,N
-campus_z15,76,voie,Rue Galilée, C, 2,T,N,N
-campus_z15,76,voie,Avenue Forestière, E, 2,N,N,N
-campus_z15,76,voie,Avenue Emile Cossonneau, NO, 2,N,T,N
-campus_z15,76,voie,Rue de Stalingrad, NO, 2,N,T,N
-campus_z15,76,voie,Rue de la Croix Rouge, NO, 2,N,T,N
-campus_z15,76,voie,Rue de la Justice, NO, 2,N,T,N
-campus_z15,76,voie,Rue de la Croix Rouge, NO, 2,N,T,N
-campus_z15,76,voie,Rue Jules Ferry, NO;O, 2,N,T,N
-campus_z15,76,voie,Rue des Hauts Roseaux, NO, 2,N,T,N
-campus_z15,76,voie,Rue de Malnoue, NO;O, 2,N,T,N
-campus_z15,76,voie,Rue du Marnois, NO;O, 2,N,T,N
-campus_z15,76,voie,Rue de la Butte Verte, O, 2,N,T,N
-campus_z15,76,voie,Rue du Dr Ménard, O, 2,N,T,N
-campus_z15,76,voie,Rue du Dr Vaillant, O, 2,N,T,N
-campus_z15,76,voie,Rue Armand Gundhart, NO;O, 2,N,T,N
-campus_z15,76,voie,Rue de Berry, SO, 2,N,T,N
-campus_z15,76,voie,Rue de Lille, SO, 2,N,T,N
-campus_z15,76,voie,Avenue Gabriel Péri, SO, 2,N,T,N
-campus_z15,76,voie,Avenue de l'avenir, SO, 2,N,T,N
-campus_z15,76,voie,Avenue des Ecoles, SO, 2,N,T,N
-campus_z15,76,voie,Rue de la Chapelle , SO, 2,N,T,N
-campus_z15,76,voie,Boulevard des Astronautes, SO, 2,N,T,N
-campus_z15,76,voie,Rue de la Providence, SO, 2,N,T,N
-campus_z15,76,voie,Rue de la Station, SO, 2,N,T,N
-campus_z15,76,voie,Avenue des Graviers, S, 2,N,T,T
-campus_z15,76,voie,Boulvard du Rû de Nesle, S, 2,N,T,T
-campus_z15,76,voie,Avenue de l'Europe, S;SE, 2,N,T,N 
-campus_z15,76,voie,Rue Jean Monnet, S, 2,N,T,N 
-campus_z15,76,voie,Avenue Charles Bras, S, 2,N,T,N 
-campus_z15,76,voie,Boulevard du Clos de l'Aumône, S, 2,N,T,N 
-campus_z15,76,voie, Route de Malnoue, E;NE, 2,N,T,N 
-campus_z15,76,voie, Cours du Luzard, E;NE, 2,N,T,N 
-campus_z15,76,voie, Chemin du canal, NE, 2,N,T,N 
-campus_z15,76,voie, Avenue Victor Hugo, E;NE, 2,N,T,N 
-campus_z15,76,voie, Rue Parmentier, E;NE, 2,N,T,N 
-campus_z15,76,voie, Avenue du Général de Gaulle, N, 2,N,T,N 
-campus_z15,76,voie, Avenue André-Marie Ampère, N;C, 2,N,T,T 
-campus_z15,76,voie, Boulevard Copernic, N;C, 2,N,T,N 
-campus_z15,76,voie,Allée Eugène Pottier, NE, 2,T,T,N 
-campus_z15,76,voie,Rue Paul Bert, NE, 2,T,T,N 
-campus_z15,76,voie,Cours des Rochers, NE, 2,T,T,N 
-campus_z15,76,voie,Allée des Bois, NE;E;SE, 2,T,T,N 
-campus_z15,76,voie,Avenue Blaise Pascal, C;E, 2,T,T,N 
-campus_z15,76,voie,Boulevard Descartes, C, 2,T,T,N 
-campus_z15,76,voie,Rue Alfred Nobel, C, 2,T,T,N 
-campus_z15,76,voie,Rue Albert Einstein, C, 2,T,T,N 
-campus_z15,76,voie,Avenue Spinoza, S, 2,T,T,N 
-campus_z15,76,voie,Allée Valmy, S, 2,T,T,N 
-campus_z15,76,voie,Chemin des Princes, S, 2,T,T,N 
-campus_z15,76,voie,Rue Lilenthal, S, 2,T,T,N 
-campus_z15,76,voie,Chemin de l'Aubépine, S, 2,T,T,N 
-campus_z15,76,voie,Avenue Robert Schuman, S, 2,T,T,N 
-campus_z15,76,voie,Chemin des Chênes, SO, 2,T,T,N 
-campus_z15,76,voie,Rue Victor Hugo, SO, 2,T,T,N 
-campus_z15,76,voie,Rue de Mâcon, SO, 2,T,T,N 
-campus_z15,76,voie,Chemin latéral, SO, 2,T,T,N 
-campus_z15,76,voie,Avenue de beauséjour, SO, 2,T,T,N 
-campus_z15,76,voie,Rue de la Mongolfière, SO, 2,T,T,N 
-campus_z15,76,voie,Avenue de l'étoile, SO, 2,T,T,N 
-campus_z15,76,voie,Rue d'Arras, SO, 2,T,T,N 
-campus_z15,76,voie,Rue Jean Moulin, SO, 2,T,T,N 
-campus_z15,220,cadrage,campus universitaire,toutes,1,N,N,N
+campus_z15,56,eau,Plan d'Eau 1 de la commune d'Emerainville,S,2,T,N,T
+campus_z15,56,eau,etang,S,4,T,T,T
+campus_z15,56,eau,Ru du Merderau,S;C;E;NE,4,T,T,N 
+campus_z15,76,toponyme,SEINE-ET-MARNE, C;NO;N,1,N,0,N
+campus_z15,76,toponyme,NOISIEL, NE;SE,1,0,N,N
+campus_z15,76,toponyme,Cormiers, NO,3,0,0,N
+campus_z15,76,toponyme,Marnois, NO,3,0,0,N
+campus_z15,76,toponyme,Hauts Bâtons, NO,3,0,0,N
+campus_z15,76,toponyme,Champs-sur-Marne, N;SE;C,1,N,0,N
+campus_z15,76,toponyme,Bois de Grâce, N,1,0,0,N
+campus_z15,76,toponyme,Pont Copernic, NO,4,0,0,N
+campus_z15,76,toponyme,Les Deux Parcs, NE,2,0,0,N
+campus_z15,76,toponyme,Le Luzard, NE,2,0,0,N
+campus_z15,76,toponyme,Pablo Picasso, E,3,0,0,N
+campus_z15,76,toponyme,Bois de la Grange, E,1,0,0,N
+campus_z15,76,toponyme,Bois du Boulay, SE,3,0,0,N
+campus_z15,76,toponyme,MALNOUE, S;SE,2,0,0,N
+campus_z15,76,toponyme,Parc de Malnoue, S,3,0,0,N
+campus_z15,76,toponyme,Le Raincy, S,4,0,0,N
+campus_z15,76,toponyme,Seine-Saint-Denis, C,2,0,0,N
+campus_z15,76,toponyme,Les Bosquets des Richardets, SO,3,0,0,N
+campus_z15,76,toponyme,Butte Verte, O,3,0,0,N
+campus_z15,76,toponyme,Grenouillère, O,3,0,0,N
+campus_z15,76,toponyme,Champy, O,3,0,0,N
+campus_z15,76,toponyme,Cité Descartes, C,2,0,0,N
+campus_z15,76,toponyme,Torcy, C,4,0,0,N
+campus_z15,76,toponyme,champs, NE,2,N,0,0
+campus_z15,76,toponyme,Victor Hugo, NE,4,N,0,0
+campus_z15,76,voie,D199, NO;N;NE,1,N,N,N
+campus_z15,76,voie,VOIE PRIMAIRE NORD, NO;N;NE,1,T,N,T 
+campus_z15,76,voie,A4, O;C;S;SE,1,N,N,N
+campus_z15,76,voie,Autoroute de l'est, O;C;S;SE,1,T,N,N
+campus_z15,76,voie,D370, NO;N;C,3,T,N,N
+campus_z15,76,voie,D970, C,3,T,N,N
+campus_z15,76,voie,D194, O,3,T,N,T
+campus_z15,76,voie,D51, S;C;E;NE,3,T,N,N
+campus_z15,76,voie,D406, S,4,T,N,N
+campus_z15,76,voie,D903, SO;S,3,T,N,N
+campus_z15,76,voie,Rue Fajol, NO,5,N,N,N
+campus_z15,76,voie,Rue Rouget de l'Isle, NO,5,N,N,N
+campus_z15,76,voie,Rue Chappe, O,5,N,N,N
+campus_z15,76,voie,Rue de la Forêt, NO,5,N,N,N
+campus_z15,76,voie,Rue du Ballon, SO,5,N,N,N
+campus_z15,76,voie,Avenue Médéric, SO,3,N,N,N
+campus_z15,76,voie,Rue des bois, SO,5,N,N,N
+campus_z15,76,voie,Rue de la Liberté, SO,5,N,N,N
+campus_z15,76,voie,Avenue des Yvris, SO,5,N,N,N
+campus_z15,76,voie,Boulevard Newton, C,3,N,N,N
+campus_z15,76,voie,Rue Galilée, C,4,T,N,N
+campus_z15,76,voie,Avenue Forestière, E,3,N,N,N
+campus_z15,76,voie,Avenue Emile Cossonneau, NO,3,N,T,N
+campus_z15,76,voie,Rue de Stalingrad, NO,4,N,T,N
+campus_z15,76,voie,Rue de la Croix Rouge, NO,5,N,T,N
+campus_z15,76,voie,Rue de la Justice, NO,5,N,T,N
+campus_z15,76,voie,Rue de la Croix Rouge, NO,5,N,T,N
+campus_z15,76,voie,Rue Jules Ferry, NO;O,5,N,T,N
+campus_z15,76,voie,Rue des Hauts Roseaux, NO,5,N,T,N
+campus_z15,76,voie,Rue de Malnoue, NO;O,4,N,T,N
+campus_z15,76,voie,Rue du Marnois, NO;O,4,N,T,N
+campus_z15,76,voie,Rue de la Butte Verte, O,4,N,T,N
+campus_z15,76,voie,Rue du Dr Ménard, O,5,N,T,N
+campus_z15,76,voie,Rue du Dr Vaillant, O,4,N,T,N
+campus_z15,76,voie,Rue Armand Gundhart, NO;O,4,N,T,N
+campus_z15,76,voie,Rue de Berry, SO,5,N,T,N
+campus_z15,76,voie,Rue de Lille, SO,5,N,T,N
+campus_z15,76,voie,Avenue Gabriel Péri, SO,4,N,T,N
+campus_z15,76,voie,Avenue de l'avenir, SO,5,N,T,N
+campus_z15,76,voie,Avenue des Ecoles, SO,5,N,T,N
+campus_z15,76,voie,Rue de la Chapelle , SO,5,N,T,N
+campus_z15,76,voie,Boulevard des Astronautes, SO,4,N,T,N
+campus_z15,76,voie,Rue de la Providence, SO,5,N,T,N
+campus_z15,76,voie,Rue de la Station, SO,5,N,T,N
+campus_z15,76,voie,Avenue des Graviers, S,5,N,T,T
+campus_z15,76,voie,Boulvard du Rû de Nesle, S,3,N,T,T
+campus_z15,76,voie,Avenue de l'Europe, S;SE,4,N,T,N 
+campus_z15,76,voie,Rue Jean Monnet, S,5,N,T,N 
+campus_z15,76,voie,Avenue Charles Bras, S,5,N,T,N 
+campus_z15,76,voie,Boulevard du Clos de l'Aumône, S,5,N,T,N 
+campus_z15,76,voie, Route de Malnoue, E;NE,4,N,T,N 
+campus_z15,76,voie, Cours du Luzard, E;NE,5,N,T,N 
+campus_z15,76,voie, Chemin du canal, NE,5,N,T,N 
+campus_z15,76,voie, Avenue Victor Hugo, E;NE,5,N,T,N 
+campus_z15,76,voie, Rue Parmentier, E;NE,5,N,T,N 
+campus_z15,76,voie, Avenue du Général de Gaulle, N,4,N,T,N 
+campus_z15,76,voie, Avenue André-Marie Ampère, N;C,4,N,T,T 
+campus_z15,76,voie, Boulevard Copernic, N;C,5,N,T,N 
+campus_z15,76,voie,Allée Eugène Pottier, NE,5,T,T,N 
+campus_z15,76,voie,Rue Paul Bert, NE,5,T,T,N 
+campus_z15,76,voie,Cours des Rochers, NE,5,T,T,N 
+campus_z15,76,voie,Allée des Bois, NE;E;SE,5,T,T,N 
+campus_z15,76,voie,Avenue Blaise Pascal, C;E,4,T,T,N 
+campus_z15,76,voie,Boulevard Descartes, C,5,T,T,N 
+campus_z15,76,voie,Rue Alfred Nobel, C,5,T,T,N 
+campus_z15,76,voie,Rue Albert Einstein, C,5,T,T,N 
+campus_z15,76,voie,Avenue Spinoza, S,5,T,T,N 
+campus_z15,76,voie,Allée Valmy, S,5,T,T,N 
+campus_z15,76,voie,Chemin des Princes, S,5,T,T,N 
+campus_z15,76,voie,Rue Lilenthal, S,5,T,T,N 
+campus_z15,76,voie,Chemin de l'Aubépine, S,5,T,T,N 
+campus_z15,76,voie,Avenue Robert Schuman, S,5,T,T,N 
+campus_z15,76,voie,Chemin des Chênes, SO,5,T,T,N 
+campus_z15,76,voie,Rue Victor Hugo, SO,5,T,T,N 
+campus_z15,76,voie,Rue de Mâcon, SO,5,T,T,N 
+campus_z15,76,voie,Chemin latéral, SO,5,T,T,N 
+campus_z15,76,voie,Avenue de beauséjour, SO,5,T,T,N 
+campus_z15,76,voie,Rue de la Mongolfière, SO,5,T,T,N 
+campus_z15,76,voie,Avenue de l'étoile, SO,5,T,T,N 
+campus_z15,76,voie,Rue d'Arras, SO,5,T,T,N 
+campus_z15,76,voie,Rue Jean Moulin, SO,5,T,T,N 
+campus_z15,220,cadrage,campus universitaire,C,1,N,N,N
+campus_z15,76,cadrage,Bois ou forêt,N;C;E;SE, 1,N,N,N
+campus_z15,76,cadrage,Parc,O;C;S, 3,N,N,N
+campus_z15,76,cadrage,Batiments résidentiels,toutes, 2,N,N,N
 campus_z16,76,POI,Noisy-Champs, NO, 1,N,N,N
 campus_z16,76,POI,ESIEE, O, 2,0,N,N
 campus_z16,76,POI,Université Gustave Eiffel, C, 1,0,N,0
 campus_z16,76,toponyme,Université Gustave Eiffel, C, 1,N,0,N
 campus_z16,76,POI,Lycée René Descartes, N, 1,0,N,N
-campus_z16,76,POI,Ibis, C, 1,0,N,0
-campus_z16,76,POI,Parc de la butte verte, O, 1,0,N,0
-campus_z16,76,POI,Addictea Café, NO, 1,0,N,0 
-campus_z16,76,POI,Stade du Bois de l'Etang, E, 1,N,N,N
-campus_z16,76,POI,Super U et Drive, NO, 1,N,N,0
-campus_z16,76,POI,URSSAF, NO, 1,0,N,0
-campus_z16,76,POI,Gymnase du Champy, NO, 1,0,N,0
-campus_z16,76,POI,La pralinoise, NO, 1,0,N,0
-campus_z16,76,POI,Ecole élémentaire Gavroche, NO, 1,0,N,0
-campus_z16,76,POI,Les Lumières, O, 1,0,N,0
-campus_z16,76,POI,Brother's Station, O, 1,N,N,0
-campus_z16,76,POI,IUT Marne la Vallée, NO, 1,0,N,0
-campus_z16,76,POI,Stade de la Butte verte, SO, 1,0,N,N 
-campus_z16,76,POI,Hertz, SO, 1,0,N,0
+campus_z16,76,POI,Ibis, C,3,0,N,0
+campus_z16,76,POI,Parc de la butte verte, O,2,0,N,0
+campus_z16,76,POI,Addictea Café, NO,3,0,N,0 
+campus_z16,76,POI,Stade du Bois de l'Etang, E,2,N,N,N
+campus_z16,76,POI,Super U et Drive, NO,2,N,N,0
+campus_z16,76,POI,URSSAF, NO,3,0,N,0
+campus_z16,76,POI,Gymnase du Champy, NO,3,0,N,0
+campus_z16,76,POI,La pralinoise, NO,3,0,N,0
+campus_z16,76,POI,Ecole élémentaire Gavroche, NO,2,0,N,0
+campus_z16,76,POI,Les Lumières, O,3,0,N,0
+campus_z16,76,POI,Brother's Station, O,3,N,N,0
+campus_z16,76,POI,IUT Marne la Vallée, NO,2,0,N,0
+campus_z16,76,POI,Stade de la Butte verte, SO,3,0,N,N 
+campus_z16,76,POI,Hertz, SO,3,0,N,0
 campus_z16,76,POI,Centre aquatique Intercommunal, E, 1,N,N,0
-campus_z16,76,POI,Franprix, C, 1,0,N,0
-campus_z16,76,POI,Ecole nationale des ponts et chaussées(ENPC), C;N, 1,N,N,0
-campus_z16,76,POI,G LA DALLE-Champs-sur-Marne, NO, 1,N,0,0
-campus_z16,76,POI,Freinet, O, 1,N,0,0
-campus_z16,76,POI,Une pièce en plus Emerainville Paris, O, 1,N,0,N
-campus_z16,76,POI,IFOA Grand Paris-Ecole d'ostéopatie animale, S, 1,N,0,0
-campus_z16,76,POI,Les Fraises de Clara, NE, 1,N,0,0
-campus_z16,76,POI,Descartes SUP, N, 1,N,0,0
-campus_z16,76,POI,Pagny Associés-Expret-Comptable, C, 1,N,0,0
-campus_z16,76,POI,Gymnase René Descartes, N, 1,N,0,0
-campus_z16,76,POI,Le Parc, C, 1,N,0,0
-campus_z16,76,eau,Etang de la Haute Maison, E;SE, 1,T,N,N
-campus_z16,76,eau,Etang de Bailly, E;NE, 1,T,N,N
-campus_z16,76,eau,Ru du Merdereau, E;SE;NE, 1,N,T,N
-campus_z16,76,toponyme,Le champy, NO, 1,0,N,N
-campus_z16,76,toponyme,La Haute maison, NO, 1,0,N,0
-campus_z16,76,toponyme,Butte Verte, O, 1,0,0,N
-campus_z16,76,toponyme,Cité Descartes, C, 1,0,0,N
-campus_z16,76,toponyme,Torcy, O, 2,0,0,N
-campus_z16,76,toponyme,Seine-Saint-Denis, O, 2,0,0,N
-campus_z16,76,toponyme,Ligne de Fontenay-Sous-Bois à Marne-la-Vallée Chessy, N, 2,0,0,N
-campus_z16,76,toponyme,Bienvenüe,C, 2,0,0,N
-campus_z16,76,voie,A4, S;SE;SO, 1,N,N,N
-campus_z16,76,voie,Autoroute de l'est, S;SE;SO, 1,T,N,N
-campus_z16,76,voie,Boulevard Newton, NO;N, 1,N,N,N
-campus_z16,76,voie,Rue Gallilée, S;C, 1,N,N,N
-campus_z16,76,voie,Rue Alfred Nobel, C, 1,N,N,N
-campus_z16,76,voie,Route de Malnoue, NE;E;SE, 1,N,N,N
-campus_z16,76,voie,Rue de la butte Verte,NO, 1,N,T,N
-campus_z16,76,voie,Rue Nelson Mandela,NO, 1,N,T,N
-campus_z16,76,voie,Avenue André-Marie Ampere,NO, 1,N,T,T
-campus_z16,76,voie,Bd Blaide Pascal,O, 1,N,T,N
-campus_z16,76,voie,Bd des Astronautes,SO, 1,N,T,N
-campus_z16,76,voie,Av Blaise Pascal,C;E, 1,N,T,N
-campus_z16,76,voie,Rue des frères lumière,C, 1,N,T,N
-campus_z16,76,voie,Rue Albert Einstein,S, 1,N,T,N
-campus_z16,76,voie,Allée Kepler,NO, 1,N,T,N
-campus_z16,76,toponyme,Seine-et-Marne,S, 2,N,0,0
-campus_z16,76,voie,D51,E;SE, 1,N,T,N
-campus_z16,76,voie,Rue des Hauts Châteaux,NO, 1,T,T,N
-campus_z16,76,voie,Allée de la Noiseraie,O, 1,T,T,N
-campus_z16,76,toponyme,Square de la Noiserai,O, 1,0,0,N
-campus_z16,76,voie,Rue de la Butte au Cailles,O, 1,T,T,N
-campus_z16,76,voie,Rue du Ballon,SO, 1,T,T,N
-campus_z16,76,voie,Avebue de l'Europe,SE;S, 1,T,T,N
-campus_z16,76,voie,Allée Newton,S, 1,T,T,N
-campus_z16,76,voie,D51,O, 1,T,T,N
-campus_z16,76,voie,Allée des Marronniers,N;NE, 1,T,T,N
+campus_z16,76,POI,Franprix, C,3,0,N,0
+campus_z16,76,POI,Ecole nationale des ponts et chaussées(ENPC), C;N,2,N,N,0
+campus_z16,76,POI,G LA DALLE-Champs-sur-Marne, NO,3,N,0,0
+campus_z16,76,POI,Freinet, O,3,N,0,0
+campus_z16,76,POI,Une pièce en plus Emerainville Paris, O,3,N,0,N
+campus_z16,76,POI,IFOA Grand Paris-Ecole d'ostéopatie animale, S,3,N,0,0
+campus_z16,76,POI,Les Fraises de Clara, NE,4,N,0,0
+campus_z16,76,POI,Descartes SUP, N,4,N,0,0
+campus_z16,76,POI,Pagny Associés-Expret-Comptable, C,4,N,0,0
+campus_z16,76,POI,Gymnase René Descartes, N,3,N,0,0
+campus_z16,76,POI,Le Parc, C,4,N,0,0
+campus_z16,76,eau,Etang de la Haute Maison, E;SE,2,T,N,N
+campus_z16,76,eau,Etang de Bailly, E;NE,3,T,N,N
+campus_z16,76,eau,Ru du Merdereau, E;SE;NE,2,N,T,N
+campus_z16,76,toponyme,Le champy, NO,2,0,N,N
+campus_z16,76,toponyme,La Haute maison, NO,2,0,N,0
+campus_z16,76,toponyme,Butte Verte, O,2,0,0,N
+campus_z16,76,toponyme,Cité Descartes, C,1,0,0,N
+campus_z16,76,toponyme,Torcy, O,4,0,0,N
+campus_z16,76,toponyme,Seine-Saint-Denis, O,4,0,0,N
+campus_z16,76,toponyme,Ligne de Fontenay-Sous-Bois à Marne-la-Vallée Chessy, N,4,0,0,N
+campus_z16,76,toponyme,Bienvenüe,C,5,0,0,N
+campus_z16,76,voie,A4, S;SE;SO,1,N,N,N
+campus_z16,76,voie,Autoroute de l'est, S;SE;SO,2,T,N,N
+campus_z16,76,voie,Boulevard Newton, NO;N,3,N,N,N
+campus_z16,76,voie,Rue Gallilée, S;C,4,N,N,N
+campus_z16,76,voie,Rue Alfred Nobel, C,4,N,N,N
+campus_z16,76,voie,Route de Malnoue, NE;E;SE,2,N,N,N
+campus_z16,76,voie,Rue de la butte Verte,NO,3,N,T,N
+campus_z16,76,voie,Rue Nelson Mandela,NO,4,N,T,N
+campus_z16,76,voie,Avenue André-Marie Ampere,NO,3,N,T,T
+campus_z16,76,voie,Bd Blaide Pascal,O,2,N,T,N
+campus_z16,76,voie,Bd des Astronautes,SO,3,N,T,N
+campus_z16,76,voie,Av Blaise Pascal,C;E,2,N,T,N
+campus_z16,76,voie,Rue des frères lumière,C,3,N,T,N
+campus_z16,76,voie,Rue Albert Einstein,S,4,N,T,N
+campus_z16,76,voie,Allée Kepler,NO,5,N,T,N
+campus_z16,76,toponyme,Seine-et-Marne,S,2,N,0,0
+campus_z16,76,voie,D51,E;SE,2,N,T,N
+campus_z16,76,voie,Rue des Hauts Châteaux,NO,4,T,T,N
+campus_z16,76,voie,Allée de la Noiseraie,O,5,T,T,N
+campus_z16,76,toponyme,Square de la Noiserai,O,5,0,0,N
+campus_z16,76,voie,Rue de la Butte au Cailles,O,5,T,T,N
+campus_z16,76,voie,Rue du Ballon,SO,5,T,T,N
+campus_z16,76,voie,Avebue de l'Europe,SE;S,5,T,T,N
+campus_z16,76,voie,Allée Newton,S,5,T,T,N
+campus_z16,76,voie,Allée des Marronniers,N;NE,5,T,T,N
+campus_z16,76,voie,Echangeur,SO;S, 4,T,T,T
+campus_z16,76,cadrage,Ensemble de batiments universitaires,N;C;S, 1,N,N,N
+campus_z16,76,cadrage,Bois ou forêt,N;NE;E;SE, 1,N,N,N
+campus_z16,76,cadrage,Parc,O;SO, 3,N,N,N
+campus_z16,76,cadrage,Batiments résidentiels,NO;O;SO;NE;N, 2,N,N,N
 campus_z18,76,POI,Formation d'ingénieur IMAC, NO, 1,0,N,0
 campus_z18,76,POI,Université Gustave Eiffel, O, 1,N,N,N 
-campus_z18,76,POI,La Centrif', SO, 1,N,N,0
-campus_z18,76,POI,MSO Technologie, S, 1,0,N,0
-campus_z18,76,POI,Librairie Ecospère, S, 1,0,N,0
-campus_z18,76,POI,Locavan, SE, 1,N,N,0
-campus_z18,76,POI,FCBA Institute Technologique, SE, 1,0,N,N
-campus_z18,76,POI,Batiment Lavoisier, SE, 1,N,N,N
-campus_z18,76,POI,Bibliothèque Georges Perec, NE, 1,N,N,N
-campus_z18,76,POI,UXCO, NE, 1,0,N,0
-campus_z18,76,POI,ISGMI, NE, 1,0,N,0
-campus_z18,76,POI,ESIPE - Ecole Supérieure d'ingénieurs Paris-Est, NO, 1,N,0,0
-campus_z18,76,POI,Parcelle Y, NO;N, 1,N,0,N
-campus_z18,76,POI,Le Kartel, O, 1,N,0,0
-campus_z18,76,POI,Aménagement 77, SO, 1,N,0,0
-campus_z18,76,POI,UGAP - Nobel, S, 1,N,0,0
-campus_z18,76,POI,Pagny Associés-Expret-Comptable, S, 1,N,0,0
-campus_z18,76,POI,Interis, SE, 1,N,0,0
-campus_z18,76,POI,Aire de street workout, E, 1,N,0,0
-campus_z18,76,POI,FUZZ FESTIVAL, NE, 1,N,0,0
-campus_z18,76,POI,RECC, N, 1,N,0,N
-campus_z18,76,POI,Les Compagnons du Devoir, N, 1,N,0,N
-campus_z18,76,toponyme,Institut Français d'urbanisme,SO, 1,N,0,0
-campus_z18,76,toponyme,Batiment Nobel,S, 1,N,0,N 
-campus_z18,76,toponyme,Batiment Frnçois Rabelais,E, 1,N,0,N 
-campus_z18,76,toponyme,Maison de l'étudiant,E;C, 1,N,0,0
-campus_z18,76,toponyme,Clément Ader,E, 1,0,0,N 
-campus_z18,76,toponyme,Frères Lumière - I.F.U,S;SO, 1,0,0,N 
-campus_z18,76,toponyme,Restaurant universitaire l'Arleuin,O, 1,0,0,N 
-campus_z18,76,toponyme,Parking Batiment Copernic,O;C, 1,0,0,N 
-campus_z18,76,toponyme,Résidence Internationale UPME,E, 1,0,0,N 
-
-
+campus_z18,76,POI,La Centrif', SO,4,N,N,0
+campus_z18,76,POI,MSO Technologie, S,4,0,N,0
+campus_z18,76,POI,Librairie Ecospère, S,4,0,N,0
+campus_z18,76,POI,Locavan, SE,3,N,N,0
+campus_z18,76,POI,FCBA Institute Technologique, SE,3,0,N,N
+campus_z18,76,POI,Batiment Lavoisier, SE,2,N,N,N
+campus_z18,76,POI,Bibliothèque Georges Perec, NE,1,N,N,N
+campus_z18,76,POI,UXCO, NE,4,0,N,0
+campus_z18,76,POI,ISGMI, NE,4,0,N,0
+campus_z18,76,POI,ESIPE - Ecole Supérieure d'ingénieurs Paris-Est, NO,4,N,0,0
+campus_z18,76,POI,Parcelle Y, NO;N,2,N,0,N
+campus_z18,76,POI,Le Kartel, O,4,N,0,0
+campus_z18,76,POI,Aménagement 77, SO,4,N,0,0
+campus_z18,76,POI,UGAP - Nobel, S,4,N,0,0
+campus_z18,76,POI,Pagny Associés-Expret-Comptable, S,4,N,0,0
+campus_z18,76,POI,Interis, SE,4,N,0,0
+campus_z18,76,POI,Aire de street workout, E,4,N,0,0
+campus_z18,76,POI,FUZZ FESTIVAL, NE,4,N,0,0
+campus_z18,76,POI,RECC, N,3,N,0,N
+campus_z18,76,POI,Les Compagnons du Devoir, N,3,N,0,N
+campus_z18,76,toponyme,Institut Français d'urbanisme,SO,4,N,0,0
+campus_z18,76,toponyme,Batiment Nobel,S,3,N,0,N 
+campus_z18,76,toponyme,Batiment Frnçois Rabelais,E,3,N,0,N 
+campus_z18,76,toponyme,Maison de l'étudiant,E;C,3,N,0,N
+campus_z18,76,toponyme,Clément Ader,E,4,0,0,N 
+campus_z18,76,toponyme,Frères Lumière - I.F.U,S;SO,5,0,0,N 
+campus_z18,76,toponyme,Restaurant universitaire l'Arleuin,O,4,0,0,N 
+campus_z18,76,toponyme,Parking Batiment Copernic,O;C,3,0,0,N 
+campus_z18,76,toponyme,Résidence Internationale UPME,E,4,0,0,N 
+campus_z18,76,voie,Boulevard Descartes,NO;N;C;E,2,N,N,N
+campus_z18,76,voie,Rue des Frères Lumière,N;C;S,2,N,N,N
+campus_z18,76,voie,Rue Alfred Nobel,SO;S;SE,3,N,N,N
+campus_z18,76,cadrage,Ensemble de batiments universitaires,toutes, 1,N,N,N
+campus_z18,76,cadrage,Grand espace vert,NO;N, 2,N,N,N
+campus_z18,76,cadrage,Ensemble de petites rues,toutes, 2,N,N,N
+campus_z18,76,cadrage,Places de parking pour vélos,toutes, 5,0,0,N
