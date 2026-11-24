@@ -15,7 +15,8 @@ Pour chaque section (scène, zoom, service), on ne retient que les lignes de VT 
 même scène (même zoom) et on lit la colonne de visibilité du service concerné.
 
 1. Rappel pondéré : part des éléments visibles (N ou T) retrouvés dans la description,
-   pondérée par l'importance (1 -> poids 1, 2 -> poids 0.5).
+   pondérée par l'importance (1 = essentiel ... 5 = détail ;
+   poids 1 -> 1.0, 2 -> 0.8, 3 -> 0.6, 4 -> 0.4, 5 -> 0.2).
    - éléments nommés  : appariement du nom (tokens spaCy, normalisation, tolérance aux fautes) ;
    - éléments anonymes ou seulement tracés (T) : mention générique (rivière, route, étang…)
      dans la bonne zone ;
@@ -52,7 +53,9 @@ import spacy
 # --------------------------------------------------------------------------- #
 
 SERVICES = ("google", "apple", "osm")
-POIDS_IMPORTANCE = {1: 1.0, 2: 0.5}
+IMPORTANCE_MIN, IMPORTANCE_MAX = 1, 5     # 1 = essentiel, 5 = détail
+POIDS_IMPORTANCE = {1: 1, 2: 0.5, 3: 0.25, 4: 0.12, 5: 0.06}
+IMPORTANCE_DEFAUT = 3
 POIDS_NOTE = {"rappel": 0.5, "precision": 0.3, "localisation": 0.2}
 SEUIL_NOM = 0.70          # similarité minimale pour apparier un nom
 SEUIL_TOKEN = 0.85        # similarité minimale entre deux tokens (fautes de frappe)
@@ -330,7 +333,7 @@ class ElementVT:
 
     @property
     def poids(self) -> float:
-        return POIDS_IMPORTANCE.get(self.importance, 0.5)
+        return POIDS_IMPORTANCE[self.importance]
 
 
 def lire_vt(chemin: Path) -> list[ElementVT]:
@@ -345,9 +348,14 @@ def lire_vt(chemin: Path) -> list[ElementVT]:
                 continue
             vus.add(cle)
             try:
-                importance = int(ligne.get("importance") or 2)
+                importance = int(ligne.get("importance") or IMPORTANCE_DEFAUT)
             except ValueError:
-                importance = 2
+                importance = IMPORTANCE_DEFAUT
+            if not IMPORTANCE_MIN <= importance <= IMPORTANCE_MAX:
+                print(f"[!] VT : importance {importance} hors [{IMPORTANCE_MIN}-{IMPORTANCE_MAX}] "
+                      f"pour « {ligne['nom']} » ({ligne['scene']}), ramenée à {IMPORTANCE_DEFAUT}",
+                      file=sys.stderr)
+                importance = IMPORTANCE_DEFAUT
             elements.append(ElementVT(
                 scene=ligne["scene"].lower(),
                 categorie=ligne["categorie"].lower(),
