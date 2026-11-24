@@ -19,7 +19,9 @@ def main():
 
     # Si le chemin n'est pas fourni en ligne de commande, demander interactivement
     if not args.image:
-        args.image = input("Veuillez saisir le chemin complet vers l'image de la carte : ").strip()
+        args.image = input("Veuillez saisir le chemin complet vers l'image de la carte : ").strip().strip('"').strip("'")
+    else:
+        args.image = args.image.strip('"').strip("'")
 
     if not os.path.exists(args.image):
         print(f"[ERREUR] Fichier introuvable : {args.image}")
