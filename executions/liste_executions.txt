@@ -1,0 +1,10 @@
+Exec_20261124225954 | 2026-11-24 22:59:54 | maps/google_maps/Map1_GoogleMaps.png
+Exec_20261124232644 | 2026-11-24 23:27:24 | Map2GoogleMaps | Note: 9.5/10 | Tours: 1
+Exec_20261124233216 | 2026-11-24 23:32:41 | Map3GoogleMaps | Note: 9.5/10 | Tours: 1
+Exec_20261125001109 | 2026-11-25 00:11:35 | Map4GoogleMaps | Note: 8.5/10 | Tours: 2
+Exec_20261125001150 | 2026-11-25 00:13:05 | Map5GoogleMaps | Note: 9.5/10 | Tours: 1
+Exec_20261125001407 | 2026-11-25 00:14:42 | Map1Osm | Note: 8.5/10 | Tours: 2
+Exec_20261125001443 | 2026-11-25 00:15:04 | Map2Osm | Note: 9.5/10 | Tours: 1
+Exec_20261125001504 | 2026-11-25 00:15:37 | Map1AppleMaps | Note: 9.5/10 | Tours: 1
+Exec_20261125001537 | 2026-11-25 00:16:21 | Map2AppleMaps | Note: 8.5/10 | Tours: 2
+Exec_20261125005300 | 2026-11-25 00:53:51 | Map1GoogleMaps | Note: 8.5/10 | Tours: 2

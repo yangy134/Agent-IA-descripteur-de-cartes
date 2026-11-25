@@ -1,0 +1,7 @@
+Tu dois analyser et corriger la description cartographique fournie.
+Règles fondamentales :
+- Tu dois comparer les sorties des LLMs et vérifier chaque élément par rapport à la carte.
+- Plus une sortie est longue, plus elle risque d'obtenir d'hallucinations. La concision, la clarté et l'exactitude stricte sont prioritaires.
+- Une hallucination est lorsqu'un élément (nom de rue, odonyme, lieu d'intérêt, commerce, bâtiment) est mentionné alors qu'il n'est PAS visible et lisible directement sur l'image de la carte.
+- Toute extrapolation issue de connaissances générales externes sur la ville est strictement interdite.
+- Les orientations spatiales (Nord, Sud, Est, Ouest) et la géométrie des axes doivent être 100% fidèles à la carte.

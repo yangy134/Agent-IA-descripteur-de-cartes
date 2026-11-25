@@ -39,11 +39,15 @@ class CollaborativeMapPipeline:
             raise ValueError("OPENROUTER_API_KEY introuvable dans .env")
 
     def _encode_image(self, image_path: str) -> str:
-        ext = os.path.splitext(image_path)[1].lower().replace(".", "")
-        mime = "image/jpeg" if ext in ["jpg", "jpeg"] else "image/png"
-        with open(image_path, "rb") as f:
-            b64 = base64.b64encode(f.read()).decode("utf-8")
-        return f"data:{mime};base64,{b64}"
+        from PIL import Image
+        import io
+        img = Image.open(image_path)
+        if max(img.size) > 1600:
+            img.thumbnail((1600, 1600), Image.Resampling.LANCZOS)
+        buf = io.BytesIO()
+        img.convert("RGB").save(buf, format="JPEG", quality=85)
+        b64 = base64.b64encode(buf.getvalue()).decode("utf-8")
+        return f"data:image/jpeg;base64,{b64}"
 
     def _call_vlm(self, model: str, prompt: str, image_url: str, max_tokens: int = 800, retries: int = 6) -> str:
         import time
@@ -71,14 +75,13 @@ class CollaborativeMapPipeline:
         last_error = None
         for attempt in range(1, retries + 1):
             try:
-                time.sleep(2)
                 response = requests.post(OPENROUTER_URL, headers=headers, json=payload, timeout=90)
                 if response.status_code == 200:
                     data = response.json()
                     return data["choices"][0]["message"]["content"].strip()
-                elif response.status_code in [429, 502, 503, 504]:
-                    wait_time = 12
-                    print(f"  [Tentative {attempt}/{retries}] Statut {response.status_code} (Rate Limit), pause de {wait_time}s...")
+                elif response.status_code in [402, 429, 502, 503, 504]:
+                    wait_time = 25 * attempt if response.status_code == 402 else 15
+                    print(f"  [Tentative {attempt}/{retries}] Débit OpenRouter ({response.status_code}), pause de {wait_time}s...")
                     time.sleep(wait_time)
                     continue
                 else:

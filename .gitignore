@@ -25,3 +25,7 @@ run_ablation_study.py
 run_campus_test.py
 verify_audit.py
 test_pipeline_speed.py
+
+# Dossiers d'executions generees localement (tests)
+executions/Exec_2025*/
+executions/Exec_2026*/
