@@ -30,6 +30,7 @@ def crea_doss_exec():
     with open(chemin_metadonnees, "w") as f: 
         f.writelines("test")
         
+    return chemin_dossier
 
 
 
